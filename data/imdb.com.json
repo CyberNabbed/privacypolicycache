@@ -1,0 +1,62 @@
+{
+  "url": "https://www.imdb.com/privacy/",
+  "scanned_at": "2026-02-06T21:24:46.530Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data With Amazon",
+      "quote": "We share user information with our parent corporation (Amazon.com, Inc.), the subsidiaries it controls that follow practices at least as protective as those described in this Privacy Notice, and as described below."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Collects Extensive Personal Data",
+      "quote": "As a result of those actions, you might supply us with such information as: identifying information such as your name, e-mail address, physical address, and phone number; payment information; your age; your gender; your location information; your IP address; your acting experience and unique acting skills; your educational background and professional training; your physical attributes; [...] images and videos uploaded to IMDb Services; and information and documents regarding identity (for example, driver's license numbers)."
+    },
+    {
+      "category": "Third-Party Tracking",
+      "risk": "High",
+      "icon": "🍪",
+      "headline": "Third Parties Track Your Activity",
+      "quote": "Approved third parties may also set cookies when you interact with IMDb Services. Third parties include providers of measurement and analytics services, social media networks, ad networks, ad serving companies, and advertising companies."
+    },
+    {
+      "category": "Targeted Advertising",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Serves You Targeted Ads",
+      "quote": "We use your personal information to display interest-based ads for features, products, and services that might be of interest to you."
+    },
+    {
+      "category": "Corporate Affiliation",
+      "risk": "High",
+      "icon": "🌳",
+      "headline": "Part of Amazon's Data Ecosystem",
+      "quote": "We share user information with our parent corporation (Amazon.com, Inc.), the subsidiaries it controls that follow practices at least as protective as those described in this Privacy Notice, and as described below."
+    },
+    {
+      "category": "Data Rights Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Limited Data Deletion Rights",
+      "quote": "Please be advised that IMDb is legally required or entitled to retain some information, such as your content contribution history."
+    },
+    {
+      "category": "User Choice Limitation",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Must Accept Cookies for Services",
+      "quote": "For instance, if you block or otherwise reject our cookies, you will not be able to contribute content, review films, add items to your Watchlist, or use any IMDb Services that require you to sign in."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We keep your personal information to enable your continued use of IMDb Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you."
+    }
+  ]
+}
