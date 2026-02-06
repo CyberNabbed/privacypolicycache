@@ -1,0 +1,69 @@
+{
+  "url": "https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy",
+  "scanned_at": "2026-02-06T20:44:32.819Z",
+  "analysis": [
+    {
+      "category": "Data Selling",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Shares Your Data for Ads",
+      "quote": "To that end, where permitted by applicable law, we may share with others the information we collect from and about you as stated in this policy under Information We Collect."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Collects Extensive User Data",
+      "quote": "When you visit or use our online services, we may collect personal information from or about you including your name, email address, mailing address, telephone number(s), account numbers, limited location information, user name and password."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks Your Web Activities",
+      "quote": "Online behavioral advertising (also known as “OBA” or “interest-based advertising”) refers to the practice of collecting information from a computer or device regarding a visitor’s web-browsing activities across non-affiliated websites over time..."
+    },
+    {
+      "category": "Data Profiling",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Combines All Your Data",
+      "quote": "We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy."
+    },
+    {
+      "category": "Location Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device... information about your location, and analytical information about how you use your mobile device."
+    },
+    {
+      "category": "Third-Party Data",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Augments Your Data Externally",
+      "quote": "We may also collect information about you from additional online and offline sources including from co-branded partner sites or commercially available third-party sources, such as credit reporting agencies."
+    },
+    {
+      "category": "Policy Complexity",
+      "risk": "Medium",
+      "icon": "📄",
+      "headline": "Must Read Other Policies",
+      "quote": "If you are a U.S. consumer and have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our U.S. Consumer Privacy Notice..."
+    },
+    {
+      "category": "User Rights / Control",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Few Opt-Outs Explicitly Listed",
+      "quote": "If you do not want your information collected and used by the companies we work with for OBA purposes, you can opt out of this form of OBA by following the instructions in the next section."
+    },
+    {
+      "category": "Data Security",
+      "risk": "Medium",
+      "icon": "⚠️",
+      "headline": "Don't Send Sensitive Data Unsecurely",
+      "quote": "We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your tax identification number) to us."
+    }
+  ]
+}
