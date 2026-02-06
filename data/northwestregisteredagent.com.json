@@ -1,0 +1,69 @@
+{
+  "url": "https://www.northwestregisteredagent.com/privacy-policy",
+  "scanned_at": "2026-02-06T22:53:41.248Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "Except as disclosed in this Privacy Policy, we do not disclose personal information to any companies not part of Northwest Registered Agent, its parent, subsidiaries, affiliates, business partners, or related entities."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🔒",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Sensitive PI: SSN, financial account logins, precise geo-location (if used for services), communications content (if used with or for services)."
+    },
+    {
+      "category": "Communication Interception",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Records Your Calls & Emails",
+      "quote": "If you call us or exchange emails with our customer service representatives, we may record the phone call or retain the email string to help improve our training and services."
+    },
+    {
+      "category": "Public Disclosure Risk",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Your Data Becomes Public",
+      "quote": "Certain Personal Information may become public record when documents are filed with the federal or state government, or with a court."
+    },
+    {
+      "category": "Third-Party Ad Tracking",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Meta Tracks Your Browsing",
+      "quote": "Our website uses Meta Pixel for analytics and advertising purposes."
+    },
+    {
+      "category": "External Partner Tracking",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Partners Track Your Activities",
+      "quote": "The use of tracing technologies by our service providers, technology providers or other third parties is not covered by our Privacy Policy."
+    },
+    {
+      "category": "Indefinite Data Retention",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "After any such service is concluded, any such information collected will be retained for the maximum amount allowed by law and/or subject to exemptions under applicable privacy acts."
+    },
+    {
+      "category": "Minor Data Collection",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧",
+      "headline": "Requires Parental Consent 13-17",
+      "quote": "For individuals 13-17, we require parental consent to provide any of our Services."
+    },
+    {
+      "category": "Burdensome Rights Exercise",
+      "risk": "Medium",
+      "icon": "🧐",
+      "headline": "Identity Verification for Rights",
+      "quote": "Where this is not possible, we may request that you submit additional documentation for verification."
+    }
+  ]
+}
