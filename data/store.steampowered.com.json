@@ -1,0 +1,69 @@
+{
+  "url": "https://store.steampowered.com/privacy_agreement/",
+  "scanned_at": "2026-02-06T20:15:34.361Z",
+  "analysis": [
+    {
+      "category": "Data Selling",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "We Don't Sell Your Data",
+      "quote": "Valve does not sell Personal Data."
+    },
+    {
+      "category": "Undisclosed Anti-Cheat Data",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Undisclosed Anti-Cheat Data Collected",
+      "quote": "Please note that the specific data stored for this purpose may not be disclosed to you if the disclosure will compromise the mechanism through which we detect, investigate and prevent such Violations."
+    },
+    {
+      "category": "Public Profile Data via API",
+      "risk": "High",
+      "icon": "📡",
+      "headline": "Your Public Profile Data Exposed",
+      "quote": "While we do not knowingly share Personally Identifying Information about you through the Steamworks API such as your real name or your email address, any information you share about yourself on your public Steam Profile can be accessed through the Steamworks API, including information that may make you identifiable."
+    },
+    {
+      "category": "Anonymous Data Sharing",
+      "risk": "Medium",
+      "icon": "📊",
+      "headline": "Shares Your Anonymous Data",
+      "quote": "Valve may share anonymous data, aggregated or not, with third parties."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks You Across Our Sites",
+      "quote": "Likewise, we will track your process across our websites and applications to verify that you are not a bot and to optimize our services."
+    },
+    {
+      "category": "Community Data Risk",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Your Posts Are Public Risk",
+      "quote": "When posting a message to a board, forum or chat area, please be aware that the information is being made publicly available online; therefore, you are doing so at your own risk."
+    },
+    {
+      "category": "Third-Party Data Sharing",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Links Your Account To Third-Parties",
+      "quote": "If the linking of the accounts requires the transmission of information about your person from Valve to a third party, you will be informed about it before the linking takes place and you will be given the opportunity to consent to the linking and the transmission of your information."
+    },
+    {
+      "category": "Long-Term Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Retains Your Data Up To 10 Years",
+      "quote": "Please note that Valve is required to retain certain transactional data under statutory commercial and tax law for a period of up to ten (10) years."
+    },
+    {
+      "category": "Account Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🛑",
+      "headline": "Your Deletion Limited If Business",
+      "quote": "Namely, if your account has a business relationship with Valve, such as due to your work for a game developer, you will only be able to delete your Steam User Account after you have transferred this role to another user or have dissolved the business relationship."
+    }
+  ]
+}
