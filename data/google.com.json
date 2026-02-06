@@ -1,0 +1,41 @@
+{
+  "url": "https://www.google.com/search?client=firefox-b-1-d&q=extension+privacy+policy+summarizer",
+  "scanned_at": "2026-02-06T22:52:58.853Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Identified Data",
+      "quote": "Nabeel Ahmedguineapigwwe@gmail.com"
+    },
+    {
+      "category": "Data Retention / Deletion Issues",
+      "risk": "High",
+      "icon": "🗑️",
+      "headline": "Your History Not Deleted",
+      "quote": "Something went wrong. Your history wasn't deleted."
+    },
+    {
+      "category": "AI Data Processing",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "AI Processes Your Queries",
+      "quote": "An AI Overview is not available for this searchCan't generate an AI overview right now. Try again later.Thinking"
+    },
+    {
+      "category": "Direct User Identification",
+      "risk": "High",
+      "icon": "📧",
+      "headline": "Your Email Directly Shown",
+      "quote": "Nabeel Ahmedguineapigwwe@gmail.com"
+    },
+    {
+      "category": "Third-Party Links & Tracking",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Links to External Sites",
+      "quote": "Chrome Web Storehttps://chromewebstore.google.com › detail › ipjdadlcg..."
+    }
+  ]
+}
