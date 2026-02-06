@@ -1,0 +1,76 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "scanned_at": "2026-02-06T21:25:36.399Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Partners Collect Your Ad Data",
+      "quote": "We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies."
+    },
+    {
+      "category": "Cross-Service & Device Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks Your Activity Across Sites",
+      "quote": "Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🏥",
+      "headline": "Collects Your Sensitive Health Data",
+      "quote": "Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels) and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features."
+    },
+    {
+      "category": "Government/Legal Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Discloses Your Info to Governments",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation,legal process or enforceable governmental request."
+    },
+    {
+      "category": "Third-Party Account Control",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Admins Control Your Account",
+      "quote": "If you’re a student, or work for an organisation that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account."
+    },
+    {
+      "category": "Voice & Audio Analysis",
+      "risk": "High",
+      "icon": "🎤",
+      "headline": "Analyzes Your Voice & Audio",
+      "quote": "We also use service providers to help review YouTube video content for public safety, and analyse and listen to samples of saved user audio to help improve Google’s audio recognition technologies."
+    },
+    {
+      "category": "Precise Location Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Location",
+      "quote": "Depending on these settings, this may include precise location data, for example, GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Automated Content Analysis",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Automated Systems Analyze Your Content",
+      "quote": "We use automated systems that analyse your content to provide you with things like customized search results, personalised ads or other features tailored to how you use our services."
+    },
+    {
+      "category": "AI Model Training",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Trains AI on Public Data",
+      "quote": "For example, we use publicly available information to help train Google's AI models and build products and features like Google Translate, Gemini Apps and Cloud AI capabilities."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    }
+  ]
+}
