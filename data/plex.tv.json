@@ -1,0 +1,76 @@
+{
+  "url": "https://www.plex.tv/about/privacy-legal/",
+  "scanned_at": "2026-02-06T22:55:10.237Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares and Sells Your Data",
+      "quote": "Certain disclosures of Personal Data that we make to third parties may constitute the “sale” of your personal information, “sharing” of your personal information (including for “cross-context behavioral advertising” purposes), or “processing” of your Personal Data for purposes of “targeted advertising” under applicable laws."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔎",
+      "headline": "Collects Your Extensive Data",
+      "quote": "Plex collects specific information about your activity on our Services and that information is linked to you."
+    },
+    {
+      "category": "Third-Party Liability",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "Any information collection by these third-party technologies is governed by the privacy practices of those third-party technologies."
+    },
+    {
+      "category": "Demographics Sharing",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Shares Your Demographics",
+      "quote": "The chart regarding US state laws is updated to reflect the sale of certain Personal Data to third parties."
+    },
+    {
+      "category": "Inferred Data Sharing",
+      "risk": "High",
+      "icon": "🤔",
+      "headline": "Infers, Sells Your Preferences",
+      "quote": "The chart regarding US state laws is updated to reflect the sale of certain Personal Data to third parties."
+    },
+    {
+      "category": "AI Training",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Activity",
+      "quote": "Plex may also disassociate this activity information from your Personal Data to train machine learning or artificial learning models for purposes discussed in “Why does Plex need Personal Data?”."
+    },
+    {
+      "category": "Server Data Collection",
+      "risk": "Medium",
+      "icon": "🖥️",
+      "headline": "Your Server Info Shared",
+      "quote": "Push notifications. In your Plex Media Server Settings, click “General” and uncheck the box next to: “Push Notifications” to disable notifications to your devices which could contain information about the contents of your personal library."
+    },
+    {
+      "category": "Public Account Risks",
+      "risk": "Medium",
+      "icon": "📣",
+      "headline": "Your Public Account Shared",
+      "quote": "If you have set your account to public settings, then your watch history, reviews, or other data from the Services that you share publicly may be shared with both the public and third parties for marketing purposes."
+    },
+    {
+      "category": "Third-Party Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Third-Party Cookies Track You",
+      "quote": "We specifically use Google and Facebook analytics to derive insights about who is doing what on our site and to help us improve your experience."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Your Data Post-Deletion",
+      "quote": "We may retain some usage statistics (including IP addresses which only provide a coarse location to the city level) in order to improve Plex’s services but this data is no longer linked to the Personal Data."
+    }
+  ]
+}
