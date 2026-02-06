@@ -1,29 +1,26 @@
-# privacypolicycache
-Privacy Policy Cache (Data Store)
+# Privacy Policy Cache (Data Store)
 
-  This repository holds the static JSON data for the Privacy Inspector extension.
+This repository holds the static JSON data for the **Privacy Inspector** extension.
 
-  Why this exists
-  Querying the LLM API every single time a user visits google.com or facebook.com is a
-  waste of time and tokens. This repo acts as a public, read-only cache.
+## Why this exists
 
-  How it works
-   1. Read: The extension checks data/[domain].json before calling the AI.
-   2. Write: If the file doesn't exist, the extension scans the page and uploads the
-      result here automatically.
+Querying the LLM API every single time a user visits high-traffic sites (e.g., `google.com` or `facebook.com`) is a waste of time and tokens.
 
-  Structure
-  Files are stored by domain name in the /data folder.
+This repo acts as a **public, read-only cache** to optimize performance and reduce costs.
 
-   1 // Example: data/example.com.json
-   
-   2 {
-   
-   3   "url": "https://example.com/privacy",
-   
-   4   "scanned_at": "2026-02-06T15:00:00Z",
-   
-   5   "analysis": [ ... ]
-   
-   6 }
+## How it works
 
+* ** Read:** The extension checks `data/[domain].json` before calling the AI.
+* ** Write:** If the file doesn't exist, the extension scans the page and uploads the result here automatically.
+
+## Structure
+
+Files are stored by domain name in the `/data` directory.
+
+```json
+// Example: data/example.com.json
+{
+  "url": "[https://example.com/privacy](https://example.com/privacy)",
+  "scanned_at": "2026-02-06T15:00:00Z",
+  "analysis": [ ... ]
+}
