@@ -1,0 +1,48 @@
+{
+  "url": "https://github.com/CyberNabbed/privacypolicycache/tree/main",
+  "scanned_at": "2026-02-06T20:15:39.377Z",
+  "analysis": [
+    {
+      "category": "Data Selling",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Data Fate Unknown",
+      "quote": "Include my email address so I can be contacted"
+    },
+    {
+      "category": "AI Content Processing",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "AI Processes Your Content",
+      "quote": "Chat with Copilot"
+    },
+    {
+      "category": "Personal Data Collection",
+      "risk": "Medium",
+      "icon": "📧",
+      "headline": "Collects Your Email",
+      "quote": "Include my email address so I can be contacted"
+    },
+    {
+      "category": "Activity Tracking",
+      "risk": "Medium",
+      "icon": "🔎",
+      "headline": "Tracks Your Search History",
+      "quote": "Use saved searches to filter your results more quickly"
+    },
+    {
+      "category": "Feedback Data Processing",
+      "risk": "Medium",
+      "icon": "💬",
+      "headline": "Processes Your Feedback",
+      "quote": "We read every piece of feedback, and take your input very seriously."
+    },
+    {
+      "category": "Session Tracking",
+      "risk": "Low",
+      "icon": "🌐",
+      "headline": "Tracks Your Session",
+      "quote": "You signed in with another tab or window."
+    }
+  ]
+}
