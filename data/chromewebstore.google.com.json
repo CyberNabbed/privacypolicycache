@@ -1,0 +1,41 @@
+{
+  "url": "https://chromewebstore.google.com/detail/polirizer-privacy-policy/ipjdadlcgbeagplnhigaclkgloadphkg",
+  "scanned_at": "2026-02-06T22:53:04.994Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with AI",
+      "quote": "Polirizer utilizes cutting-edge AI models, including GPT-4o-mini and Claude, to analyze and summarize privacy policies."
+    },
+    {
+      "category": "AI Data Usage",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Content May Train AI",
+      "quote": "Polirizer utilizes cutting-edge AI models, including GPT-4o-mini and Claude, to analyze and summarize privacy policies."
+    },
+    {
+      "category": "Invasive Tracking",
+      "risk": "High",
+      "icon": "👣",
+      "headline": "Uses Your Browser Fingerprint",
+      "quote": "The extension uses privacy-preserving fingerprinting technology to maintain user sessions and provide a seamless experience while protecting user privacy."
+    },
+    {
+      "category": "Broad Data Collection",
+      "risk": "Medium",
+      "icon": "📥",
+      "headline": "Collects Your Activity & Content",
+      "quote": "Polirizer - Privacy Policy Summarizer handles the following: User activity, Website content"
+    },
+    {
+      "category": "User API Responsibility",
+      "risk": "Medium",
+      "icon": "🔑",
+      "headline": "You Manage AI API Keys",
+      "quote": "Users can easily manage their API keys and settings through a dedicated modal interface."
+    }
+  ]
+}
