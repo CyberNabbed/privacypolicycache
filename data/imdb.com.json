@@ -1,0 +1,69 @@
+{
+  "url": "https://www.imdb.com/privacy/",
+  "scanned_at": "2026-02-06T20:46:06.004Z",
+  "analysis": [
+    {
+      "category": "Data Selling",
+      "risk": "Low",
+      "icon": "🤝",
+      "headline": "Not Selling Your Data",
+      "quote": "Information about our users is an important part of our business, and we are not in the business of selling our users' personal information to others."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Collects Extensive Personal Data",
+      "quote": "As a result of those actions, you might supply us with such information as: identifying information such as your name, e-mail address, physical address, and phone number; payment information; your age; your gender; your location information; your IP address; your acting experience and unique acting skills; your educational background and professional training; your physical attributes; your general movie preferences; the movies and actors you like or dislike; people, addresses and phone numbers of professional contacts on your IMDbPro name page; content of reviews, posts to on-site forums, and e-mails to us; personal description and photographs you submit about yourself; images and videos uploaded to IMDb Services."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🆔",
+      "headline": "Collects Your Identity Documents",
+      "quote": "As a result of those actions, you might supply us with such information as: information and documents regarding identity (for example, driver's license numbers)."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "👣",
+      "headline": "Tracks Your Every Action",
+      "quote": "We automatically collect and store certain types of information about your use of IMDb Services, including information about your interaction with content and services available through IMDb Services."
+    },
+    {
+      "category": "Advertising & Tracking",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Targets You Across Sites",
+      "quote": "Some ad companies also use this information to serve you relevant ads from other advertisers."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Ad Partners Collect Your Data",
+      "quote": "Third-party advertising partners may collect information about you when you interact with their content, advertising, and services."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Shares Data With Amazon",
+      "quote": "We share user information with our parent corporation (Amazon.com, Inc.), the subsidiaries it controls that follow practices at least as protective as those described in this Privacy Notice, and as described below."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Limited Data Deletion Rights",
+      "quote": "Please be advised that IMDb is legally required or entitled to retain some information, such as your content contribution history."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏰",
+      "headline": "Vague Data Retention Period",
+      "quote": "We keep your personal information to enable your continued use of IMDb Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you."
+    }
+  ]
+}
