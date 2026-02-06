@@ -16,9 +16,14 @@ Privacy Policy Cache (Data Store)
   Files are stored by domain name in the /data folder.
 
    1 // Example: data/example.com.json
+   
    2 {
+   
    3   "url": "https://example.com/privacy",
+   
    4   "scanned_at": "2026-02-06T15:00:00Z",
+   
    5   "analysis": [ ... ]
+   
    6 }
 
