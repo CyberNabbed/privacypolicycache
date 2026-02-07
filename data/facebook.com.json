@@ -1,0 +1,76 @@
+{
+  "url": "https://www.facebook.com/privacy/policy/",
+  "scanned_at": "2026-02-07T15:12:19.657Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "Meta Products share information with other Meta Companies: To personalize offers, ads and other sponsored or commercial content."
+    },
+    {
+      "category": "AI Content Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "Develop and improve AI at Meta for Meta Products and for third parties."
+    },
+    {
+      "category": "Cross-Company Data Sharing",
+      "risk": "High",
+      "icon": "↔️",
+      "headline": "Meta Companies Share Your Data",
+      "quote": "We share information we collect, infrastructure, systems and technology with the other Meta Companies."
+    },
+    {
+      "category": "Human Data Review",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Humans Review Your Data",
+      "quote": "But in some cases, we also use manual review to access and review your information."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🚨",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, and where you have given your explicit consent."
+    },
+    {
+      "category": "Cross-Site/App Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks Your Off-Meta Activity",
+      "quote": "We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Collects Your Extensive Data",
+      "quote": "Here's the information we collect: Your activity and information you provide, Friends, followers and other connections, App, browser and device information, Information from partners, vendors and other third parties."
+    },
+    {
+      "category": "Indefinite Data Retention",
+      "risk": "High",
+      "icon": "⏰",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We keep information as long as we need it to provide our Products, comply with legal obligations or protect our or other’s interests."
+    },
+    {
+      "category": "Global Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "We share information we collect globally, both internally across our offices and data centers and externally with our partners, third parties and service providers."
+    },
+    {
+      "category": "Law Enforcement Data Access",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Shares Your Info with Law Enforcement",
+      "quote": "We access, preserve, use and share your information: In response to legal requests, like search warrants, court orders, production orders or subpoenas."
+    }
+  ]
+}
