@@ -1,0 +1,69 @@
+{
+  "url": "https://privacycenter.instagram.com/policy",
+  "scanned_at": "2026-02-07T15:18:21.338Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data Widely",
+      "quote": "We share information we collect, infrastructure, systems and technology with the other Meta Companies...To personalize offers, ads and other sponsored or commercial content...Here’s more detail about who we share information with: Partners, Advertisers and Audience Network publishers, Marketing vendors..."
+    },
+    {
+      "category": "AI Training & Development",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "Develop and improve AI at Meta for Meta Products and for third parties... Public content you or others create or share, like posts, comments or audio on Meta Products"
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks Your Activity Off-Meta",
+      "quote": "We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "💖",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, and where you have given your explicit consent"
+    },
+    {
+      "category": "Human Review of Content",
+      "risk": "Medium",
+      "icon": "👁️",
+      "headline": "Humans Review Your Information",
+      "quote": "But in some cases, we also use manual review to access and review your information."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We keep information as long as we need it to provide our Products, comply with legal obligations or protect our or other’s interests. We decide how long we need information on a case-by-case basis."
+    },
+    {
+      "category": "Granular Device Tracking",
+      "risk": "High",
+      "icon": "📱",
+      "headline": "Monitors Your Device Activity",
+      "quote": "What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)"
+    },
+    {
+      "category": "Government Data Requests",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Shares Data With Government",
+      "quote": "We access, preserve, use and share your information: In response to legal requests, like search warrants, court orders, production orders or subpoenas. These requests come from third parties such as civil litigants, law enforcement and other government authorities."
+    },
+    {
+      "category": "Data Linking Across Products",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Links Your WhatsApp Data",
+      "quote": "If you decide to add a WhatsApp account to an Accounts Center with other accounts on Meta Company Products: To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp."
+    }
+  ]
+}
