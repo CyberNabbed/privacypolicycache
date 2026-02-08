@@ -1,0 +1,76 @@
+{
+  "url": "https://linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy",
+  "scanned_at": "2026-02-08T18:35:14.349808Z",
+  "analysis": [
+    {
+      "category": "Data Sharing",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Shared for Ads",
+      "quote": "Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "High",
+      "icon": "\ud83d\udce4",
+      "headline": "Your Profile Data Exported",
+      "quote": "Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+      "headline": "Your Off-Site Behavior Tracked",
+      "quote": "If you are outside the Designated Countries, we also collect (or rely on others, including Microsoft, who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "High",
+      "icon": "\ud83e\udd16",
+      "headline": "Your Data Powers AI",
+      "quote": "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence (AI) models..."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "High",
+      "icon": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
+      "headline": "Your Private Messages Scanned",
+      "quote": "If your settings allow, we scan messages to provide \u201cbots\u201d or similar tools that facilitate tasks such as scheduling meetings, drafting responses, summarizing messages or recommending next steps."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "\ud83d\udc65",
+      "headline": "Your Data From Others",
+      "quote": "We receive personal data (including contact information) about you when others import or sync their calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests)."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "High",
+      "icon": "\ud83d\udcbc",
+      "headline": "Your Employer Sees Usage",
+      "quote": "Your employer can review and manage your use of such enterprise Services. Depending on the enterprise Service, before you use such Service, we will ask for permission to share with your employer relevant data from your profile or use of our non-enterprise Services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "\ud83d\udc7b",
+      "headline": "Your Data Lingers Post-Account",
+      "quote": "Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services."
+    },
+    {
+      "category": "Data Security",
+      "risk": "High",
+      "icon": "\ud83d\udd12",
+      "headline": "Your Security Not Warranted",
+      "quote": "However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards."
+    },
+    {
+      "category": "Data Transfers",
+      "risk": "High",
+      "icon": "\u2708\ufe0f",
+      "headline": "Your Data Crosses Borders",
+      "quote": "Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country."
+    }
+  ]
+}
