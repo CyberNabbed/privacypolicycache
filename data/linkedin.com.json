@@ -1,76 +1,76 @@
 {
-  "url": "https://linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy",
-  "scanned_at": "2026-02-08T18:35:14.349808Z",
+  "url": "https://www.linkedin.com/legal/privacy-policy",
+  "scanned_at": "2026-02-08T18:41:06.539536Z",
   "analysis": [
     {
       "category": "Data Sharing",
       "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Data Shared for Ads",
-      "quote": "Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services."
-    },
-    {
-      "category": "Data Sharing",
-      "risk": "High",
-      "icon": "\ud83d\udce4",
-      "headline": "Your Profile Data Exported",
-      "quote": "Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out."
+      "icon": "\ud83d\udcb8",
+      "headline": "Your Data Shared with Advertisers",
+      "quote": "We do not share your personal data with any non-Affiliated third-party advertisers or ad networks except for: (i) hashed IDs or device identifiers (to the extent they are personal data in some countries); (ii) with your separate permission (e.g., in a lead generation form) or (iii) data already visible to any users of the Services (e.g., profile). However, [...] Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us. We seek to contractually require such advertising partners to obtain your explicit, opt-in consent before doing so where legally required, and in such instances, we take steps to ensure that consent has been provided before processing data from them."
     },
     {
       "category": "Data Collection",
       "risk": "High",
       "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
-      "headline": "Your Off-Site Behavior Tracked",
-      "quote": "If you are outside the Designated Countries, we also collect (or rely on others, including Microsoft, who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness."
+      "headline": "Your Data Collected Externally",
+      "quote": "We receive personal data (including contact information) about you when others import or sync their calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests). ... If you are outside the Designated Countries, we also collect (or rely on others, including Microsoft, who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness."
     },
     {
-      "category": "Data Usage",
+      "category": "Data Processing",
       "risk": "High",
-      "icon": "\ud83e\udd16",
-      "headline": "Your Data Powers AI",
-      "quote": "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence (AI) models..."
+      "icon": "\ud83e\udde0",
+      "headline": "Your Data Used for AI",
+      "quote": "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence (AI) models, develop, provide, and personalize our Services, and gain insights with the help of AI, automated systems, and inferences, so that our Services can be more relevant and useful to you and others. Learn more about the inferences we may make, including as to your age and gender and how we use them."
     },
     {
-      "category": "Data Usage",
+      "category": "Data Processing",
       "risk": "High",
-      "icon": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
-      "headline": "Your Private Messages Scanned",
+      "icon": "\u2709\ufe0f",
+      "headline": "Your Messages Are Scanned",
       "quote": "If your settings allow, we scan messages to provide \u201cbots\u201d or similar tools that facilitate tasks such as scheduling meetings, drafting responses, summarizing messages or recommending next steps."
-    },
-    {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "\ud83d\udc65",
-      "headline": "Your Data From Others",
-      "quote": "We receive personal data (including contact information) about you when others import or sync their calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests)."
     },
     {
       "category": "Data Sharing",
       "risk": "High",
-      "icon": "\ud83d\udcbc",
-      "headline": "Your Employer Sees Usage",
-      "quote": "Your employer can review and manage your use of such enterprise Services. Depending on the enterprise Service, before you use such Service, we will ask for permission to share with your employer relevant data from your profile or use of our non-enterprise Services."
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Shared with Affiliates",
+      "quote": "Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "\ud83d\udce4",
+      "headline": "Your Profile Exported by Customers",
+      "quote": "Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out. We do not provide contact information to customers as part of these premium Services without your consent. Premium Services customers can store information they have about you in our premium Services... The data stored about you by these customers is subject to the policies of those customers."
+    },
+    {
+      "category": "Data Visibility",
+      "risk": "Medium",
+      "icon": "\ud83d\udc41\ufe0f",
+      "headline": "Your Profile Widely Visible",
+      "quote": "Your profile is fully visible to all Members and customers of our Services. Subject to your settings , it can also be visible to others on or off of our Services (e.g., Visitors to our Services or users of third-party search tools). ... The information you make available to others in our Services (e.g., information from your profile, your posts, your engagement with the posts, or message to Pages) may be available to them on other services."
+    },
+    {
+      "category": "Data Control",
+      "risk": "Medium",
+      "icon": "\ud83d\udd17",
+      "headline": "Your Data Goes Elsewhere",
+      "quote": "When you opt to link your account with other services, personal data (e.g., your name, title, and company) will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. ... Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not."
+    },
+    {
+      "category": "Data Disclosure",
+      "risk": "Medium",
+      "icon": "\u2696\ufe0f",
+      "headline": "Your Data Disclosed Legally",
+      "quote": "It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies... We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand."
     },
     {
       "category": "Data Retention",
-      "risk": "High",
-      "icon": "\ud83d\udc7b",
-      "headline": "Your Data Lingers Post-Account",
-      "quote": "Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services."
-    },
-    {
-      "category": "Data Security",
-      "risk": "High",
-      "icon": "\ud83d\udd12",
-      "headline": "Your Security Not Warranted",
-      "quote": "However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards."
-    },
-    {
-      "category": "Data Transfers",
-      "risk": "High",
-      "icon": "\u2708\ufe0f",
-      "headline": "Your Data Crosses Borders",
-      "quote": "Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country."
+      "risk": "Medium",
+      "icon": "\ud83d\uddd1\ufe0f",
+      "headline": "Your Data Persists After Close",
+      "quote": "We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse... Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services. Your profile may continue to be displayed in the services of others (e.g., search tools) until they refresh their cache."
     }
   ]
 }
