@@ -1,0 +1,62 @@
+{
+  "url": "https://privacy.microsoft.com/en-us",
+  "scanned_at": "2026-02-08T18:34:16.028609Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "\ud83d\udcb8",
+      "headline": "Your Data May Be Sold",
+      "quote": "will only use it in a way that's consistent with the reasons you provided it."
+    },
+    {
+      "category": "Data Sharing Practices",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Shared Vaguely",
+      "quote": "will only use it in a way that's consistent with the reasons you provided it."
+    },
+    {
+      "category": "AI Data Usage",
+      "risk": "High",
+      "icon": "\ud83e\udd16",
+      "headline": "Your AI Data Usage Unclear",
+      "quote": "Our approach to AI is built on a foundation of privacy across all our AI products and solutions."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "\u23f3",
+      "headline": "Your Data Retention Unknown",
+      "quote": "The privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes."
+    },
+    {
+      "category": "Data Usage Scope",
+      "risk": "Medium",
+      "icon": "\ud83e\udd14",
+      "headline": "Your Data Purpose Vague",
+      "quote": "will only use it in a way that's consistent with the reasons you provided it."
+    },
+    {
+      "category": "Government Data Requests",
+      "risk": "Medium",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "headline": "Your Rights vs. Government",
+      "quote": "will protect your rights if a government request is made for data."
+    },
+    {
+      "category": "Data Breach Response",
+      "risk": "Medium",
+      "icon": "\ud83d\udea8",
+      "headline": "Your Breach Notification Unknown",
+      "quote": "We rigorously protect your data using encryption and other security best practices."
+    },
+    {
+      "category": "Transparency & Accessibility",
+      "risk": "Medium",
+      "icon": "\ud83d\udd17",
+      "headline": "Your Info Requires Digging",
+      "quote": "The privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes."
+    }
+  ]
+}
