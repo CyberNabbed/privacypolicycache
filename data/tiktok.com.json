@@ -1,0 +1,76 @@
+{
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en",
+  "scanned_at": "2026-02-08T18:40:27.666320Z",
+  "analysis": [
+    {
+      "category": "Data Sharing",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Shared Widely",
+      "quote": "We share information with advertisers, advertising partners, publishers, and third-party measurement companies... to enable certain advertisers and advertising partners to bid on ad opportunities where permitted under applicable law."
+    },
+    {
+      "category": "Data Selling & Sharing (Marketing)",
+      "risk": "High",
+      "icon": "\ud83d\udce3",
+      "headline": "Your Email Shared With Sellers",
+      "quote": "We may share your email address with sellers so that they can send marketing communications to you. These entities may use the information shared in accordance with their privacy policies."
+    },
+    {
+      "category": "Data Collection (Invasive)",
+      "risk": "High",
+      "icon": "\ud83d\udc40",
+      "headline": "Your Device Data Intrusively Collected",
+      "quote": "We collect certain information about the device you use to access the Platform, such as... keystroke patterns or rhythms, battery state, app and file names and types, audio settings and connected audio devices."
+    },
+    {
+      "category": "Data Collection (Third-Party Aggregation)",
+      "risk": "High",
+      "icon": "\ud83c\udf10",
+      "headline": "Your Off-Platform Activities Tracked",
+      "quote": "Advertisers, publishers, and measurement and other partners share information with us about you and the actions you have taken outside of the Platform, such as your activities on other websites and apps or in stores..."
+    },
+    {
+      "category": "Data Collection (Content Analysis)",
+      "risk": "High",
+      "icon": "\ud83c\udfa4",
+      "headline": "Your Content Undergoes Deep Analysis",
+      "quote": "We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content."
+    },
+    {
+      "category": "Data Collection (Pre-Loading/Monitoring)",
+      "risk": "High",
+      "icon": "\ud83d\udcf1",
+      "headline": "Your Unsaved Content Is Collected",
+      "quote": "We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content..."
+    },
+    {
+      "category": "Data Collection (Sensitive Access)",
+      "risk": "Medium",
+      "icon": "\ud83d\udccb",
+      "headline": "Your Clipboard Data Is Accessed",
+      "quote": "We may access content, including text, images, and video, found in your device\u2019s clipboard , with your permission."
+    },
+    {
+      "category": "Data Transfer",
+      "risk": "Medium",
+      "icon": "\u2708\ufe0f",
+      "headline": "Your Data Stored Globally",
+      "quote": "Your information may be stored on servers located outside the country where you live, such as in Singapore, Malaysia, Ireland and the United States."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "\u26a0\ufe0f",
+      "headline": "Your Privacy Choices Limit Features",
+      "quote": "Please note that by withdrawing your consent to the disclosure and/or collection of your personal data, we may not be able to fulfill your requests and you may not be able to use some of TikTok features and functionality."
+    },
+    {
+      "category": "Policy Transparency",
+      "risk": "Medium",
+      "icon": "\ud83d\udcdd",
+      "headline": "Your Passive Acceptance Of Changes",
+      "quote": "Your continued access to or use of the Platform after the date of the updated policy constitutes your acceptance of the updated policy."
+    }
+  ]
+}
