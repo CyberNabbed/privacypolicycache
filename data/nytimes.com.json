@@ -1,76 +1,76 @@
 {
-  "url": "https://help.nytimes.com/hc/en-us/articles/10940941449492-The-New-York-Times-Company-Privacy-Policy",
-  "scanned_at": "2026-02-08T18:35:04.083934Z",
+  "url": "https://www.nytimes.com/privacy/privacy-policy",
+  "scanned_at": "2026-02-08T18:41:14.574214Z",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "\ud83d\udcb8",
-      "headline": "Your Data Sold & Shared",
-      "quote": "we share or disclose your personal information, including identifiers, commercial information, internet and other electronic network activity information, geolocation data, and inferences, with third parties for purposes of cross-context behavioral advertising (also known as targeted advertising), and also for \u201csales\u201d or \u201csharing\u201d as defined by applicable law, including, without limitation, the California Consumer Privacy Act."
+      "headline": "Your PII Shared For Ads",
+      "quote": "We share information that we collect from you, such as your email, IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online, in-app, and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising."
     },
     {
-      "category": "Third-Party Data Re-use",
+      "category": "Third-Party Sharing",
       "risk": "High",
       "icon": "\ud83e\udd1d",
-      "headline": "Your Data Used Widely",
-      "quote": "Many of these providers require us to enter into contracts that allow them to optimize their own services and products, or that help them create their own. Essentially, these providers combine any information they gather about you through Times Services with information they receive from their other clients. This helps them target ads to you on behalf of their other clients, not just us."
-    },
-    {
-      "category": "AI Monitoring & Training",
-      "risk": "High",
-      "icon": "\ud83e\udd16",
-      "headline": "Your Chats Train AI",
-      "quote": "We may use automated scanning and moderation technology to monitor users' direct messages in order to identify any violations... This information may be used to train AI models for these purposes."
+      "headline": "Your Data Powers Other Ads",
+      "quote": "Essentially, these providers combine any information they gather about you through Times Services with information they receive from their other clients. This helps them target ads to you on behalf of their other clients, not just us."
     },
     {
       "category": "Sensitive Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udc94",
+      "icon": "\u26a0\ufe0f",
       "headline": "Your Sensitive Data Collected",
-      "quote": "Some of our surveys and feedback programs... will request your consent to provide on a purely voluntary basis information regarding your interests in various topics... as well as demographic information, some of which may be considered sensitive under applicable laws such as your age, ethnicity, race, gender, sexual orientation, family characteristics and income."
+      "quote": "Some of our surveys and feedback programs, including panels, will request your consent to provide on a purely voluntary basis information regarding your interests in various topics... as well as demographic information, some of which may be considered sensitive under applicable laws such as your age, ethnicity, race, gender, sexual orientation, family characteristics and income."
     },
     {
-      "category": "Extensive Data Profiling",
+      "category": "AI & Privacy",
       "risk": "High",
-      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
-      "headline": "Your Habits Are Inferred",
-      "quote": "We infer new information from other data we collect, including using automated means such as machine learning... We use these inferences for purposes of personalization, to improve our services, to market Times Services to you and to create audiences for third party advertisers and for marketing on other sites and services."
+      "icon": "\ud83e\udd16",
+      "headline": "Your Chats Train AI",
+      "quote": "Your chat session will be recorded for quality assurance and training and may be used for training AI models. Please do not provide information in a chat session that you do not want recorded."
     },
     {
-      "category": "Cross-Device Tracking",
+      "category": "Location Tracking",
       "risk": "High",
-      "icon": "\ud83d\udcf1",
-      "headline": "Your Activities Linked Across Devices",
-      "quote": "We may also target third party advertising to users through matching services such as Unified ID 2.0 and LiveRamp\u2019s Authenticated Traffic Solution (\u201cATS\u201d). In these situations, we use information that directly identifies you, including name, email address, or phone number, to engage in targeted advertising, including by converting email addresses/phone numbers into identifiers used for advertising purposes."
-    },
-    {
-      "category": "Third-Party Data Integration",
-      "risk": "Medium",
-      "icon": "\ud83c\udf10",
-      "headline": "Your Data From Other Sources",
-      "quote": "Marketing, data analytic and social media-owned databases give us access to a range of information \u2014 like public data, survey data and more. This data sometimes includes your mailing address, your gender, your age, your household income and other demographic data."
-    },
-    {
-      "category": "Geolocation for Advertising",
-      "risk": "Medium",
       "icon": "\ud83d\udccd",
       "headline": "Your Location Used For Ads",
-      "quote": "If you allow us to collect your precise geolocation in the ways described above... We also use your precise geolocation for other personalized experiences - those may include targeted advertising from third parties on Times Services based on your location."
+      "quote": "If you allow us to collect your precise geolocation in the ways described above, we will use that information to personalize content provided to you... We also use your precise geolocation for other personalized experiences - those may include targeted advertising from third parties on Times Services based on your location."
     },
     {
-      "category": "Customer List Sharing",
+      "category": "Data Aggregation",
       "risk": "Medium",
-      "icon": "\ud83d\udc65",
-      "headline": "Your Email Shared For Ads",
-      "quote": "We also target our advertising of Times Services to users by uploading a customer list (email addresses) to a third party, or by incorporating a tracking technology from a third party onto our Times Service. The third party then matches individuals who appear in both our data and their data."
+      "icon": "\ud83d\uddc3\ufe0f",
+      "headline": "Your Data From Databases",
+      "quote": "Privately Owned Databases Marketing, data analytic and social media-owned databases give us access to a range of information \u2014 like public data, survey data and more. This data sometimes includes your mailing address, your gender, your age, your household income and other demographic data."
     },
     {
-      "category": "Public User Content",
+      "category": "Data Inferences",
       "risk": "Medium",
-      "icon": "\ud83d\udce2",
-      "headline": "Your Posts Are Public",
-      "quote": "Anyone can read, collect and use any personal information that accompanies your posts."
+      "icon": "\ud83d\udca1",
+      "headline": "Your Inferences Used For Ads",
+      "quote": "We use these inferences for purposes of personalization, to improve our services, to market Times Services to you and to create audiences for third party advertisers and for marketing on other sites and services."
+    },
+    {
+      "category": "Supply Chain Risk",
+      "risk": "Medium",
+      "icon": "\ud83d\udd17",
+      "headline": "Your Data Flows Downstream",
+      "quote": "our service providers may share your information with their affiliates and service providers."
+    },
+    {
+      "category": "Third-Party Marketing",
+      "risk": "Medium",
+      "icon": "\ud83d\udce7",
+      "headline": "Your Data For Direct Marketing",
+      "quote": "We may share personal information with third parties for their independent direct marketing purposes when you consent to such sharing."
+    },
+    {
+      "category": "User Control",
+      "risk": "Medium",
+      "icon": "\u2699\ufe0f",
+      "headline": "Your Opt-Out Burden",
+      "quote": "That being said, in order to opt out of receiving these matched ads, you should also contact the applicable third parties."
     }
   ]
 }
