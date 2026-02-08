@@ -1,62 +1,76 @@
 {
-  "url": "https://privacy.microsoft.com/en-us",
-  "scanned_at": "2026-02-08T18:34:16.028609Z",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "scanned_at": "2026-02-08T18:40:05.805471Z",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "\ud83d\udcb8",
-      "headline": "Your Data May Be Sold",
-      "quote": "will only use it in a way that's consistent with the reasons you provided it."
-    },
-    {
-      "category": "Data Sharing Practices",
-      "risk": "High",
       "icon": "\ud83e\udd1d",
-      "headline": "Your Data Shared Vaguely",
-      "quote": "will only use it in a way that's consistent with the reasons you provided it."
+      "headline": "Your Data Shared for Ads",
+      "quote": "Please note that, as defined under certain U.S. state data privacy laws, \u201csharing\u201d also relates to providing personal data to third parties for personalized advertising purposes. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties."
     },
     {
-      "category": "AI Data Usage",
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+      "headline": "Your Extensive Data Collected",
+      "quote": "The data we collect can include the following: Name and contact data, Credentials, Demographic data, Payment data, Interactions (e.g., browse history), Voice data, Biometric data and identifiers, Content of your files and communications, Video or recordings (from physical locations), and Traffic data."
+    },
+    {
+      "category": "Content Monitoring",
+      "risk": "High",
+      "icon": "\ud83d\udce7",
+      "headline": "Your Content Systematically Scanned",
+      "quote": "some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions... We use scanning technologies to create digital signatures (known as \u201chashes\u201d) of certain images and video content on our systems."
+    },
+    {
+      "category": "Sensitive Data",
+      "risk": "High",
+      "icon": "\u270b",
+      "headline": "Your Biometric Data Collected",
+      "quote": "Biometric data and identifiers. Data about you resulting from specific technical processing relating to your physical, physiological, or behavioral characteristics which allow or confirm unique identification."
+    },
+    {
+      "category": "Government Access",
+      "risk": "High",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "headline": "Your Content Disclosed to Government",
+      "quote": "Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to... Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies."
+    },
+    {
+      "category": "Third-Party Data",
+      "risk": "High",
+      "icon": "\ud83d\udcb0",
+      "headline": "Your Data Bought from Brokers",
+      "quote": "Data brokers from which we purchase demographic data to supplement the data we collect."
+    },
+    {
+      "category": "Data Processing",
       "risk": "High",
       "icon": "\ud83e\udd16",
-      "headline": "Your AI Data Usage Unclear",
-      "quote": "Our approach to AI is built on a foundation of privacy across all our AI products and solutions."
+      "headline": "Your Data Trains AI Models",
+      "quote": "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models."
     },
     {
-      "category": "Data Retention",
-      "risk": "Medium",
-      "icon": "\u23f3",
-      "headline": "Your Data Retention Unknown",
-      "quote": "The privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes."
+      "category": "Advertising & Tracking",
+      "risk": "High",
+      "icon": "\ud83c\udf10",
+      "headline": "Your Cross-Context Tracking for Ads",
+      "quote": "We use data we collect through our interactions with you, through some of our first-party products, services, apps, and web properties (Microsoft properties), and on third-party web properties, for advertising on our Microsoft properties and on third-party properties."
     },
     {
-      "category": "Data Usage Scope",
-      "risk": "Medium",
-      "icon": "\ud83e\udd14",
-      "headline": "Your Data Purpose Vague",
-      "quote": "will only use it in a way that's consistent with the reasons you provided it."
+      "category": "Physical Surveillance",
+      "risk": "High",
+      "icon": "\ud83d\udcf9",
+      "headline": "Your Image Recorded in Stores",
+      "quote": "If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data."
     },
     {
-      "category": "Government Data Requests",
-      "risk": "Medium",
-      "icon": "\ud83c\udfdb\ufe0f",
-      "headline": "Your Rights vs. Government",
-      "quote": "will protect your rights if a government request is made for data."
-    },
-    {
-      "category": "Data Breach Response",
-      "risk": "Medium",
-      "icon": "\ud83d\udea8",
-      "headline": "Your Breach Notification Unknown",
-      "quote": "We rigorously protect your data using encryption and other security best practices."
-    },
-    {
-      "category": "Transparency & Accessibility",
-      "risk": "Medium",
-      "icon": "\ud83d\udd17",
-      "headline": "Your Info Requires Digging",
-      "quote": "The privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes."
+      "category": "Sensitive Data",
+      "risk": "High",
+      "icon": "\ud83d\udde3\ufe0f",
+      "headline": "Your Voice Data Recorded",
+      "quote": "Your voice data, sometimes referred to as \u201cvoice clips\u201d, such as search queries, commands, or dictation you speak, which may include background sounds."
     }
   ]
 }
