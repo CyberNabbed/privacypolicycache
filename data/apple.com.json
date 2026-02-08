@@ -1,20 +1,76 @@
 {
-  "url": "https://apple.com/legal/privacy/",
-  "scanned_at": "2026-02-08T18:34:00.245363Z",
+  "url": "https://www.apple.com/legal/privacy/en-ww/",
+  "scanned_at": "2026-02-08T18:40:04.711125Z",
   "analysis": [
     {
-      "category": "Transparency & Accessibility",
-      "risk": "High",
-      "icon": "\ud83d\udeab",
-      "headline": "Your Policy Unreachable",
-      "quote": "Something went wrong. The content for this page did not load correctly."
+      "category": "Data Selling & Sharing",
+      "risk": "Low",
+      "icon": "\ud83d\udee1\ufe0f",
+      "headline": "Your Data Isn't Sold.",
+      "quote": "Apple does not sell your personal data including as \u201csale\u201d is defined in Nevada and California. Apple also does not \u201cshare\u201d your personal data as that term is defined in California."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "\ud83d\uddc3\ufe0f",
+      "headline": "Your Data Collection Is Broad.",
+      "quote": "At Apple, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data Apple collects depends on how you interact with Apple."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "\u26d4",
+      "headline": "Your Rights May Be Denied.",
+      "quote": "There may be situations where we cannot grant your request \u2014 for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law."
+    },
+    {
+      "category": "Third-Party Data Practices",
+      "risk": "Medium",
       "icon": "\u2753",
-      "headline": "Your Data Sharing Unknown",
-      "quote": "Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information. The content for this page did not load correctly."
+      "headline": "Your Third-Party Privacy Unknown.",
+      "quote": "Apple\u2019s Privacy Policy does not apply to how third parties define personal data or how they use it. We encourage you to read their privacy policies and know your privacy rights before interacting with them."
+    },
+    {
+      "category": "Communication Preferences",
+      "risk": "Medium",
+      "icon": "\u2709\ufe0f",
+      "headline": "Your Important Notices Are Mandatory.",
+      "quote": "Because this information is important to your interaction with Apple, you may not opt out of receiving these important notices."
+    },
+    {
+      "category": "Data Sharing with Partners",
+      "risk": "Medium",
+      "icon": "\ud83d\udcca",
+      "headline": "Your Subscription Info Is Shared.",
+      "quote": "If you purchase a third-party subscription from the App Store or within Apple News, we create a Subscriber ID that is unique to you and the developer or publisher. The Subscriber ID may be used to provide reports to the developer or publisher, which include information about the subscription you purchased and your country of residence."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "\u2708\ufe0f",
+      "headline": "Your Data Travels Globally.",
+      "quote": "your personal data may be transferred to or accessed by entities around the world, including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services."
+    },
+    {
+      "category": "Legal Basis for Processing",
+      "risk": "Medium",
+      "icon": "\u2696\ufe0f",
+      "headline": "Your Data Used For Interests.",
+      "quote": "We may also process your personal data where we believe it is in our or others\u2019 legitimate interests, taking into consideration your interests, rights, and expectations."
+    },
+    {
+      "category": "Data Combination",
+      "risk": "Medium",
+      "icon": "\ud83d\udd17",
+      "headline": "Your Data Can Be Combined.",
+      "quote": "In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy."
+    },
+    {
+      "category": "AI Training Data",
+      "risk": "Medium",
+      "icon": "\ud83e\udd16",
+      "headline": "Your Public Data Feeds AI.",
+      "quote": "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet."
     }
   ]
 }
