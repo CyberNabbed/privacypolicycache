@@ -1,48 +1,76 @@
 {
-  "url": "https://github.com/CyberNabbed/privacypolicycache/tree/main",
-  "scanned_at": "2026-02-06T20:15:39.377Z",
+  "url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
+  "scanned_at": "2026-02-08T18:31:52.719151Z",
   "analysis": [
     {
-      "category": "Data Selling",
+      "category": "Data Sharing for Advertising",
       "risk": "High",
-      "icon": "💸",
-      "headline": "Your Data Fate Unknown",
-      "quote": "Include my email address so I can be contacted"
+      "icon": "\ud83e\udd1d",
+      "headline": "Your data shared for ads",
+      "quote": "Our analytics and advertising partners may use these technologies in our Services to collect personal information (...) for various purposes, including targeted advertising. We and/or our partners also share the information we collect or infer with third parties for these purposes."
     },
     {
-      "category": "AI Content Processing",
+      "category": "Data Control & Access",
       "risk": "High",
-      "icon": "🤖",
-      "headline": "AI Processes Your Content",
-      "quote": "Chat with Copilot"
+      "icon": "\ud83c\udfe2",
+      "headline": "Your organization controls data",
+      "quote": "When a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services. This enables them to: Manage and administer your GitHub account, including adjusting privacy settings. Access and utilize your Personal Data, which includes details on how you use the Services, as well as your content and files."
     },
     {
-      "category": "Personal Data Collection",
+      "category": "Third-Party Risks",
       "risk": "Medium",
-      "icon": "📧",
-      "headline": "Collects Your Email",
-      "quote": "Include my email address so I can be contacted"
+      "icon": "\ud83d\udd17",
+      "headline": "Your data, third-party policies",
+      "quote": "When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them."
     },
     {
-      "category": "Activity Tracking",
+      "category": "Extensive Data Collection",
       "risk": "Medium",
-      "icon": "🔎",
-      "headline": "Tracks Your Search History",
-      "quote": "Use saved searches to filter your results more quickly"
+      "icon": "\ud83d\udcdd",
+      "headline": "Your content widely collected",
+      "quote": "User Content and Files: When you use our Services, we collect Personal Data included as part of the information you provide such as code, inputs, text, documents, images, or feedback."
     },
     {
-      "category": "Feedback Data Processing",
+      "category": "Sensitive Data Collection",
       "risk": "Medium",
-      "icon": "💬",
-      "headline": "Processes Your Feedback",
-      "quote": "We read every piece of feedback, and take your input very seriously."
+      "icon": "\ud83d\udccd",
+      "headline": "Your location data collected",
+      "quote": "Geolocation Information: Depending on the Service's functionality, we collect regional geolocation data."
     },
     {
-      "category": "Session Tracking",
+      "category": "Data Access",
+      "risk": "Medium",
+      "icon": "\ud83d\udd12",
+      "headline": "Your private repo exceptions",
+      "quote": "GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for: security purposes automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service to assist the repository owner with a support matter to maintain the integrity of the Services, or to comply with our legal obligations if we have reason to believe the contents are in violation of the law."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "\ud83c\udf0d",
+      "headline": "Your data crosses borders",
+      "quote": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection. When we engage in such transfers, we generally rely on the standard contractual clauses..."
+    },
+    {
+      "category": "Data Processing",
+      "risk": "Medium",
+      "icon": "\ud83e\udd14",
+      "headline": "Your data used for inferences",
+      "quote": "Inference: We generate new information from other data we collect to derive likely preferences or other characteristics. For instance, we infer your general geographic location based on your IP address."
+    },
+    {
+      "category": "Tracking & Cookies",
+      "risk": "Medium",
+      "icon": "\ud83c\udf6a",
+      "headline": "Your activity tracked for ads",
+      "quote": "We may also employ third-party Cookies to gather data for interest-based advertising. In some jurisdictions, we only use non-essential cookies after obtaining your consent."
+    },
+    {
+      "category": "Legal Basis",
       "risk": "Low",
-      "icon": "🌐",
-      "headline": "Tracks Your Session",
-      "quote": "You signed in with another tab or window."
+      "icon": "\u2696\ufe0f",
+      "headline": "Your data for \"legitimate interests\"",
+      "quote": "Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services. This is done only when these interests are not overridden by your data protection rights or your fundamental rights and freedoms."
     }
   ]
 }
