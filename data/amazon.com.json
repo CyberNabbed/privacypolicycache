@@ -1,0 +1,69 @@
+{
+  "url": "https://amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy",
+  "scanned_at": "2026-02-08T18:34:12.179604Z",
+  "analysis": [
+    {
+      "category": "Transparency",
+      "risk": "High",
+      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+      "headline": "Your Data Practices Unclear",
+      "quote": "The provided text is a help/footer page, not a comprehensive privacy policy, lacking explicit details on data collection, usage, and sharing."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "\ud83d\udcc8",
+      "headline": "Your Extensive Data Collection",
+      "quote": "'Amazon Music Stream millions of songs,' 'Ring Smart Home Security Systems,' 'PillPack Pharmacy Simplified,' and numerous other services imply vast data collection."
+    },
+    {
+      "category": "Sensitive Data",
+      "risk": "High",
+      "icon": "\ud83c\udfe5",
+      "headline": "Your Sensitive Data Risks",
+      "quote": "'PillPack Pharmacy Simplified' handles health data; 'Ring Smart Home Security Systems' and 'Blink Smart Security for Every Home' collect highly personal home environment data."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Sharing Practices",
+      "quote": "'Amazon.com, Inc. or its affiliates' indicates data sharing across its ecosystem. 'Amazon Ads Reach customers wherever they spend their time' implies sharing for advertising."
+    },
+    {
+      "category": "Targeted Advertising",
+      "risk": "High",
+      "icon": "\ud83c\udfaf",
+      "headline": "Your Data for Ads",
+      "quote": "'Amazon Ads Reach customers wherever they spend their time' clearly indicates data is used for targeted advertising and profiling."
+    },
+    {
+      "category": "Public/Law Enforcement Sharing",
+      "risk": "High",
+      "icon": "\ud83d\udea8",
+      "headline": "Your 'Neighbors App' Sharing",
+      "quote": "'Neighbors App Real-Time Crime & Safety Alerts' suggests sharing of sensitive location/incident data, potentially with a broader audience or authorities."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "\ud83d\udd11",
+      "headline": "Your Data Control Limited",
+      "quote": "'Your Ads Privacy Choices' is mentioned, but other data rights (access, deletion) and their exercise are not detailed in this text."
+    },
+    {
+      "category": "Data Security",
+      "risk": "High",
+      "icon": "\ud83d\udd12",
+      "headline": "Your Data Security Unknown",
+      "quote": "The provided text does not contain any information regarding data security measures or safeguards for the collected data."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "\ud83c\udf0d",
+      "headline": "Your Data Crosses Borders",
+      "quote": "'AmazonGlobal Ship Orders Internationally' suggests international operations, implying potential international data transfers without specified protections."
+    }
+  ]
+}
