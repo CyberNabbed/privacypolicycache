@@ -1,0 +1,76 @@
+{
+  "url": "https://duckduckgo.com/compare-privacy",
+  "scanned_at": "2026-02-08T18:35:09.967966Z",
+  "analysis": [
+    {
+      "category": "Third-Party AI Interaction",
+      "risk": "Medium",
+      "icon": "\ud83e\udd16",
+      "headline": "Your AI Chat Privacy",
+      "quote": "Provides private access to AI chatbots Optional feature built into default search engine that lets you have private conversations with popular 3rd-party AI chat models."
+    },
+    {
+      "category": "Data Sharing & Selling",
+      "risk": "Medium",
+      "icon": "\ud83d\udcb8",
+      "headline": "Your Data Selling Clarity",
+      "quote": "Global Privacy Control Expresses opt-out rights on your behalf by telling sites not to sell or share your personal info."
+    },
+    {
+      "category": "Misleading Default Claims",
+      "risk": "High",
+      "icon": "\u26a0\ufe0f",
+      "headline": "Your Default Protections Limited",
+      "quote": "App Tracking Protection Blocks app trackers on Android devices... Opt-in required."
+    },
+    {
+      "category": "Location Data Derivation",
+      "risk": "Medium",
+      "icon": "\ud83d\udccd",
+      "headline": "Your Broad Location Usage",
+      "quote": "Shows local search results, like restaurants nearby, without accessing your exact location."
+    },
+    {
+      "category": "Limited Protection Scope",
+      "risk": "Medium",
+      "icon": "\ud83d\udcfa",
+      "headline": "Your YouTube Direct Usage",
+      "quote": "Plays YouTube videos without targeted ads Protects you from targeted ads and cookies and incorporates YouTube\u2019s strictest privacy settings for embedded video."
+    },
+    {
+      "category": "Ad Blocking Effectiveness",
+      "risk": "Low",
+      "icon": "\ud83d\udeab",
+      "headline": "Your Ad Blocking \"Attempts\"",
+      "quote": "Blocks non-tracking ads Attempts to block all online advertising, including non-intrusive ads."
+    },
+    {
+      "category": "Technical Tracking Limits",
+      "risk": "Low",
+      "icon": "\ud83d\udc7b",
+      "headline": "Your Cloaking Protection \"Helps\"",
+      "quote": "Protects against DNS CNAME cloaking Helps block 3rd-party trackers that try to disguise themselves within a website using DNS."
+    },
+    {
+      "category": "Third-Party Service Data",
+      "risk": "Medium",
+      "icon": "\ud83d\udee1\ufe0f",
+      "headline": "Your Identity Service Data",
+      "quote": "Helps restore your identity If your identity is stolen, a dedicated advisor will help restore your accounts, recover financial losses, and fix credit report mistakes."
+    },
+    {
+      "category": "VPN Data Logging",
+      "risk": "Medium",
+      "icon": "\ud83d\udd12",
+      "headline": "Your VPN Logging Policy",
+      "quote": "Protects your connection with a VPN Encrypts your Internet connection across browsers and apps on your entire device and hides your location and IP address."
+    },
+    {
+      "category": "Sync Mechanism Opacity",
+      "risk": "High",
+      "icon": "\ud83d\udd04",
+      "headline": "Your Sync Mechanism Opacity",
+      "quote": "Privately syncs bookmarks and passwords Lets you sync bookmarks and passwords across your devices with end-to-end encryption\u2014no account needed."
+    }
+  ]
+}
