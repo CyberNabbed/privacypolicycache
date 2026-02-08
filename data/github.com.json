@@ -1,76 +1,76 @@
 {
-  "url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
-  "scanned_at": "2026-02-08T18:34:38.522294Z",
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement",
+  "scanned_at": "2026-02-08T18:40:28.823656Z",
   "analysis": [
     {
-      "category": "Data Control",
+      "category": "Organizational Control",
       "risk": "High",
       "icon": "\ud83c\udfe2",
-      "headline": "Your Organization Controls",
+      "headline": "Your Organization Controls Data",
       "quote": "When a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services. This enables them to: Manage and administer your GitHub account, including adjusting privacy settings. Access and utilize your Personal Data, which includes details on how you use the Services, as well as your content and files."
-    },
-    {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "\ud83d\udcc8",
-      "headline": "Your Data is Shared",
-      "quote": "As defined by applicable law, we \u201cshared\u201d the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above. We shared each category to or with advertising networks, data analytics providers, and social networks. The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement."
-    },
-    {
-      "category": "Third-Party Integrations",
-      "risk": "Medium",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Third-Party Risk",
-      "quote": "When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them."
     },
     {
       "category": "Data Collection",
       "risk": "Medium",
-      "icon": "\ud83e\uddfa",
-      "headline": "Your Broad Data Collection",
-      "quote": "Personal Data is collected from you directly, automatically from your device, and also from third parties. The Personal Data GitHub processes when you use the Services depends on variables like how you interact with our Services (such as through web interfaces, desktop or mobile applications), the features you use... and your method of accessing the Services."
+      "icon": "\ud83d\udd0d",
+      "headline": "Your Data Widely Collected",
+      "quote": "Personal Data is collected from you directly, automatically from your device, and also from third parties. The Personal Data GitHub processes when you use the Services depends on variables like how you interact with our Services... (such as pull requests, Codespaces, or GitHub Copilot)... We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information. User Content and Files: When you use our Services, we collect Personal Data included as part of the information you provide such as code, inputs, text, documents, images, or feedback. Demographic information: In some cases, you provide us with ethnicity, gender, or similar demographic details."
     },
     {
-      "category": "Data Processing",
+      "category": "Data Inference",
       "risk": "Medium",
       "icon": "\ud83e\udde0",
-      "headline": "Your Profile Inferred",
+      "headline": "Your Preferences Are Inferred",
       "quote": "Inference: We generate new information from other data we collect to derive likely preferences or other characteristics. For instance, we infer your general geographic location based on your IP address."
     },
     {
-      "category": "Default Settings",
-      "risk": "Medium",
-      "icon": "\ud83d\udce1",
-      "headline": "Your Telemetry Defaulted",
-      "quote": "GitHub Codespaces and github.dev offer Visual Studio Code in a web browser, where some telemetry is collected by default... To opt out, go to File > Preferences > Settings in the top left menu of VS Code."
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data \"Shared\" for Ads",
+      "quote": "As defined by applicable law, we \u201cshared\u201d the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above. We shared each category to or with advertising networks, data analytics providers, and social networks. The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement. ... If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data)."
     },
     {
-      "category": "Data Access",
+      "category": "Third-Party Sharing (Marketplace)",
       "risk": "Medium",
-      "icon": "\ud83d\udd12",
-      "headline": "Your Private Repo Accessed",
-      "quote": "GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for: security purposes automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service to assist the repository owner with a support matter to maintain the integrity of the Services, or to comply with our legal obligations if we have reason to believe the contents are in violation of the law."
+      "icon": "\ud83d\udd17",
+      "headline": "Your Data Shared with Apps",
+      "quote": "Other Third-party Applications: Upon your instruction, we may share Personal Data with third-party applications available on our Marketplace. You are responsible for the data you instruct us to share with these applications."
+    },
+    {
+      "category": "Tracking Technologies",
+      "risk": "High",
+      "icon": "\ud83c\udf6a",
+      "headline": "Your Tracking & Advertising Extensive",
+      "quote": "We may also employ third-party Cookies to gather data for interest-based advertising. ... We and/or our partners also share the information we collect or infer with third parties for these purposes. ... GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub\u2019s websites. ... In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen."
     },
     {
       "category": "International Data Transfers",
       "risk": "Medium",
       "icon": "\ud83c\udf0d",
-      "headline": "Your Data Travels Globally",
-      "quote": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection."
+      "headline": "Your Data Transfers Globally",
+      "quote": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection. When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission..."
     },
     {
-      "category": "Public Disclosure",
-      "risk": "High",
-      "icon": "\ud83d\udce2",
-      "headline": "Your Content May Be Public",
-      "quote": "Depending on your account settings, we may share Personal Data with other users of the Services and the public. You control what information is made public... Please be aware that any information you share in a collaborative context may become publicly accessible."
-    },
-    {
-      "category": "Marketing & Advertising",
+      "category": "Access to Private Content",
       "risk": "Medium",
-      "icon": "\ud83d\udce3",
-      "headline": "Your Data Shared for Ads",
-      "quote": "Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising... Partners and Resellers: We may share your data with these partners and resellers where allowed, and with your consent when required."
+      "icon": "\ud83d\udd12",
+      "headline": "Your Private Repositories Accessed",
+      "quote": "GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for: security purposes automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service to assist the repository owner with a support matter to maintain the integrity of the Services, or to comply with our legal obligations if we have reason to believe the contents are in violation of the law."
+    },
+    {
+      "category": "Broad Third-Party Disclosures",
+      "risk": "Medium",
+      "icon": "\ud83d\udce4",
+      "headline": "Your Data Shared Widely",
+      "quote": "Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations. ... Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services."
+    },
+    {
+      "category": "Third-Party Tools/Buttons",
+      "risk": "Low",
+      "icon": "\u27a1\ufe0f",
+      "headline": "Your Browser Data Auto-Sent",
+      "quote": "Buttons, Tools, and Content from Other Companies: Our Services may contain links or buttons that lead to third-party services like Twitter or LinkedIn. Use of these features may result in data collection. Engaging with these buttons, tools, or content may automatically send certain browser information to these companies."
     }
   ]
 }
