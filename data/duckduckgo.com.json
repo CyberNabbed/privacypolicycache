@@ -1,76 +1,76 @@
 {
-  "url": "https://duckduckgo.com/compare-privacy",
-  "scanned_at": "2026-02-08T18:35:09.967966Z",
+  "url": "https://duckduckgo.com/privacy",
+  "scanned_at": "2026-02-08T18:41:09.414713Z",
   "analysis": [
     {
-      "category": "Third-Party AI Interaction",
-      "risk": "Medium",
-      "icon": "\ud83e\udd16",
-      "headline": "Your AI Chat Privacy",
-      "quote": "Provides private access to AI chatbots Optional feature built into default search engine that lets you have private conversations with popular 3rd-party AI chat models."
-    },
-    {
-      "category": "Data Sharing & Selling",
-      "risk": "Medium",
-      "icon": "\ud83d\udcb8",
-      "headline": "Your Data Selling Clarity",
-      "quote": "Global Privacy Control Expresses opt-out rights on your behalf by telling sites not to sell or share your personal info."
-    },
-    {
-      "category": "Misleading Default Claims",
+      "category": "Third-Party Interactions",
       "risk": "High",
       "icon": "\u26a0\ufe0f",
-      "headline": "Your Default Protections Limited",
-      "quote": "App Tracking Protection Blocks app trackers on Android devices... Opt-in required."
+      "headline": "Your External Site Tracking",
+      "quote": "Keep in mind that when you visit other websites... the privacy policies and practices of those other websites apply... we can\u2019t completely protect you when you visit other websites and apps."
     },
     {
-      "category": "Location Data Derivation",
+      "category": "Network Privacy",
       "risk": "Medium",
-      "icon": "\ud83d\udccd",
-      "headline": "Your Broad Location Usage",
-      "quote": "Shows local search results, like restaurants nearby, without accessing your exact location."
+      "icon": "\ud83d\udce1",
+      "headline": "Your IP Address Visibility",
+      "quote": "we cannot prevent your device's IP address from being seen by your internet service provider, our hosting provider, or other internet providers in between"
     },
     {
-      "category": "Limited Protection Scope",
+      "category": "Ad Privacy",
       "risk": "Medium",
-      "icon": "\ud83d\udcfa",
-      "headline": "Your YouTube Direct Usage",
-      "quote": "Plays YouTube videos without targeted ads Protects you from targeted ads and cookies and incorporates YouTube\u2019s strictest privacy settings for embedded video."
+      "icon": "\ud83d\udcb8",
+      "headline": "Your Ad Click Privacy",
+      "quote": "Ad clicks are managed by Microsoft's ad network and Microsoft has committed to not associate your ad-click behavior with a user profile and to not store or share that information other than for accounting purposes."
     },
     {
-      "category": "Ad Blocking Effectiveness",
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "\ud83d\udcdd",
+      "headline": "Your Optional Feature PII",
+      "quote": "We offer optional privacy-protecting features that require limited personal information to function... For example, our Email Protection is an optional feature that requires some personal information to work (namely, your email address)"
+    },
+    {
+      "category": "Data Sharing (Vendors)",
+      "risk": "Medium",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Direct Communication Sharing",
+      "quote": "your communication may be accessible to the software-as-a-service providers we use in our corporate systems (such as our company email and project management software)."
+    },
+    {
+      "category": "Data Transfer",
+      "risk": "Medium",
+      "icon": "\u2708\ufe0f",
+      "headline": "Your Cross-Border Data",
+      "quote": "there are scenarios where we may transfer this limited personal information (for example, your email address) to countries other than the country in which it was received."
+    },
+    {
+      "category": "Legal Compliance",
+      "risk": "Medium",
+      "icon": "\u2696\ufe0f",
+      "headline": "Your Data Legal Requests",
+      "quote": "we will vigorously resist government efforts to compel us to produce the very limited personal information that we might have, for example, your email address if you subscribe to our newsletter."
+    },
+    {
+      "category": "Data Selling & Sharing",
       "risk": "Low",
-      "icon": "\ud83d\udeab",
-      "headline": "Your Ad Blocking \"Attempts\"",
-      "quote": "Blocks non-tracking ads Attempts to block all online advertising, including non-intrusive ads."
+      "icon": "\u2705",
+      "headline": "Your Data Not Sold",
+      "quote": "We do not sell your personal information. We have never sold any personal information. Period."
     },
     {
-      "category": "Technical Tracking Limits",
+      "category": "User Age",
       "risk": "Low",
-      "icon": "\ud83d\udc7b",
-      "headline": "Your Cloaking Protection \"Helps\"",
-      "quote": "Protects against DNS CNAME cloaking Helps block 3rd-party trackers that try to disguise themselves within a website using DNS."
+      "icon": "\ud83d\udc76",
+      "headline": "Your Children's Data",
+      "quote": "We do not knowingly market to or solicit information from children under 13."
     },
     {
-      "category": "Third-Party Service Data",
-      "risk": "Medium",
-      "icon": "\ud83d\udee1\ufe0f",
-      "headline": "Your Identity Service Data",
-      "quote": "Helps restore your identity If your identity is stolen, a dedicated advisor will help restore your accounts, recover financial losses, and fix credit report mistakes."
-    },
-    {
-      "category": "VPN Data Logging",
-      "risk": "Medium",
-      "icon": "\ud83d\udd12",
-      "headline": "Your VPN Logging Policy",
-      "quote": "Protects your connection with a VPN Encrypts your Internet connection across browsers and apps on your entire device and hides your location and IP address."
-    },
-    {
-      "category": "Sync Mechanism Opacity",
-      "risk": "High",
-      "icon": "\ud83d\udd04",
-      "headline": "Your Sync Mechanism Opacity",
-      "quote": "Privately syncs bookmarks and passwords Lets you sync bookmarks and passwords across your devices with end-to-end encryption\u2014no account needed."
+      "category": "Transparency",
+      "risk": "Low",
+      "icon": "\ud83d\udcdc",
+      "headline": "Your Passive Policy Updates",
+      "quote": "We will notify you of changes by posting the modified version on our website."
     }
   ]
 }
