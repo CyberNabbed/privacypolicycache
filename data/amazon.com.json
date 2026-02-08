@@ -1,69 +1,76 @@
 {
-  "url": "https://amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy",
-  "scanned_at": "2026-02-08T18:34:12.179604Z",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "scanned_at": "2026-02-08T18:40:13.934439Z",
   "analysis": [
     {
-      "category": "Transparency",
+      "category": "Data Sharing",
       "risk": "High",
-      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
-      "headline": "Your Data Practices Unclear",
-      "quote": "The provided text is a help/footer page, not a comprehensive privacy policy, lacking explicit details on data collection, usage, and sharing."
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Sharing Nuances",
+      "quote": "we are not in the business of selling our customers' personal information to others... We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads... Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. Some ad companies also use this information to serve you relevant ads from other advertisers."
     },
     {
       "category": "Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udcc8",
-      "headline": "Your Extensive Data Collection",
-      "quote": "'Amazon Music Stream millions of songs,' 'Ring Smart Home Security Systems,' 'PillPack Pharmacy Simplified,' and numerous other services imply vast data collection."
+      "icon": "\ud83d\udecd\ufe0f",
+      "headline": "Your In-Store Activity Tracked",
+      "quote": "Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with."
     },
     {
-      "category": "Sensitive Data",
+      "category": "Data Usage",
       "risk": "High",
-      "icon": "\ud83c\udfe5",
-      "headline": "Your Sensitive Data Risks",
-      "quote": "'PillPack Pharmacy Simplified' handles health data; 'Ring Smart Home Security Systems' and 'Blink Smart Security for Every Home' collect highly personal home environment data."
-    },
-    {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Data Sharing Practices",
-      "quote": "'Amazon.com, Inc. or its affiliates' indicates data sharing across its ecosystem. 'Amazon Ads Reach customers wherever they spend their time' implies sharing for advertising."
-    },
-    {
-      "category": "Targeted Advertising",
-      "risk": "High",
-      "icon": "\ud83c\udfaf",
-      "headline": "Your Data for Ads",
-      "quote": "'Amazon Ads Reach customers wherever they spend their time' clearly indicates data is used for targeted advertising and profiling."
-    },
-    {
-      "category": "Public/Law Enforcement Sharing",
-      "risk": "High",
-      "icon": "\ud83d\udea8",
-      "headline": "Your 'Neighbors App' Sharing",
-      "quote": "'Neighbors App Real-Time Crime & Safety Alerts' suggests sharing of sensitive location/incident data, potentially with a broader audience or authorities."
+      "icon": "\ud83d\udde3\ufe0f",
+      "headline": "Your Voice & Image Used",
+      "quote": "When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services."
     },
     {
       "category": "User Rights",
-      "risk": "Medium",
-      "icon": "\ud83d\udd11",
-      "headline": "Your Data Control Limited",
-      "quote": "'Your Ads Privacy Choices' is mentioned, but other data rights (access, deletion) and their exercise are not detailed in this text."
-    },
-    {
-      "category": "Data Security",
       "risk": "High",
-      "icon": "\ud83d\udd12",
-      "headline": "Your Data Security Unknown",
-      "quote": "The provided text does not contain any information regarding data security measures or safeguards for the collected data."
+      "icon": "\ud83d\udeab",
+      "headline": "Your Opt-Out Blocks Features",
+      "quote": "Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in."
     },
     {
-      "category": "International Data Transfers",
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "\ud83d\udce1",
+      "headline": "Your Extensive Data Collected",
+      "quote": "We receive and store any information you provide... We automatically collect and store certain types of information about your use... We might receive information about you from other sources... Examples of information we collect: identifying information... payment information; your age; your location information; your IP address; voice recordings... images and videos... Social Security and driver's license numbers; credit history information..."
+    },
+    {
+      "category": "Data Sharing",
       "risk": "Medium",
-      "icon": "\ud83c\udf0d",
-      "headline": "Your Data Crosses Borders",
-      "quote": "'AmazonGlobal Ship Orders Internationally' suggests international operations, implying potential international data transfers without specified protections."
+      "icon": "\ud83c\udfe2",
+      "headline": "Your Data in Business Sales",
+      "quote": "In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise)."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "\ud83d\udc65",
+      "headline": "Your Data for Marketing Assistance",
+      "quote": "Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include... analyzing data, providing marketing assistance... These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "\ud83d\udd70\ufe0f",
+      "headline": "Your Data Retention Unclear",
+      "quote": "When you update information, we usually keep a copy of the prior version for our records."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "\ud83d\udd17",
+      "headline": "Your Third-Party Ad Collection",
+      "quote": "Third-party advertising partners may collect information about you when you interact with their content, advertising, and services."
+    },
+    {
+      "category": "Consent",
+      "risk": "Medium",
+      "icon": "\u2705",
+      "headline": "Your General Consent Broad",
+      "quote": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
     }
   ]
 }
