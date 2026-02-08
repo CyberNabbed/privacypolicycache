@@ -1,0 +1,20 @@
+{
+  "url": "https://apple.com/legal/privacy/",
+  "scanned_at": "2026-02-08T18:34:00.245363Z",
+  "analysis": [
+    {
+      "category": "Transparency & Accessibility",
+      "risk": "High",
+      "icon": "\ud83d\udeab",
+      "headline": "Your Policy Unreachable",
+      "quote": "Something went wrong. The content for this page did not load correctly."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "\u2753",
+      "headline": "Your Data Sharing Unknown",
+      "quote": "Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information. The content for this page did not load correctly."
+    }
+  ]
+}
