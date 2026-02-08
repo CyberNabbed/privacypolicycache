@@ -1,0 +1,76 @@
+{
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "scanned_at": "2026-02-08T17:34:23.699Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "we may use information collected on an advertiser’s website to show you more relevant ads."
+    },
+    {
+      "category": "AI Training & Content Analysis",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "our algorithms and machine learning models take into account the conversations Snapchatters are having with My AI to improve the responses from My AI."
+    },
+    {
+      "category": "Content Sharing Risks",
+      "risk": "High",
+      "icon": "📸",
+      "headline": "Your Content Saved Externally",
+      "quote": "Snapchatters who view your Snaps, Chats, and any other content, can always screenshot that content, save it, or copy it outside the Snapchat app."
+    },
+    {
+      "category": "Location Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "If you’ve explicitly granted device-level permissions, device information may also include... location information (precise location through methods like GPS signals)."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Websites",
+      "quote": "we may use information collected on an advertiser’s website to show you more relevant ads."
+    },
+    {
+      "category": "Third-Party Data Receipt",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Receives Your Data from Others",
+      "quote": "data from advertisers (information from advertisers, app developers, publishers, and other third parties to help target or measure the performance of ads)"
+    },
+    {
+      "category": "Content Analysis & Profiling",
+      "risk": "Medium",
+      "icon": "🧐",
+      "headline": "Analyzes Your Content Automatically",
+      "quote": "we automatically tag content with labels based on the content, your location, or the time of day."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "In some cases we need to comply with legal requirements to store your data which stops us from deleting your information."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "we may collect your personal information from, transfer it to, and store and process it in the United States or other countries outside of where you live."
+    },
+    {
+      "category": "Policy Changes",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Policy Changes Without Consent",
+      "quote": "We may update our Privacy Policy from time to time, and will give you a heads up if we make any changes we think you should know about."
+    }
+  ]
+}
