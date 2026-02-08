@@ -1,76 +1,76 @@
 {
-  "url": "https://www.bbc.com/pages/privacy-policy",
-  "scanned_at": "2026-02-08T18:34:56.216631Z",
+  "url": "https://www.bbc.com/usingthebbc/privacy-policy/",
+  "scanned_at": "2026-02-08T18:41:07.641864Z",
   "analysis": [
     {
-      "category": "Data Collection & Profiling",
-      "risk": "High",
-      "icon": "\ud83d\udd75\ufe0f",
-      "headline": "Your data from brokers",
-      "quote": "We also use data from data brokers such as Experian mosaic data."
-    },
-    {
-      "category": "Data Collection & Profiling",
-      "risk": "High",
-      "icon": "\ud83e\udde0",
-      "headline": "Your inferred user profile",
-      "quote": "We use information we know about you and how you use our services to predict things about you (\u201cInferred Information\u201d)."
-    },
-    {
-      "category": "Data Sharing & Selling",
+      "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "\ud83e\udd1d",
-      "headline": "Your hashed data shared",
-      "quote": "We may use information such as your email address and usage behaviour to show you relevant marketing and promotional posts on social media and other sites... an encryption technique is applied to the data so the other platform can only read the data that it already knows about you."
+      "headline": "Your data shared for ads",
+      "quote": "If you have a BBC account we might use information that we hold about you to show you relevant and targeted advertising for BBC services through other companies\u2019 sites, like Facebook, Google, Snapchat or Twitter for example... Where we do this, we will share your data in a hashed format with these providers... In these scenarios, we are joint controllers with these companies because we jointly determine the purposes and means of processing your personal data."
     },
     {
-      "category": "Data Sharing & Selling",
+      "category": "Data Transfer",
       "risk": "High",
-      "icon": "\ud83d\udcb0",
-      "headline": "Your data for real-time bidding",
-      "quote": "We (and our clients) work with a range of companies to show you ads... sell our ad space in online auctions, e.g., \u2018real-time bidding\u2019 select and deliver the ads, and collate and manage the data needed to personalise ads. Generally, these companies will be acting as separate data controllers..."
+      "icon": "\ud83c\udf0d",
+      "headline": "Your data transferred globally",
+      "quote": "Keep in mind that when you give us personal information it could be being transferred, stored or processed in a location outside the UK and the EEA."
     },
     {
-      "category": "Data Sharing & Selling",
+      "category": "Data Collection",
       "risk": "High",
-      "icon": "\ud83c\udf10",
-      "headline": "Your extensive ad partner data",
-      "quote": "Advertising delivered via our service providers can also include the use of data that has been collated and synced across multiple sites and sources. This may include the advertiser client\u2019s own marketing database, demographics (e.g. from data brokers and credit reference agencies), online cross-site browsing behaviour, social media data, and offline data (e.g. loyalty card and retail transactions)."
+      "icon": "\ud83e\udd2b",
+      "headline": "Your sensitive data collected",
+      "quote": "If you apply to take part in a programme on politics, for example, we might ask you about your political opinions."
     },
     {
-      "category": "Data Sharing & Transfers",
+      "category": "Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udd04",
-      "headline": "Your data with BBC group",
-      "quote": "your information may be shared between companies in the BBC group (including BBC Public Service and BBC Studios companies such as UKTV and Britbox International) for the purposes of research, analysis, marketing and ad-serving."
+      "icon": "\ud83d\udd75\ufe0f",
+      "headline": "Your online activity tracked",
+      "quote": "We automatically collect some technical information from these devices and web browsers even when you're not signed into to a BBC account. This might include: IP (internet protocol) address device ID app ID vendor ID advertising ID"
     },
     {
-      "category": "Data Sharing & Control",
+      "category": "Data Collection",
       "risk": "High",
-      "icon": "\u2699\ufe0f",
-      "headline": "Your data with separate controllers",
-      "quote": "We work with third parties who use cookies and similar technologies... These companies may be independently making decisions about how and why your personal information is processed, meaning they are a separate \u201cData Controller\u201d."
+      "icon": "\ud83d\udccd",
+      "headline": "Your precise location tracked",
+      "quote": "Your location can be determined at a town or city level by: GPS IP address Information about nearby cell towers and Wi-Fi access point information"
     },
     {
-      "category": "Persistent Tracking",
+      "category": "Third-Party Tracking",
       "risk": "Medium",
-      "icon": "\ud83d\udd17",
-      "headline": "Your activity across services linked",
-      "quote": "If you don't have an account, we\u2019ll assign you a unique identifier... If you later create an account, we will connect this ID to your account ID to enable us to continue to personalise your experience."
+      "icon": "\ud83c\udf6a",
+      "headline": "Your tracking by third-parties",
+      "quote": "Bear in mind there are some other cookies out there from other companies. These \"third-party cookies\" might track how you use different websites, including ours. For example, you might get a social media company\u2019s cookie when you see the option to share something. You can turn them off, but not through us."
     },
     {
-      "category": "Business Practices",
+      "category": "Data Retention",
       "risk": "Medium",
-      "icon": "\ud83c\udfe2",
-      "headline": "Your data transferred upon sale",
-      "quote": "We reserve the right to transfer your personal information in the event we sell or transfer all or a part of our business or assets so that the buyer can continue to offer you the services."
+      "icon": "\u23f3",
+      "headline": "Your data retained post-deletion",
+      "quote": "If you're talking about BBC account... Your account information is immediately deleted. Keep in mind: we keep a record of how you've used our services, but this information can't be linked back to you we also keep anything you've uploaded or commented on"
     },
     {
-      "category": "Third-Party Reliance",
+      "category": "User Rights",
       "risk": "Medium",
-      "icon": "\ud83d\udcf1",
-      "headline": "Your privacy depends on platforms",
-      "quote": "When you choose to participate in or receive a service from us via social media and similar third party platforms... the social network may share with us personal information about you depending on the privacy notice and any choices you have on that platform."
+      "icon": "\u2696\ufe0f",
+      "headline": "Your rights limited by journalism",
+      "quote": "Bear in mind, sometimes we might not be able to help. Like if the law tells us we can't or it forms part of our journalistic output."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "\ud83d\udc65",
+      "headline": "Your data shared broadly",
+      "quote": "When we use other companies to power our services In order for us to give you quality experiences and to understand how you're using our services we often use other companies to process your personal information on our behalf."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "\ud83d\udd2c",
+      "headline": "Your data shared for research",
+      "quote": "We do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. This might include information we\u2019ve collected about you."
     }
   ]
 }
