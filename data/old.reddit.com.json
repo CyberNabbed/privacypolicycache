@@ -1,0 +1,55 @@
+{
+  "url": "https://old.reddit.com/r/privacy/comments/ec7egy/does_a_public_repository_of_privacy_policies_exist/",
+  "scanned_at": "2026-02-08T18:59:12.822Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Your Data Used For Ads",
+      "quote": "Get an ad-free experience with special benefits, and directly support Reddit."
+    },
+    {
+      "category": "AI Training & Usage",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "AI Trains on Your Data",
+      "quote": "Starlink now allows customer data to train AI models unless users opt out (reuters.com)"
+    },
+    {
+      "category": "Policy Transparency",
+      "risk": "Medium",
+      "icon": "📖",
+      "headline": "Policies Hard To Understand",
+      "quote": "Does a public repository of privacy policies exist? ... A service like this could make it easy to understand, compare, and expose website activity."
+    },
+    {
+      "category": "Government Data Access",
+      "risk": "High",
+      "icon": "🚓",
+      "headline": "Government Access Your Data",
+      "quote": "Police shut down license plate reader cameras after federal agencies accessed data without permission (sfchronicle.com)"
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "Medium",
+      "icon": "🔞",
+      "headline": "Your Age Data Collected",
+      "quote": "We’re EFF and we’re fighting to defend your privacy from the global onslaught of invasive age verification mandates."
+    },
+    {
+      "category": "Device Data Collection",
+      "risk": "Medium",
+      "icon": "📱",
+      "headline": "Your Device Data Tracked",
+      "quote": "Smartglasses spark privacy fears as secret filming videos flood social media | Technology News (indiatvnews.com)"
+    },
+    {
+      "category": "Consent Mechanism",
+      "risk": "Medium",
+      "icon": "✍️",
+      "headline": "Your Use Implies Consent",
+      "quote": "Use of this site constitutes acceptance of our User Agreement and Privacy Policy."
+    }
+  ]
+}
