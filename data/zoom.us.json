@@ -1,0 +1,76 @@
+{
+  "url": "https://www.zoom.com/en/products/ai-assistant/resources/privacy-security/",
+  "scanned_at": "2026-02-08T18:34:46.131787Z",
+  "analysis": [
+    {
+      "category": "Data Sharing",
+      "risk": "High",
+      "icon": "\ud83e\udd1d",
+      "headline": "Your Data Shared Widely",
+      "quote": "Zoom\u2019s unique federated approach... dynamically incorporating Zoom\u2019s artificial intelligence models as well as third-party artificial intelligence models provided by subprocessors, such as OpenAI and Anthropic."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "\ud83d\udd70\ufe0f",
+      "headline": "Your Data Retained by AI",
+      "quote": "If the AI Companion feature relies on a third-party artificial intelligence model... the third-party model provider may retain the content used to provide the service for trust and safety purposes, within the U.S., for up to 30 days."
+    },
+    {
+      "category": "User Control",
+      "risk": "High",
+      "icon": "\u2699\ufe0f",
+      "headline": "Your Data Sent by Default",
+      "quote": "IMPORTANT NOTE: Zoom offers a Zoom\u2013hosted Models Only (ZMO) option... To enable ZMO or ZM+, please reach out to your account team or log a support ticket."
+    },
+    {
+      "category": "Data Collection (Biometric)",
+      "risk": "High",
+      "icon": "\ud83e\udd33",
+      "headline": "Your Face & Voice Used",
+      "quote": "To build a custom avatar, users will record a video and authorize analysis and storage of recorded video and related facial and voice data."
+    },
+    {
+      "category": "Data Integration",
+      "risk": "High",
+      "icon": "\ud83d\udd17",
+      "headline": "Your External Data Indexed",
+      "quote": "If enabled, Zoom AI Companion can use data from Microsoft and/or Google... content will be indexed and stored by Zoom... so only recent content is used when providing responses."
+    },
+    {
+      "category": "Sensitive Data Upload",
+      "risk": "High",
+      "icon": "\ud83c\udfe2",
+      "headline": "Your Company Data Exposed",
+      "quote": "Knowledge Collections allow organizations to enhance AI Companion responses with organization-specific content - such as internal documentation, knowledge bases, or indexed data sources."
+    },
+    {
+      "category": "Data Access",
+      "risk": "Medium",
+      "icon": "\ud83d\udc41\ufe0f",
+      "headline": "Your Content Employee Access",
+      "quote": "Zoom employees may not access or use customer content... unless authorized by the account owner or administrator... or as required for legal, safety, or security reasons."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "\u23f1\ufe0f",
+      "headline": "Your Data Kept for Debug",
+      "quote": "Zoom may retain the customer content... for up to 30 days for support and debugging purposes* unless a longer retention period is required by applicable law, including for trust and safety purposes."
+    },
+    {
+      "category": "Transparency",
+      "risk": "Medium",
+      "icon": "\ud83d\udd04",
+      "headline": "Your AI Models May Change",
+      "quote": "Changes to the models used in federation can occur at any time to improve the service or resolve issues and outages."
+    },
+    {
+      "category": "Data Residency",
+      "risk": "Medium",
+      "icon": "\ud83c\udf0e",
+      "headline": "Your Data Transfers Abroad",
+      "quote": "Model Processing and Provider Storage Location: ...OpenAI - US, Anthropic - US, EU... Perplexity processes data in the US."
+    }
+  ]
+}
