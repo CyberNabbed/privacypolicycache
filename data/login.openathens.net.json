@@ -1,0 +1,27 @@
+{
+  "url": "https://login.openathens.net/auth/lewisu.edu/o/71973055?t=%2Fsaml%2F2%2Fsso%2Flewisu.edu%3FSAMLRequest%3DlZJBj9owEIX%252FiuV74sRQGizCKiWgItGKLrs99OYmA1hybNdjs9t%252F3yQIlV5W3aM9M37vfZ7Fw2unyQU8KmtKmqcZJWAa2ypzKunz0yYp6MNygbLTTlQxnM0j%252FIqAgfRzBsVYKGn0RliJCoWRHaAIjThUX3aCp5lw3gbbWE1JhQg%252B9EIrazB24A%252FgL6qB58ddSc8hOBSMqQTP0kOi4SV1XnU2hVetfnqFJ2%252BjSxvbsc6cmGvxszSthp09KUNJ3ZtSRoYxx%252B0xPdRS66AvnMFgaiCwwTPjDNGyXkRhTKGNlGysb2CMWNKj1AiUbOuSVutpNalXc84%252FruvpcJgUs%252FrDZM3z9XT%252BabORrs3yvhf3ElFd4O80YoStwSBNKCnP%252BCzJeJJPnvJC5DORFymfFz8o%252BX6j39OiV9ZinPV3kN9mLG9k6fK9HEdEC3anerXAnfja62zrvdWq%252BX1nhf%252F%252Fh2ttX1YeZOipBB9hpNzJ8PYDw41qk%252BPYKoKXBhWYQMlhP1j6FqVWRwX%252B%252FUszhqVsec3770Yv%252FwA%253D%26RelayState%3Dhttps%253A%252F%252Fi-share-lew.primo.exlibrisgroup.com%252Fdiscovery%252Fsearch%253Fquery%253Dany%2525252Ccontains%2525252Ceffect%25252520of%25252520simplified%25252520privacy%25252520policies%25252520on%25252520user%25252520consent%2526tab%253DEverything%2526search_scope%253DMyInst%2525255Fand%2525255FCI%2526vid%253D01CARLI_LEW%253ACARLI_LEW%2526offset%253D0%2540%254001CARLI_LEW%2540%2540primaws&redirect=true",
+  "scanned_at": "2026-02-13T18:16:43.033Z",
+  "analysis": [
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Collects Your Login Info",
+      "quote": "Username / Password"
+    },
+    {
+      "category": "Cookie Usage",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Uses Unspecified Cookies",
+      "quote": "Manage cookie preferences"
+    },
+    {
+      "category": "Transparency",
+      "risk": "High",
+      "icon": "❓",
+      "headline": "Your Policy Details Hidden",
+      "quote": "Privacy"
+    }
+  ]
+}
