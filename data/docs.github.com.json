@@ -1,0 +1,76 @@
+{
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+  "scanned_at": "2026-02-13T04:47:16.643Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "As defined by applicable law, we “shared” the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above."
+    },
+    {
+      "category": "Organizational Data Control",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Organization Controls Your Data",
+      "quote": "When a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services."
+    },
+    {
+      "category": "Content Usage for Service Improvement",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Uses Your Code to Improve",
+      "quote": "When you use our Services, we collect Personal Data included as part of the information you provide such as code, inputs, text, documents, images, or feedback."
+    },
+    {
+      "category": "Extensive Tracking and Profiling",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Extensive Tracking & Profiling",
+      "quote": "We may also employ third-party Cookies to gather data for interest-based advertising."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Goes Abroad",
+      "quote": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection."
+    },
+    {
+      "category": "Collection of Sensitive Data",
+      "risk": "Medium",
+      "icon": "🧬",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "In some cases, you provide us with ethnicity, gender, or similar demographic details."
+    },
+    {
+      "category": "Data Inference and Profiling",
+      "risk": "Medium",
+      "icon": "🤔",
+      "headline": "Infers Your Characteristics",
+      "quote": "We generate new information from other data we collect to derive likely preferences or other characteristics."
+    },
+    {
+      "category": "Third-Party Policy Application",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Third-Party Policies May Apply",
+      "quote": "When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them."
+    },
+    {
+      "category": "Private Repository Scanning",
+      "risk": "Medium",
+      "icon": "🔎",
+      "headline": "Scans Your Private Repos",
+      "quote": "GitHub personnel does not access private repository information without your consent except for automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service."
+    },
+    {
+      "category": "Limited Direct Control as User",
+      "risk": "Medium",
+      "icon": "💼",
+      "headline": "Limited Direct Control Rights",
+      "quote": "In cases where your organization grants access to GitHub products, GitHub acts as the Data Controller solely for specific processing activities."
+    }
+  ]
+}
