@@ -1,0 +1,69 @@
+{
+  "url": "https://help.netflix.com/legal/privacy",
+  "scanned_at": "2026-02-25T22:15:30.150Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "We may disclose your personal information to the following parties: The Netflix family of companies, Service Providers, Partners, Netflix marketing providers, Advertising Companies, Promotional collaborations, Corporate transactions, Safety, security and fraud prevention, Compliance with law and enforcing the Netflix Terms of Use."
+    },
+    {
+      "category": "Cross-Site Tracking Data Collection",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Collects Your Cross-Site Data",
+      "quote": "Advertising Companies: We may collect advertising information about you from other sources to support Advertisements, including the following (collectively referred to as “Advertising Companies”): ... information about your likely interests they have collected or inferred based on your activities online."
+    },
+    {
+      "category": "Communication Monitoring",
+      "risk": "High",
+      "icon": "🎤",
+      "headline": "Monitors & Records Your Chats",
+      "quote": "To help maintain the safety and security of our service and users, we and our Service Providers may monitor and record message content (such as chat functionality) to identify harmful behavior, security risks, and violations of the Netflix Terms of Use and community guidelines."
+    },
+    {
+      "category": "Behavioral Advertising",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Shows You Behavioral Ads",
+      "quote": "Some of our Advertisements may be behavioral advertisements (“behavioral advertisements” are those that are selected based on information about your use and/or interactions with unaffiliated third party services)."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Internationally",
+      "quote": "This means that when you use or interact with Netflix, your personal information may be transferred to other countries that have different data protection laws than those where you reside."
+    },
+    {
+      "category": "Shared Account Privacy Risk",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Household Members See Your Info",
+      "quote": "If you share or otherwise allow others to have access to your account, they may be able to see viewing information, account information in the “Account” section of the service, and game related information such as chat contents and saved game information."
+    },
+    {
+      "category": "Hashed ID Marketing",
+      "risk": "Medium",
+      "icon": "🏷️",
+      "headline": "Uses Hashed IDs for Marketing",
+      "quote": "Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party."
+    },
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "Ignores Your Do Not Track",
+      "quote": "We do not currently respond to web browser “do not track\" signals."
+    },
+    {
+      "category": "Indefinite Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Broadly",
+      "quote": "Specifically, we retain personal information for as long as necessary to provide our service; to administer and operate our business; to research, analyze, and improve our services; to send marketing and informational messages; to support Advertisements; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use."
+    }
+  ]
+}
