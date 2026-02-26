@@ -1,0 +1,76 @@
+{
+  "url": "https://github.com/CyberNabbed/privacypolicycache/blob/main/data/netflix.com.json",
+  "scanned_at": "2026-02-26T01:19:47.891Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your Data Shared Widely.",
+      "quote": "We may disclose your personal information to the following parties: ... Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. ... Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Your Data Collection Is Broad.",
+      "quote": "We collect the following categories of personal information about you: Personal details... Payment details... Purchase information... Netflix account/profile information... Usage information... Advertising information... Device and network information... Communications."
+    },
+    {
+      "category": "Advertising & Tracking",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your Behavioral Ads On Netflix.",
+      "quote": "Some of our Advertisements may be behavioral advertisements (“ behavioral advertisements ” are those that are selected based on information about your use and/or interactions with unaffiliated third party services)."
+    },
+    {
+      "category": "Data Processing & Monitoring",
+      "risk": "High",
+      "icon": "🎧",
+      "headline": "Your Communications Are Monitored.",
+      "quote": "To help maintain the safety and security of our service and users, we and our Service Providers may monitor and record message content (such as chat functionality) to identify harmful behavior, security risks, and violations of the Netflix Terms of Use and community guidelines."
+    },
+    {
+      "category": "Data Collection Sources",
+      "risk": "High",
+      "icon": "🎣",
+      "headline": "Your Data From Third Parties.",
+      "quote": "From Partners whose products and services you use... From other sources: ...Advertising Companies: We may collect advertising information about you from other sources to support Advertisements..."
+    },
+    {
+      "category": "Data Sovereignty",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transfers Globally.",
+      "quote": "This means that when you use or interact with Netflix, your personal information may be transferred to other countries that have different data protection laws than those where you reside."
+    },
+    {
+      "category": "User Control & Preferences",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Your Do Not Track Ignored.",
+      "quote": "We do not currently respond to web browser “do not track\" signals."
+    },
+    {
+      "category": "Account Management",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Account Shared Risks.",
+      "quote": "If you share or otherwise allow others to have access to your account, they may be able to see viewing information, account information in the “Account” section of the service, and game related information such as chat contents and saved game information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Your Profile Data Expansion.",
+      "quote": "Profile users may be offered the opportunity to add an email address, phone number, or other information to the profile and will be provided with a notice at the time such information is provided."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Low",
+      "icon": "⏳",
+      "headline": "Your Data Retention Unclear.",
+      "quote": "For information about deletion, removal, and retention of personal information, please see: help.netflix.com/node/100625."
+    }
+  ]
+}
