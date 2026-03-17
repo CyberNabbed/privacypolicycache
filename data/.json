@@ -1,69 +1,55 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:57.898634+00:00",
+  "scanned_at": "2026-03-17T21:24:01.816771+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "🤝",
-      "headline": "Shares Your Data Widely",
-      "quote": "We may disclose Information to business partners and third parties (e.g., other companies, retailers, distributors, social media networks, research organizations, publishers, and non-profit organizations) for their own purposes, including marketing products or services to you, showing you relevant advertising, or providing an enhanced experience that integrates with one of our Services."
+      "headline": "Shares Your Data for Ads",
+      "quote": "Our advertisers ask us to use reader data so their ads can be targeted at the right audiences."
     },
     {
       "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "🗣️",
-      "headline": "Shares with Affiliates for Marketing",
-      "quote": "Also, where we are permitted to do so under applicable law, we may disclose Information to other Controllers in our family of companies so that they can contact you about other Services we provide."
-    },
-    {
-      "category": "Intrusive Data Collection",
-      "risk": "High",
-      "icon": "🖱️",
-      "headline": "Records Your Interactions",
-      "quote": "Usage and Viewing Information: ...including recordings of your interactions with our Services, which may include mouse clicks, mouse movements, keystrokes, and page scrolling. When you use our Service, you consent to the recording of your interactions with us."
-    },
-    {
-      "category": "Sensitive Data Collection",
-      "risk": "High",
-      "icon": "🏥",
-      "headline": "Collects Sensitive Health, Race Info",
-      "quote": "Demographic Information: In limited cases, physical or mental health, race, or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, or political affiliation."
-    },
-    {
-      "category": "Biometric Data Collection",
       "risk": "Medium",
-      "icon": "👁️",
-      "headline": "Collects Your Biometric Data",
-      "quote": "We may also collect data that could be considered biometric if you choose to participate in one of our interactive research studies or other initiatives that involve the collection of this data."
+      "icon": "🔄",
+      "headline": "Shares Your Data Online",
+      "quote": "When we detect a GPC signal from a reader’s browser where GDPR, CCPA or a similar privacy law applies, we stop sharing the reader’s personal data online with other companies (except with our service providers)."
     },
     {
-      "category": "Third-Party Tracking",
+      "category": "Data Collection",
       "risk": "High",
-      "icon": "🕵️",
-      "headline": "Third Parties Track You",
-      "quote": "WBD (including our affiliates) and third parties may use these technologies to collect information over time from apps, websites, and other digital products. We and third-party advertising companies may use this Information to help serve advertising tailored to your interests, both on and off the WBD Services."
+      "icon": "👀",
+      "headline": "Collects Your Behavioral Data",
+      "quote": "Our tracking technologies collect data about your reading behavior, like which articles you read, which recipes you save, which Games you play or how often you visit The Times."
     },
     {
-      "category": "International Data Transfers",
-      "risk": "Medium",
-      "icon": "🌍",
-      "headline": "Your Data Transfers Globally",
-      "quote": "Sometimes our use of your Information requires your Information to be transferred to countries outside the country where you are located, including countries where the level of legal protection for your Information may be different."
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Collects Your Data From Third-Parties",
+      "quote": "Additionally, we collect data about readers from sources like privately owned databases and social media platforms."
     },
     {
-      "category": "Limited Data Deletion Rights",
+      "category": "Targeted Advertising",
       "risk": "Medium",
-      "icon": "❌",
-      "headline": "Deletion Rights Are Limited",
-      "quote": "In specific cases, we may not be able to delete some types of Information, in particular, where we have a legal obligation to keep that Information (e.g., for regulatory reporting purposes), or where you want us to continue to provide you with a Service and the processing of the Information is necessary for the provision of that Service."
+      "icon": "🎯",
+      "headline": "Targets You With Ads",
+      "quote": "For example, we use readers’ data to identify who may be interested in a subscription in order to show you Times ads on other websites."
     },
     {
-      "category": "Data Insecurity Disclaimer",
+      "category": "Data Retention & Deletion",
       "risk": "Medium",
-      "icon": "🔒",
-      "headline": "No Perfect Security Guaranteed",
-      "quote": "Unfortunately, no security measures are perfect, and we cannot assure you that Information will never be accessed or used in an unauthorized way."
+      "icon": "❓",
+      "headline": "No Data Deletion Info",
+      "quote": "This F.A.Q. applies to nytimes.com readers."
+    },
+    {
+      "category": "Consent & Control",
+      "risk": "Low",
+      "icon": "✅",
+      "headline": "Supports Global Privacy Control",
+      "quote": "Yes. When we detect a GPC signal from a reader’s browser where GDPR, CCPA or a similar privacy law applies, we stop sharing the reader’s personal data online with other companies (except with our service providers)."
     }
   ]
 }
