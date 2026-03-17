@@ -1,0 +1,69 @@
+{
+  "url": "https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/",
+  "scanned_at": "2026-03-17T21:32:37.809980+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Ads",
+      "quote": "Our Advertising Partners, such as through Cookies and Similar Technologies, for purposes of serving you Targeted Advertising."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "We may share Personal Information as required or as permitted by law, with: the American Express Family of Companies."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "We may also share Personal Information with other third parties for their own use with your consent, or, if applicable, as otherwise described in the Business Card Privacy Notice."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Tracks Your Across Devices",
+      "quote": "your browsing and app use activities over time, and across websites and apps, (Service Providers or Advertising Partners perform such activities on our behalf); the likely associations among different browsers and devices; such as whether two devices are associated with the same individual."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "⚙️",
+      "headline": "Collects Biometric Data",
+      "quote": "For example, you might give us your name, account number, email, mailing address, biometric data, phone number, or date of birth when you: fill out an online form or survey, including when you book travel with us."
+    },
+    {
+      "category": "Targeted Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Uses Your Data for Targeted Ads",
+      "quote": "advertise and market our products and services – and those of our Business Partners – including to: present content or ads online that are tailored to your interests, including Targeted Advertising, across multiple devices."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We will keep your Online Information only as long as we must to deliver our products and services, unless we are required by law or regulation or for litigation and regulatory investigations to keep it."
+    },
+    {
+      "category": "Data Rights",
+      "risk": "Low",
+      "icon": "⚖️",
+      "headline": "Offers Data Correction Right",
+      "quote": "If any data is inaccurate or incomplete, you may request that the data be amended."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Low",
+      "icon": "👶",
+      "headline": "Not for Children Under 13",
+      "quote": "Our websites and apps are not intended for children under 13 years of age. We do not knowingly solicit data online from, or market online to, children under 13 years of age."
+    }
+  ]
+}
