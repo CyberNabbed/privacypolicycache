@@ -1,0 +1,69 @@
+{
+  "url": "https://slack.com/trust/privacy/privacy-policy",
+  "scanned_at": "2026-03-17T21:33:22.473225+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We may also share personal information (in the form of identifiers and internet activity information) with third party advertisers for purposes of targeting advertisements on non-Slack websites, applications, and services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "We may engage third-party companies or individuals as service providers or business partners to process Information and support our business."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Shares with Corporate Affiliates",
+      "quote": "Slack may share Information with our corporate affiliates, parents and/or subsidiaries."
+    },
+    {
+      "category": "Data Collection & Use",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Workplace Spies on You",
+      "quote": "Owners, administrators, Authorized Users, and other Customer representatives and personnel may be able to access, modify, or restrict access to Information. This may include, for example, your employer using features of the Services to access or modify your profile details, or to export logs of Workspace activity."
+    },
+    {
+      "category": "Data Collection & Use",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Collects Your Location Data",
+      "quote": "We receive information from you, our Customers and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer (who is our Customer) or an IP address received from your browser or device to determine approximate location to assist with localization or for security purposes."
+    },
+    {
+      "category": "Data Collection & Use",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Collects Your Audio/Video Metadata",
+      "quote": "Slack may receive, capture, and store metadata derived from your use of features such as Slack Huddles or Clips, and additional related data such as data regarding the date and time of your Slack Huddle and the Authorized User that you connected with."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Cannot Opt Out Service Emails",
+      "quote": "These communications are considered part of the Services and you may not opt out of them."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "Slack may transfer your Personal Data to countries other than the one in which you live, including transfers to the United States."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Retains Data After Account Deletion",
+      "quote": "This may include keeping your Other Information after you have deactivated your account for the period of time needed for Slack to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes, and enforce our agreements."
+    }
+  ]
+}
