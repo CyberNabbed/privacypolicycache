@@ -1,0 +1,69 @@
+{
+  "url": "https://stackoverflow.com/legal/privacy-policy",
+  "scanned_at": "2026-03-17T21:30:35.954317+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We may place cookies on your device (with your consent, where applicable), as well as partner with third parties, including advertising partners, who may use cookies or other similar technologies to provide you with advertising based on your browsing activities and interests."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Location with Partners",
+      "quote": "We share this information with certain third-parties (e.g., talent recruiters, payment processors, and advertising providers) in order to provide you with our Products and Services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Developer Survey Data",
+      "quote": "while we may share your personal information with our third party providers for our research, we do so only after imposing contractual obligations of confidentiality on such third parties and only where necessary for limited research purposes."
+    },
+    {
+      "category": "Persistent Tracking",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Tracks Your Email Activity",
+      "quote": "Stack Overflow emails use Javascript for email tracking of opens, clicks, and unsubscribes or may contain a small, invisible, one pixel image which can be used to let us know when the email is opened or forwarded."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏳",
+      "headline": "Public Posts Remain Forever",
+      "quote": "Please be aware that when using the Public Question and Answer Network, you cannot revoke permission for Stack Overflow to publish and to allow others to have derivative rights to such public content once it is made public."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Your Sensitive Demographics",
+      "quote": "In order to provide meaningful insights into the developer community, Stack Overflow may collect sensitive data about you, including, but not limited to your gender, race, sexual orientation, immigration status, and your location."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Third Parties Track Your Ads",
+      "quote": "We allow advertisers to use MOAT, Doubleverify, and IAS tags on their campaigns to monitor for fraud."
+    },
+    {
+      "category": "User Rights Limitation",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Cannot Revoke Public Content",
+      "quote": "The content you contribute on the public network is public, in perpetuity, and Stack Overflow loses direct control over such content when it is published on the open internet."
+    },
+    {
+      "category": "Broad Data Collection",
+      "risk": "Medium",
+      "icon": "👀",
+      "headline": "Collects Detailed Usage Info",
+      "quote": "This includes your interactions with content, like voting, saving, hiding, and reporting. It also includes your interactions with other users, such as following. We collect your interactions with communities, like your subscriptions or moderator status."
+    }
+  ]
+}
