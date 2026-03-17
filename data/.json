@@ -1,55 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:24:01.816771+00:00",
+  "scanned_at": "2026-03-17T21:24:07.313493+00:00",
   "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data With Amazon",
+      "quote": "We share user information with our parent corporation (Amazon.com, Inc.), the subsidiaries it controls that follow practices at least as protective as those described in this Privacy Notice, and as described below."
+    },
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "🤝",
       "headline": "Shares Your Data for Ads",
-      "quote": "Our advertisers ask us to use reader data so their ads can be targeted at the right audiences."
+      "quote": "We provide ad-serving companies, ad networks and advertising companies with information that allows them to serve you with more useful and relevant ads and to measure their effectiveness."
     },
     {
       "category": "Data Selling & Sharing",
       "risk": "Medium",
-      "icon": "🔄",
-      "headline": "Shares Your Data Online",
-      "quote": "When we detect a GPC signal from a reader’s browser where GDPR, CCPA or a similar privacy law applies, we stop sharing the reader’s personal data online with other companies (except with our service providers)."
+      "icon": "Partnership",
+      "headline": "Shares With Third-Party Providers",
+      "quote": "We make available to you services provided by third parties. For example, you can purchase movie tickets from third parties through Showtimes & Tickets. You can tell when a third party is involved in your transactions, and we share users' personal information related to those transactions with that third party."
     },
     {
       "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Location Data",
+      "quote": "As a result of those actions, you might supply us with such information as: ... your location information;"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Collects Sensitive Profile Data",
+      "quote": "As a result of those actions, you might supply us with such information as: ... your age; your gender; ... your acting experience and unique acting skills; your educational background and professional training; your physical attributes; your general movie preferences; the movies and actors you like or dislike; ..."
+    },
+    {
+      "category": "Tracking & Analytics",
       "risk": "High",
       "icon": "👀",
-      "headline": "Collects Your Behavioral Data",
-      "quote": "Our tracking technologies collect data about your reading behavior, like which articles you read, which recipes you save, which Games you play or how often you visit The Times."
+      "headline": "Tracks Your Activity Across Sites",
+      "quote": "Like many websites, we use \"cookies\" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses IMDb Services and other content served by or on behalf of IMDb on other websites."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "👤",
-      "headline": "Collects Your Data From Third-Parties",
-      "quote": "Additionally, we collect data about readers from sources like privately owned databases and social media platforms."
-    },
-    {
-      "category": "Targeted Advertising",
+      "category": "Data Retention",
       "risk": "Medium",
-      "icon": "🎯",
-      "headline": "Targets You With Ads",
-      "quote": "For example, we use readers’ data to identify who may be interested in a subscription in order to show you Times ads on other websites."
+      "icon": "🗑️",
+      "headline": "Keeps Your Data Indefinitely",
+      "quote": "We keep your personal information to enable your continued use of IMDb Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you."
     },
     {
-      "category": "Data Retention & Deletion",
+      "category": "User Rights",
       "risk": "Medium",
-      "icon": "❓",
-      "headline": "No Data Deletion Info",
-      "quote": "This F.A.Q. applies to nytimes.com readers."
+      "icon": "⚖️",
+      "headline": "Limits Your Deletion Rights",
+      "quote": "Please be advised that IMDb is legally required or entitled to retain some information, such as your content contribution history. We do this in line with applicable laws, including for tax, accounting, and fraud prevention purposes."
     },
     {
-      "category": "Consent & Control",
-      "risk": "Low",
-      "icon": "✅",
-      "headline": "Supports Global Privacy Control",
-      "quote": "Yes. When we detect a GPC signal from a reader’s browser where GDPR, CCPA or a similar privacy law applies, we stop sharing the reader’s personal data online with other companies (except with our service providers)."
+      "category": "Automated Decision Making",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Personalizes Content & Ads",
+      "quote": "We use your personal information to recommend features, content, products, and services that might be of interest to you, identify your preferences, and personalize your experience with IMDb Services."
     }
   ]
 }
