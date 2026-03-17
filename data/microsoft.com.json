@@ -1,76 +1,76 @@
 {
-  "url": "https://privacy.microsoft.com/en-us/privacystatement",
-  "scanned_at": "2026-02-08T18:40:05.805471Z",
+  "url": "https://www.microsoft.com/en-us/privacy/privacystatement",
+  "scanned_at": "2026-03-17T21:28:20.968443+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Data Shared for Ads",
-      "quote": "Please note that, as defined under certain U.S. state data privacy laws, \u201csharing\u201d also relates to providing personal data to third parties for personalized advertising purposes. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties."
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We also share personal data for digital advertising purposes. When you visit a website or use an app that wants to show you ads, the digital property may allow Microsoft to access or receive device data or certain other data identified in the Personal data we collect section above. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties."
     },
     {
-      "category": "Data Collection",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
-      "headline": "Your Extensive Data Collected",
-      "quote": "The data we collect can include the following: Name and contact data, Credentials, Demographic data, Payment data, Interactions (e.g., browse history), Voice data, Biometric data and identifiers, Content of your files and communications, Video or recordings (from physical locations), and Traffic data."
+      "icon": "🤝",
+      "headline": "Shares With Affiliates & Partners",
+      "quote": "In addition, we share personal data among Microsoft-controlled affiliates and subsidiaries, including for the purposes described in this privacy statement. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement."
     },
     {
-      "category": "Content Monitoring",
+      "category": "Data Collection & Use",
       "risk": "High",
-      "icon": "\ud83d\udce7",
-      "headline": "Your Content Systematically Scanned",
-      "quote": "some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions... We use scanning technologies to create digital signatures (known as \u201chashes\u201d) of certain images and video content on our systems."
-    },
-    {
-      "category": "Sensitive Data",
-      "risk": "High",
-      "icon": "\u270b",
-      "headline": "Your Biometric Data Collected",
-      "quote": "Biometric data and identifiers. Data about you resulting from specific technical processing relating to your physical, physiological, or behavioral characteristics which allow or confirm unique identification."
-    },
-    {
-      "category": "Government Access",
-      "risk": "High",
-      "icon": "\ud83c\udfdb\ufe0f",
-      "headline": "Your Content Disclosed to Government",
-      "quote": "Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to... Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies."
-    },
-    {
-      "category": "Third-Party Data",
-      "risk": "High",
-      "icon": "\ud83d\udcb0",
-      "headline": "Your Data Bought from Brokers",
-      "quote": "Data brokers from which we purchase demographic data to supplement the data we collect."
-    },
-    {
-      "category": "Data Processing",
-      "risk": "High",
-      "icon": "\ud83e\udd16",
-      "headline": "Your Data Trains AI Models",
+      "icon": "🧠",
+      "headline": "Trains AI on Your Data",
       "quote": "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models."
     },
     {
-      "category": "Advertising & Tracking",
+      "category": "Data Collection & Use",
       "risk": "High",
-      "icon": "\ud83c\udf10",
-      "headline": "Your Cross-Context Tracking for Ads",
-      "quote": "We use data we collect through our interactions with you, through some of our first-party products, services, apps, and web properties (Microsoft properties), and on third-party web properties, for advertising on our Microsoft properties and on third-party properties."
+      "icon": "👂",
+      "headline": "Collects Your Voice Data",
+      "quote": "Voice data . Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds."
     },
     {
-      "category": "Physical Surveillance",
+      "category": "Sensitive Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udcf9",
-      "headline": "Your Image Recorded in Stores",
-      "quote": "If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data."
+      "icon": "👁️‍🗨️",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric data and identifiers . Data about you resulting from specific technical processing relating to your physical, physiological, or behavioral characteristics which allow or confirm unique identification."
     },
     {
-      "category": "Sensitive Data",
+      "category": "Surveillance & Monitoring",
       "risk": "High",
-      "icon": "\ud83d\udde3\ufe0f",
-      "headline": "Your Voice Data Recorded",
-      "quote": "Your voice data, sometimes referred to as \u201cvoice clips\u201d, such as search queries, commands, or dictation you speak, which may include background sounds."
+      "icon": "📹",
+      "headline": "Records Your Video/Audio",
+      "quote": "Video or recordings . Recordings of events and activities at Microsoft buildings, retail spaces, and other locations. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data."
+    },
+    {
+      "category": "Content Scanning",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Scans Your Private Content",
+      "quote": "For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms."
+    },
+    {
+      "category": "Mandatory Data Provision",
+      "risk": "Medium",
+      "icon": "❌",
+      "headline": "No Data, No Product Use",
+      "quote": "If you choose not to provide data -required to provide you with a product or feature, you cannot use that product or feature."
+    },
+    {
+      "category": "Cross-Context Data Combination",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Combines Your Data Sources",
+      "quote": "In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes."
+    },
+    {
+      "category": "Law Enforcement Cooperation",
+      "risk": "High",
+      "icon": "👮",
+      "headline": "Shares With Law Enforcement",
+      "quote": "Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to do any of the following: Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies."
     }
   ]
 }
