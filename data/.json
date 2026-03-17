@@ -1,69 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:05.694750+00:00",
+  "scanned_at": "2026-03-17T21:23:10.947895+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "HIGH",
-      "icon": "💸",
-      "headline": "Shares Your Data With Affiliates",
-      "quote": "We will share your personal data with our Affiliates to provide and develop our Services. For example, we may refer a query to Bing in some instances, such as where you'd benefit from a more up to date response in a chat experience. Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services."
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Widely",
+      "quote": "We also obtain data about you from Microsoft affiliates, subsidiaries, and third parties."
     },
     {
       "category": "Data Selling & Sharing",
-      "risk": "HIGH",
+      "risk": "High",
       "icon": "🤝",
-      "headline": "Shares Data With Ad Partners",
-      "quote": "We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined: ... Information from advertising partners, vendors and publishers; ..."
+      "headline": "Shares for Personalized Ads",
+      "quote": "We also share personal data for digital advertising purposes. When you visit a website or use an app that wants to show you ads, the digital property may allow Microsoft to access or receive device data or certain other data identified in the Personal data we collect section above. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties."
     },
     {
-      "category": "AI/ML Training",
-      "risk": "HIGH",
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Buys Your Data from Brokers",
+      "quote": "Data brokers from which we purchase demographic data to supplement the data we collect."
+    },
+    {
+      "category": "AI Training & Usage",
+      "risk": "High",
       "icon": "🤖",
       "headline": "Trains AI on Your Data",
-      "quote": "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence (AI) models, develop, provide, and personalize our Services, and gain insights with the help of AI, automated systems, and inferences, so that our Services can be more relevant and useful to you and others."
+      "quote": "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models."
     },
     {
-      "category": "Employer Monitoring",
-      "risk": "HIGH",
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🎤",
+      "headline": "Collects Your Voice Data",
+      "quote": "Voice data. Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric data and identifiers. Data about you resulting from specific technical processing relating to your physical, physiological, or behavioral characteristics which allow or confirm unique identification."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
       "icon": "👁️",
-      "headline": "Employer Monitors Your Account",
-      "quote": "Your employer can review and manage your use of such enterprise Services. Depending on the enterprise Service, before you use such Service, we will ask for permission to share with your employer relevant data from your profile or use of our non-enterprise Services."
+      "headline": "Records Your Video & Audio",
+      "quote": "Video or recordings. Recordings of events and activities at Microsoft buildings, retail spaces, and other locations. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data."
     },
     {
-      "category": "Cross-Site Tracking",
-      "risk": "HIGH",
-      "icon": "📍",
-      "headline": "Tracks You Across Sites",
-      "quote": "We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others’ services that include some of our plugins (such as “Apply with LinkedIn”) or our ads, cookies or similar technologies."
+      "category": "Surveillance & Monitoring",
+      "risk": "High",
+      "icon": "🚨",
+      "headline": "Scans Your Private Content",
+      "quote": "For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms."
     },
     {
-      "category": "Data Retention",
-      "risk": "MEDIUM",
-      "icon": "⏳",
-      "headline": "Keeps Your Data After Closure",
-      "quote": "We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies ), enforce our User Agreement, or fulfill your request to 'unsubscribe' from further messages from us."
-    },
-    {
-      "category": "Data Inferences",
-      "risk": "MEDIUM",
-      "icon": "🧠",
-      "headline": "Infers Sensitive Data About You",
-      "quote": "Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member)."
-    },
-    {
-      "category": "Location Tracking",
-      "risk": "MEDIUM",
-      "icon": "🗺️",
-      "headline": "Collects Your Precise Location",
-      "quote": "If you use our Services from a mobile device, that device will send us data about your location based on your phone settings. We will ask you to opt-in before we use GPS or other tools to identify your precise location."
-    },
-    {
-      "category": "Third-Party Data Syncing",
-      "risk": "MEDIUM",
-      "icon": "↔️",
-      "headline": "Others Sync Your Contact Info",
-      "quote": "We receive personal data (including contact information) about you when others import or sync their calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests)."
+      "category": "Surveillance & Monitoring",
+      "risk": "High",
+      "icon": "📞",
+      "headline": "Monitors Your Support Calls",
+      "quote": "When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded."
     }
   ]
 }
