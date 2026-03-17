@@ -1,76 +1,69 @@
 {
-  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en",
-  "scanned_at": "2026-02-08T18:40:27.666320Z",
+  "url": "https://www.tiktokw.us/legal/page/us/privacy-policy/en",
+  "scanned_at": "2026-03-17T21:28:01.740172+00:00",
   "analysis": [
     {
-      "category": "Data Sharing",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Data Shared Widely",
-      "quote": "We share information with advertisers, advertising partners, publishers, and third-party measurement companies... to enable certain advertisers and advertising partners to bid on ad opportunities where permitted under applicable law."
+      "icon": "💸",
+      "headline": "Shares Your Data Widely",
+      "quote": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization."
     },
     {
-      "category": "Data Selling & Sharing (Marketing)",
+      "category": "Biometric Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udce3",
-      "headline": "Your Email Shared With Sellers",
-      "quote": "We may share your email address with sellers so that they can send marketing communications to you. These entities may use the information shared in accordance with their privacy policies."
+      "icon": "👀",
+      "headline": "Collects Your Face & Voice",
+      "quote": "We may collect biometric identifiers and biometric information as defined under US laws, such as faceprints and voiceprints, from your user content."
     },
     {
-      "category": "Data Collection (Invasive)",
+      "category": "Sensitive Data Collection",
       "risk": "High",
-      "icon": "\ud83d\udc40",
-      "headline": "Your Device Data Intrusively Collected",
-      "quote": "We collect certain information about the device you use to access the Platform, such as... keystroke patterns or rhythms, battery state, app and file names and types, audio settings and connected audio devices."
+      "icon": "⚕️",
+      "headline": "Collects Your Sensitive Info",
+      "quote": "Information You Provide may include sensitive personal information, as defined under applicable state privacy laws. We process such information in accordance with applicable law, such as to provide the Services and other permitted purposes under state privacy laws, like the California Consumer Privacy Act (\"CCPA\")."
     },
     {
-      "category": "Data Collection (Third-Party Aggregation)",
+      "category": "AI Training & Content Analysis",
       "risk": "High",
-      "icon": "\ud83c\udf10",
-      "headline": "Your Off-Platform Activities Tracked",
-      "quote": "Advertisers, publishers, and measurement and other partners share information with us about you and the actions you have taken outside of the Platform, such as your activities on other websites and apps or in stores..."
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "To review, support, improve, and develop the Services, and train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the Services; conducting research; soliciting feedback; monitoring your activity and usage across the devices you use to access the Services; and scanning, analyzing, and reviewing user content, messages, AI interactions, and associated metadata."
     },
     {
-      "category": "Data Collection (Content Analysis)",
+      "category": "Cross-Device Tracking",
       "risk": "High",
-      "icon": "\ud83c\udfa4",
-      "headline": "Your Content Undergoes Deep Analysis",
-      "quote": "We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content."
+      "icon": "📱",
+      "headline": "Tracks You Across Devices",
+      "quote": "We automatically assign device IDs and user IDs, and may use this and other information to identify your activity across devices."
     },
     {
-      "category": "Data Collection (Pre-Loading/Monitoring)",
-      "risk": "High",
-      "icon": "\ud83d\udcf1",
-      "headline": "Your Unsaved Content Is Collected",
-      "quote": "We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content..."
-    },
-    {
-      "category": "Data Collection (Sensitive Access)",
+      "category": "Clipboard Access",
       "risk": "Medium",
-      "icon": "\ud83d\udccb",
-      "headline": "Your Clipboard Data Is Accessed",
-      "quote": "We may access content, including text, images, and video, found in your device\u2019s clipboard , with your permission."
+      "icon": "📋",
+      "headline": "Accesses Your Clipboard Content",
+      "quote": "Clipboard content, such as text and images, accessed through your device's clipboard when you choose to use certain functions such as initiating information sharing with third-party services, or copying and pasting clipboard content onto our apps and websites."
     },
     {
-      "category": "Data Transfer",
+      "category": "Pre-Upload Content Collection",
       "risk": "Medium",
-      "icon": "\u2708\ufe0f",
-      "headline": "Your Data Stored Globally",
-      "quote": "Your information may be stored on servers located outside the country where you live, such as in Singapore, Malaysia, Ireland and the United States."
+      "icon": "📩",
+      "headline": "Collects Content Before Publish",
+      "quote": "We may collect user content through pre-uploading at the time of creation, import, or upload, regardless of whether you choose to save or publish that user content, for example, to recommend audio options, provide an effect, generate captions, and provide other personalized recommendations."
     },
     {
-      "category": "User Rights & Control",
-      "risk": "Medium",
-      "icon": "\u26a0\ufe0f",
-      "headline": "Your Privacy Choices Limit Features",
-      "quote": "Please note that by withdrawing your consent to the disclosure and/or collection of your personal data, we may not be able to fulfill your requests and you may not be able to use some of TikTok features and functionality."
+      "category": "Data Transfer Outside US",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Leaves US",
+      "quote": "Subject to applicable laws, including Executive Order 14352 and any compliance obligations thereunder, we may transmit your information outside of the United States, for purposes of sharing with recipients as described in this Privacy Policy."
     },
     {
-      "category": "Policy Transparency",
-      "risk": "Medium",
-      "icon": "\ud83d\udcdd",
-      "headline": "Your Passive Acceptance Of Changes",
-      "quote": "Your continued access to or use of the Platform after the date of the updated policy constitutes your acceptance of the updated policy."
+      "category": "Weak Do-Not-Track Support",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "Ignores Do-Not-Track Signals",
+      "quote": "Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, we currently do not take action in response to these signals."
     }
   ]
 }
