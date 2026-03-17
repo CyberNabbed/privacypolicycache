@@ -1,0 +1,69 @@
+{
+  "url": "https://hrtechprivacy.com/brands/indeed",
+  "scanned_at": "2026-03-17T21:48:57.372999+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Info with Affiliates",
+      "quote": "Since each of our Affiliates and Brands (as detailed in our HR Tech Privacy Center ) shares this core mission, we developed a Privacy Center as a way of educating our users about our affiliates, and how we share data with them to provide the strongest product and service offerings to our users."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your Profile Shared by Default",
+      "quote": "By creating a profile set to “Employers can find you” through the Site including when you upload a file resume on the Site, you are requesting and authorizing Indeed to make available your profile data to third parties, in accordance with our Terms."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Employers Share Your Data",
+      "quote": "Please note employers and employer representatives who access your profile data while it is set to “Employers can find you”, or to whom you apply with your profile set to Employers can’t find you”, may choose to share your profile with additional parties. Indeed is not responsible for such sharing."
+    },
+    {
+      "category": "Algorithmic Bias/Discrimination Risk",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "AI Evaluation for Your Application",
+      "quote": "Employers may use Indeed Recruiting Services to generate an AI-powered summary evaluation and a generalized match rating of applications received."
+    },
+    {
+      "category": "Automated Decision-Making",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Automated Processing Affects You",
+      "quote": "We perform automated processing of Personal Data to evaluate specific aspects relating to a user and to analyze and predict a user’s preferences and interests."
+    },
+    {
+      "category": "AI Training with Your Data",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Trains AI on Your Personal Data",
+      "quote": "In support of these goals, we use personal data to develop, train, build and use statistical models, including artificial intelligence (“AI”), which allows Job Seekers and Employers to quickly and easily find one another and determine if they are a good match."
+    },
+    {
+      "category": "Intrusive Monitoring",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Monitors All Your Site Activity",
+      "quote": "We collect, record, process, analyze, and store any and all activities you take on the Site and on the affiliated sites , and any and all interactions and communications you have with, on, or through the Site and affiliated sites."
+    },
+    {
+      "category": "Data Collection from Third Parties",
+      "risk": "Medium",
+      "icon": "📦",
+      "headline": "Buys Your Profile from Third Parties",
+      "quote": "We purchase resumes and other profile information from third parties where permitted by applicable law and in line with this Privacy Policy."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "Medium",
+      "icon": "💖",
+      "headline": "Collects Your Demographic Data",
+      "quote": "Under limited circumstances, we collect and process special category data. We only collect and process this data in certain markets where permissible by law."
+    }
+  ]
+}
