@@ -1,48 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:22:58.471006+00:00",
+  "scanned_at": "2026-03-17T21:23:05.694750+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "Low",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares Your Data With Affiliates",
+      "quote": "We will share your personal data with our Affiliates to provide and develop our Services. For example, we may refer a query to Bing in some instances, such as where you'd benefit from a more up to date response in a chat experience. Subject to our European Regional Privacy Notice , we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
       "icon": "🤝",
-      "headline": "No Data Selling/Sharing",
-      "quote": "Reddit does not sell personal data to third parties"
+      "headline": "Shares Data With Ad Partners",
+      "quote": "We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined: ... Information from advertising partners, vendors and publishers; ..."
     },
     {
-      "category": "Anonymity Features",
-      "risk": "Low",
-      "icon": "👻",
-      "headline": "Anonymous Browsing Available",
-      "quote": "Anonymous Browsing mode won’t associate your activity with your account, including browsing and searches"
+      "category": "AI/ML Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence (AI) models, develop, provide, and personalize our Services, and gain insights with the help of AI, automated systems, and inferences, so that our Services can be more relevant and useful to you and others."
     },
     {
-      "category": "Data Deletion & Access",
-      "risk": "Low",
-      "icon": "🗑️",
-      "headline": "You Can Delete Your Data",
-      "quote": "Redditors always have the option to delete their posts, comments, and accounts; they can also request a copy of their Reddit data and information"
+      "category": "Employer Monitoring",
+      "risk": "HIGH",
+      "icon": "👁️",
+      "headline": "Employer Monitors Your Account",
+      "quote": "Your employer can review and manage your use of such enterprise Services. Depending on the enterprise Service, before you use such Service, we will ask for permission to share with your employer relevant data from your profile or use of our non-enterprise Services."
     },
     {
-      "category": "Doxxing Prevention",
-      "risk": "Low",
-      "icon": "🛡️",
-      "headline": "Doxxing Prohibited",
-      "quote": "We forbid doxxing (involuntarily revealing someone’s real world identity) people on the Reddit platform"
+      "category": "Cross-Site Tracking",
+      "risk": "HIGH",
+      "icon": "📍",
+      "headline": "Tracks You Across Sites",
+      "quote": "We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others’ services that include some of our plugins (such as “Apply with LinkedIn”) or our ads, cookies or similar technologies."
     },
     {
-      "category": "Metadata Stripping",
-      "risk": "Low",
-      "icon": "✂️",
-      "headline": "Strips Your Media Metadata",
-      "quote": "We strip location and personal information metadata from the images and videos you choose to share"
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "⏳",
+      "headline": "Keeps Your Data After Closure",
+      "quote": "We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies ), enforce our User Agreement, or fulfill your request to 'unsubscribe' from further messages from us."
     },
     {
-      "category": "Public Content Usage",
-      "risk": "Low",
-      "icon": "🚫",
-      "headline": "No Public Content Surveillance",
-      "quote": "We do not allow your public Reddit content to be used for surveillance or spamming you"
+      "category": "Data Inferences",
+      "risk": "MEDIUM",
+      "icon": "🧠",
+      "headline": "Infers Sensitive Data About You",
+      "quote": "Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member)."
+    },
+    {
+      "category": "Location Tracking",
+      "risk": "MEDIUM",
+      "icon": "🗺️",
+      "headline": "Collects Your Precise Location",
+      "quote": "If you use our Services from a mobile device, that device will send us data about your location based on your phone settings. We will ask you to opt-in before we use GPS or other tools to identify your precise location."
+    },
+    {
+      "category": "Third-Party Data Syncing",
+      "risk": "MEDIUM",
+      "icon": "↔️",
+      "headline": "Others Sync Your Contact Info",
+      "quote": "We receive personal data (including contact information) about you when others import or sync their calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests)."
     }
   ]
 }
