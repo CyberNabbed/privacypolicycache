@@ -1,69 +1,62 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:10.947895+00:00",
+  "scanned_at": "2026-03-17T21:23:15.735350+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "High",
+      "risk": "Low",
       "icon": "🤝",
-      "headline": "Shares Your Data Widely",
-      "quote": "We also obtain data about you from Microsoft affiliates, subsidiaries, and third parties."
+      "headline": "No Data Selling or Sharing",
+      "quote": "Further, Apple does not share personal data with third parties for their own marketing purposes. Apple does not sell your personal data including as “sale” is defined in Nevada and California. Apple also does not “share” your personal data as that term is defined in California."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "🤝",
-      "headline": "Shares for Personalized Ads",
-      "quote": "We also share personal data for digital advertising purposes. When you visit a website or use an app that wants to show you ads, the digital property may allow Microsoft to access or receive device data or certain other data identified in the Personal data we collect section above. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties."
+      "category": "Data Collection From Other Sources",
+      "risk": "Medium",
+      "icon": "👥",
+      "headline": "Collects Data From Others",
+      "quote": "Apple may receive personal data about you from other individuals, from businesses or third parties acting at your direction, from our partners who work with us to provide our products and services and assist us in security and fraud prevention, and from other lawful sources."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "🤝",
-      "headline": "Buys Your Data from Brokers",
-      "quote": "Data brokers from which we purchase demographic data to supplement the data we collect."
-    },
-    {
-      "category": "AI Training & Usage",
-      "risk": "High",
+      "category": "AI Training & Data Use",
+      "risk": "Medium",
       "icon": "🤖",
-      "headline": "Trains AI on Your Data",
-      "quote": "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models."
+      "headline": "Uses Your Public Data For AI",
+      "quote": "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet."
     },
     {
-      "category": "Data Collection",
+      "category": "Children's Data Collection",
       "risk": "High",
-      "icon": "🎤",
-      "headline": "Collects Your Voice Data",
-      "quote": "Voice data. Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds."
+      "icon": "👶",
+      "headline": "Collects Your Child's Data",
+      "quote": "To access certain Apple services, a child must have a child Apple Account. A child Apple Account may be created by the parent or, in the case of a Managed Apple Account, by the child’s educational institution."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "👤",
-      "headline": "Collects Your Biometric Data",
-      "quote": "Biometric data and identifiers. Data about you resulting from specific technical processing relating to your physical, physiological, or behavioral characteristics which allow or confirm unique identification."
+      "category": "Cross-Border Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Globally",
+      "quote": "To make that possible, your personal data may be transferred to or accessed by entities around the world, including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "👁️",
-      "headline": "Records Your Video & Audio",
-      "quote": "Video or recordings. Recordings of events and activities at Microsoft buildings, retail spaces, and other locations. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data."
+      "category": "Tracking Technologies",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks You With Cookies",
+      "quote": "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons."
     },
     {
-      "category": "Surveillance & Monitoring",
-      "risk": "High",
-      "icon": "🚨",
-      "headline": "Scans Your Private Content",
-      "quote": "For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms."
+      "category": "Denial of Privacy Rights",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "May Deny Your Requests",
+      "quote": "There may be situations where we cannot grant your request — for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law."
     },
     {
-      "category": "Surveillance & Monitoring",
-      "risk": "High",
-      "icon": "📞",
-      "headline": "Monitors Your Support Calls",
-      "quote": "When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded."
+      "category": "Required Data Provision",
+      "risk": "Medium",
+      "icon": "⚠️",
+      "headline": "Required Data For Services",
+      "quote": "However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have."
     }
   ]
 }
