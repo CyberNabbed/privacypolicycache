@@ -1,69 +1,76 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:46.148135+00:00",
+  "scanned_at": "2026-03-17T21:23:52.446326+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "💸",
-      "headline": "Shares Your Data Broadly",
-      "quote": "We disclose your Personal Information with service providers and third parties, including those participating in the payment network, to help us provide Services, protect our customers from risk and fraud, market our products, and comply with legal obligations."
+      "headline": "Sells Your Data to Partners",
+      "quote": "We may disclose personal information to third parties or process your personal information for various purposes, including targeted advertising. These kinds of disclosures may be deemed selling under certain state privacy laws. You have the right to opt-out of the sale or processing of your Personal Information for targeted advertising as described above."
     },
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "🤝",
-      "headline": "Shares for Personalized Marketing",
-      "quote": "For our PayPal customers, we may also disclose your Personal Information to Partners and Merchants that you and we interact with to help ourselves and Partners and Merchants personalize services and offers so you can have a better and more relevant experience."
+      "headline": "Shares for Partner Marketing",
+      "quote": "Vendors for Business Operations that receive data to provide services to a Walmart entity (such as advertising networks, marketplace sellers, analytics providers, etc.). Business partners, including those that receive data for their own independent use and not to provide services to a Walmart entity."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "🛍️",
-      "headline": "Shares Shopping Behavior",
-      "quote": "Personal Information we disclose includes, for example, products, sizes, preferences, and styles we think you’ll like."
-    },
-    {
-      "category": "AI & Automated Decision Making",
+      "category": "AI Training",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Automated Decisions Affect You",
-      "quote": "PayPal uses Automated Decision Making technology to make assessments or decisions, including related to risk, fraud and creditworthiness, where permitted and in accordance with applicable law."
-    },
-    {
-      "category": "AI & Automated Decision Making",
-      "risk": "High",
-      "icon": "🧠",
       "headline": "Trains AI on Your Data",
-      "quote": "We may use Personal Information to train our artificial intelligence (AI) models that power our Services and help us deliver more secure, efficient, and personalized services."
+      "quote": "Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them, such as training our AI."
     },
     {
-      "category": "Tracking & Profiling",
+      "category": "Biometric Data Collection",
       "risk": "High",
-      "icon": "👁️‍🗨️",
-      "headline": "Ignores Your DNT Requests",
-      "quote": "Because many of our services won’t function without tracking data, we do not respond to DNT settings."
-    },
-    {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "🚨",
+      "icon": "🖐️",
       "headline": "Collects Your Biometric Data",
-      "quote": "Biometric data : Such as voice identification, photo identification, or face scans, which we may collect when you consent in the user experience to authenticate you for certain actions related to your account..."
+      "quote": "Biometric Information, such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints."
     },
     {
-      "category": "Data Collection",
+      "category": "Precise Location Tracking",
       "risk": "High",
       "icon": "📍",
-      "headline": "Tracks Your Precise Geolocation",
-      "quote": "We collect precise geolocation data from Users while they are logged into their financial account."
+      "headline": "Tracks Your Precise Location",
+      "quote": "Also, depending on your device’s settings and with your consent, we may collect precise geolocation information."
     },
     {
-      "category": "Data Retention",
+      "category": "Surveillance",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Cameras, ALPRs Track You",
+      "quote": "For example, our point-of-sale terminals process your credit card information when you complete your purchase, and we operate cameras and automated technologies in-store and on Walmart property outside of our store for security and operational purposes. Automated License Plate Readers (ALPR) may also be in use on our properties, where permitted by law."
+    },
+    {
+      "category": "Third-Party Data Acquisition",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Gets Your Data from Others",
+      "quote": "We may obtain personal information about you from other sources to help us correct or supplement our records, improve the quality or personalization of our services, increase the appeal and relevance of advertising, and to prevent or detect fraud."
+    },
+    {
+      "category": "Affiliate Data Sharing",
       "risk": "Medium",
-      "icon": "⏳",
-      "headline": "Retains Data for 10 Years",
-      "quote": "Personal Information used for the ongoing relationship between you and PayPal is stored for the duration of the relationship plus a period of 10 years or such period as mandated by any applicable local law once our relationship comes to an end..."
+      "icon": "🏘️",
+      "headline": "Shares Data Across Affiliates",
+      "quote": "We may disclose your personal information with other retail and non-retail companies (e.g., Sam’s Club and One Finance) within our corporate family for them to use in ways that are consistent with this Privacy Notice."
+    },
+    {
+      "category": "Inferences & Profiling",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Infers Your Preferences",
+      "quote": "Inferences, such as individual preferences and characteristics. This may include inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes."
+    },
+    {
+      "category": "VIZIO Data Combination",
+      "risk": "High",
+      "icon": "📺",
+      "headline": "Combines VIZIO Data with Yours",
+      "quote": "You also have a choice whether to link and combine the Viewing Data, Activity Data, Mobile App Data, and Mobile Streaming Data (“VIZIO OS Data”) from your VIZIO OS products with your Walmart account information, which can be turned on or off at any time by logging into VIZIO.com/account with your Walmart account."
     }
   ]
 }
