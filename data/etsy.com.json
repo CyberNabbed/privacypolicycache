@@ -1,0 +1,76 @@
+{
+  "url": "https://www.etsy.com/legal/privacy/",
+  "scanned_at": "2026-03-17T21:52:17.975397+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "To enable personalized advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "Etsy works closely with a number of business partners, such as our delivery and payment partners, that assist us with providing the Services in accordance with our Terms of Use."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Shares with Affiliated Companies",
+      "quote": "We may share some of the information that we collect, such as Buyer Account Information, Seller Account Information, Seller Verification Information, Service Usage Information, Device and Browser Information, and Cookie Information, with our corporate affiliates, which include Etsy, Inc., Etsy Ireland UC, Etsy Payments Ireland Limited, Etsy Gifting LLC, Etsy UK, Ltd., other Etsy entities, and Etsy-owned affiliates (including Depop Ltd.), that help us conduct business around the world (together, the “Etsy Group Companies”)."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "🍪",
+      "headline": "Uses Cookies for Targeted Ads",
+      "quote": "Etsy uses cookies and similar technologies to give you a better experience, enabling things like: [...] personalized search, content, and recommendations helping sellers understand their audience showing relevant, targeted ads on and off Etsy."
+    },
+    {
+      "category": "Data Sharing Transparency",
+      "risk": "Medium",
+      "icon": "🤷‍♀️",
+      "headline": "Third Parties Have Own Policies",
+      "quote": "Please note that the collection and use of your information by these third parties is subject to their own privacy policies and terms. You should understand the privacy and security practices of any third party before you share information with them."
+    },
+    {
+      "category": "Data Collection Scope",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Retroactive Policy Application",
+      "quote": "This Privacy Policy applies retroactively to your interactions with Etsy before becoming a Member or agreeing to this Policy."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": " indefinitely",
+      "headline": "Retains Data Indefinitely",
+      "quote": "Etsy will retain your information only for as long as is necessary for the purposes set out in this Policy, for as long as your account is active, or as needed to comply with our legal obligations, internal policies, or under applicable law."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Globally",
+      "quote": "By using the Services, you acknowledge that Etsy will use your information in the United States, Ireland, and any other country where the Etsy Group Companies operate."
+    },
+    {
+      "category": "Third-Party Tools",
+      "risk": "Medium",
+      "icon": "🕵️",
+      "headline": "Uses Google reCAPTCHA Enterprise",
+      "quote": "We use Google reCAPTCHA Enterprise and Mastercard’s Ekata (Mastercard’s identity verification product) in connection with our Services to help prevent spam, fraud, and abuse. reCAPTCHA Enterprise collects hardware and software information, such as device and application data, and sends it to Google for purposes of providing, maintaining, and improving reCAPTCHA Enterprise and for general security purposes."
+    },
+    {
+      "category": "User Rights Limitation",
+      "risk": "Medium",
+      "icon": "🛑",
+      "headline": "Deletion Doesn't Free Account Info",
+      "quote": "Please note that closing your account may not free up your email address, username, or shop name (if any) for reuse on a new account."
+    }
+  ]
+}
