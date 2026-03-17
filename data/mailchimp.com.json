@@ -1,0 +1,69 @@
+{
+  "url": "https://www.intuit.com/privacy/statement/",
+  "scanned_at": "2026-03-17T21:33:39.559173+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data Widely",
+      "quote": "We may share your personal information with our affiliates and subsidiaries for everyday business purposes as described in this Statement, including for marketing purposes, for improving and developing our offerings, and for personalizing your experience on our Platform."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares With Advertising Partners",
+      "quote": "Intuit may share personal information with advertising networks and other providers to tailor advertising and offers presented to you based on your interactions with the Intuit Platform’s products, services, and offerings."
+    },
+    {
+      "category": "AI/ML Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "Improve and develop our products and services by analyzing how they are used and interacted with, by training our artificial intelligence models and other machine learning models, as well as by assessing the use of and interactions with our Platform and certain content our customers send or display through the Platform."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Records Your Sessions",
+      "quote": "For example, we may use session-replay technologies, such as those provided by FullStory and Medallia, that employ software code to record users’ interactions with the Services in a manner that allows us to watch video replays of those user sessions. The replays include users’ clicks, mobile app touches, mouse movements, scrolls and keystrokes/key touches during those sessions."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": " fingerprint",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Certain parts of the Intuit Platform make use of biometric personal information (“ Biometric Information “). We will not collect your Biometric Information without first providing notice and obtaining your consent."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Certain features in the Intuit Platform may collect your precise location information, device motion information, or both, if you or your organization grant(s) us permission to do so through your device settings."
+    },
+    {
+      "category": "Third-Party Accountability",
+      "risk": "Medium",
+      "icon": "🛑",
+      "headline": "Not Responsible For Partners",
+      "quote": "Remember that any information you provide to a platform partner, whether through us or on your own, will be subject to their privacy practices and terms and conditions."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Globally",
+      "quote": "Intuit reserves the right to store and process your personal information in the United States and in any other country where Intuit or its affiliates, subsidiaries, or service providers operate facilities in accordance with and as permitted by applicable laws and regulations. Some of these countries may have data protection laws that are different from the laws of your country (and, in some cases, may not be as protective)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "Unless you specifically ask us to delete your personal information, we retain your personal information as long as it is necessary to comply with our data retention requirements and provide you with services and the benefits of the Intuit Platform and successfully run our business."
+    }
+  ]
+}
