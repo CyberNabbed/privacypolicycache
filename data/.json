@@ -1,69 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:22:38.361433+00:00",
+  "scanned_at": "2026-03-17T21:22:43.786408+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "🤝",
-      "headline": "Shares Your Data Broadly",
-      "quote": "If you do not opt out, in some instances the recipients of the information may use it for their own independent purposes in addition to those stated in X’s Privacy Policy, including, for example, to train their artificial intelligence models, whether generative or otherwise."
+      "headline": "Shares Your Info Extensively",
+      "quote": "We share information we collect, infrastructure, systems and technology with the other Meta Companies. Meta Products share information with other Meta Companies: To promote safety, security and integrity and comply with applicable laws To personalize offers, ads and other sponsored or commercial content To develop, provide and personalize features and integrations To understand how people use and interact with Meta Company Products"
     },
     {
-      "category": "Biometric Data Collection",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "✋",
-      "headline": "Collects Your Biometric Data",
-      "quote": "Based on your consent, we may collect and use your biometric information for safety, security, and identification purposes."
+      "icon": "📈",
+      "headline": "Shares with Ad Partners",
+      "quote": "Here’s more detail about who we share information with: Partners Advertisers and Audience Network publishers Partners who use our analytics services Partners who offer goods or services on our Products and commerce services platforms Integrated partners Vendors Measurement vendors Marketing vendors Service providers Service providers Third parties External researchers AI integrations Other third parties"
     },
     {
-      "category": "AI/ML Training",
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Collects Your Off-Platform Data",
+      "quote": "We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Your Sensitive Info",
+      "quote": "Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, and where you have given your explicit consent"
+    },
+    {
+      "category": "AI Training & Content Use",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Trains AI with Your Content",
-      "quote": "We may use the information we collect and publicly available information to help train our machine learning or artificial intelligence models for the purposes outlined in this policy."
+      "headline": "Uses Your Content for AI",
+      "quote": "Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages."
     },
     {
-      "category": "Inferred Identity",
-      "risk": "High",
-      "icon": "🕵️",
-      "headline": "Infers Your Identity",
-      "quote": "We may collect or receive information that we use to infer your identity as detailed below: When you access X and are not signed in, we may infer your identity based on the information we collect."
-    },
-    {
-      "category": "Cross-Device Tracking",
-      "risk": "High",
-      "icon": "🔗",
-      "headline": "Tracks Your Devices",
-      "quote": "Subject to your settings, we may also associate your account with browsers or devices other than those you use to sign into X (or associate your signed-out device or browser with other browsers or devices or X-generated identiﬁers)."
-    },
-    {
-      "category": "Content Scanning",
-      "risk": "High",
-      "icon": "✉️",
-      "headline": "Scans Your Direct Messages",
-      "quote": "We collect information about...when you use Direct Messages, including the contents of the messages, the recipients, and date and time of messages."
-    },
-    {
-      "category": "Location Tracking",
+      "category": "Human Review of Content",
       "risk": "Medium",
-      "icon": "📍",
-      "headline": "Collects Your Precise Location",
-      "quote": "You can also choose to share your current precise location or places where you’ve previously used X by enabling these settings in your account."
+      "icon": "👁️",
+      "headline": "Your Content Reviewed Manually",
+      "quote": "But in some cases, we also use manual review to access and review your information."
     },
     {
-      "category": "Indefinite Data Retention",
+      "category": "Data Retention",
       "risk": "Medium",
-      "icon": "🗑️",
+      "icon": "⏳",
       "headline": "Retains Your Data Indefinitely",
-      "quote": "Where you violate our Rules and your account is suspended, we may keep the identifiers you used to create the account (such as your email address or phone number) indefinitely to prevent repeat policy offenders from creating new accounts."
+      "quote": "We keep information as long as we need it to provide our Products, comply with legal obligations or protect our or other’s interests. We decide how long we need information on a case-by-case basis."
     },
     {
-      "category": "Data Portability Limits",
+      "category": "Data Transfer",
       "risk": "Medium",
-      "icon": "🗃️",
-      "headline": "Limits Data Portability",
-      "quote": "We may, in certain situations, reject your request for access, correction, or portability, for example, we may reject access where you are unable to verify your identity."
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "We share information we collect globally, both internally across our offices and data centers and externally with our partners, third parties and service providers."
+    },
+    {
+      "category": "Law Enforcement & Legal Requests",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Shares Data with Government",
+      "quote": "We access, preserve, use and share your information: In response to legal requests, like search warrants, court orders, production orders or subpoenas. These requests come from third parties such as civil litigants, law enforcement and other government authorities."
     }
   ]
 }
