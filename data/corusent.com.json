@@ -1,6 +1,6 @@
 {
   "url": "https://www.corusent.com/privacy-policy/",
-  "scanned_at": "2026-03-17T20:15:42.256Z",
+  "scanned_at": "2026-03-17T20:16:29.043Z",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
@@ -17,53 +17,60 @@
       "quote": "We may share your personal information with Corus affiliates, business partners, external suppliers and service providers who perform functions on our behalf, including fulfilling orders, providing streaming services or other third-party content, providing promotional materials to our users, sending e-mail, managing, compiling, storing and processing data, administering contests, processing credit card payments, providing customer service, or for any other purposes described under “What personal information do we collect and why do we collect and use it?” above."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "Medium",
-      "icon": "🎯",
-      "headline": "Shares for Tailored Ads",
-      "quote": "We may engage third party advertising and analytics companies to collect personal information from you when you access our Sites, and/or serve interest-based advertisements to you when you visit our Sites."
-    },
-    {
-      "category": "Profiling & Automated Decisions",
+      "category": "Automated Decision Making",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Automated Decisions Profile You",
+      "headline": "Automated Decisions Affect You",
       "quote": "Our analysis of your personal information may involve automated decisions, wherein software processes your data along with other factors to present you with more pertinent content and advertisements."
     },
     {
-      "category": "Location Tracking",
+      "category": "Extensive Data Collection",
       "risk": "High",
-      "icon": "📍",
-      "headline": "Tracks Your Location Data",
-      "quote": "Some of our applications (for example, Global TV, Global News, Skytracker) may collect location data to provide local weather updates, alerts, warnings, to restrict access to content where required by territorial rights restrictions, or for advertising or marketing purposes."
+      "icon": "🧠",
+      "headline": "Collects Sensitive Personal Info",
+      "quote": "Personal information generally means any information about you as an identifiable individual. This includes your full name, address, telephone or cellphone number, e-mail address, age, marital status, education level, occupation, payment information, location data, device information used to access our Sites, IP addresses, preferences, and opinions, among other things."
     },
     {
       "category": "Cross-Device Tracking",
       "risk": "High",
-      "icon": "🔗",
-      "headline": "Tracks You Across Devices",
+      "icon": "📱",
+      "headline": "Tracks Your Devices",
       "quote": "For the above purposes, we may also collect data across your smartphone, tablet, desktop computer or other connected devices (cross-device data)."
     },
     {
-      "category": "Data from Third Parties",
-      "risk": "Medium",
-      "icon": "👤",
-      "headline": "Collects Your Data Indirectly",
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "👥",
+      "headline": "Collects Data from Third Parties",
       "quote": "We may collect information about you from our service providers acting on our behalf, your telecommunications service provider that makes our services or content available to you, or other third parties, such as data licensors and aggregators, marketing companies, advertising partners, programming distributors, social media platforms, and public databases."
     },
     {
-      "category": "Security & Breach",
+      "category": "Inferred Data",
       "risk": "Medium",
-      "icon": "⚠️",
-      "headline": "No Perfect Security",
-      "quote": "Please be aware that, despite our best efforts, no security measures are perfect or impenetrable."
+      "icon": "🤔",
+      "headline": "Infers Data About You",
+      "quote": "We may derive additional information or draw inferences about you based on the information we have collected from you directly, through your device, from our partners and service providers or through third parties in accordance with their privacy policies."
     },
     {
       "category": "International Data Transfer",
       "risk": "Medium",
       "icon": "🌍",
-      "headline": "Your Data Stored Internationally",
+      "headline": "Your Data Stored Abroad",
       "quote": "Some of these third parties may be located outside of your province of residence or outside of Canada and may access and process your personal information from the United States or other jurisdictions."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Medium",
+      "icon": "🧒",
+      "headline": "Relies on Parental Consent",
+      "quote": "We do not knowingly collect personal information of children without parent or guardian consent."
+    },
+    {
+      "category": "User Content Public Exposure",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Your Forum Posts Are Public",
+      "quote": "All personal information you post in a forum becomes public information and may be viewed, collected, and used by any visitor to the Site, and may expose you to unsolicited messages."
     }
   ]
 }
