@@ -1,0 +1,69 @@
+{
+  "url": "https://hrtechprivacy.com/brands/glassdoor#privacypolicy",
+  "scanned_at": "2026-03-17T21:31:20.907204+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data With Affiliates",
+      "quote": "Glassdoor affiliates include Indeed and Indeed Flex. You can read more about our affiliates and our shared commitment to privacy at our Privacy Center."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Advertising",
+      "quote": "Where personal data is used for behavioral or targeted advertising, and is shared with Advertising Partners & Ad Exchanges and Affiliates Profile Information, Communications Activity, Job Interests & Activity, Profile Information, Service Activity, Security & Login Information"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Connects Your Glassdoor & Indeed Accounts",
+      "quote": "By logging into our services using Indeed Login, you agree to connect your Glassdoor services account with your Indeed services account and create a “Connected Profile”"
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🏥",
+      "headline": "Collects Your Health Data",
+      "quote": "Demographics Race/ethnicity, sexual orientation, disability, leading personality trait (e.g., introvert/extrovert), religion, marital status, parental status, veteran status. Special Category Data / Sensitive Personal InformationCharacteristics of protected classifications under state or federal lawHealth Data (disability status)"
+    },
+    {
+      "category": "AI Training & Use",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "We may use your personal data or anonymized or deidentified data, in combination with other users’ data, to develop, train, build and use statistical models, including AI."
+    },
+    {
+      "category": "Inadvertent Identification Risk",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Your Identity May Be Revealed",
+      "quote": "While we try our best to plan for all contingencies, we are not perfect. The preventative measures we take to protect your identity and our service’s technological performance may not always function the way we intend when combined with the complex realities of many millions of unique workplaces and lives into which we have limited, imperfect visibility."
+    },
+    {
+      "category": "Monitoring & Tracking",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Records Your Screen Interactions",
+      "quote": "Cookies may also allow us and our service providers to collect data about your use of our services, including text you enter, screen recordings of your mouse movements, and other interactions as you browse and use our services, even if you don’t have an account or Profile."
+    },
+    {
+      "category": "Monitoring & Tracking",
+      "risk": "Medium",
+      "icon": "💬",
+      "headline": "Records Your Chats and Transcripts",
+      "quote": "If you use our chat feature, we and our service providers may record your chats and keep transcripts."
+    },
+    {
+      "category": "Data Deletion Limitations",
+      "risk": "Medium",
+      "icon": "❌",
+      "headline": "Cannot Disconnect Connected Profiles",
+      "quote": "By connecting your accounts, you expressly agree that once you connect your accounts, you may not disconnect them and that Glassdoor and Indeed: Each have a direct, independent relationship with you as a user of the respective services; Each receive a complete copy of your Profile data and process it according to our respective Privacy Policies ; Continue to keep your Profile data in sync until either your Glassdoor services account or Indeed services account is deleted"
+    }
+  ]
+}
