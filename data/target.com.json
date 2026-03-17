@@ -1,0 +1,69 @@
+{
+  "url": "https://www.target.com/c/target-privacy-policy/-/N-4sr7p",
+  "scanned_at": "2026-03-17T21:34:02.803097+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "We may share the types and categories of personal information collected with the categories of third parties below."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "⚕️",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Depending on applicable laws, some information within the categories above may be considered sensitive personal information, including government identifiers, payment information, race, precise geolocation data, and health data."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "High",
+      "icon": "✋",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric information (e.g., voiceprints)"
+    },
+    {
+      "category": "Camera & Video Surveillance",
+      "risk": "High",
+      "icon": "📸",
+      "headline": "Surveys You With Cameras",
+      "quote": "We use cameras in and around our stores for operational purposes such as measuring traffic patterns and tracking in-stock levels."
+    },
+    {
+      "category": "Automated License Plate Recognition",
+      "risk": "High",
+      "icon": "🚗",
+      "headline": "Tracks Your Car Plates",
+      "quote": "We may use Automated License Plate Recognition (ALPR) technology where not prohibited by law to collect information relating to vehicles present at or near Target stores."
+    },
+    {
+      "category": "Location Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Location",
+      "quote": "Geolocation data (e.g., latitude or longitude, in-store location)"
+    },
+    {
+      "category": "Third-Party Tracking",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Third Parties Track You",
+      "quote": "We also allow third-party companies (e.g., Google and Meta) to place tags or similar technologies on our digital properties."
+    },
+    {
+      "category": "Chat Monitoring",
+      "risk": "Medium",
+      "icon": "💬",
+      "headline": "Monitors Your Chat Typing",
+      "quote": "Chat functionality allows our Guest Relations specialists to see what a Guest is typing before hitting the send button."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Long-Term",
+      "quote": "We retain your personal information for as long as reasonably necessary to fulfill the purposes described in this Privacy Policy or for the period legally permitted or required."
+    }
+  ]
+}
