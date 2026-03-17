@@ -1,0 +1,69 @@
+{
+  "url": "https://privacy.paramount.com/en/policy",
+  "scanned_at": "2026-03-17T21:49:09.252712+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "Certain disclosures of information that we make to third parties or purposes for which we use information we receive from third parties constitute the “sale” of your personal information, “sharing” of your personal information (for “cross-context behavioral advertising” purposes), or “processing” of your personal information for purposes of “targeted advertising” under applicable laws."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Sites",
+      "quote": "We partner with companies, including data licensors and aggregators, advertising networks, data analytics providers, and other advertising partners, to help us track your activity cross the Paramount Services, as well as Third-Party Services so that we can build a profile about you that helps us display personalized ads to you on the Paramount Services and other Third-Party Services."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "Medium",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Your Race/Ethnicity",
+      "quote": "The personal information we collect — depending upon the circumstances — includes your race, ethnicity, gender, age, name, email address, and phone number."
+    },
+    {
+      "category": "Surveillance & Monitoring",
+      "risk": "High",
+      "icon": "📹",
+      "headline": "CCTV Records Your Presence",
+      "quote": "In addition to location data, we collect videos and images recorded by security surveillance of our premises including CCTV automatically when you attend one of our events, visit our offices, or attend a live performance or taping of one of our programs as a member of the audience."
+    },
+    {
+      "category": "Keystroke Logging",
+      "risk": "High",
+      "icon": "⌨️",
+      "headline": "Records Your Keystrokes",
+      "quote": "On certain pages of the Paramount Services, we use third-party tools to help us look at mouse movements, clicks, keystrokes, data or text entered, and the pages you visit."
+    },
+    {
+      "category": "Automated Profiling",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Builds Your Interest Profile",
+      "quote": "Profiling is where we build a picture of your interests and preferences based on information we collect about you."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Data Internationally",
+      "quote": "Paramount is a global company that may transfer your personal information to a country (including the United States) that does not provide the same level of protection for your personal information."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Data Indefinitely",
+      "quote": "We will retain your personal information for the time period reasonably necessary to achieve the purposes described in this privacy policy, or any other notice provided at the time of collection unless a longer retention period is required or permitted by applicable law."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Collects Data From Partners",
+      "quote": "In connection with certain Paramount Services, we will also receive information about you from third-parties."
+    }
+  ]
+}
