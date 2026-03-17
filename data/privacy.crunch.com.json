@@ -1,0 +1,69 @@
+{
+  "url": "https://privacy.crunch.com/privacy-policy",
+  "scanned_at": "2026-03-17T20:17:14.894Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells Your Info",
+      "quote": "For our advertising purposes or those of third parties, affiliates, and related entities to whom we sell or share personal data."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Third Parties",
+      "quote": "We may share this information with third parties, including business partners and service providers, to provide information, offers, and services that may be of interest to you."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Shares Your Mobile Number",
+      "quote": "With your consent, this includes sharing your mobile phone number with the specific affiliate(s) and related entities you have opted into for their marketing purposes."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Tracks You Across Sites",
+      "quote": "Some of these cookies may follow you when you leave the Site and travel to other websites so that we can serve personalized ads targeted to your preferences."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Collects Sensitive Biometric Data",
+      "quote": "biometric information (e.g., fingerprints to redeem Personal Training services at certain clubs) and in certain cases, health or medical information."
+    },
+    {
+      "category": "Privacy Rights Limitation",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores Do Not Track",
+      "quote": "We track Site users over time and across third-party websites; however, we do not currently respond to web browser “Do Not Track” signals or similar mechanisms."
+    },
+    {
+      "category": "Privacy Rights Limitation",
+      "risk": "Medium",
+      "icon": "📲",
+      "headline": "Cannot Opt-Out Sharing",
+      "quote": "Please note that you cannot opt out of our sharing your number with our service providers or subcontractors."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Location",
+      "quote": "If you allow our mobile App to access your location information on your device, our mobile App may use your mobile device’s Global Positioning System (GPS) technology and other technology (such as wireless transmitters known as beacons) to provide you with information and offers based on the location of your device."
+    },
+    {
+      "category": "Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Data Internationally",
+      "quote": "We may send the personal data of individuals in the EEA/UK/CH to third countries, including the United States, where it may be stored or processed, for example on our service providers’ cloud servers."
+    }
+  ]
+}
