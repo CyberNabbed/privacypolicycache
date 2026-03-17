@@ -1,76 +1,69 @@
 {
   "url": "https://www.apple.com/legal/privacy/en-ww/",
-  "scanned_at": "2026-02-08T18:40:04.711125Z",
+  "scanned_at": "2026-03-17T21:28:28.772937+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "Low",
-      "icon": "\ud83d\udee1\ufe0f",
-      "headline": "Your Data Isn't Sold.",
-      "quote": "Apple does not sell your personal data including as \u201csale\u201d is defined in Nevada and California. Apple also does not \u201cshare\u201d your personal data as that term is defined in California."
+      "icon": "🤝",
+      "headline": "No Third-Party Marketing Sharing",
+      "quote": "Further, Apple does not share personal data with third parties for their own marketing purposes. Apple does not sell your personal data including as “sale” is defined in Nevada and California. Apple also does not “share” your personal data as that term is defined in California."
     },
     {
-      "category": "Data Collection",
-      "risk": "Medium",
-      "icon": "\ud83d\uddc3\ufe0f",
-      "headline": "Your Data Collection Is Broad.",
-      "quote": "At Apple, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data Apple collects depends on how you interact with Apple."
+      "category": "Data Collection and Use",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Extensive Data Collection Categories",
+      "quote": "When you create an Apple Account, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including: Account Information. Your Apple Account and related account details, including email address, devices registered, account status, and age Device Information. Data from which your device could be identified, such as device serial number, or about your device, such as browser type Contact Information . Data such as name, email address, physical address, phone number, or other contact information Payment Information. Data about your billing address and method of payment, such as bank details, credit, debit, or other payment card information Transaction Information. Data about purchases of Apple products and services or transactions facilitated by Apple, including purchases on Apple platforms Fraud Prevention Information. Data used to help identify and prevent fraud, including a device trust score Usage Data. Data about your activity on and use of our offerings, such as app launches within our services, including browsing history; search history; product interaction; crash data, performance and other diagnostic data; and other usage data Location Information . Precise location only to support services such as Find My or where you agree for region-specific services, and coarse location Health Information. Data relating to the health status of an individual, including data related to one’s physical or mental health or condition. Personal health data also includes data that can be used to make inferences about or detect the health status of an individual. Fitness Information. Details relating to your fitness and exercise information where you choose to share them Financial Information. Details including salary, income, and assets information where collected, and information related to Apple-branded financial offerings Government ID Data. In certain jurisdictions, we may ask for a government-issued ID in limited circumstances, including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law Other Information You Provide to Us. Details such as the content of your communications with Apple, including interactions with customer support and contacts through social media channels"
     },
     {
-      "category": "User Rights",
+      "category": "AI Training",
       "risk": "Medium",
-      "icon": "\u26d4",
-      "headline": "Your Rights May Be Denied.",
-      "quote": "There may be situations where we cannot grant your request \u2014 for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law."
-    },
-    {
-      "category": "Third-Party Data Practices",
-      "risk": "Medium",
-      "icon": "\u2753",
-      "headline": "Your Third-Party Privacy Unknown.",
-      "quote": "Apple\u2019s Privacy Policy does not apply to how third parties define personal data or how they use it. We encourage you to read their privacy policies and know your privacy rights before interacting with them."
-    },
-    {
-      "category": "Communication Preferences",
-      "risk": "Medium",
-      "icon": "\u2709\ufe0f",
-      "headline": "Your Important Notices Are Mandatory.",
-      "quote": "Because this information is important to your interaction with Apple, you may not opt out of receiving these important notices."
-    },
-    {
-      "category": "Data Sharing with Partners",
-      "risk": "Medium",
-      "icon": "\ud83d\udcca",
-      "headline": "Your Subscription Info Is Shared.",
-      "quote": "If you purchase a third-party subscription from the App Store or within Apple News, we create a Subscriber ID that is unique to you and the developer or publisher. The Subscriber ID may be used to provide reports to the developer or publisher, which include information about the subscription you purchased and your country of residence."
-    },
-    {
-      "category": "International Data Transfer",
-      "risk": "Medium",
-      "icon": "\u2708\ufe0f",
-      "headline": "Your Data Travels Globally.",
-      "quote": "your personal data may be transferred to or accessed by entities around the world, including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services."
-    },
-    {
-      "category": "Legal Basis for Processing",
-      "risk": "Medium",
-      "icon": "\u2696\ufe0f",
-      "headline": "Your Data Used For Interests.",
-      "quote": "We may also process your personal data where we believe it is in our or others\u2019 legitimate interests, taking into consideration your interests, rights, and expectations."
-    },
-    {
-      "category": "Data Combination",
-      "risk": "Medium",
-      "icon": "\ud83d\udd17",
-      "headline": "Your Data Can Be Combined.",
-      "quote": "In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy."
-    },
-    {
-      "category": "AI Training Data",
-      "risk": "Medium",
-      "icon": "\ud83e\udd16",
-      "headline": "Your Public Data Feeds AI.",
+      "icon": "🤖",
+      "headline": "AI Trained on Public Data",
       "quote": "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Third-Parties Provide Your Data",
+      "quote": "Apple may receive personal data about you from other individuals, from businesses or third parties acting at your direction, from our partners who work with us to provide our products and services and assist us in security and fraud prevention, and from other lawful sources."
+    },
+    {
+      "category": "Data Sharing for Government/Legal",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Shares Data with Governments",
+      "quote": "We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate."
+    },
+    {
+      "category": "Children's Data",
+      "risk": "Medium",
+      "icon": "👶",
+      "headline": "Collects Children's Data",
+      "quote": "Apple understands the importance of safeguarding the personal data of children, which we consider to be an individual under the age of 13 or the equivalent age as specified by law in your jurisdiction . That is why Apple has implemented additional processes and protections to help keep children’s personal data safe."
+    },
+    {
+      "category": "Cookies & Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks Your Clicks & Browsing",
+      "quote": "In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website. When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website. We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Stored Globally",
+      "quote": "To make that possible, your personal data may be transferred to or accessed by entities around the world, including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Retains Data As Necessary",
+      "quote": "Apple retains personal data only for so long as necessary to fulfill the purposes for which it was collected, including as described in this Privacy Policy or in our service-specific privacy notices, or as required by law."
     }
   ]
 }
