@@ -1,0 +1,76 @@
+{
+  "url": "https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy",
+  "scanned_at": "2026-03-17T21:30:52.564020+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Ads",
+      "quote": "Roblox may disclose information collected from or about you with third-party advertising companies and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Shares with Business Partners",
+      "quote": "We may share your information, including Personal Information, with other companies (known as third-party agents, contractors, or service providers). We hire these companies to perform services for us."
+    },
+    {
+      "category": "Content Usage",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "Where the law allows us to, we may use the content you and other users have posted for training or to help us to improve the way we filter content on our platform."
+    },
+    {
+      "category": "Privacy Controls",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Location Tracking Consent",
+      "quote": "You can choose to use location-based Services if you’re 13 or older. If you agree, we may collect and track geolocation information so that we can offer Services that depend on us knowing where you are."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We may keep your Personal Information for specific purposes as long as we need it to fulfill those purposes, sometimes even if you’ve stopped using Roblox’s Services."
+    },
+    {
+      "category": "User Responsibility",
+      "risk": "High",
+      "icon": "⚠️",
+      "headline": "Not Responsible for Your Shares",
+      "quote": "We are not responsible for how your Personal Information is used if you shared it yourself."
+    },
+    {
+      "category": "Transparency",
+      "risk": "Medium",
+      "icon": "📜",
+      "headline": "DNT Signals Not Honored",
+      "quote": "Please note that our Services do not respond to Do Not Track (DNT) signals."
+    },
+    {
+      "category": "Third-Party Risk",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Payment Processors Get Your Info",
+      "quote": "Our payment processors (for example, PayPal) manage the transactions, which are subject to their terms and conditions and privacy policies. Their policies will explain what Personal Information they keep and use."
+    },
+    {
+      "category": "Account Security",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Shares Wireless Carrier Info",
+      "quote": "You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud."
+    },
+    {
+      "category": "Data Sharing",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Transfers Your Data Globally",
+      "quote": "We send information we collect from you to our secure servers in the U.S. where we store and use it. This storage is necessary for us to process the information. We may also transfer information that we collect from you to our other offices and to the third parties mentioned in Section 4 of this Policy – these might be outside your region."
+    }
+  ]
+}
