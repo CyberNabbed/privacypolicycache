@@ -1,0 +1,76 @@
+{
+  "url": "https://www.expedia.com/legal/privacy",
+  "scanned_at": "2026-03-17T21:52:24.486994+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We may disclose your personal data to our third-party marketing partners for targeted advertising. This may be considered to be “sharing” of data under California law."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "If we promote a program or offer a service or product in conjunction with a third-party business partner, we will share your personal data with that partner to assist in marketing or to provide the associated product or service."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🌐",
+      "headline": "Shares Across Expedia Group",
+      "quote": "We share your personal data within Expedia Group, the main brands of which are listed on expediagroup.com."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "📱",
+      "headline": "Shares with Social Media",
+      "quote": "we share personal data with media agencies, social media, search engines and other online platforms to help us target our online marketing (potentially in combination with offering a product or service on that platform, e.g. an itinerary builder)."
+    },
+    {
+      "category": "AI/ML Usage",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "We use artificial intelligence (AI) and machine learning (ML) for various purposes to deliver our platform and associated services. We may use your personal data for the following purposes: [...] Content generation To create helpful travel information, such as translating content into different languages and summarizing text. To provide you with summaries of property reviews and articles from our Help Center To generate any kind of new content, generally images, videos and text, such as text summarization, translation or text suggestions"
+    },
+    {
+      "category": "AI/ML Usage",
+      "risk": "HIGH",
+      "icon": "🗣️",
+      "headline": "AI Records Your Conversations",
+      "quote": "To interact with you, answer your questions and help you and your friends plan a trip (through our chatbot and virtual travel agent/assistant)"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "MEDIUM",
+      "icon": "📸",
+      "headline": "Collects Your Images, Videos",
+      "quote": "Images, videos and recordings – including videos, images, facial photographs you upload or that we pull from social media accounts that you connect to your profile with us (e.g. when you create an account using social media sign-in)"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Collects Your Friends' Data",
+      "quote": "Friends, connections and co-traveler data - including data you give us about other people, such as your travel companions, or others for whom you are making a booking, or with whom you are (i) planning a trip, and/or inviting to join a trip board, (ii) having a conversation within or outside our platform (e.g. our AI Agent travel assistant, where available), and friends you refer to us."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "👶",
+      "headline": "Collects Your Child's Data",
+      "quote": "Child data – including name and contact details of minor travelers provided by you as the parent/guardian of the minor as part of a trip reservation"
+    },
+    {
+      "category": "Automated Decision Making",
+      "risk": "MEDIUM",
+      "icon": "⚙️",
+      "headline": "Uses Automated Decision-Making",
+      "quote": "Automated decisions may be made by putting your personal data into a system and the decision is calculated using automatic processes. We will rely on our legitimate interest to keep our site safe and to enhance your user experience."
+    }
+  ]
+}
