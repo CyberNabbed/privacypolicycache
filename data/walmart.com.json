@@ -1,0 +1,69 @@
+{
+  "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+  "scanned_at": "2026-03-17T21:29:05.845389+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "We may disclose personal information to third parties or process your personal information for various purposes, including targeted advertising. These kinds of disclosures may be deemed selling under certain state privacy laws. You have the right to opt-out of the sale or processing of your Personal Information for targeted advertising as described above."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Collects Extensive Personal Data",
+      "quote": "We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings. Not all categories of personal information will be collected or received about every individual. Basic Personal Identifiers, Device and Online Identifiers, Internet and Other Network Activity Information, Commercial Information, Communications, Demographic Information, Financial Information, Biometric Information, Geolocation, Sensory Information, Background Information, Inferences."
+    },
+    {
+      "category": "AI Training with Your Data",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them, such as training our AI."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric Information, such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints."
+    },
+    {
+      "category": "Precise Geolocation Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Precise Geolocation Tracking",
+      "quote": "Also, depending on your device’s settings and with your consent, we may collect precise geolocation information. You can control our ability to do this by adjusting the location-sharing settings on your mobile device at any time."
+    },
+    {
+      "category": "Automated In-Store Tracking",
+      "risk": "High",
+      "icon": "🛒",
+      "headline": "Automated In-Store Tracking",
+      "quote": "We collect your personal information from technology we use in and outside of our stores. For example, our point-of-sale terminals process your credit card information when you complete your purchase, and we operate cameras and automated technologies in-store and on Walmart property outside of our store for security and operational purposes."
+    },
+    {
+      "category": "Affiliate Data Sharing (VIZIO)",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "VIZIO Shares Your Data",
+      "quote": "If you sign in to your VIZIO OS products with a Walmart account or merge your VIZIO Account into a Walmart account, VIZIO will provide Walmart with data needed to enable sign-in and Smart TV functionality. This includes information such as your contact details, payment information, subscription information, and account authentication and security information."
+    },
+    {
+      "category": "Data Inferences & Profiling",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Infers Your Preferences",
+      "quote": "Inferences, such as individual preferences and characteristics. This may include inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes."
+    },
+    {
+      "category": "Third-Party Data Acquisition",
+      "risk": "Medium",
+      "icon": "👥",
+      "headline": "Gets Data from Others",
+      "quote": "We may obtain personal information about you from other sources to help us correct or supplement our records, improve the quality or personalization of our services, increase the appeal and relevance of advertising, and to prevent or detect fraud."
+    }
+  ]
+}
