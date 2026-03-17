@@ -1,0 +1,62 @@
+{
+  "url": "https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062",
+  "scanned_at": "2026-03-17T21:52:45.521432+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Info for Ads",
+      "quote": "As a general rule, when we share personal information the contract between us and the receiving party places specific limits on how they use the information in support of Best Buy. However, this general rule does not apply to some information sharing for advertising purposes."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "High",
+      "icon": "✋",
+      "headline": "Collects Your Biometrics",
+      "quote": "Certain stores may also collect biometric information such as facial recognition data (for example, we may use images from security cameras to protect the health and safety of our customers and associates, or to prevent, investigate, and prosecute shoplifting, fraud, and other criminal activities)."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🏥",
+      "headline": "Collects Your Health Info",
+      "quote": "Health information (for example, if you purchase a hearing aid)"
+    },
+    {
+      "category": "Third-Party Data Acquisition",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Gets Your Data From Brokers",
+      "quote": "We may also receive information related to you from data brokers or other third parties."
+    },
+    {
+      "category": "Location Tracking",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Location",
+      "quote": "Location information (such as when you ask us to tell you about nearby stores)"
+    },
+    {
+      "category": "No 'Do Not Track' Compliance",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores 'Do Not Track'",
+      "quote": "Our digital properties are not designed to respond to “do not track” requests from browsers."
+    },
+    {
+      "category": "Weak Security Guarantee",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Doesn't Guarantee Your Security",
+      "quote": "However, as set forth in the applicable terms of use for each digital property, we cannot and do not guarantee the security of information we collect."
+    },
+    {
+      "category": "User Content Public Exposure",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Your Posts Are Public",
+      "quote": "Reviews and other content you post on our digital properties in publicly accessible blogs and other forums (be aware that anyone who accesses these posts may view, collect, and use the information you provide)"
+    }
+  ]
+}
