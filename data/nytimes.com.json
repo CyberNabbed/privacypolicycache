@@ -1,76 +1,48 @@
 {
-  "url": "https://www.nytimes.com/privacy/privacy-policy",
-  "scanned_at": "2026-02-08T18:41:14.574214Z",
+  "url": "https://www.nytimes.com/privacy",
+  "scanned_at": "2026-03-17T21:29:14.853497+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "\ud83d\udcb8",
-      "headline": "Your PII Shared For Ads",
-      "quote": "We share information that we collect from you, such as your email, IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online, in-app, and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising."
+      "icon": "🤝",
+      "headline": "Shares Your Data Online",
+      "quote": "When we detect a GPC signal from a reader’s browser where GDPR, CCPA or a similar privacy law applies, we stop sharing the reader’s personal data online with other companies (except with our service providers)."
     },
     {
-      "category": "Third-Party Sharing",
+      "category": "Third-Party Data Collection",
       "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your Data Powers Other Ads",
-      "quote": "Essentially, these providers combine any information they gather about you through Times Services with information they receive from their other clients. This helps them target ads to you on behalf of their other clients, not just us."
+      "icon": "🕵️‍♀️",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "Third-party advertisers collect behavioral data associated with their ads shown on our site or apps."
     },
     {
-      "category": "Sensitive Data Collection",
+      "category": "Data Collection from Other Sources",
       "risk": "High",
-      "icon": "\u26a0\ufe0f",
-      "headline": "Your Sensitive Data Collected",
-      "quote": "Some of our surveys and feedback programs, including panels, will request your consent to provide on a purely voluntary basis information regarding your interests in various topics... as well as demographic information, some of which may be considered sensitive under applicable laws such as your age, ethnicity, race, gender, sexual orientation, family characteristics and income."
+      "icon": "🌐",
+      "headline": "Collects Data from Social Media",
+      "quote": "Additionally, we collect data about readers from sources like privately owned databases and social media platforms."
     },
     {
-      "category": "AI & Privacy",
-      "risk": "High",
-      "icon": "\ud83e\udd16",
-      "headline": "Your Chats Train AI",
-      "quote": "Your chat session will be recorded for quality assurance and training and may be used for training AI models. Please do not provide information in a chat session that you do not want recorded."
-    },
-    {
-      "category": "Location Tracking",
-      "risk": "High",
-      "icon": "\ud83d\udccd",
-      "headline": "Your Location Used For Ads",
-      "quote": "If you allow us to collect your precise geolocation in the ways described above, we will use that information to personalize content provided to you... We also use your precise geolocation for other personalized experiences - those may include targeted advertising from third parties on Times Services based on your location."
-    },
-    {
-      "category": "Data Aggregation",
+      "category": "Behavioral Tracking",
       "risk": "Medium",
-      "icon": "\ud83d\uddc3\ufe0f",
-      "headline": "Your Data From Databases",
-      "quote": "Privately Owned Databases Marketing, data analytic and social media-owned databases give us access to a range of information \u2014 like public data, survey data and more. This data sometimes includes your mailing address, your gender, your age, your household income and other demographic data."
+      "icon": "👣",
+      "headline": "Tracks Your Reading Behavior",
+      "quote": "Our tracking technologies collect data about your reading behavior, like which articles you read, which recipes you save, which Games you play or how often you visit The Times."
     },
     {
-      "category": "Data Inferences",
+      "category": "Targeted Advertising",
       "risk": "Medium",
-      "icon": "\ud83d\udca1",
-      "headline": "Your Inferences Used For Ads",
-      "quote": "We use these inferences for purposes of personalization, to improve our services, to market Times Services to you and to create audiences for third party advertisers and for marketing on other sites and services."
+      "icon": "🎯",
+      "headline": "Your Data Used for Ads",
+      "quote": "Our advertisers ask us to use reader data so their ads can be targeted at the right audiences."
     },
     {
-      "category": "Supply Chain Risk",
+      "category": "Social Login Data Sharing",
       "risk": "Medium",
-      "icon": "\ud83d\udd17",
-      "headline": "Your Data Flows Downstream",
-      "quote": "our service providers may share your information with their affiliates and service providers."
-    },
-    {
-      "category": "Third-Party Marketing",
-      "risk": "Medium",
-      "icon": "\ud83d\udce7",
-      "headline": "Your Data For Direct Marketing",
-      "quote": "We may share personal information with third parties for their independent direct marketing purposes when you consent to such sharing."
-    },
-    {
-      "category": "User Control",
-      "risk": "Medium",
-      "icon": "\u2699\ufe0f",
-      "headline": "Your Opt-Out Burden",
-      "quote": "That being said, in order to opt out of receiving these matched ads, you should also contact the applicable third parties."
+      "icon": "🔗",
+      "headline": "Social Logins Share Your Data",
+      "quote": "If you sign up via Facebook or Google, they share limited data with us so we can create an account for you."
     }
   ]
 }
