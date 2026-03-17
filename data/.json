@@ -1,76 +1,48 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:22:55.226360+00:00",
+  "scanned_at": "2026-03-17T21:22:58.471006+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "💸",
-      "headline": "Shares Your Info Extensively",
-      "quote": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization."
+      "risk": "Low",
+      "icon": "🤝",
+      "headline": "No Data Selling/Sharing",
+      "quote": "Reddit does not sell personal data to third parties"
     },
     {
-      "category": "Biometric Data Collection",
-      "risk": "High",
-      "icon": "🤳",
-      "headline": "Collects Your Face & Voice",
-      "quote": "We may collect biometric identifiers and biometric information as defined under US laws, such as faceprints and voiceprints, from your user content."
+      "category": "Anonymity Features",
+      "risk": "Low",
+      "icon": "👻",
+      "headline": "Anonymous Browsing Available",
+      "quote": "Anonymous Browsing mode won’t associate your activity with your account, including browsing and searches"
     },
     {
-      "category": "Cross-Site Tracking",
-      "risk": "High",
-      "icon": "🔭",
-      "headline": "Tracks You Across Sites",
-      "quote": "Advertisers, publishers, and measurement and other partners provide us with information about you and the actions you have taken outside of our websites and apps, including the pages you visit, products or services you purchase, and apps you download."
+      "category": "Data Deletion & Access",
+      "risk": "Low",
+      "icon": "🗑️",
+      "headline": "You Can Delete Your Data",
+      "quote": "Redditors always have the option to delete their posts, comments, and accounts; they can also request a copy of their Reddit data and information"
     },
     {
-      "category": "AI Content Training",
-      "risk": "High",
-      "icon": "🤖",
-      "headline": "Trains AI On Your Content",
-      "quote": "To review, support, improve, and develop the Services, and train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the Services; conducting research; soliciting feedback; monitoring your activity and usage across the devices you use to access the Services; and scanning, analyzing, and reviewing user content, messages, AI interactions, and associated metadata."
+      "category": "Doxxing Prevention",
+      "risk": "Low",
+      "icon": "🛡️",
+      "headline": "Doxxing Prohibited",
+      "quote": "We forbid doxxing (involuntarily revealing someone’s real world identity) people on the Reddit platform"
     },
     {
-      "category": "Clipboard Access",
-      "risk": "Medium",
-      "icon": "📋",
-      "headline": "Accesses Your Clipboard Content",
-      "quote": "Clipboard content, such as text and images, accessed through your device's clipboard when you choose to use certain functions such as initiating information sharing with third-party services, or copying and pasting clipboard content onto our apps and websites."
+      "category": "Metadata Stripping",
+      "risk": "Low",
+      "icon": "✂️",
+      "headline": "Strips Your Media Metadata",
+      "quote": "We strip location and personal information metadata from the images and videos you choose to share"
     },
     {
-      "category": "Sensitive Data Collection",
-      "risk": "High",
-      "icon": "🩺",
-      "headline": "Collects Your Sensitive Info",
-      "quote": "Information You Provide may include sensitive personal information, as defined under applicable state privacy laws. We process such information in accordance with applicable law, such as to provide the Services and other permitted purposes under state privacy laws, like the California Consumer Privacy Act (\"CCPA\")."
-    },
-    {
-      "category": "Location Tracking",
-      "risk": "High",
-      "icon": "📍",
-      "headline": "Collects Your Precise Location",
-      "quote": "Also, if you choose to enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device."
-    },
-    {
-      "category": "Data Retention",
-      "risk": "Medium",
-      "icon": "⏳",
-      "headline": "Retains Your Data Indefinitely",
-      "quote": "We retain information for as long as necessary to provide the Services and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Services, and enhancing its safety, security and stability), and for the exercise or defense of legal claims."
-    },
-    {
-      "category": "International Data Transfer",
-      "risk": "High",
-      "icon": "🌎",
-      "headline": "Transfers Your Data Internationally",
-      "quote": "Subject to applicable laws, including Executive Order 14352 and any compliance obligations thereunder, we may transmit your information outside of the United States, for purposes of sharing with recipients as described in this Privacy Policy."
-    },
-    {
-      "category": "No Do-Not-Track Response",
+      "category": "Public Content Usage",
       "risk": "Low",
       "icon": "🚫",
-      "headline": "Ignores Do-Not-Track Signals",
-      "quote": "Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, we currently do not take action in response to these signals."
+      "headline": "No Public Content Surveillance",
+      "quote": "We do not allow your public Reddit content to be used for surveillance or spamming you"
     }
   ]
 }
