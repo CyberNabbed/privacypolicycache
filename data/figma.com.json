@@ -1,0 +1,69 @@
+{
+  "url": "https://www.figma.com/legal/privacy/",
+  "scanned_at": "2026-03-17T21:33:16.928597+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "Under the CCPA, Figma’s use of retargeting pixels or third party cookies as described above in this Privacy Policy may be considered: (1) a “sale” of personal information and/or (2) “sharing” personal information for “cross-context behavioral advertising.”"
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "Improving our Services through artificial intelligence. This includes: if “Content Training” is toggled on within your administrative user settings, Customer Content and where we act as a controller (e.g. when processing Usage Data)."
+    },
+    {
+      "category": "Data Collection for Marketing",
+      "risk": "MEDIUM",
+      "icon": "📈",
+      "headline": "Uses Your Data for Ads",
+      "quote": "Delivering relevant content and advertisements to you and measuring or understanding the effectiveness of the advertising we serve to you."
+    },
+    {
+      "category": "Call & Video Recording",
+      "risk": "HIGH",
+      "icon": "📞",
+      "headline": "Records Your Calls/Videos",
+      "quote": "In addition, we may record telephone calls or video conferences between you and our representatives for training or quality assurance purposes."
+    },
+    {
+      "category": "Third-Party Data Access",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Third Parties Access Your Data",
+      "quote": "We may obtain information about you from other sources, including from third party services and organizations."
+    },
+    {
+      "category": "Public Content Disclosure",
+      "risk": "HIGH",
+      "icon": "🌐",
+      "headline": "Your Content Can Be Public",
+      "quote": "Content can be made publicly available by you or others collaborating on it, and in such cases any information about you included in such content is also publicly available and can be indexed by search engines."
+    },
+    {
+      "category": "Employer Data Control",
+      "risk": "HIGH",
+      "icon": "🏢",
+      "headline": "Your Employer Controls Your Data",
+      "quote": "If you access the Services on behalf of an organization (such as with your organization’s domain) or have your account paid for by another party, we will disclose your information to that organization or paying party at its request and give such organization certain rights over your information."
+    },
+    {
+      "category": "Cross-Border Data Transfers",
+      "risk": "MEDIUM",
+      "icon": "✈️",
+      "headline": "Your Data Stored Abroad",
+      "quote": "The personal information we process may be transferred to, processed and stored in jurisdictions which may have data protection laws that are different from the laws where you are located (and, in some cases, may not be as protective), and may be subject to access requests from governments, courts, or law enforcement in those ‎jurisdictions according to applicable laws."
+    },
+    {
+      "category": "No DNT Response",
+      "risk": "LOW",
+      "icon": "🚫",
+      "headline": "Ignores Your Do Not Track",
+      "quote": "We do not respond to DNT signals; however, we do recognize and process GPC signals by certain web browsers."
+    }
+  ]
+}
