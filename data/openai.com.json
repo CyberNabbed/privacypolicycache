@@ -1,0 +1,69 @@
+{
+  "url": "https://openai.com/policies/privacy-policy/",
+  "scanned_at": "2026-03-17T21:49:26.983042+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "LOW",
+      "icon": "✅",
+      "headline": "No Sale or Targeted Ads",
+      "quote": "We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for “targeted advertising” purposes (as those terms are defined under state privacy laws)."
+    },
+    {
+      "category": "AI Model Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Your Content Trains AI",
+      "quote": "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT."
+    },
+    {
+      "category": "Data Monitoring",
+      "risk": "HIGH",
+      "icon": "🕵️‍♀️",
+      "headline": "Monitors Your Conversations",
+      "quote": "To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more here)."
+    },
+    {
+      "category": "Affiliate Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates",
+      "quote": "We disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this policy."
+    },
+    {
+      "category": "Business Account Access",
+      "risk": "HIGH",
+      "icon": "🏢",
+      "headline": "Employer Can Access Your Account",
+      "quote": "When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account, including being able to access your Content."
+    },
+    {
+      "category": "Contact Uploading",
+      "risk": "HIGH",
+      "icon": "⬆️",
+      "headline": "Uploads Your Device Contacts",
+      "quote": "If you choose to connect your device contacts, we upload information from your device address books and check which of your contacts also use our Services."
+    },
+    {
+      "category": "Data Inaccuracy & Correction",
+      "risk": "MEDIUM",
+      "icon": "⚠️",
+      "headline": "AI Output May Be Inaccurate",
+      "quote": "In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models."
+    },
+    {
+      "category": "Location Tracking",
+      "risk": "MEDIUM",
+      "icon": "📍",
+      "headline": "Tracks Your General Location",
+      "quote": "We determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better..."
+    },
+    {
+      "category": "Third-Party Sharing Control",
+      "risk": "HIGH",
+      "icon": "🔗",
+      "headline": "Third-Party Terms Govern Sharing",
+      "quote": "Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them."
+    }
+  ]
+}
