@@ -1,0 +1,76 @@
+{
+  "url": "https://",
+  "scanned_at": "2026-03-17T21:22:26.072280+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data With Partners",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares With Affiliates & Others",
+      "quote": "We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🏢",
+      "headline": "Domain Admins Access Your Account",
+      "quote": "If you’re a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "🎤",
+      "headline": "Collects Voice & Audio Info",
+      "quote": "Audio, electronic, visual, and similar information, such as voice and audio information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Your Health Information",
+      "quote": "Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "👁️",
+      "headline": "Collects Biometric Info",
+      "quote": "Biometric information if you choose to provide it, such as fingerprints in Google’s product development studies."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "🕰️",
+      "headline": "Retains Data For Long Periods",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Public Data",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Automated Processing",
+      "risk": "HIGH",
+      "icon": "🧠",
+      "headline": "Automated Content Analysis",
+      "quote": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us detect abuse such as spam, malware, and illegal content."
+    }
+  ]
+}
