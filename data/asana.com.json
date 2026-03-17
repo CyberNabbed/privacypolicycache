@@ -1,0 +1,48 @@
+{
+  "url": "https://asana.com/privacy",
+  "scanned_at": "2026-03-17T21:33:26.671170+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data With Affiliates",
+      "quote": "Learn how Asana engages third-party subprocessors and Asana affiliates to help us provide services to our customers."
+    },
+    {
+      "category": "AI & Machine Learning",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "AI Partners Use Your Content",
+      "quote": "Asana AI features powered by AI Partners use metadata, personal information, and user-generated content (e.g., task titles and task descriptions)."
+    },
+    {
+      "category": "Government Access & Requests",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Responds To Government Requests",
+      "quote": "Asana only responds to law enforcement requests that adhere to established legal process and applicable law."
+    },
+    {
+      "category": "Data Storage Location",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Data Stored Globally",
+      "quote": "Asana is a global company and data will be transferred to regions where our subprocessors and affiliates are located."
+    },
+    {
+      "category": "Data Handling Policy",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Limits On Your Own DPA",
+      "quote": "The provisions of Asana’s DPA reflect Asana’s services and multi-tenant infrastructure."
+    },
+    {
+      "category": "Data Retention Warning",
+      "risk": "Medium",
+      "icon": "⚠️",
+      "headline": "Do Not Store Sensitive Data",
+      "quote": "Customers should not store sensitive personal data (including financial account numbers and social security numbers) in Asana."
+    }
+  ]
+}
