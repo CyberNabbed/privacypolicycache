@@ -1,0 +1,69 @@
+{
+  "url": "https://www.canva.com/policies/privacy-policy/",
+  "scanned_at": "2026-03-17T21:49:21.232223+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "This policy sets out how Canva and affiliates like Affinity collect and use the information that we collect about you when you use the Service."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Third-Party Partners",
+      "quote": "We share your information with Canva affiliates and third-party service providers for the purpose of providing the Service to you, to facilitate Canva’s legitimate interests or if you consent."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Shares for Personalized Advertising",
+      "quote": "Canva may share certain information with our third party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third party networks or sites to serve ads either on the Service or on third party sites (including, but not limited to Facebook, Google and Samsung televisions) and to measure the effectiveness of these ads."
+    },
+    {
+      "category": "AI/Machine Learning",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "We may analyze your activity, content, media uploads and related data in your account to provide and customize the Service, and to train our algorithms, models and AI products and services using machine learning to develop, improve and provide our Service."
+    },
+    {
+      "category": "Public Data Disclosure",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Your Public Posts are Public",
+      "quote": "Any information or content that you voluntarily disclose for posting to the Service, such as public User Content, becomes available to be read, collected and used by the public."
+    },
+    {
+      "category": "Third-Party Account Control",
+      "risk": "High",
+      "icon": "💼",
+      "headline": "Employer Controls Your Account",
+      "quote": "If you sign up for the Service using an email address associated with your employer or another organization (“Admin Entity”), this Canva account will be an “Administered Account” and Canva may: share your name, email address, and account activity information with the Admin Entity; and give control of the Administered Account to the Admin Entity."
+    },
+    {
+      "category": "Mergers & Acquisitions",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your Data Sold in Mergers",
+      "quote": "Canva may also share, sell or transfer your information to third parties in connection with or contemplation of (including as part of the due diligence process) any merger, acquisition, reorganization, financing, sale of assets, bankruptcy or insolvency event involving Canva or any portion of our assets, services or businesses."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Stored Globally",
+      "quote": "Your information collected through the Service will be stored and processed in the United States, Australia, Singapore, European Union, United Kingdom, Philippines and New Zealand and any other country in which Canva or its subsidiaries, affiliates or service providers maintain facilities or employ staff or contractors."
+    },
+    {
+      "category": "Third-Party Integrations",
+      "risk": "Medium",
+      "icon": "🔌",
+      "headline": "Third-Party Apps Access Your Data",
+      "quote": "Using third party-products or integrating with third party applications could involve importing data from that third party to Canva and/or exporting data from Canva to that third party."
+    }
+  ]
+}
