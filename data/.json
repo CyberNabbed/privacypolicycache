@@ -1,69 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:22:43.786408+00:00",
+  "scanned_at": "2026-03-17T21:22:49.449838+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "🤝",
-      "headline": "Shares Your Info Extensively",
-      "quote": "We share information we collect, infrastructure, systems and technology with the other Meta Companies. Meta Products share information with other Meta Companies: To promote safety, security and integrity and comply with applicable laws To personalize offers, ads and other sponsored or commercial content To develop, provide and personalize features and integrations To understand how people use and interact with Meta Company Products"
+      "icon": "💸",
+      "headline": "Shares Your Data with Meta",
+      "quote": "As part of the Meta Companies , WhatsApp receives information from, and shares information (see here ) with, the other Meta Companies ."
     },
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "📈",
-      "headline": "Shares with Ad Partners",
-      "quote": "Here’s more detail about who we share information with: Partners Advertisers and Audience Network publishers Partners who use our analytics services Partners who offer goods or services on our Products and commerce services platforms Integrated partners Vendors Measurement vendors Marketing vendors Service providers Service providers Third parties External researchers AI integrations Other third parties"
-    },
-    {
-      "category": "Extensive Data Collection",
-      "risk": "High",
-      "icon": "🕵️‍♀️",
-      "headline": "Collects Your Off-Platform Data",
-      "quote": "We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services."
-    },
-    {
-      "category": "Sensitive Data Collection",
-      "risk": "High",
-      "icon": "❤️‍🩹",
-      "headline": "Collects Your Sensitive Info",
-      "quote": "Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, and where you have given your explicit consent"
-    },
-    {
-      "category": "AI Training & Content Use",
-      "risk": "High",
-      "icon": "🤖",
-      "headline": "Uses Your Content for AI",
-      "quote": "Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages."
-    },
-    {
-      "category": "Human Review of Content",
-      "risk": "Medium",
-      "icon": "👁️",
-      "headline": "Your Content Reviewed Manually",
-      "quote": "But in some cases, we also use manual review to access and review your information."
+      "icon": "🤝",
+      "headline": "Shares with Third-Party Partners",
+      "quote": "We work with third-party service providers and other Meta Companies to help us operate, provide, improve, understand, customize, support, and market our Services."
     },
     {
       "category": "Data Retention",
       "risk": "Medium",
       "icon": "⏳",
-      "headline": "Retains Your Data Indefinitely",
-      "quote": "We keep information as long as we need it to provide our Products, comply with legal obligations or protect our or other’s interests. We decide how long we need information on a case-by-case basis."
+      "headline": "Retains Your Undelivered Messages",
+      "quote": "If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it in encrypted form on our servers for up to 30 days as we try to deliver it."
     },
     {
-      "category": "Data Transfer",
-      "risk": "Medium",
-      "icon": "🌍",
-      "headline": "Transfers Your Data Globally",
-      "quote": "We share information we collect globally, both internally across our offices and data centers and externally with our partners, third parties and service providers."
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your General Location",
+      "quote": "Even if you do not use our location-related features, we use IP addresses and other information like phone number area codes to estimate your general location (e.g., city and country)."
     },
     {
-      "category": "Law Enforcement & Legal Requests",
+      "category": "User Generated Content",
+      "risk": "High",
+      "icon": "📸",
+      "headline": "Others Can Record Your Calls",
+      "quote": "You should keep in mind that in general any user can capture screenshots of your chats or messages or make recordings of your calls with them and send them to WhatsApp or anyone else, or post them on another platform."
+    },
+    {
+      "category": "Data Collection",
       "risk": "Medium",
-      "icon": "🏛️",
-      "headline": "Shares Data with Government",
-      "quote": "We access, preserve, use and share your information: In response to legal requests, like search warrants, court orders, production orders or subpoenas. These requests come from third parties such as civil litigants, law enforcement and other government authorities."
+      "icon": "👤",
+      "headline": "Collects Your Detailed Usage",
+      "quote": "This includes information about your activity (including how you use our Services, your Services settings, how you interact with others using our Services (including when you interact with a business), and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Stored Globally",
+      "quote": "Your information may, for example, be transferred or transmitted to, or stored and processed in, the United States; countries or territories where the Meta Companies’ affiliates and partners, or our service providers are located; or any other country or territory globally where our Services are provided outside of where you live for the purposes as described in this Privacy Policy."
+    },
+    {
+      "category": "Business Communications",
+      "risk": "Medium",
+      "icon": "💼",
+      "headline": "Business Sees Your Messages",
+      "quote": "When you message with a business on WhatsApp, keep in mind that the content you share may be visible to several people in that business."
+    },
+    {
+      "category": "Account Deletion",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Account Deletion Not Fully Private",
+      "quote": "Please remember that when you delete your account, it does not affect your information related to the groups you created or the information other users have relating to you, such as their copy of the messages you sent them."
     }
   ]
 }
