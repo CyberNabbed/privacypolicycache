@@ -1,0 +1,76 @@
+{
+  "url": "https://legal.hubspot.com/privacy-policy",
+  "scanned_at": "2026-03-17T21:33:33.340049+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells Your Data",
+      "quote": "In the preceding 12 months, we have “sold” or “shared” (as defined under the CCPA) certain information, including identifiers, to our advertising partners. We have also “sold” or “shared” certain information, including identifiers, approximate location data, and professional data to our customers."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares for Advertising & Marketing",
+      "quote": "We may also share Personal Data, such as your email address, with our advertising partners to deliver HubSpot’s personalized ads on other companies' sites or mobile apps."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Shares with Customers",
+      "quote": "We may share Personal Data about individuals in our commercial dataset with our customers that use our enrichment products. Customers may use this information for their sales and marketing activities."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🛍️",
+      "headline": "Shares with Marketplace Partners",
+      "quote": "When you use a HubSpot Marketplace (such as the HubSpot App Marketplace , HubSpot Template Marketplace , HubSpot Solutions Directory ) we may share your Personal Data with our Marketplace Partners who may contact you to provide promotional materials on their offerings."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Shares with Other Affiliates",
+      "quote": "We may share your Personal Data with our current and future parents, Affiliates, subsidiaries, and other entities under common control and ownership to the extent necessary to fulfill your request or for other purposes permitted under this Privacy Policy."
+    },
+    {
+      "category": "AI/ML Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "When you use our products and services we may process personal data to develop, support, and improve HubSpot AI features and to train our AI models and similar products and services that rely on machine learning."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Collects Your Public Professional Data",
+      "quote": "HubSpot also acts as a controller when we collect and process personal data about individuals in their professional capacity, and make that information available to customers for their own sales, marketing, and other business activities. This includes personal data we may collect indirectly about you, such as from publicly available sources, our customers, or other third parties."
+    },
+    {
+      "category": "Call Recording",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Records Your Calls",
+      "quote": "If you have a call scheduled with a HubSpot representative, we may record and transcribe the call. You will be notified prior to the call that the call is being recorded, and you will be offered an opportunity to opt-out of having the call recorded."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Globally",
+      "quote": "To facilitate our global operations, we may transfer information that may include Personal Data to other HubSpot Affiliates who act as subprocessors, where we have operations for the purposes described in this policy."
+    },
+    {
+      "category": "Tracking Technologies",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Uses Advertising Cookies",
+      "quote": "Our ad network partner uses cookies and web beacons to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests."
+    }
+  ]
+}
