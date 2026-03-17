@@ -1,0 +1,62 @@
+{
+  "url": "https://www.wix.com/about/privacy",
+  "scanned_at": "2026-03-17T21:31:44.528312+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "We may have \"sold\" (using that rather broad and dramatic term as defined by U.S. privacy laws and regulations) or shared the categories of Personal Information listed above in the past 12 months to our affiliates, Third Party Service Providers, promotional partners, advertising partners, analytics partners, and social media platforms."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🔍",
+      "headline": "Collects Sensitive ID Data",
+      "quote": "Personal Information contained in scanned identification documents (such as an ID card, driver’s license, passport, or official company registration documents)."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Collects Inferences About You",
+      "quote": "Inferences drawn from the above information"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📡",
+      "headline": "Collects From Third-Parties",
+      "quote": "We may receive Personal Information about you from third-party sources, such as i) security providers, fraud detection and prevention providers for example to help us screen out users associated with fraud, ii) social media platforms, when you log-in or sign-up using your social media account, we may receive Personal Information from that service (e.g., your username, basic profile Personal Information) and in some cases, we may collect Personal Information from lead enhancement companies which help us to improve our service offering; iii) advertising and marketing partners in order to monitor, manage and measure our ad campaigns."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Low",
+      "icon": "✍️",
+      "headline": "Can Appeal Denied Rights",
+      "quote": "If we deny your request or cannot fulfill it, you may appeal our decision by contacting us as described in this Privacy Policy to ask us to review your request again."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Retains Data Indefinitely",
+      "quote": "We retain your Personal Information for the time period reasonably necessary to achieve the purposes described in this Privacy Policy, or any other notice provided at the time of collection."
+    },
+    {
+      "category": "User Consent",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Must Leave if You Disagree",
+      "quote": "If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave and discontinue all use of any of our Services."
+    },
+    {
+      "category": "Tracking",
+      "risk": "Medium",
+      "icon": "🖱️",
+      "headline": "Tracks Your Online Activity",
+      "quote": "We may collect aggregated usage Personal Information, such as Visitors’ and Users’ browsing and ‘click-stream’ activity on the Services, session heatmaps and scrolls, non-identifying Personal Information regarding the Visitor’s or User’s device, operating system, internet browser, screen resolution, language and keyboard settings, internet service provider, referring/exit pages, date/time stamps, etc"
+    }
+  ]
+}
