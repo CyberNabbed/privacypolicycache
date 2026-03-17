@@ -1,41 +1,62 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:30.438513+00:00",
+  "scanned_at": "2026-03-17T21:23:35.894406+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "Low",
+      "risk": "High",
       "icon": "🤝",
-      "headline": "No Data Selling/Sharing Explicit",
-      "quote": "This document outlines their privacy principles without detailing data sharing practices for marketing or with affiliates."
+      "headline": "Shares Your Data for Ads",
+      "quote": "Advertising partners • User Data • Usage Data So they can help us deliver more relevant advertising to you on the Spotify Service, and help measure the effectiveness of ads. For example, our ad partners help us facilitate tailored advertising."
     },
     {
-      "category": "Transparency",
-      "risk": "Low",
-      "icon": "🔎",
-      "headline": "Good Privacy Transparency",
-      "quote": "We are honest and transparent about our privacy practices."
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Marketing",
+      "quote": "Marketing Partners • User Data • Usage Data To promote Spotify with our partners. We disclose certain User Data and Usage Data to these partners where necessary to: • enable you to participate in Spotify promotions, including trials or other bundled offers • to promote Spotify in media and advertising published on other online services • help us and our partners to measure the effectiveness of Spotify promotions"
     },
     {
-      "category": "User Control",
-      "risk": "Low",
-      "icon": "⚙️",
-      "headline": "You Control Your Content",
-      "quote": "You can control who interacts with your content, and how it affects your experience on Twitch."
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Shares with Other Spotify Companies",
+      "quote": "Other Spotify group companies, including companies that Spotify acquires User Data Street Address Data Usage Data Voice Data Message Data Payment and Purchase Data Survey and Research Data To carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies’ services to you."
     },
     {
-      "category": "Data Choices",
-      "risk": "Low",
-      "icon": "✅",
-      "headline": "Your Data, Your Choices",
-      "quote": "Twitch provides a variety of choices regarding how we use the information we collect about you, and how you can manage your information on Twitch."
+      "category": "AI/Machine Learning",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users’ experience. For example: • so we can build AI features such as AI DJ and AI playlist"
     },
     {
-      "category": "Privacy-by-Design",
-      "risk": "Low",
-      "icon": "🔒",
-      "headline": "Products Designed for Privacy",
-      "quote": "Data protection principles are built into Twitch products from the start."
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice Data",
+      "quote": "If voice features are available in your market and where you’ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📸",
+      "headline": "Collects Your Face & ID",
+      "quote": "Age Check Data is the data you provide if you use an Age Check powered by a third party provider on Spotify (“Age Check”). This includes: Facial age estimation: a photo of your face which is used to estimate your age Identity document verification: photos of your face and ID which are used to confirm your age and to verify that the ID belongs to you"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Data After Deletion",
+      "quote": "After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this."
+    },
+    {
+      "category": "Public Information",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your Profile Always Public",
+      "quote": "The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked): your profile name your profile photo your public playlists other content you post on the Spotify Service, and any associated titles, descriptions and images"
     }
   ]
 }
