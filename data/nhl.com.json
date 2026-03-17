@@ -1,0 +1,76 @@
+{
+  "url": "https://www.nhl.com/info/privacy-policy",
+  "scanned_at": "2026-03-17T21:17:39.808525+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data Widely",
+      "quote": "We may share information that we collect and receive with third parties when we have your consent or as described below (with your consent where required by law). We share information with the following types of third parties: Our affiliates and related entities... Our service providers... Member Clubs... Business Partners... Advertising partners."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Shares Your Info for Ads",
+      "quote": "We also may provide a hashed version of your email address or other information to third parties for the purposes of serving relevant advertising to you or others on third-party sites (including social media platforms)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Third-Party Partners Use Your Data",
+      "quote": "We are not responsible for the privacy practices of our Business Partners or other third-party partners, which may use your information for their own purposes."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🤔",
+      "headline": "Collects Sensitive Demographic Info",
+      "quote": "Demographic information, such as language spoken, age, gender, race/ethnicity, household composition, income and size;"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Collects Precise Location Data",
+      "quote": "Location information. This information may include specific geolocation data drawn from your device's GPS, Bluetooth and WiFi signals and nearby cell towers."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Infers Your Preferences",
+      "quote": "We may generate inferences about your preferences and characteristics based on your use of the Services and other information we have about you."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "🛂",
+      "headline": "Limited Privacy Portal Access",
+      "quote": "please note that at the present time the NHL Privacy Portal provides choices only for residents in certain countries (such as the U.S., Canada, EEA, UK and Switzerland); for all other residents please see the Your Other Privacy Choices section)."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Do Not Track Not Honored",
+      "quote": "There is no standard that governs what, if anything, websites and online services should do when they receive these signals. We currently do not take action in response to these signals."
+    },
+    {
+      "category": "Data Security",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Security Not Guaranteed",
+      "quote": "However, please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot and do not guarantee or warrant the security of any information you disclose or transmit to our Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information, or any other disclosures out of our control."
+    },
+    {
+      "category": "Data Transfer",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Stored Internationally",
+      "quote": "your information may be transferred to, maintained, and processed by the NHL, its affiliates, and our operational partners and service providers in the United States or other locations outside of your jurisdiction of residence. Such other locations may include, from time to time, Canada, Belgium, Finland, Germany, Ireland, the Philippines, Sweden, the United Kingdom, and potentially other countries."
+    }
+  ]
+}
