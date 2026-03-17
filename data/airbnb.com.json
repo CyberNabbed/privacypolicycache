@@ -1,0 +1,41 @@
+{
+  "url": "https://www.airbnb.com/help/article/2855",
+  "scanned_at": "2026-03-17T21:31:07.756450+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Your Data May Be Shared",
+      "quote": "Our Privacy Policy explains... how personal information is shared, and privacy rights."
+    },
+    {
+      "category": "Lack of Transparency",
+      "risk": "High",
+      "icon": "🙈",
+      "headline": "Ambiguous Policy Details",
+      "quote": "Our Privacy Policy explains what personal information we collect, how we use personal information, how personal information is shared, and privacy rights."
+    },
+    {
+      "category": "Complex Policy Navigation",
+      "risk": "Medium",
+      "icon": "🧭",
+      "headline": "Multiple Supplemental Policies",
+      "quote": "Please review the supplemental privacy policies linked within the privacy policy documents, such as for certain Airbnb services, that may be applicable to you."
+    },
+    {
+      "category": "International Data Differences",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Country-Specific Rules Apply",
+      "quote": "Outside the United States Privacy Supplement United States Privacy Supplement Brazil Privacy Supplement China Privacy Supplement Korea Privacy Supplement Colombia Privacy Supplement Türkiye Privacy Supplement"
+    },
+    {
+      "category": "Creator/Enterprise Data",
+      "risk": "Medium",
+      "icon": "💼",
+      "headline": "Special Rules For Your Role",
+      "quote": "Privacy Policy Supplement for Airbnb Creators Privacy Policy Supplement for the Airbnb-friendly Marketplace Privacy Policy Supplement for Enterprise Customers and Airbnb for Work"
+    }
+  ]
+}
