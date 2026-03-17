@@ -1,69 +1,41 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:27.512296+00:00",
+  "scanned_at": "2026-03-17T21:23:30.438513+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "High",
+      "risk": "Low",
       "icon": "🤝",
-      "headline": "Shares Your Data Widely",
-      "quote": "Depending on where you live, and your privacy settings, we share data for advertising and related purposes, including showing you ads about Pinterest on third-party services, enabling partners to show you ads both on and off Pinterest, and helping advertisers understand how ads on Pinterest perform."
+      "headline": "No Data Selling/Sharing Explicit",
+      "quote": "This document outlines their privacy principles without detailing data sharing practices for marketing or with affiliates."
     },
     {
-      "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "💸",
-      "headline": "Sells or Shares Your Data",
-      "quote": "Some of these activities may be considered “targeted advertising” “sharing” or “selling” as those terms are defined under certain state privacy laws in the US. You can opt out of Pinterest using and disclosing your information for these purposes."
+      "category": "Transparency",
+      "risk": "Low",
+      "icon": "🔎",
+      "headline": "Good Privacy Transparency",
+      "quote": "We are honest and transparent about our privacy practices."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "🧠",
-      "headline": "Trains AI on Your Content",
-      "quote": "For example, using information to train, develop and improve our technology such as our machine learning models, regardless of when Pins were posted. This includes, for example, Pinterest’s body type technology, which is trained on images in Pins posted to our Services."
+      "category": "User Control",
+      "risk": "Low",
+      "icon": "⚙️",
+      "headline": "You Control Your Content",
+      "quote": "You can control who interacts with your content, and how it affects your experience on Twitch."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "📍",
-      "headline": "Infers Your Location",
-      "quote": "We use your IP address to infer your approximate location, even if you don't choose to share your precise location, and photos you share may include information about the location where they were taken."
+      "category": "Data Choices",
+      "risk": "Low",
+      "icon": "✅",
+      "headline": "Your Data, Your Choices",
+      "quote": "Twitch provides a variety of choices regarding how we use the information we collect about you, and how you can manage your information on Twitch."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "🕵️",
-      "headline": "Collects Extensive Offsite Data",
-      "quote": "We also receive information about you and your activity outside Pinterest from our affiliates, advertisers, partners and other third parties we work with."
-    },
-    {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "🤔",
-      "headline": "Infers Your Personal Preferences",
-      "quote": "When you’re on our Services, we use your activity—such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description—along with other information you’ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences."
-    },
-    {
-      "category": "User Rights",
-      "risk": "Medium",
-      "icon": "⚖️",
-      "headline": "Your Rights May Be Limited",
-      "quote": "These rights may be limited, for example if fulfilling your request would reveal personal data about another person, where they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interest to keep."
-    },
-    {
-      "category": "Data Collection",
-      "risk": "Medium",
-      "icon": "👶",
-      "headline": "Conducts Age Verification",
-      "quote": "Conduct age verification, as appropriate. This may include facial age estimation and matching your face against a government ID."
-    },
-    {
-      "category": "Data Transfer",
-      "risk": "Medium",
-      "icon": "🌍",
-      "headline": "Transfers Your Data Globally",
-      "quote": "By using our products or services, you authorize us to transfer and store your information outside your home country, including in the United States, for the purposes described in this policy."
+      "category": "Privacy-by-Design",
+      "risk": "Low",
+      "icon": "🔒",
+      "headline": "Products Designed for Privacy",
+      "quote": "Data protection principles are built into Twitch products from the start."
     }
   ]
 }
