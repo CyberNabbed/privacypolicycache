@@ -1,0 +1,69 @@
+{
+  "url": "https://discord.com/privacy-policy",
+  "scanned_at": "2026-03-17T21:30:46.854587+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms."
+    },
+    {
+      "category": "Content Moderation & AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "We may also use content posted in larger spaces to help us develop, improve, and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement of our Terms of Service and Community Guidelines."
+    },
+    {
+      "category": "Third-Party Service Risks",
+      "risk": "HIGH",
+      "icon": "🔗",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "But because these services are operated by third parties, we don’t control them or what information they collect."
+    },
+    {
+      "category": "Automatic Data Collection",
+      "risk": "MEDIUM",
+      "icon": "🕵️",
+      "headline": "Automatically Collects Your Data",
+      "quote": "We also collect information automatically from you when you use Discord. This includes: Information about your device. We collect information about the device you are using to access the services. For example, this includes information like your IP address, operating system information, browser information, and information about your device settings, such as your microphone and/or camera."
+    },
+    {
+      "category": "Cross-Platform Tracking",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Tracks Your Off-Site Activity",
+      "quote": "When you take certain actions on other sites, we may receive information about you. For example, when we advertise for Discord on third party platforms, if you click on the ad, we may receive information about which ad you saw and on which platform."
+    },
+    {
+      "category": "Personalized Experience & Ads",
+      "risk": "MEDIUM",
+      "icon": "🎯",
+      "headline": "Personalizes Your Experience & Ads",
+      "quote": "We use your information to personalize our services. This can include customizing your experience on Discord so that you see communities, activities, applications, features or promotions from us, or other content that may be of interest to you."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "🕰️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We retain personal information until we determine it is no longer needed for the processing purposes for which we collected or retain it or for legal compliance."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "HIGH",
+      "icon": "✈️",
+      "headline": "Transfers Your Data Globally",
+      "quote": "By accessing or using our services or otherwise providing information to us, you understand that your information will be processed, transferred, and stored in the U.S. and other countries, where different data protection standards may apply and/or you may not have the same rights as you do under local law."
+    },
+    {
+      "category": "Law Enforcement/Government Requests",
+      "risk": "HIGH",
+      "icon": "🏛️",
+      "headline": "Discloses Data to Government",
+      "quote": "We may disclose information in response to a request for information if we believe disclosure is required by law, including meeting national security or law enforcement requirements."
+    }
+  ]
+}
