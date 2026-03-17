@@ -1,0 +1,41 @@
+{
+  "url": "https://www.twitch.tv/privacy",
+  "scanned_at": "2026-03-17T21:28:43.858733+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Sharing Practices Unclear",
+      "quote": "We prioritize transparent privacy practices by helping our community understand how we collect, use, protect, and share personal information in clear, effective, and accessible ways."
+    },
+    {
+      "category": "Data Minimization",
+      "risk": "Low",
+      "icon": "🤏",
+      "headline": "Minimizes Your Data Collection",
+      "quote": "This includes minimizing the amount of personal information we collect to what is necessary, securing user data, and allowing Twitch users to delete their data or opt-out of data collection entirely."
+    },
+    {
+      "category": "Data Control & Deletion",
+      "risk": "Low",
+      "icon": "⚙️",
+      "headline": "You Control Your Content",
+      "quote": "You can control who interacts with your content, and how it affects your experience on Twitch."
+    },
+    {
+      "category": "Right to Opt-Out",
+      "risk": "Low",
+      "icon": "🚪",
+      "headline": "You Can Opt-Out",
+      "quote": "Visit our Privacy Choices page to learn how you can update, delete, disable, access your information, or opt-out of notifications and targeted advertising."
+    },
+    {
+      "category": "Privacy by Design",
+      "risk": "Low",
+      "icon": "🏗️",
+      "headline": "Privacy Built-In",
+      "quote": "Data protection principles are built into Twitch products from the start."
+    }
+  ]
+}
