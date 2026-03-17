@@ -1,0 +1,69 @@
+{
+  "url": "https://www.lenovo.com/us/en/privacy/",
+  "scanned_at": "2026-03-17T21:33:57.579817+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "Lenovo has shared to advertisers, ad networks, advertising partners, and advertising measurement providers, pursuant to written contracts, the following categories of personal information: Identifiers including, device identifiers, IP addresses, browser cookies, and other unique online identifiers; Internet activity information including data about a consumer’s interaction with an Internet website, application, service, or advertisement; User Profile information including email address and location informa"
+    },
+    {
+      "category": "AI/Machine Learning",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "Additionally, Lenovo may use data collected from products, applications, and services to train machine learning and artificial intelligence models."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🔍",
+      "headline": "Collects Sensitive Info (Limited)",
+      "quote": "This may include your name, email address, billing and shipping address, phone number, payment information (such as credit or debit card), age/date of birth, information to personalize a Lenovo product or service, and in limited circumstances where such information is strictly required for such order processing, social security number or other national identification number."
+    },
+    {
+      "category": "Tracking & Analytics",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Extensive Cross-Site Tracking",
+      "quote": "These are set by Lenovo and select partners and are used to build a profile to deliver targeted advertising on non-Lenovo websites that is more relevant and useful to you."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Low",
+      "icon": "✅",
+      "headline": "You Can Opt-Out of Sale",
+      "quote": "To exercise your rights to opt-out of Lenovo selling or sharing your personal data for cross-context behavioral advertising purposes and/or processing it for targeted or personalized advertising purposes, take the following steps: (1) Visit the Cookie Consent Tool for the Lenovo website and toggle off the Social Media & Advertising cookie categories and (2) complete and submit Lenovo’s Privacy Request form."
+    },
+    {
+      "category": "User Interaction Monitoring",
+      "risk": "Medium",
+      "icon": "🎧",
+      "headline": "Records Your Support Calls",
+      "quote": "Please note that, in these cases, we may record calls and chat session transcripts for staff training and quality assurance purposes."
+    },
+    {
+      "category": "Family Accounts/Children's Data",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Parental Controls for Teens",
+      "quote": "In the event that the invited party is aged 13 to 17 (a “Teen”), the Family Manager holds parental responsibility of the Teen, and where applicable law requires a qualified family member such as the Family Manager to consent on the Teen's behalf to the collection, disclosure or other use of their personal data for the purposes set out in this Privacy Statement, the Family Manager must: (i) attest that he / she holds parental responsibility of the Teen; and (ii) provide consent on behalf of the Teen to Lenovo collecting, disclosing, or otherwise using their personal data for the purposes set out in this Privacy Statement, and notify the Teen of the same."
+    },
+    {
+      "category": "Third-Party Accountability",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "No Responsibility for Linked Sites",
+      "quote": "Lenovo is not responsible for the privacy practices or the content of those other websites."
+    },
+    {
+      "category": "Data Sharing for Recruitment",
+      "risk": "Medium",
+      "icon": "💼",
+      "headline": "Shares Your Job Application Info",
+      "quote": "We will use this information only to evaluate your employment candidacy, and will share it only with those service providers who support these activities, such as candidate search firms working on behalf of Lenovo; and background screening companies to help vet a candidate’s application if permitted by applicable laws."
+    }
+  ]
+}
