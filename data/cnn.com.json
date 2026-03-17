@@ -1,0 +1,62 @@
+{
+  "url": "https://www.wbdprivacy.com/policycenter/b2c/en-us/",
+  "scanned_at": "2026-03-17T21:29:10.960888+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Info Extensively",
+      "quote": "We may disclose Information to business partners and third parties (e.g., other companies, retailers, distributors, social media networks, research organizations, publishers, and non-profit organizations) for their own purposes, including marketing products or services to you, showing you relevant advertising, or providing an enhanced experience that integrates with one of our Services."
+    },
+    {
+      "category": "Intrusive Data Collection",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Records Your Interactions",
+      "quote": "Usage and Viewing Information: ...recordings of your interactions with our Services, which may include mouse clicks, mouse movements, keystrokes, and page scrolling. When you use our Service, you consent to the recording of your interactions with us."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "💖",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Demographic Information: In limited cases, physical or mental health, race, or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, or political affiliation."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "Medium",
+      "icon": "✋",
+      "headline": "Collects Your Biometric Data",
+      "quote": "We may also collect data that could be considered biometric if you choose to participate in one of our interactive research studies or other initiatives that involve the collection of this data."
+    },
+    {
+      "category": "Cross-Context Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks You Across Sites",
+      "quote": "WBD (including our affiliates) and third parties may use these technologies to collect information over time from apps, websites, and other digital products. We and third-party advertising companies may use this Information to help serve advertising tailored to your interests, both on and off the WBD Services."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Leaves Country",
+      "quote": "Sometimes our use of your Information requires your Information to be transferred to countries outside the country where you are located, including countries where the level of legal protection for your Information may be different."
+    },
+    {
+      "category": "Limited Control Over Data",
+      "risk": "Medium",
+      "icon": "⚙️",
+      "headline": "Your Rights Are Not Absolute",
+      "quote": "Please note some of the rights detailed above are not absolute, might not all be available in your country, and may not be applicable in certain scenarios."
+    },
+    {
+      "category": "Ambiguous Security",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Security Not Guaranteed",
+      "quote": "Unfortunately, no security measures are perfect, and we cannot assure you that Information will never be accessed or used in an unauthorized way."
+    }
+  ]
+}
