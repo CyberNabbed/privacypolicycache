@@ -1,0 +1,69 @@
+{
+  "url": "https://www.craigslist.org/about/privacy",
+  "scanned_at": "2026-03-17T21:31:25.617265+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Low",
+      "icon": "🤝",
+      "headline": "No Sharing for Marketing",
+      "quote": "We do not share your data with third parties for marketing purposes."
+    },
+    {
+      "category": "Third-Party Sharing (Non-Marketing)",
+      "risk": "Medium",
+      "icon": "📤",
+      "headline": "Shares with Payment Processors",
+      "quote": "Disclosed to Payment processors"
+    },
+    {
+      "category": "Third-Party Sharing (Non-Marketing)",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Shares with Phone Verifiers",
+      "quote": "Disclosed to Payment processors and phone verification service providers"
+    },
+    {
+      "category": "Third-Party Sharing (Non-Marketing)",
+      "risk": "Medium",
+      "icon": "🛡️",
+      "headline": "Shares with Fraud Providers",
+      "quote": "Disclosed to Service providers that help us combat fraud/abuse"
+    },
+    {
+      "category": "Legal & Security Obligations",
+      "risk": "Low",
+      "icon": "⚖️",
+      "headline": "Shares for Legal Compliance",
+      "quote": "We may share some or all of the above listed data in the following circumstances: to respond to subpoenas, search warrants, court orders, or other legal process."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores 'Do Not Track'",
+      "quote": "We do not respond to \"Do Not Track\" signals (see allaboutdnt.com)."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Stored in US",
+      "quote": "By accessing CL or providing us data, you agree we may use and disclose data we collect as described here or as communicated to you, transmit it outside your resident jurisdiction, and store it on servers in the United States."
+    },
+    {
+      "category": "Data Security & Retention",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Security Guarantees Not Made",
+      "quote": "We make good faith efforts to store data securely, but can make no guarantees."
+    },
+    {
+      "category": "Minors' Data",
+      "risk": "Medium",
+      "icon": "👶",
+      "headline": "Content Not Fully Removed",
+      "quote": "Please note that removal does not ensure complete or comprehensive removal of said content or information from the Internet."
+    }
+  ]
+}
