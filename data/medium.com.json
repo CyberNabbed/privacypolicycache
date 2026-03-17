@@ -1,0 +1,69 @@
+{
+  "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+  "scanned_at": "2026-03-17T21:49:44.546361+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Info With Affiliates",
+      "quote": "Personal information is shared between and among Medium and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership."
+    },
+    {
+      "category": "Third-Party Tracking",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Third-Party Analytics Track You",
+      "quote": "We also work with third party analytics providers who use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, and links clicked."
+    },
+    {
+      "category": "Third-Party Embeds",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Embeds Send Your Data Directly",
+      "quote": "When you interact with an Embed, it can send information about your interaction to the hosting third party just as if you were visiting the third party’s site directly."
+    },
+    {
+      "category": "Data Collection From Other Sources",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Collects Data From Social Networks",
+      "quote": "For example, we may collect information about you from social networks, accounting services providers and data analytics providers."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Stored Internationally",
+      "quote": "Therefore, we and our service providers may transfer your personal information to, or store or access it in, jurisdictions that may not provide levels of data protection that are equivalent to those of your home jurisdiction."
+    },
+    {
+      "category": "Inferred Data",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Infers Your Preferences, Location",
+      "quote": "For example, we may make inferences about your location based on your IP address or infer reading preferences based on your reading history."
+    },
+    {
+      "category": "Legal/Security Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your Data Disclosed For Law",
+      "quote": "We may disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements."
+    },
+    {
+      "category": "Retention of Deleted Account Data",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Retains Your Data Post-Deletion",
+      "quote": "Please note that if you choose to delete your account, we may continue to retain certain information about you as required by law or for our legitimate business purposes."
+    },
+    {
+      "category": "Third-Party Payment Processors",
+      "risk": "Medium",
+      "icon": "💳",
+      "headline": "Payment Info Handled By Thirds",
+      "quote": "Any information you provide to facilitate such a payment is subject to the third-party payment processor’s privacy policy, and we encourage you to review this policy before you provide any information to the payment processor."
+    }
+  ]
+}
