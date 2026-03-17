@@ -1,0 +1,69 @@
+{
+  "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+  "scanned_at": "2026-03-17T21:49:03.209359+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data Broadly",
+      "quote": "Other members of The Walt Disney Family of Companies may access your information where they perform services on behalf of the data controllers (as data processors) and, unless prohibited under applicable law, for use on their own behalf (as data controllers) for the purposes described in this policy."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares for Partner Marketing",
+      "quote": "When you allow us to share your personal information with another company, by electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services;"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Shares for Targeted Advertising",
+      "quote": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Location information, including precise or approximate location information provided by a mobile or other device interacting with one of our sites, applications, or physical properties (including through beacon technologies), or associated with your IP address or other online or device identifier, where we are permitted by law to process this information;"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Records Your Calls",
+      "quote": "Call recordings when you call our reservation centers or other guest services phone numbers."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "High",
+      "icon": "📢",
+      "headline": "Publicly Posts Your Content",
+      "quote": "If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "👣",
+      "headline": "Tracks You Across Sites",
+      "quote": "Provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications; to learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising ."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Data Indefinitely",
+      "quote": "We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "📱",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform."
+    }
+  ]
+}
