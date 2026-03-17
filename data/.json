@@ -1,62 +1,69 @@
 {
   "url": "https://",
-  "scanned_at": "2026-03-17T21:23:40.823094+00:00",
+  "scanned_at": "2026-03-17T21:23:46.148135+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "Medium",
-      "icon": "🤝",
+      "risk": "High",
+      "icon": "💸",
       "headline": "Shares Your Data Broadly",
-      "quote": "Dropbox shares infrastructure, systems, and technology with other Dropbox Companies to provide, improve, protect, and promote Dropbox Company Services."
+      "quote": "We disclose your Personal Information with service providers and third parties, including those participating in the payment network, to help us provide Services, protect our customers from risk and fraud, market our products, and comply with legal obligations."
     },
     {
-      "category": "Third-Party Data Access",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "🔗",
-      "headline": "Third Parties Access Your Info",
-      "quote": "By doing so, you’re enabling Dropbox and those third parties to exchange information about you and data in your account so that Dropbox and those third parties can provide, improve, protect, and promote their services."
+      "icon": "🤝",
+      "headline": "Shares for Personalized Marketing",
+      "quote": "For our PayPal customers, we may also disclose your Personal Information to Partners and Merchants that you and we interact with to help ourselves and Partners and Merchants personalize services and offers so you can have a better and more relevant experience."
     },
     {
-      "category": "Workplace Monitoring",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "🏢",
-      "headline": "Employer Controls Your Account",
-      "quote": "If you are a user of a Dropbox Team, your administrator may have the ability to access and control your Dropbox Team account."
+      "icon": "🛍️",
+      "headline": "Shares Shopping Behavior",
+      "quote": "Personal Information we disclose includes, for example, products, sizes, preferences, and styles we think you’ll like."
     },
     {
-      "category": "Law Enforcement Requests",
-      "risk": "Medium",
-      "icon": "🏛️",
-      "headline": "Shares Your Data with Government",
-      "quote": "We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or appropriate government request"
+      "category": "AI & Automated Decision Making",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Automated Decisions Affect You",
+      "quote": "PayPal uses Automated Decision Making technology to make assessments or decisions, including related to risk, fraud and creditworthiness, where permitted and in accordance with applicable law."
+    },
+    {
+      "category": "AI & Automated Decision Making",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Trains AI on Your Data",
+      "quote": "We may use Personal Information to train our artificial intelligence (AI) models that power our Services and help us deliver more secure, efficient, and personalized services."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "👁️‍🗨️",
+      "headline": "Ignores Your DNT Requests",
+      "quote": "Because many of our services won’t function without tracking data, we do not respond to DNT settings."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🚨",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric data : Such as voice identification, photo identification, or face scans, which we may collect when you consent in the user experience to authenticate you for certain actions related to your account..."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Geolocation",
+      "quote": "We collect precise geolocation data from Users while they are logged into their financial account."
     },
     {
       "category": "Data Retention",
       "risk": "Medium",
-      "icon": "🗑️",
-      "headline": "Retains Your Data Indefinitely",
-      "quote": "If you delete your account, we’ll initiate deletion of this information after 30 days. Learn more here . But please note: (1) there might be some latency in deleting this information from our servers and back-up storage; and (2) we may retain this information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements."
-    },
-    {
-      "category": "International Data Transfer",
-      "risk": "Medium",
-      "icon": "🌍",
-      "headline": "Your Data Stored Globally",
-      "quote": "To provide you with the Services, we may store, process, and transmit data in the United States and locations around the world—including those outside your country."
-    },
-    {
-      "category": "Recipient Analytics",
-      "risk": "High",
-      "icon": "📊",
-      "headline": "Content Owners Track Your Views",
-      "quote": "When you view content included in portions of our Services that provide analytics to content owners, we collect information including your identifying and device information, such as email addresses, IP addresses, and device identifiers of devices you use to view the content."
-    },
-    {
-      "category": "AI/ML Usage",
-      "risk": "Medium",
-      "icon": "🤖",
-      "headline": "Uses Your Data for AI/ML",
-      "quote": "For more information on the lawful bases for processing your data, the categories of personal information included, and how we use artificial intelligence and machine learning, please see our FAQ ."
+      "icon": "⏳",
+      "headline": "Retains Data for 10 Years",
+      "quote": "Personal Information used for the ongoing relationship between you and PayPal is stored for the duration of the relationship plus a period of 10 years or such period as mandated by any applicable local law once our relationship comes to an end..."
     }
   ]
 }
