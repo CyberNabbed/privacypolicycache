@@ -1,0 +1,69 @@
+{
+  "url": "https://www.miniclip.com/privacy-policy",
+  "scanned_at": "2026-03-17T20:13:16.366Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Info for Ads",
+      "quote": "We share that information with selected third parties such as advertising partners who use it to target advertisements to you online."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Group Companies",
+      "quote": "We share your Information with different entities which are part of our group of companies."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Monitors Your Chat Content",
+      "quote": "In-Game Communication: in some Games you can interact with other players via chat, audio or video calls. In this case we would process Information regarding such interactions, including timestamps or chat content."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🎮",
+      "headline": "Tracks Your Gameplay Habits",
+      "quote": "Information regarding your use of the Games: game ID, install and uninstall timestamps. date and time stamps of game events, game time, achieved scores, interactions with our teams, advertising and promotions engagement, transaction records, evidence of you using cheating software or using modified versions of the Games."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Sends Your Data Globally",
+      "quote": "Your Information is processed by us or our service providers in different countries around the world, including Ireland, Portugal, the United Kingdom, the United States of America and other locations."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "High",
+      "icon": "⚠️",
+      "headline": "Games Not For Children",
+      "quote": "Our Games are not targeted at people who are under the age of 18 (“Child” or “Children”). If you are a Child, we recommend that you obtain permission from your parents or legal guardian (“Parents”) to play our Games."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "❌",
+      "headline": "No Do Not Track Response",
+      "quote": "There is no accepted standard on how to respond to Do Not Track signals, and we do not respond to such signals."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Keeps Your Data For Years",
+      "quote": "Your Information is kept for as long as you are registered or using our games, and then for up to three years from the date you stop interacting with the games, or four years in the case of 8 Ball Pool."
+    },
+    {
+      "category": "Third-Party Data",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "If you access any Games through a third-party platform such as Facebook or Google (“Third-Party Services”), you must understand that those Third-Party Services may collect other Information about you (including Information you share with them directly or about your use of the Games) in accordance with their own terms and privacy policies."
+    }
+  ]
+}
