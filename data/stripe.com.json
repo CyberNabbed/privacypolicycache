@@ -1,0 +1,69 @@
+{
+  "url": "https://stripe.com/privacy",
+  "scanned_at": "2026-03-17T21:32:02.790869+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We do not transfer your Personal Data to third parties in exchange for payment, but we may provide your data to third-party partners, such as advertising partners, analytics providers, and social networks, who assist us in advertising our Services to you."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "We share Personal Data with other Stripe-affiliated entities for purposes identified in this Policy."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Shares Your Data with Partners",
+      "quote": "We share Personal Data with certain Financial Partners to provide our Services and offer certain Services in conjunction with these Financial Partners."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Collects Your Biometric Data",
+      "quote": "You can separately consent to us using your biometric data to enhance our verification technology, with the option to revoke your consent at any time."
+    },
+    {
+      "category": "Data for AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "Training artificial intelligence models to power our Services and protect against fraud and other harm."
+    },
+    {
+      "category": "Call Recording & Transcription",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Records & Transcribes Your Calls",
+      "quote": "Calls with Stripe or Stripe representatives may be recorded and transcribed."
+    },
+    {
+      "category": "Broad Data Collection",
+      "risk": "Medium",
+      "icon": "🕵️",
+      "headline": "Tracks You Across Sites",
+      "quote": "The devices and browsers you use across our Sites and third-party websites, apps, and other online services (“Third-Party Sites”)."
+    },
+    {
+      "category": "Financial Account Access",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Accesses Your Bank Accounts",
+      "quote": "When you use Financial Connections, Stripe will periodically collect and process your account information (such as bank account owner information, account balances, account number and details, account transactions, and, in some cases, log-in credentials)."
+    },
+    {
+      "category": "Identity Document Storage",
+      "risk": "Medium",
+      "icon": "🆔",
+      "headline": "Stores Your Identity Documents",
+      "quote": "Finally, you can use Link to store your identity documents (such as your driver’s license) and other identification information (such as tax ID) so that you can share them in future interactions with Stripe or its Business Users."
+    }
+  ]
+}
