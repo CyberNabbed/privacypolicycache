@@ -1,0 +1,34 @@
+{
+  "url": "https://privacyportal.onetrust.com/webform/c48a335c-3316-4893-8bc6-fcacbf57fc4a/5b38eaa6-1ff7-462b-9f7e-e26b7d448b46",
+  "scanned_at": "2026-03-17T21:18:46.423Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Sharing Your Info",
+      "quote": "Please see the NHL Privacy Policy for more information about how the NHL collects, uses, and shares your information, and your rights and choices."
+    },
+    {
+      "category": "Cookie & Tracking Technologies",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks You With Cookies",
+      "quote": "To learn more about our use of cookies, pixels, and similar technologies, please see our Cookie Policy here."
+    },
+    {
+      "category": "Limited Geographic Rights",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Rights Geographically Limited",
+      "quote": "Please note that this portal is currently available only to residents in the United States, Canada, European Economic Area (i.e., the EU, Iceland, Lichtenstein and Norway), Switzerland and United Kingdom."
+    },
+    {
+      "category": "Collection of Personal Data",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Collects Your Personal Data",
+      "quote": "First Name Enter the first name of the data subject Last Name Enter the last name of the data subject Email Enter email for correspondence with the data request. Phone Number Submit"
+    }
+  ]
+}
