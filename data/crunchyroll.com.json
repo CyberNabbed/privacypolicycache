@@ -1,0 +1,69 @@
+{
+  "url": "https://www.sonypictures.com/corp/privacy.html",
+  "scanned_at": "2026-03-17T21:33:10.681539+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "SPE shares Personal Information with third parties in compliance with the law to deliver targeted ads and other tailored communications to consumers, for certain type of analytics services, for purposes for which the recipient may use the information for our benefit and the benefit of other businesses, and for other similar reasons provided in this Privacy Policy. Some of these uses of Personal Information may be considered “sales” or “sharing” for targeted/cross-context behavioral advertising under US state privacy laws."
+    },
+    {
+      "category": "Intrusive Tracking",
+      "risk": "HIGH",
+      "icon": "👁️",
+      "headline": "Monitors Your Website Behavior",
+      "quote": "Some of the technologies used on our websites allow us and our service providers to monitor and analyze how visitors use our websites in order to better understand user behavior and improve our Services. When you interact with us online, information related to your browsing behavior (such as clicks, cursor movement, and scrolling) may be collected by us and our service providers."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "HIGH",
+      "icon": "🚨",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric information , which may include sensitive Personal Information used to uniquely identify you"
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "HIGH",
+      "icon": "👶",
+      "headline": "Collects Children's Personal Info",
+      "quote": "As described in more detail in our Children’s Privacy Policy , some of our Services may collect Personal Information from children under 13, which may be considered sensitive under some state privacy laws."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "⏳",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We keep the categories of Personal Information described above for as long as necessary or permitted for the purposes described in this Privacy Policy or otherwise authorized by law. This generally means holding the information for as long as one of the following apply: Your Personal Information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information; Your Personal Information is reasonably necessary to carry out a disclosed purpose that is reasonably compatible with the context in which the Personal Information was collected; The Personal Information is reasonably necessary to protect or defend our rights or property (which will generally relate to applicable laws that limit actions in a particular case); or We are otherwise required or permitted to keep your information by applicable laws or regulations."
+    },
+    {
+      "category": "Third-Party Social Features",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Social Interactions",
+      "quote": "Both SPE and the third party may have access to information about you and your use of our Service and the Third-Party Service."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Internationally",
+      "quote": "By using our Service or otherwise providing your Personal Information to us, you acknowledge and consent to the international transfer and processing of your Personal Information as described in this Privacy Policy."
+    },
+    {
+      "category": "Loyalty Program Data Use",
+      "risk": "MEDIUM",
+      "icon": "🎁",
+      "headline": "Loyalty Programs Share Your Data",
+      "quote": "If you choose to participate in a Loyalty Program, SPE may retain, use and/or disclose Personal Information it may have collected about you as described in this Privacy Policy, including identifiers, personal records, commercial information, internet or other electronic network activity information, geolocation data, characteristics of protected classifications (age and gender), and inferences."
+    },
+    {
+      "category": "Limited Do Not Track",
+      "risk": "LOW",
+      "icon": "🚦",
+      "headline": "Ignores 'Do Not Track' Signals",
+      "quote": "Like many online services, SPE currently does not alter its practices when it receives a “Do Not Track” signal from a browser."
+    }
+  ]
+}
