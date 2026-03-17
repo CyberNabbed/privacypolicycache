@@ -1,0 +1,55 @@
+{
+  "url": "https://redditinc.com/privacy",
+  "scanned_at": "2026-03-17T21:28:06.660796+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Low",
+      "icon": "✅",
+      "headline": "No Selling/Sharing Your Data",
+      "quote": "At Reddit, we don’t collect more user data than necessary, and we never sell your personal information."
+    },
+    {
+      "category": "Anonymity Features",
+      "risk": "Low",
+      "icon": "👤",
+      "headline": "Offers Anonymous Browsing",
+      "quote": "Anonymous Browsing mode won’t associate your activity with your account, including browsing and searches"
+    },
+    {
+      "category": "Data Deletion & Access",
+      "risk": "Low",
+      "icon": "🗑️",
+      "headline": "You Can Delete Your Data",
+      "quote": "Redditors always have the option to delete their posts, comments, and accounts; they can also request a copy of their Reddit data and information"
+    },
+    {
+      "category": "Data Minimization",
+      "risk": "Low",
+      "icon": "📉",
+      "headline": "Collects Minimal Your Data",
+      "quote": "We collect minimal information about you while maintaining safety measures and the effective operation of the platform"
+    },
+    {
+      "category": "Image Metadata Stripping",
+      "risk": "Low",
+      "icon": "📸",
+      "headline": "Strips Your Image Metadata",
+      "quote": "We strip location and personal information metadata from the images and videos you choose to share"
+    },
+    {
+      "category": "Doxxing Prevention",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "Forbids Doxxing Your Identity",
+      "quote": "We forbid doxxing (involuntarily revealing someone’s real world identity) people on the Reddit platform"
+    },
+    {
+      "category": "Universal Privacy Rights",
+      "risk": "Low",
+      "icon": "🌎",
+      "headline": "Your Privacy Rights Universal",
+      "quote": "All of our users get privacy rights – not just those in select countries"
+    }
+  ]
+}
