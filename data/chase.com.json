@@ -1,69 +1,55 @@
 {
   "url": "https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy",
-  "scanned_at": "2026-02-06T20:44:32.819Z",
+  "scanned_at": "2026-03-17T21:32:20.963117+00:00",
   "analysis": [
     {
-      "category": "Data Selling",
+      "category": "Data Selling & Sharing",
       "risk": "High",
-      "icon": "💰",
-      "headline": "Shares Your Data for Ads",
-      "quote": "To that end, where permitted by applicable law, we may share with others the information we collect from and about you as stated in this policy under Information We Collect."
-    },
-    {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "🔍",
-      "headline": "Collects Extensive User Data",
-      "quote": "When you visit or use our online services, we may collect personal information from or about you including your name, email address, mailing address, telephone number(s), account numbers, limited location information, user name and password."
-    },
-    {
-      "category": "Cross-Site Tracking",
-      "risk": "High",
-      "icon": "🌐",
-      "headline": "Tracks Your Web Activities",
-      "quote": "Online behavioral advertising (also known as “OBA” or “interest-based advertising”) refers to the practice of collecting information from a computer or device regarding a visitor’s web-browsing activities across non-affiliated websites over time..."
-    },
-    {
-      "category": "Data Profiling",
-      "risk": "High",
-      "icon": "🤝",
-      "headline": "Combines All Your Data",
-      "quote": "We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy."
+      "icon": "💸",
+      "headline": "Shares Your Info Extensively",
+      "quote": "We may share the information we collect from and about you with our affiliates and other third parties as described below. In particular, we may share your information with: Chase third-party service providers; Chase affiliated websites and businesses in an effort to bring you improved service across our family of products and services, when permissible under relevant laws and regulations; Other companies to bring you co-branded services, products or programs that you have requested; Third parties or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses; and Other third parties to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties."
     },
     {
       "category": "Location Tracking",
       "risk": "High",
       "icon": "📍",
-      "headline": "Collects Your Precise Location",
-      "quote": "When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device... information about your location, and analytical information about how you use your mobile device."
+      "headline": "Tracks Your Precise Location",
+      "quote": "When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device. We may ask your permission before collecting certain information (such as precise geo-location information) through Chase Mobile."
     },
     {
-      "category": "Third-Party Data",
+      "category": "Third-Party Data Collection",
       "risk": "High",
-      "icon": "📈",
-      "headline": "Augments Your Data Externally",
+      "icon": "🤝",
+      "headline": "Collects Data From Third Parties",
       "quote": "We may also collect information about you from additional online and offline sources including from co-branded partner sites or commercially available third-party sources, such as credit reporting agencies."
     },
     {
-      "category": "Policy Complexity",
-      "risk": "Medium",
-      "icon": "📄",
-      "headline": "Must Read Other Policies",
-      "quote": "If you are a U.S. consumer and have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our U.S. Consumer Privacy Notice..."
+      "category": "Online Behavioral Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Uses Your Data for OBA",
+      "quote": "Online behavioral advertising (also known as “OBA” or “interest-based advertising”) refers to the practice of collecting information from a computer or device regarding a visitor’s web-browsing activities across non-affiliated websites over time in order to deliver advertisements that may be of interest to that visitor based on their browsing history."
     },
     {
-      "category": "User Rights / Control",
+      "category": "Data Combination",
       "risk": "Medium",
-      "icon": "🚫",
-      "headline": "Few Opt-Outs Explicitly Listed",
-      "quote": "If you do not want your information collected and used by the companies we work with for OBA purposes, you can opt out of this form of OBA by following the instructions in the next section."
+      "icon": "🔗",
+      "headline": "Combines Your Collected Data",
+      "quote": "In addition, we may later associate the usage and other information we collect online with personal information about you."
     },
     {
-      "category": "Data Security",
+      "category": "Children's Data",
+      "risk": "Medium",
+      "icon": "👶",
+      "headline": "Collects Children's Data",
+      "quote": "With the exception of the Chase First Banking℠ program, our online services are not intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent. For details about our handling of children’s personal information in connection with Chase First Banking, please review our Children’s Privacy Policy."
+    },
+    {
+      "category": "Third-Party Website Risk",
       "risk": "Medium",
       "icon": "⚠️",
-      "headline": "Don't Send Sensitive Data Unsecurely",
-      "quote": "We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your tax identification number) to us."
+      "headline": "Not Responsible for Linked Sites",
+      "quote": "When you use a link online to visit a third-party website, you will be subject to that website’s privacy and security practices, which may differ from ours. You should familiarize yourself with the privacy policy, terms of use and security practices of the linked third-party website before providing any information on that website."
     }
   ]
 }
