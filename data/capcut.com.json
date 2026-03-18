@@ -1,0 +1,69 @@
+{
+  "url": "https://www.capcut.com/clause/privacy-policy?store_region=&lang=en",
+  "scanned_at": "2026-03-18T18:37:47.188171+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "Although we do not sell your personal information for money, we do “share” your information where defined under applicable law to include the processing and disclosing your personal information to third parties for purposes of serving you advertisements based on your activity across other sites and services (“cross-context behavioral advertising” or “targeted advertising”)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Corporate Group",
+      "quote": "We may share Information We Collect with affiliates controlled by, or under common control with, us as necessary for the purposes set forth within this Privacy Policy."
+    },
+    {
+      "category": "Content Analysis & AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "We will use your information in order to: ...train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the Services; ... and scanning, analyzing, and reviewing User Content;"
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "📋",
+      "headline": "Accesses Your Clipboard Content",
+      "quote": "Additionally, we access clipboard content, such as text and images, through your device's clipboard when you choose to use certain functions, such as initiating information sharing with third-party services, or copying and pasting clipboard content onto our Services."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "Medium",
+      "icon": "👁️",
+      "headline": "Collects Pre-upload Content",
+      "quote": "We may collect User Content through pre-uploading at the time of creation, import, or upload, regardless of whether you choose to save or publish that User Content, for example, to recommend audio options, generate captions, and provide other personalized recommendations."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Collects Off-Service Activity",
+      "quote": "Advertisers, analytics, and other partners share information with us about you and the actions you have taken outside of the Services, such as your activities on other websites and apps."
+    },
+    {
+      "category": "Government & Legal Disclosure",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Shares Your Data with Government",
+      "quote": "We may share the “Information We Collect” with certain competent law enforcement, regulatory or government agencies, courts, or other third parties if we have a good faith belief that it is necessary to: Comply with a legal obligation; Lawfully protect and defend the rights, property, safety, and security of the Services, our users, copyright holders, and others;"
+    },
+    {
+      "category": "Tracking Technologies",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores 'Do Not Track'",
+      "quote": "Please note that the Services do not currently support “Do Not Track” requests."
+    },
+    {
+      "category": "Minors' Data",
+      "risk": "Medium",
+      "icon": "👶",
+      "headline": "Pippit for Adults Only",
+      "quote": "Pippit is intended for and should only be used by, adults (persons who meet the legal consent age in each applicable jurisdiction) and not children or minors. We do not seek or knowingly collect any personal data about children under the age of 18."
+    }
+  ]
+}
