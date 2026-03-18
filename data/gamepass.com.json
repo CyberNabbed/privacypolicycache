@@ -1,0 +1,69 @@
+{
+  "url": "https://www.microsoft.com/en-us/privacy/microsoft-consumer-health-data-privacy-policy",
+  "scanned_at": "2026-03-18T18:31:18.555801+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Health Data",
+      "quote": "We may share each of the categories of consumer health data described above for the purposes described in the Reasons we share personal data section of the privacy statement."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "We may share consumer health data with other companies, for example, where you use a service that is cobranded and jointly operated with another company, or where you use our services to interact with another company."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates",
+      "quote": "We enable access to data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems or where access helps us to provide our services and operate our business."
+    },
+    {
+      "category": "Broad Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Collects Extensive Health Data",
+      "quote": "Because consumer health data is defined very broadly, many of the categories of data we collect could also be considered consumer health data."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Health Conditions",
+      "quote": "Information about your health-related conditions, symptoms, status, diagnoses, testing, or treatments (including surgeries, procedures, medications, or other interventions)."
+    },
+    {
+      "category": "Inferred Health Data",
+      "risk": "High",
+      "icon": "🤔",
+      "headline": "Infers Your Health Data",
+      "quote": "Other information that may be used to infer or derive data related to the above or other health information."
+    },
+    {
+      "category": "Location Tracking for Health",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Health Location",
+      "quote": "Precise location information that could reasonably indicate your attempt to acquire or receive health services or supplies."
+    },
+    {
+      "category": "Search Query Health Data",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Collects Your Health Searches",
+      "quote": "For example, we collect your Bing search queries, which may include queries concerning nutrition, wellness, fitness, medical conditions, or other health-related topics."
+    },
+    {
+      "category": "Data for Advertising",
+      "risk": "Medium",
+      "icon": "📣",
+      "headline": "Uses Data for Advertising",
+      "quote": "We may use consumer health data for other purposes for which we give you choices and/or obtain your consent as required by law – for example, for advertising or marketing purposes."
+    }
+  ]
+}
