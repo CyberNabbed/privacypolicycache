@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nasa.gov/privacy/",
+  "scanned_at": "2026-03-18T18:08:30.120384+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Google",
+      "quote": "This website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information: Google’s main privacy policy"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Private Organizations",
+      "quote": "We may share information with private organizations as part of a service that provides NASA.gov users with increased capabilities or functionality on the site."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "External Sites Collect Your Info",
+      "quote": "Third parties may collect information on visitors who share NASA content on their Facebook pages, Twitter feeds or other social media/networking sites. NASA is not responsible for how these third-party sites use this information for their own business purposes, including marketing the information to other parties."
+    },
+    {
+      "category": "Government Surveillance",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Monitors Your Network Traffic",
+      "quote": "For site security purposes and to ensure that this Web service remains available to all users, this Government computer system employs software programs that monitor network traffic to identify unauthorized attempts to upload or change information,."
+    },
+    {
+      "category": "Government Surveillance",
+      "risk": "High",
+      "icon": "🚨",
+      "headline": "Law Enforcement Can Identify You",
+      "quote": "Although the primary purpose of automatically collecting this kind of information is not to track individuals who visit this site, in certain circumstances and consistent with Federal law, NASA may take additional steps to identify you using this information and may share this information, including your identity, with other agencies. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits."
+    },
+    {
+      "category": "Government Surveillance",
+      "risk": "High",
+      "icon": "🛡️",
+      "headline": "DHS Scans Your Communications",
+      "quote": "Additionally, NASA information systems may be protected by EINSTEIN cybersecurity capabilities under the operational control of the U.S. Department of Homeland Security United States Computer Emergency Readiness Team (US-CERT). Electronic communications with NASA may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "Medium",
+      "icon": "📊",
+      "headline": "Collects Your Demographic Info",
+      "quote": "Anonymous summary demographic information about our visitors such as sex, age range, and areas of interest for adults over the age of 18. We do this by using Google Demographic and Interests reports."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Low",
+      "icon": "🗑️",
+      "headline": "Raw Logs Retained Temporarily",
+      "quote": "Raw data logs are retained temporarily as required for security and site management purposes only."
+    },
+    {
+      "category": "Children's Data",
+      "risk": "Medium",
+      "icon": "👶",
+      "headline": "May Collect Child Email Without Consent",
+      "quote": "There are several exceptions that permit collection of a child’s email address without receiving parental consent in advance: To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent’s email address as well. To respond to a one time request from a child. To respond more than once to a child’s request; i.e., subscription to a newsletter. However, parental consent is required prior to the second communication. To protect the safety of a child who is participating on the site; i.e., in a chat room. To protect the site or to respond to law enforcement; i.e., in the case of a Web site compromise."
+    }
+  ]
+}
