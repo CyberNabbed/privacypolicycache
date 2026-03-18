@@ -1,0 +1,76 @@
+{
+  "url": "https://www.alibabacloud.com/help/en/legal/latest/alibaba-cloud-international-website-privacy-policy",
+  "scanned_at": "2026-03-18T18:30:46.136404+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares Your Data Broadly",
+      "quote": "We may disclose your personal data to third party service providers engaged by us to assist with providing you with our services (including partners providing customer services to you, contacting you regarding promotions products and services, performing risk control, fraud prevention and legal compliance procedures, and conducting payment processing services) (the “Third Party Service Providers”)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Shares with Alibaba Affiliates",
+      "quote": "We may share your personal data with affiliated companies in the Alibaba Group and/or their designated Service Providers, for the purposes specified at Section B above."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🛍️",
+      "headline": "Shares with Marketplace Vendors",
+      "quote": "should you purchase or subscribe to Marketplace Products offered by a Third Party Vendor, we may provide such Third Party Vendor with your personal data for the purposes of processing your purchase and/or subscriptions on the International Marketplace."
+    },
+    {
+      "category": "Employer Access",
+      "risk": "HIGH",
+      "icon": "🏢",
+      "headline": "Your Employer Monitors Account",
+      "quote": "If you use your organisation’s email address to register an account and purchase or use our Cloud Services, the owner of the domain associated with your organisation’s email address, and/or your organisation, may monitor or control your account with the Alibaba Cloud Platform and access, process, and/or control your personal data, as well as the contents of your communications and files."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "🕵️",
+      "headline": "Records Your Activities",
+      "quote": "We record details of your activities (including any purchase or use of our product offerings and services) when you use the Alibaba Cloud Platform and/or certain Cloud Services for legal and/or business purposes."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "MEDIUM",
+      "icon": "🌐",
+      "headline": "Collects Browsing & IP Data",
+      "quote": "We also record records of users’ buying and browsing activities on the Alibaba Cloud Platform, including but not limited to Internet Protocol (“IP”) addresses, browsing patterns and purchasing patterns."
+    },
+    {
+      "category": "Data Location & Transfers",
+      "risk": "HIGH",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Overseas",
+      "quote": "As part of providing you with the Cloud Services, we may need to transfer your personal data from your jurisdiction to an overseas jurisdiction. Recipients of the data in these jurisdictions may be subject to data privacy laws less protective or not equivalent to those in your own jurisdiction."
+    },
+    {
+      "category": "Data Security",
+      "risk": "MEDIUM",
+      "icon": "🔒",
+      "headline": "Cannot Guarantee Data Security",
+      "quote": "Nevertheless, no data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal data, we cannot guarantee the security of any personal data you transmit to us and you do so at your own risk. We cannot and do not guarantee security in connection with your use of the Alibaba Cloud Platform and our Cloud Services."
+    },
+    {
+      "category": "User Rights",
+      "risk": "MEDIUM",
+      "icon": "📢",
+      "headline": "Data Submitted to Forums Public",
+      "quote": "Our website offers publicly accessible community forums. Any information you provide in these areas may be accessed, read, collected, and used by others anywhere in the world."
+    },
+    {
+      "category": "Third-Party Sites",
+      "risk": "HIGH",
+      "icon": "⚠️",
+      "headline": "No Control Over Third Parties",
+      "quote": "This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties."
+    }
+  ]
+}
