@@ -1,0 +1,76 @@
+{
+  "url": "https://policies.google.com/privacy?hl=en",
+  "scanned_at": "2026-03-18T18:00:30.071270+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with trusted partners",
+      "quote": "We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Shares for Ad Measurement",
+      "quote": "We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Sensitive personal information: This is a particular category of personal information relating to topics such as confidential medical facts, racial or ethnic origins, political or religious beliefs, or sexuality."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Extensive Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice/Audio",
+      "quote": "Audio, electronic, visual, and similar information, such as voice and audio information."
+    },
+    {
+      "category": "Automated Processing & Profiling",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Automated Analysis of Your Content",
+      "quote": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Data for Long Periods",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "Third-Party Control",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Domain Admin Access Your Data",
+      "quote": "If you’re a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Trains AI on Public Content",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Cross-Service Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Services",
+      "quote": "We may use the information we collect across our services and across your devices for the purposes described above."
+    }
+  ]
+}
