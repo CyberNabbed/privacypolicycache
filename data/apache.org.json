@@ -1,0 +1,62 @@
+{
+  "url": "https://privacy.apache.org/policies/privacy-policy-public.html",
+  "scanned_at": "2026-03-18T18:02:33.975857+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "We only share your personal information with third parties if: You, in accordance with Art. 6 para. 1 p. 1 lit. a GDPR, have given express consent to this."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "📊",
+      "headline": "Shares with External Service Providers",
+      "quote": "The Apache Software Foundation uses the following external service providers who help to optimize its services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "🕰️",
+      "headline": "Archives Mailing List Indefinitely",
+      "quote": "All content sent to mailing lists is archived indefinitely. By using our mailing list service, you agree that any content is archived in that way."
+    },
+    {
+      "category": "Public Data Exposure",
+      "risk": "HIGH",
+      "icon": "📣",
+      "headline": "Your Mailing List Data Public",
+      "quote": "However, almost all of our mailing lists are of a public nature. This means, your name and email may be exposed to the public. Also, all information you send to a mailing list will be exposed to the public. Third parties may collect this information and process it separately."
+    },
+    {
+      "category": "Third-Party Tracking",
+      "risk": "MEDIUM",
+      "icon": "👤",
+      "headline": "YouTube Tracks Your Activity",
+      "quote": "YouTube and Google will always receive information through the YouTube component that a person has visited our website if the person is logged into YouTube at the time of access to our website; this happens regardless of whether the person clicks on a YouTube video or not."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "MEDIUM",
+      "icon": "📍",
+      "headline": "Collects Your Geo-Information",
+      "quote": "Geo information of the location from which access is made."
+    },
+    {
+      "category": "Incomplete Implementation",
+      "risk": "HIGH",
+      "icon": "🚧",
+      "headline": "Policy Not Fully Implemented",
+      "quote": "This privacy policy is currently being adopted and may not yet be fully implemented at all websites."
+    },
+    {
+      "category": "Data Security",
+      "risk": "LOW",
+      "icon": "🔒",
+      "headline": "Encrypts Your Connection",
+      "quote": "We use the popular SSL (Secure Socket Layer) method during your site visit, in conjunction with the highest level of encryption supported by your browser."
+    }
+  ]
+}
