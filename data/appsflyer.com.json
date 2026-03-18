@@ -1,0 +1,62 @@
+{
+  "url": "https://www.appsflyer.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-18T18:07:59.576491+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches. [...] Third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google)."
+    },
+    {
+      "category": "Tracking & Analytics",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Tracks Your Online Activity",
+      "quote": "Through use of cookies and other similar technologies (e.g. HTML5 Local Storage, LSO, web beacons, JavaScript, etc.). These technologies help us to analyze how our Marketing Platforms are used and to tailor content that is relevant to you. It also helps us to deliver more relevant advertisements to you on our own or third party sites."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "👥",
+      "headline": "Collects Your Third-Party Data",
+      "quote": "Information obtained from third party sources. This includes Information received through the various business support tools and services that we use (e.g. marketing platforms, analytics services etc.) and public sources such as social media sites."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We will only retain your Personal Information for as long as necessary to pursue the purpose of the collection. We may also retain your Personal Information for such time needed to pursue our legitimate business interests, in connection with any legal claims and compliance with legal obligations. When we use your information for direct marketing purposes, we will retain your data until you opt-out from receiving the marketing materials; provided that we will need to retain certain information to maintain a record of your request."
+    },
+    {
+      "category": "Cross-Border Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transfers Globally",
+      "quote": "We may need to transfer Information to countries where we and/or our service providers operate. Such countries may be different from the country in which the data originated and where data protection laws may not be equivalent to, or offer the same protection as, those in your country. By using our Marketing Platforms, you agree to any such transfers."
+    },
+    {
+      "category": "Policy Changes",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Policy Changes Without Consent",
+      "quote": "AppsFlyer may amend this Privacy Policy at any time, provided that in the event of a material change we shall provide notice on this page and/or a note near the link to this page. The updates shall apply immediately for new Information collected or provided as of the day of the update and following thirty (30) days for any Information collected or provided to AppsFlyer prior to the update date. If you do not agree to the terms of the new policy you are requested to contact the Legal Department using the contact details listed in Section 11 below."
+    },
+    {
+      "category": "Social Media & Third-Party Risks",
+      "risk": "Medium",
+      "icon": "💬",
+      "headline": "Social Features Track You",
+      "quote": "Our website may offer a blog with ‘comments’ section and various social media features, such as a ‘share’ button or links to third party websites and services, including Twitter, LinkedIn, Google+ and Facebook. When using any such features, certain information may be collected by such third parties, including your IP address or which page you are visiting on our website, and such third parties may set a cookie to enable the feature to function properly. Any data collected by such third parties is governed by such third party’s privacy policy."
+    },
+    {
+      "category": "Limited Opt-Out",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "Limited Opt-Out Options",
+      "quote": "You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at https://www.appsflyer.com/company/contact/."
+    }
+  ]
+}
