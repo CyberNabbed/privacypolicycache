@@ -1,0 +1,62 @@
+{
+  "url": "https://www.verisign.com/legal-center/privacy/",
+  "scanned_at": "2026-03-18T20:43:55.129629+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data With Partners",
+      "quote": "We may provide your personal information to a Verisign business partner, such as a registrar of domain names, so that they can facilitate the provision, support, renewal, and/or purchase of Covered Products and Services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Shares With Service Providers",
+      "quote": "Personal information will be made available to these parties only when necessary to fulfill the services they provide to us, such as software, system, and platform support; direct marketing services; cloud hosting services; advertising; data analytics; order fulfillment and delivery; and services to assist us in managing and responding to consumer privacy and other requests."
+    },
+    {
+      "category": "Tracking & Analytics",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Ignores Your Do Not Track",
+      "quote": "We do not respond to Do Not Track signals."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Collects Extensive Social Media",
+      "quote": "Social Media Application Data includes, without limitation, your public profile, social media relationships, listed work and education history, listed hometown and current city, profile photos, personal description, and “likes.”"
+    },
+    {
+      "category": "User Generated Content",
+      "risk": "High",
+      "icon": "💬",
+      "headline": "Public Forum Posts Are Stored",
+      "quote": "If you respond in a blog forum on our Covered Sites, you should be aware that any personal information you submit there will be stored on our servers and can be read, collected, or used by other users of these blog forums, and could be used to send you unsolicited messages."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "Verisign is a global organization, and your personal information may be stored and processed outside of your home country."
+    },
+    {
+      "category": "Marketing & Communication",
+      "risk": "Medium",
+      "icon": "📧",
+      "headline": "Uses Your Data For Marketing",
+      "quote": "Specifically, we may use your personal information (including cookies – for more information on how we may use cookies, please see Section I.E below) to market to you."
+    },
+    {
+      "category": "Transparency & Updates",
+      "risk": "Low",
+      "icon": "🗓️",
+      "headline": "Privacy Policy Updates In 2025",
+      "quote": "Privacy Statement Version 3.4b – Last Updated and Effective Dec. 18, 2025"
+    }
+  ]
+}
