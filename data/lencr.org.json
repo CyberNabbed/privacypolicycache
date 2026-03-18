@@ -1,0 +1,55 @@
+{
+  "url": "https://letsencrypt.org/privacy/",
+  "scanned_at": "2026-03-18T18:03:51.314218+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Analytics",
+      "quote": "To enhance our understanding of how our visitors engage with our websites and emails, and to improve our fundraising and marketing strategies, ISRG may from time to time deploy third-party web and email analytics tools, specifically Google Analytics for our websites and Salesforce Account Engagement for our marketing emails."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "🕰️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We will store this information for a minimum of two years per trusted root program requirements."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "HIGH",
+      "icon": "C",
+      "headline": "Many Third-Party Privacy Policies",
+      "quote": "Your interactions with DonorBox , Stripe , PayPal , Shopify , The Giving Block , Salesforce , Printful , Formstack , and Sage Intacct are governed by their respective privacy policies."
+    },
+    {
+      "category": "Limited Deletion Rights",
+      "risk": "HIGH",
+      "icon": "🗑️",
+      "headline": "Cannot Delete Your IP Addresses",
+      "quote": "Please note that we may be unable to delete information, including IP addresses, as this information is necessary for others to rely on in determining the trustworthiness of our certificates."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "MEDIUM",
+      "icon": "🚨",
+      "headline": "Discloses Your Data to Law",
+      "quote": "Such circumstances include when we have your consent or when we have a good faith belief it is required by law, such as pursuant to a subpoena or other judicial or administrative order."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Your Data Stored Internationally",
+      "quote": "Your personal data may be collected from or transferred to jurisdictions where we and our service providers store or process data, including the United States."
+    },
+    {
+      "category": "Public Data Disclosure",
+      "risk": "HIGH",
+      "icon": "🗣️",
+      "headline": "Your Subscriber Info Goes Public",
+      "quote": "This information may be made public in a number of ways, including via public API, public repositories such as Certificate Transparency (CT) logs, and/or public discussions."
+    }
+  ]
+}
