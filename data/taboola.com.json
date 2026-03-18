@@ -1,0 +1,62 @@
+{
+  "url": "https://policies.taboola.com/privacy-policy/",
+  "scanned_at": "2026-03-18T18:04:26.668596+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "We may disclose User Information to other unaffiliated third parties, specifically with (i) our data partners, so that we can connect you with relevant content by allowing our advertisers to target specific audience segments, and (ii) our programmatic demand and supply partners, so that we can serve you with tailored advertisements."
+    },
+    {
+      "category": "AI Training & Content Use",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "Product Improvement : To train, fine-tune, and improve the accuracy of our AI models and algorithms."
+    },
+    {
+      "category": "Extensive Cross-Device Tracking",
+      "risk": "High",
+      "icon": "🕵️‍♀️",
+      "headline": "Tracks You Across Devices",
+      "quote": "We may use User Information to improve a unique User’s experience across multiple browsers and devices (such as smartphones, tablets, or other viewing devices) by providing better targeted ad campaigns to that User."
+    },
+    {
+      "category": "Interest-Based Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Targets You with Ads",
+      "quote": "Through our Services, including our Services on Customer websites, we may provide advertisements to you based on your recent browsing behavior across different Customer websites, browsers, or devices."
+    },
+    {
+      "category": "Third-Party Ad Networks",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Ad Networks",
+      "quote": "We may also work with third parties such as ad networks, which are third parties that display advertisements based on your visits to websites that you have visited in the past."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "We may transfer your Information outside the country in which it is collected, including to a country that may not offer the same level of protection for Information as the country in which you reside."
+    },
+    {
+      "category": "Pseudonymized Data Collection",
+      "risk": "Medium",
+      "icon": "🥸",
+      "headline": "Collects Pseudonymized Data",
+      "quote": "Taboola collects only pseudonymized data, which means we do not know who you are because we do not know or process your name, email address, or other identifiable data."
+    },
+    {
+      "category": "Limited Data Retention",
+      "risk": "Low",
+      "icon": "🗑️",
+      "headline": "Short Data Retention Period",
+      "quote": "We retain User Information, which is directly collected for purposes of serving ads, for at most thirteen (13) months from the User’s last interaction with our Services (often for a shorter period of time), after which time we de-identify the data by removing unique identifiers or aggregating the data."
+    }
+  ]
+}
