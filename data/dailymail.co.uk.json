@@ -1,0 +1,69 @@
+{
+  "url": "https://www.dailymail.co.uk/terms",
+  "scanned_at": "2026-03-18T18:13:44.703347+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Data with Affiliates",
+      "quote": "The licence is capable of sub-license by us to other entities and brands in our group of companies (including, without limitation, This is Money, Metro, The i paper)"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Third-Party Analytics/Advertising Tracking",
+      "quote": "You may only use the Embeddable Content where Your Site: ... clearly explains that cookies and similar tracking technologies may be used on Your Site by third parties for analytics and advertising purposes"
+    },
+    {
+      "category": "Content Usage & Licensing",
+      "risk": "HIGH",
+      "icon": "📝",
+      "headline": "Perpetual License to Your Content",
+      "quote": "By submitting material to us, you grant us a royalty-free, perpetual, irrevocable, non-exclusive worldwide licence to use, copy, edit, adapt, publish, translate, create derivative works from, make available, communicate and distribute Your Content (in whole or part)"
+    },
+    {
+      "category": "Content Usage & Licensing",
+      "risk": "HIGH",
+      "icon": "💡",
+      "headline": "Uses Your Content for Promotion",
+      "quote": "Use all or part of Your Content in promoting our products and services (e.g. we may use a screenshot including your comments in our advertising)"
+    },
+    {
+      "category": "Content Usage & Licensing",
+      "risk": "HIGH",
+      "icon": "✂️",
+      "headline": "Edits Your Content Without Attribution",
+      "quote": "Edit your Content, which may result in a part of it being modified and displayed, including without your name."
+    },
+    {
+      "category": "Content Usage & Licensing",
+      "risk": "HIGH",
+      "icon": "🗑️",
+      "headline": "Deletes Your Content Permanently",
+      "quote": "Your content may be removed permanently from the Site at any time, and we may not keep copies of your content."
+    },
+    {
+      "category": "Content Usage & Licensing",
+      "risk": "HIGH",
+      "icon": "🚫",
+      "headline": "Waives Your Moral Rights",
+      "quote": "To the extent permitted by law, you waive your moral rights (e.g. the right to be identified as author or to object to derogatory treatment) in Your Content."
+    },
+    {
+      "category": "User Responsibility",
+      "risk": "MEDIUM",
+      "icon": "👤",
+      "headline": "Responsible for Account Misuse",
+      "quote": "You are responsible for everything done using your account."
+    },
+    {
+      "category": "Data Collection & Use",
+      "risk": "MEDIUM",
+      "icon": "🤖",
+      "headline": "Prohibits AI Training on Data",
+      "quote": "you must not... use any content, files or data from the Site to make or populate a database or publication of any kind whatsoever, to develop or train any software program (including any machine learning or artificial intelligence systems)"
+    }
+  ]
+}
