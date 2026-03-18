@@ -1,0 +1,62 @@
+{
+  "url": "https://www.doi.org/privacy-policy/",
+  "scanned_at": "2026-03-18T18:06:44.709152+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data",
+      "quote": "The DOI Foundation shares your data only with its personnel and contractors who need to access it in order to provide the Services and to the Registration Agencies responsible for the DOI names that you may resolve using the Services."
+    },
+    {
+      "category": "Third-Party Cookies/Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Third-Party Cookies Track You",
+      "quote": "If you subscribe to Updates from the Statuspage Site additional cookies may be deposited on your browser by Google, which provides the reCAPTCHA service, or by Atlassian Pty. Ltd. (“Atlassian”), which operates provides the Updates."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Retains Your IP Address",
+      "quote": "Your IP address and the DOI name for which you sought resolution will be retained by the DOI system in a log file that is used for the purpose of monitoring system performance, troubleshooting in the event of problems and otherwise managing the DOI system."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Travels Globally",
+      "quote": "Depending on where you are located, some of the jurisdictions in which the Foundation has servers may offer fewer or less protection for your personal data than your home country."
+    },
+    {
+      "category": "Consent to Less Protection",
+      "risk": "High",
+      "icon": "✍️",
+      "headline": "You Consent to Less Protection",
+      "quote": "By accessing the Website or Services you acknowledge that you may be transferring your personal data to such less protective jurisdictions and, to the extent required by applicable law, you explicitly consent to the transfer."
+    },
+    {
+      "category": "Third-Party Policy Disclaimer",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Not Responsible for Third Parties",
+      "quote": "The DOI Foundation does not control the personal data collected or used by the Registration Agencies, and for information about their policies you should consult each of their websites."
+    },
+    {
+      "category": "Weak Security Guarantee",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "No Absolute Security Guaranteed",
+      "quote": "However, no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security."
+    },
+    {
+      "category": "Mandatory Consent for Use",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Using Services Means Agreement",
+      "quote": "By accessing this Websites or using the services provided by the DOI Foundation (the “Services”) you agree to this Privacy Policy."
+    }
+  ]
+}
