@@ -1,0 +1,69 @@
+{
+  "url": "https://store.steampowered.com/privacy_agreement/",
+  "scanned_at": "2026-03-18T18:31:00.064755+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "Valve does not sell Personal Data. However, we may share or provide access to each of the categories of Personal Data we collect as necessary for the following business purposes."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Game Data",
+      "quote": "We make certain data related to your Steam User Account available to other players and our partners through the Steamworks API."
+    },
+    {
+      "category": "Public Data Exposure",
+      "risk": "HIGH",
+      "icon": "🌐",
+      "headline": "Your Public Profile Accessible",
+      "quote": "At a minimum, the public persona name you have chosen to represent you on Steam and your Avatar picture are accessible this way, as well as whether you have received a ban for cheating in a multiplayer game."
+    },
+    {
+      "category": "Public Data Exposure",
+      "risk": "HIGH",
+      "icon": "🗣️",
+      "headline": "Your Posts Public",
+      "quote": "When posting a message to a board, forum or chat area, please be aware that the information is being made publicly available online; therefore, you are doing so at your own risk."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "MEDIUM",
+      "icon": "🕵️",
+      "headline": "Tracks Your Usage & Device",
+      "quote": "Personal Data we collect may include, but is not limited to, browser and device information, data collected through automated electronic interactions and application usage data."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "MEDIUM",
+      "icon": "🍪",
+      "headline": "Uses Cookies for Marketing",
+      "quote": "We use \"Cookies\", which are text files placed on your computer, and similar technologies (e.g. web beacons, pixels, ad tags and device identifiers) to help us analyze how users use our services, as well as to improve the services we are offering, to improve marketing, analytics or website functionality."
+    },
+    {
+      "category": "Content & Behavior Analysis",
+      "risk": "MEDIUM",
+      "icon": "🎯",
+      "headline": "Tailors Your Content/Offers",
+      "quote": "We may process information collected under this section 3 so that content, products and services shown on the pages of the Steam store and in update messages displayed when launching the Steam Client can be tailored to meet your needs and populated with relevant recommendations and offers."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "💾",
+      "headline": "Permanent Game-Related Data",
+      "quote": "In certain cases, Personal Data cannot be completely deleted in order to ensure the consistency of the gameplay experience or the Steam Community Market."
+    },
+    {
+      "category": "Disclosure Restrictions",
+      "risk": "HIGH",
+      "icon": "🤫",
+      "headline": "Withholds Fraud Detection Data",
+      "quote": "Please note that the specific data stored for this purpose may not be disclosed to you if the disclosure will compromise the mechanism through which we detect, investigate and prevent such Violations."
+    }
+  ]
+}
