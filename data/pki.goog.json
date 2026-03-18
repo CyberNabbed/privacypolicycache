@@ -1,0 +1,76 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "scanned_at": "2026-03-18T18:03:44.944767+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Info with Affiliates",
+      "quote": "We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases: ... For external processing We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Partners",
+      "quote": "We also receive information from partners to provide advertising and research services on their behalf."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares for Advertising & Measurement",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "📞",
+      "headline": "Connects Your Calls To Advertisers",
+      "quote": "We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Data for Legal Reasons",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "Content Analysis & AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice & Audio",
+      "quote": "The activity information we collect may include: ... Voice and audio information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "❤️‍🩹",
+      "headline": "Collects Your Health Information",
+      "quote": "Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health , in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices."
+    },
+    {
+      "category": "Government & Law Enforcement",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Discloses Data to Government",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Sites/Apps",
+      "quote": "Activity on third-party sites and apps that use our services"
+    }
+  ]
+}
