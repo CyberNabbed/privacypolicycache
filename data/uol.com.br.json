@@ -1,0 +1,76 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "scanned_at": "2026-03-18T18:36:27.342708+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Advertising",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates & Partners",
+      "quote": "We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Precise Location Data",
+      "quote": "Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🎤",
+      "headline": "Collects Voice and Audio",
+      "quote": "Audio, electronic, visual, and similar information, such as voice and audio information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🏥",
+      "headline": "Collects Sensitive Health Information",
+      "quote": "Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Collects Your Internet Activity",
+      "quote": "Internet, network, and other activity information such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services."
+    },
+    {
+      "category": "Data Use",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Government Access",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Shares with Law Enforcement",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    },
+    {
+      "category": "Data Use",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Personalizes Ads Based on Interests",
+      "quote": "Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Data for Longer Periods",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    }
+  ]
+}
