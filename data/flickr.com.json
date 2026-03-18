@@ -1,0 +1,69 @@
+{
+  "url": "https://www.flickr.com/help/privacy",
+  "scanned_at": "2026-03-18T18:03:37.357153+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells Your Data (CCPA)",
+      "quote": "If you take the position that any of those relationships involve a “sale” within the meaning of the CCPA, then you may consider Flickr to have “sold” what the CCPA calls “identifiers” (like IP addresses), “internet or other electronic network activity information” (like information regarding an individual’s browsing interactions on Flickr.com), and “commercial information” (like the fact that a browser visited a particular page on our website) to those sorts of companies."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares for Advertising & Analytics",
+      "quote": "We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "With your consent, we may collect information about the location of your device. For example, we use your location information to provide you with the option to add POI data to your photo."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🖼️",
+      "headline": "Uses Your Photos for AI",
+      "quote": "We use image recognition algorithms to find visually similar images as well as to help you organize your photos and make it easier to search images. This technology might identify and tag scenes, actions, objects."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Retains Backup Data Longer",
+      "quote": "Information in copies made for backup and business continuity may remain for longer than the original data. For example, photos and videos that are marked for deletion, or that are in an account that gets closed, are de-published almost immediately and are permanently removed from backup copies 30 days later."
+    },
+    {
+      "category": "User Responsibility",
+      "risk": "Medium",
+      "icon": "⚠️",
+      "headline": "You Must Protect Your Photos",
+      "quote": "Our Services allow our users to transfer Photographer Personal Data (such as by publishing it), and our users (not Flickr) are responsible for their transfers."
+    },
+    {
+      "category": "Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Internationally",
+      "quote": "To provide the Services, we may transfer your information to servers operated by Flickr or our service providers in the United States or other countries."
+    },
+    {
+      "category": "Security & Accountability",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Cannot Guarantee Data Security",
+      "quote": "However, no security measure is perfect. Flickr cannot and does not promise that any information will remain secure."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Opt-Outs Not Fully Clear",
+      "quote": "As we await clarity on this point and, if applicable, the arrival of a reasonable method for handling CCPA-like choice options for it, we continue to offer individuals the opportunity to opt out of the use of certain third- party cookies and similar technology for analytics and advertising purposes, as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy."
+    }
+  ]
+}
