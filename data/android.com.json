@@ -1,0 +1,76 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "scanned_at": "2026-03-18T18:05:30.102741+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Partners",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares for Personalized Advertising",
+      "quote": "Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice & Audio",
+      "quote": "Audio, electronic, visual, and similar information, such as voice and audio information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "⚕️",
+      "headline": "Collects Your Sensitive Health Data",
+      "quote": "Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Public Data",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Privacy Rights",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Domain Admins Access Your Data",
+      "quote": "If you’re a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We keep some data until you delete your Google Account, such as information about how often you use our services. And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "Data Security",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Legal Requests for Your Data",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    }
+  ]
+}
