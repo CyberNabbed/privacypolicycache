@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nvidia.com/en-us/about-nvidia/privacy-policy/",
+  "scanned_at": "2026-03-18T18:13:18.582130+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "If you have consented to receive marketing communications or recommendations, we share obfuscated (hashed) information about you with third-party ad providers such as Google to serve interest-based ads to you and others."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Partners",
+      "quote": "We share your request and contact information with business partners and third-party service providers so they can communicate with you about relevant products or services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Shares Your AI Training Data",
+      "quote": "We sometimes share this data with third-party vendors supporting our technology or with business partners that are also developing AV and AI technology."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Collects Public/Commercial Data",
+      "quote": "We collect your information from publicly or commercially available sources such as attendance at events we sponsor, searches on the public internet, and data enrichment services."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Collects Chatbot Messages",
+      "quote": "When you interact with any of our chatbots on our web site or mobile apps we collect your messages, including the personal information included in the messages, such as your name and email address (if provided), along with the web page you are on."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Medium",
+      "icon": "🧒",
+      "headline": "Shares Child Account Data",
+      "quote": "We share some personal data of account holders under the age of 18 if sharing personal data is required for service functionality."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Long Term",
+      "quote": "We erase customer and enterprise personal data if there has been no engagement with you for more than five years."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Your Data Transferred to US",
+      "quote": "NVIDIA is located in California, and in most cases we need to securely transfer and store your information in the United States."
+    },
+    {
+      "category": "Government Access",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Shares Data with US Law Enforcement",
+      "quote": "We are subject to U.S. law, and we may be required to share data with U.S. law enforcement agencies."
+    }
+  ]
+}
