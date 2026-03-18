@@ -1,0 +1,69 @@
+{
+  "url": "https://www.teamviewer.com/en-us/legal/privacy-and-cookies/",
+  "scanned_at": "2026-03-18T18:38:04.821484+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Widely",
+      "quote": "In addition, we utilize services of external service providers (e.g., Microsoft, Amazon Web Services, Inxmail GmbH, Cloudfare etc.), as well as our affiliate network worldwide (e.g., TeamViewer entities in Greece, USA, Australia, Austria, Japan etc.)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Sells Your Info To Partners",
+      "quote": "TeamViewer may transfer your personal data to third parties if we offer participation in campaigns, contests, reservations, or contract agreements in conjunction with a third party."
+    },
+    {
+      "category": "User Tracking & Profiling",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Tracks Your Email Interactions",
+      "quote": "For this reason, we (facilitated by our data processor Inxmail GmbH) may track reactions to and interactions with emails we send you (e.g., whether you open the newsletter, click on the text and image links or display the images contained in the emails)."
+    },
+    {
+      "category": "AI Training & Automated Decision-Making",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Automates Call Analysis",
+      "quote": "We may also use automated tools to automatically analyze these recordings for conversation analytics, to improve and train the communication skills of our customer services, and to enhance overall sales performance."
+    },
+    {
+      "category": "AI Training & Automated Decision-Making",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Uses VoiceBots",
+      "quote": "In some countries we utilize so called VoiceBot services, where the customer requests via phone are processed by our internal automated bot, which then automatically creates tickets in our system on your behalf."
+    },
+    {
+      "category": "Monitoring & Surveillance",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Records Your Phone Calls",
+      "quote": "Please note, that in some cases we may record phone calls between you and our employees for quality assurance and training purposes."
+    },
+    {
+      "category": "Cross-Border Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Leaves EEA",
+      "quote": "In connection with the use of the automated tools, your data may be transferred outside of the EEA whereby we have ensured that appropriate measures for the protection of your personal data are taken by introducing suitable legal mechanisms within the meaning of Art. 46 GDPR, e.g. EU standard contractual clauses."
+    },
+    {
+      "category": "Data Collection from Third Parties",
+      "risk": "Medium",
+      "icon": "🔍",
+      "headline": "Gets Your Data from Partners",
+      "quote": "We may, from time to time, receive your personal data such as your name and your contact details from third parties, e.g., from event organizers, various trade fair organizers, partner websites, our integration partners (e.g., Salesforce, Microsoft, SAP etc.) and similar sources."
+    },
+    {
+      "category": "Free Version Data Auditing",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Audits Your Free Usage",
+      "quote": "If you use so-called Free Version of our software... we reserve the right to audit your use by technical means to assess whether your usage pattern is in line with the indicated usage volume and thus with the chosen license type."
+    }
+  ]
+}
