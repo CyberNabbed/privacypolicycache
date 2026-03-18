@@ -1,0 +1,69 @@
+{
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+  "scanned_at": "2026-03-18T18:02:48.438978+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data for Ads",
+      "quote": "As defined by applicable law, we “shared” the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above. We shared each category to or with advertising networks, data analytics providers, and social networks. The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates & Partners",
+      "quote": "Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations. Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement. [...] Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services. We may share your data with these partners and resellers where allowed, and with your consent when required."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👥",
+      "headline": "Collects Your Demographic Data",
+      "quote": "Demographic information: In some cases, you provide us with ethnicity, gender, or similar demographic details."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Infers Your Characteristics",
+      "quote": "Inference: We generate new information from other data we collect to derive likely preferences or other characteristics. For instance, we infer your general geographic location based on your IP address."
+    },
+    {
+      "category": "Third-Party Control",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Organization Controls Your Account",
+      "quote": "When a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services. This enables them to: Manage and administer your GitHub account, including adjusting privacy settings. Access and utilize your Personal Data, which includes details on how you use the Services, as well as your content and files."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Geolocation Data",
+      "quote": "Geolocation Information: Depending on the Service's functionality, we collect regional geolocation data."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "🍪",
+      "headline": "Uses Cookies for Targeted Ads",
+      "quote": "We may also employ third-party Cookies to gather data for interest-based advertising. In some jurisdictions, we only use non-essential cookies after obtaining your consent."
+    },
+    {
+      "category": "Data Access",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "GitHub Accesses Private Repositories",
+      "quote": "GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for: security purposes automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service to assist the repository owner with a support matter to maintain the integrity of the Services, or to comply with our legal obligations if we have reason to believe the contents are in violation of the law."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Internationally",
+      "quote": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection. When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914 , to help protect your rights and enable these protections to travel with your data."
+    }
+  ]
+}
