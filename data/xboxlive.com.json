@@ -1,0 +1,76 @@
+{
+  "url": "https://www.microsoft.com/en-us/privacy/microsoft-consumer-health-data-privacy-policy",
+  "scanned_at": "2026-03-18T18:14:12.832919+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Health Data",
+      "quote": "We may share each of the categories of consumer health data described above for the purposes described in the Reasons we share personal data section of the privacy statement."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "Business partners . We may share consumer health data with other companies, for example, where you use a service that is cobranded and jointly operated with another company, or where you use our services to interact with another company."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates",
+      "quote": "Affiliates . We enable access to data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems or where access helps us to provide our services and operate our business."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Shares for Advertising/Marketing",
+      "quote": "We may use consumer health data for other purposes for which we give you choices and/or obtain your consent as required by law – for example, for advertising or marketing purposes."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Precise location information that could reasonably indicate your attempt to acquire or receive health services or supplies. For example, if you use Bing maps to get directions to a health care provider, we may collect GPS, cell tower, and Wi-Fi hotspot location data that could reveal health-related information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Infers Your Health Data",
+      "quote": "Other information that may be used to infer or derive data related to the above or other health information."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🔬",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Measurements of bodily functions, vital signs, or characteristics, including photographs, which may also be considered biometric information under the MHMDA, the NHDPA, or other applicable state consumer health privacy law."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Collects Your Health-Related Searches",
+      "quote": "For example, we collect your Bing search queries, which may include queries concerning nutrition, wellness, fitness, medical conditions, or other health-related topics."
+    },
+    {
+      "category": "Government Requests",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Shares with Government Agencies",
+      "quote": "Government agencies . As described in our privacy statement and our Law Enforcement Requests Report , we disclose data to law enforcement or other government agencies when we believe doing so is necessary to comply with applicable law or respond to valid legal process."
+    },
+    {
+      "category": "Corporate Transactions",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Shares in Business Sales",
+      "quote": "Parties to a corporate transaction . We may disclose consumer health data as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or a transfer, divestiture, or sale of all or a portion of our business or assets."
+    }
+  ]
+}
