@@ -1,0 +1,55 @@
+{
+  "url": "https://www.hp.com/us-en/privacy/your-privacy-choices.html",
+  "scanned_at": "2026-03-18T18:08:57.441643+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "You can request us to stop selling or sharing your personal information outside of your browsing activity by using the “ Do Not Sell or Share My Personal Information Request ” form."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Requests Take Up To 90 Days",
+      "quote": "You will receive our response to your request within 45 days of your request, unless we provide you with notice that it will take more than 45 days to respond (in that case, we won't take more than 90 days to respond)."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Collects Your Offline Interactions",
+      "quote": "It informs you of the rights you can exercise in relation to your personal information, including information that may be collected from your online activity, use of devices, and interactions you have with HP offline, such as when you engage with our customer support representatives."
+    },
+    {
+      "category": "Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks Your Browsing Activity",
+      "quote": "Similarly, exercising your right to Opt-Out of sale or sharing that occurs during your browsing activity can be accomplished in either of the ways listed below: Opt-out in Cookie Preference Center"
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "⚠️",
+      "headline": "Opt-Out Can Limit Functionality",
+      "quote": "HP will not discriminate against you for exercising your rights and choices, although some of the functionality and features available on HP Services may change or no longer be available to you as the data might be necessary to provide some functionalities or features."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Your Opt-Out Tied to Device",
+      "quote": "We are committed to process your Opt-out preferences (and as a result, opt out of personalized advertising) for the device and web browser from which the Opt-out signal is being made, as it will be tied to a specific device ID or browser ID."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "🧹",
+      "headline": "Clearing Cookies Resets Opt-Out",
+      "quote": "If you block or clear cookies from your browser, it may remove the Opt-out settings, requiring you to opt-out again."
+    }
+  ]
+}
