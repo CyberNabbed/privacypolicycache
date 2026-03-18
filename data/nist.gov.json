@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nist.gov/admr/oism/site-privacy",
+  "scanned_at": "2026-03-18T18:04:03.674234+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Low",
+      "icon": "🤝",
+      "headline": "No Sharing for Marketing",
+      "quote": "We do not sell, rent, exchange, or otherwise disclose our list subscribers or engagement information to persons or organizations outside of NIST."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "👀",
+      "headline": "Google Captcha Tracks You",
+      "quote": "Your use of this feature is subject to Google’s Privacy Policy and Terms of Use, and is linked for each instance where CAPTCHA or reCAPTCHA is used."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "☁️",
+      "headline": "Cloudflare Tracks Your Use",
+      "quote": "Your use of this feature is subject to Cloudflare's Privacy Policy and Terms of Use for Turnstile."
+    },
+    {
+      "category": "Cookies & Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Uses Cookies for Tracking",
+      "quote": "To better serve our visitors, we use technology to track new and returning visitors actions while on the website."
+    },
+    {
+      "category": "Information Protection",
+      "risk": "High",
+      "icon": "🚨",
+      "headline": "Monitors Your Network Traffic",
+      "quote": "this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏰",
+      "headline": "Retains Data by Law",
+      "quote": "We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration (NARA) General Records Schedule 3.1/020."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "📜",
+      "headline": "Voluntary Data Becomes Record",
+      "quote": "in some cases information submitted to us may become an agency record and therefore might be subject to a Freedom of Information Act request."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Low",
+      "icon": "👶",
+      "headline": "Collects Info from Children",
+      "quote": "No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services."
+    },
+    {
+      "category": "Data Analytics",
+      "risk": "Low",
+      "icon": "📊",
+      "headline": "Granicus Views Your Data",
+      "quote": "Our email analytics provider, Granicus (formerly GovDelivery), also offers the capability to view some data, such as whether a mass email was opened, at an individual level for 30 days after an email was sent; as a matter of policy and practice this data is only viewed on an aggregate basis."
+    }
+  ]
+}
