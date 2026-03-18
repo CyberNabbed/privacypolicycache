@@ -1,0 +1,76 @@
+{
+  "url": "https://bitly.com/pages/privacy",
+  "scanned_at": "2026-03-18T18:01:52.941974+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Widely",
+      "quote": "The following categories of personal data generated through your use of the Services are shared publicly, within Bitly and with the following categories of third parties for the business purposes described below."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Shares Your Info for Ads",
+      "quote": "We may employ and contract with third parties to perform certain tasks on our behalf and under our direction (our “Service Providers”). We may need to share information about you with our Service Providers in order to fulfill certain business purposes, like providing our product with research and analytics on user behavior and providing advertising products and services to users..."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💼",
+      "headline": "Shares Your Email with Employer",
+      "quote": "Where permitted by law, if you register a Bitly Account with an email address on a domain owned by an organization, (for example, an employer or educational institution where you have an email account), we may share your email address and information about your Account, such as the number of links you have created, with that organization to explore the organization’s interest in creating or managing an enterprise account or for related purposes."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Publicly Shares Your Link Data",
+      "quote": "Much of your activity on and through the Services is public by default. For example, when you create a Bitly Product, the original URLs you have shortened and the corresponding Bitly Product are publicly available, including the possibly included personal data."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Geolocation",
+      "quote": "Bitly also collects and stores your IP address, your geolocation data (which we derive from your IP address), the time and date on which you shortened the original URL and/or created the Bitly Product..."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Infers Your Cross-Device Usage",
+      "quote": "We use the information we collect to make inferences that a unique individual has created or interacted with Bitly links, QR codes or Links in Bio on different devices so that we can detect, deter and prevent malicious, fraudulent or unlawful activity and analyze how users use our Services."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Medium",
+      "icon": "🤔",
+      "headline": "Limited Data Deletion",
+      "quote": "The data is removed upon request, except for data (such as user name) stored in application logs and audit trails, which are deleted according to our standard data management cycle."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Data Indefinitely (Aggregated)",
+      "quote": "Aggregated data sets that do not contain personal data are stored for an indefinite period for the purpose of business analysis."
+    },
+    {
+      "category": "Third-Party Risk",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "No Responsibility for Third-Parties",
+      "quote": "This Privacy Policy does not apply to the practices of other businesses that Bitly does not own or control, including other companies’ websites, services and applications (“Third Party Services”) that you can access through the Services or to individuals that Bitly does not manage or employ."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Collects Extensive Professional Data",
+      "quote": "Basic information (such as name, title, company name, work location and contact information) Business connections Communications"
+    }
+  ]
+}
