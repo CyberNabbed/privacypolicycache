@@ -1,0 +1,76 @@
+{
+  "url": "https://www.amazon.com.au/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&pop-up=1",
+  "scanned_at": "2026-03-18T18:03:13.992091+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "We share customer’s personal information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🛍️",
+      "headline": "Shares Your Order Info",
+      "quote": "When you place an order from a third-party seller, information related to the order will be provided to the seller, and such information will be subject to the seller's privacy policy."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Shares Your Payment Info",
+      "quote": "We also offer services or sell product lines jointly with third party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers’ personal information related to those transactions with that third party."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Shares Your ID for Ads",
+      "quote": "We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier or a code derived from applying irreversible cryptography to other information like an email address."
+    },
+    {
+      "category": "Voice & Image Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice & Image",
+      "quote": "When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Sites",
+      "quote": "Like many websites, we use \"cookies\" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites."
+    },
+    {
+      "category": "Data from Other Sources",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Collects Data From Partners",
+      "quote": "We might receive information about you from other sources such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Keeps Prior Info Versions",
+      "quote": "When you update information, we usually keep a copy of the prior version for our records."
+    },
+    {
+      "category": "Business Transfers",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Your Data Sold in Mergers",
+      "quote": "As we continue to develop our business, we might sell or buy other businesses or services. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise)."
+    },
+    {
+      "category": "Limited Opt-Out",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Opt-Out Limits Functionality",
+      "quote": "Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in."
+    }
+  ]
+}
