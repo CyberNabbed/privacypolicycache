@@ -1,0 +1,69 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "scanned_at": "2026-03-18T18:09:19.273013+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data With Affiliates",
+      "quote": "We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data With Partners",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Shares Your Data For Advertising",
+      "quote": "We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Connects You With Advertisers",
+      "quote": "We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Collects Your Voice & Audio",
+      "quote": "Audio, electronic, visual, and similar information, such as voice and audio information."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Content",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Government Access",
+      "risk": "High",
+      "icon": "🏛️",
+      "headline": "Discloses Your Data To Government",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We’ll keep this data in your Google Account until you remove it or choose to have it removed."
+    }
+  ]
+}
