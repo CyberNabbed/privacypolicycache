@@ -1,0 +1,76 @@
+{
+  "url": "https://canonical.com/legal/data-privacy",
+  "scanned_at": "2026-03-18T18:05:15.129427+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Info with Partners",
+      "quote": "We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Affiliates",
+      "quote": "You agree that we have the right to share your information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 and as listed here."
+    },
+    {
+      "category": "Marketing & Advertising",
+      "risk": "High",
+      "icon": "📢",
+      "headline": "Tracks You for Targeted Ads",
+      "quote": "The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion. Website events are shared with the Facebook Conversions API."
+    },
+    {
+      "category": "Marketing & Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Aggressive Ad Tracking",
+      "quote": "LinkedIn tracking allows us to see how many people take action on our ads and which ad led to a conversion."
+    },
+    {
+      "category": "Marketing & Advertising",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Intrusive Cross-Site Tracking",
+      "quote": "Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor."
+    },
+    {
+      "category": "Marketing & Advertising",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Retargets You on Reddit",
+      "quote": "Using the Reddit Pixel, we can build a retargeting audience. This helps us reconnect with people who’ve shown interest."
+    },
+    {
+      "category": "Marketing & Advertising",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Tracks Your Firmographic Data",
+      "quote": "Using ZoomInfo’s WebSights service, we can get a better idea of user behavior on our websites based on firmographic data."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📞",
+      "headline": "Records Your Phone Calls",
+      "quote": "When you correspond with us by phone, calls may be recorded for training and monitoring purposes."
+    },
+    {
+      "category": "Data Location & Transfer",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Your Data Stored Internationally",
+      "quote": "The information that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area ('EEA')."
+    },
+    {
+      "category": "User Content",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Publicly Shares Your Posts",
+      "quote": "Any information that you disclose in these areas becomes public information and may be recorded, archived and republished by anyone."
+    }
+  ]
+}
