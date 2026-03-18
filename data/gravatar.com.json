@@ -1,0 +1,62 @@
+{
+  "url": "https://automattic.com/privacy/",
+  "scanned_at": "2026-03-18T18:02:27.631538+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "To the extent that we share your information with certain advertising, marketing, or analytics vendors, this can be considered a “sale” or “share” in certain U.S. States, which you may have the right to opt out of."
+    },
+    {
+      "category": "Cross-Site Tracking",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Tracks You Across Sites",
+      "quote": "As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own."
+    },
+    {
+      "category": "Limited 'Do Not Track' Support",
+      "risk": "Medium",
+      "icon": "🚦",
+      "headline": "Ignores 'Do Not Track'",
+      "quote": "At this time, Automattic does not respond to “do not track” signals across all of our Services."
+    },
+    {
+      "category": "Public Profile Exposure",
+      "risk": "Medium",
+      "icon": "📢",
+      "headline": "Your Profile Is Public",
+      "quote": "Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include."
+    },
+    {
+      "category": "Data Retention Indefinite",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Keeps Your Data Long",
+      "quote": "Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests."
+    },
+    {
+      "category": "Job Applicant Background Checks",
+      "risk": "Medium",
+      "icon": "🔎",
+      "headline": "Background Checks on Applicants",
+      "quote": "We may also collect additional information about you during the process, like background and credit checks (in applicable jurisdictions and only for certain job roles)."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Collects Data From Others",
+      "quote": "We may also get information about you from other sources."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Goes Overseas",
+      "quote": "Because Automattic’s Services are offered worldwide, the information about you that we process when you use the Services in the EU or the UK may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) or the UK who work for us, other members of our group of companies, or third-party data processors."
+    }
+  ]
+}
