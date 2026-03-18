@@ -1,0 +1,62 @@
+{
+  "url": "https://www.appsflyer.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-18T18:12:04.444628+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches. ... AppsFlyer resellers, agents, partners or service providers acting on our behalf ... Third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google)."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "🔭",
+      "headline": "Tracks Your Online Activity",
+      "quote": "Through use of cookies and other similar technologies (e.g. HTML5 Local Storage, LSO, web beacons, JavaScript, etc.). These technologies help us to analyze how our Marketing Platforms are used and to tailor content that is relevant to you. It also helps us to deliver more relevant advertisements to you on our own or third party sites."
+    },
+    {
+      "category": "Data Collection Scope",
+      "risk": "Medium",
+      "icon": "📥",
+      "headline": "Collects Extensive Technical Data",
+      "quote": "“Technical Information” such as browser type, operating system, device type, IP address and other similar technical information typically received from a browser or device automatically when visiting or interacting with our Marketing Platforms. This may include the referring URL that led you to our website."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We will only retain your Personal Information for as long as necessary to pursue the purpose of the collection. We may also retain your Personal Information for such time needed to pursue our legitimate business interests, in connection with any legal claims and compliance with legal obligations. When we use your information for direct marketing purposes, we will retain your data until you opt-out from receiving the marketing materials; provided that we will need to retain certain information to maintain a record of your request."
+    },
+    {
+      "category": "Cross-Border Data Transfer",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "We may need to transfer Information to countries where we and/or our service providers operate. Such countries may be different from the country in which the data originated and where data protection laws may not be equivalent to, or offer the same protection as, those in your country. By using our Marketing Platforms, you agree to any such transfers."
+    },
+    {
+      "category": "Third-Party Data Sources",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Combines Your Data With Third-Party",
+      "quote": "Information obtained from third party sources. This includes Information received through the various business support tools and services that we use (e.g. marketing platforms, analytics services etc.) and public sources such as social media sites. We may combine the Information received through these sources with other Information we have in order to ensure our records are up to date and so that we are able to provide you with relevant content."
+    },
+    {
+      "category": "Policy Updates",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Policy Changes Apply Retroactively",
+      "quote": "The updates shall apply immediately for new Information collected or provided as of the day of the update and following thirty (30) days for any Information collected or provided to AppsFlyer prior to the update date. If you do not agree to the terms of the new policy you are requested to contact the Legal Department using the contact details listed in Section 11 below."
+    },
+    {
+      "category": "Legal Compliance & Enforcement",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Data Shared for Law Enforcement",
+      "quote": "When required by law, such as to comply with court orders, search warrants, regulatory orders, subpoenas, and other lawful requests by public authorities, including to meet national security or law enforcement requirements;"
+    }
+  ]
+}
