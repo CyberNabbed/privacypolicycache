@@ -1,0 +1,76 @@
+{
+  "url": "https://www.playstation.com/en-us/legal/privacy-policy/",
+  "scanned_at": "2026-03-18T20:34:45.839327+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Shares Your Info for Ads",
+      "quote": "We may share data about your activities related to PlayStation services, websites, and apps with third parties to provide ads that are more personalized to you on third-party platforms."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Shares Info with Sony Group",
+      "quote": "Sony Group, for purposes related to providing you with content, products, or services, including games, videos, music, software and software applications; community administration or development; to support various business and security processes; research and development; and so that other Sony group companies may contact you about products, services or other offerings that may be of interest to you."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "🎧",
+      "headline": "Records Your Support Calls",
+      "quote": "We may also record calls you make to PlayStation Support."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "HIGH",
+      "icon": "📍",
+      "headline": "Collects Your Precise Location",
+      "quote": "Your current and recent locations (e.g. on PS Vita)"
+    },
+    {
+      "category": "User Content & AI",
+      "risk": "HIGH",
+      "icon": "🎤",
+      "headline": "Converts Your Voice to Text",
+      "quote": "And, to enable accessibility settings functions (for you, or other users), we may convert your voice data to text."
+    },
+    {
+      "category": "User Content & AI",
+      "risk": "HIGH",
+      "icon": "🔍",
+      "headline": "Monitors Your Online Activity",
+      "quote": "However, we reserve the right in our sole discretion to monitor (including through the use of technology that automatically detects images, text, and URLs that breach our Terms of Service) and record your online activity and communication throughout PlayStation Network and to remove and/or delete any content."
+    },
+    {
+      "category": "User Content & AI",
+      "risk": "HIGH",
+      "icon": "🧠",
+      "headline": "Indexes Your Shared Content",
+      "quote": "We may also index and use content which you have shared publicly, as part of our platform’s features like Game Help, PlayStation profiles, or future PlayStation Network services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "💾",
+      "headline": "Retains Data on Backup Media",
+      "quote": "Even if we delete your information from active databases, the information may remain on backup or archival media as well as other information systems."
+    },
+    {
+      "category": "User Rights",
+      "risk": "MEDIUM",
+      "icon": "🙅‍♀️",
+      "headline": "Ignores Do Not Track",
+      "quote": "As there are currently no agreed upon standards for the DNT signals or how to respond to them, we adhere to the standards set out in this Privacy Policy."
+    },
+    {
+      "category": "Security",
+      "risk": "MEDIUM",
+      "icon": "⚠️",
+      "headline": "No Perfect Security Guarantee",
+      "quote": "Although we strive to protect your information, we cannot ensure or warrant the security of such information. There is no such thing as perfect security."
+    }
+  ]
+}
