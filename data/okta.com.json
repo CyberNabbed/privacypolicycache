@@ -1,0 +1,62 @@
+{
+  "url": "https://www.okta.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-18T18:36:06.343131+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Info with Partners",
+      "quote": "We may disclose your Personal Data, such as contact information, business details, and content interest and activity details, to our partners and resellers for business purposes, such as to carry out our business or for joint marketing efforts to reach our customers and prospective customers, subject to laws applicable in your jurisdiction."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "❗",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "We may also collect sensitive information, like your Social Security Number or other government identifier, criminal history information, racial or ethnic origin, or other such Personal Data that you provide in connection with your job application."
+    },
+    {
+      "category": "Passive Location Tracking",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Tracks Your Approximate Location",
+      "quote": "Your location can be determined with varying degrees of accuracy by your IP address and information about things near your device, such as Bluetooth-enabled devices."
+    },
+    {
+      "category": "Device & App Inventory Collection",
+      "risk": "Medium",
+      "icon": "📱",
+      "headline": "Collects Your Device's App List",
+      "quote": "Some of our products and services may collect data about the applications that are installed on your device."
+    },
+    {
+      "category": "Camera Access for Setup",
+      "risk": "Low",
+      "icon": "📸",
+      "headline": "Accesses Your Camera for Setup",
+      "quote": "When enabled, some of our services allow you to set up the services by using the camera on your device to scan a QR code. We cannot access your camera without permission."
+    },
+    {
+      "category": "Biometric Authentication Usage",
+      "risk": "Low",
+      "icon": "🖐️",
+      "headline": "Uses Your Biometric Data",
+      "quote": "If you authenticate using Touch ID, Face ID, Face Unlock or Fingerprint Unlock, we are only notified as to whether the authentication was successful and cannot access the Face ID, Touch ID, Face Unlock, or Fingerprint Unlock."
+    },
+    {
+      "category": "Website & Email Tracking",
+      "risk": "Medium",
+      "icon": "🕵️",
+      "headline": "Tracks Your Online Activity",
+      "quote": "We may also use web tracking technologies (i.e., cookies, pixels, session replay, chatbots, etc.) to communicate with you to enhance the function of the website and our services. We also use beacons in our websites and in email communications to you."
+    },
+    {
+      "category": "Workplace Surveillance",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Monitors You in Offices",
+      "quote": "Okta physically and electronically monitors its offices with access monitoring software and tools, and has on-premise surveillance cameras in order to prevent unauthorized access to our offices and to protect employees, authorized visitors, and our property."
+    }
+  ]
+}
