@@ -1,0 +1,62 @@
+{
+  "url": "https://www.gandi.net/en-US/contracts/privacy-policy",
+  "scanned_at": "2026-03-18T18:01:01.302405+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "Gandi may also transfer your data to third parties, if this is required by legal or regulatory provisions or in the context of legitimate requests from third parties (for example: respect of intellectual property rights, etc.)."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Leaves EU",
+      "quote": "Gandi may transfer your personal data outside the European Union, to countries that do not ensure an adequate level of protection of personal data."
+    },
+    {
+      "category": "Automated Decision Making",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Automated Fraud Decisions",
+      "quote": "In any case, no decision is based exclusively on automatic processing. Each decision is taken by one of our agents on the basis of information provided by our fraud risk detection tool. You have the right to present your point of view and to contest the decision."
+    },
+    {
+      "category": "Profiling & Targeted Marketing",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Profiles You for Ads",
+      "quote": "To carry out statistical analysis for profiling and segmentation purposes for targeted marketing, audience measurement and performance measurement;"
+    },
+    {
+      "category": "Third-Party Cookies/Trackers",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Third-Party Trackers Used",
+      "quote": "Gandi's news website uses embedded Youtube videos. By default, your refusal to accept the use of a cookie is assumed and this cookie is not deposited. You can consent to the deposit of this cookie via a contextual consent request, before playing a video. If you agree, these third party cookies are deposited directly by this service. Through these cookies, this third party will also collect and use your browsing data on its own behalf to provide targeted advertising and content based on your browsing history."
+    },
+    {
+      "category": "Broad Data Collection",
+      "risk": "Medium",
+      "icon": "📋",
+      "headline": "Collects Extensive Personal Data",
+      "quote": "As a user, when you browse the Websites and/or use the services offered on the Websites, Gandi may collect the following personal data about you: - Identification data: name, ID card and/or passport number and/or any other identification number or document, nationality, residence permit, place and date of birth, IP address and its location, user ID; - Contact data: postal and email address, telephone number; - Data related to the interactions between the customer and Gandi: cookies, hidden pixels, customer experience, payment methods used, e-mail exchanges, ; - Data relative to user accounts on social networks; - Data relative to the processing of emails and communications sent to you, such as timestamp and date."
+    },
+    {
+      "category": "Email Tracking",
+      "risk": "Medium",
+      "icon": "📧",
+      "headline": "Tracks Your Email Opens",
+      "quote": "The pixel is a tracking method integrated into the newsletter for tracking the opening of emails. It is not deposited on the user's terminal Allows to measure the opening rate of newsletters and commercial e-mails"
+    },
+    {
+      "category": "Third-Party Site Liability",
+      "risk": "Low",
+      "icon": "🔗",
+      "headline": "No Liability for Third Parties",
+      "quote": "Gandi informs users that it has no control over the content of third-party websites or over the practices of these third parties in terms of protection of personal data that they may collect. Consequently, Gandi declines all responsibility concerning the processing of your personal data by these third parties."
+    }
+  ]
+}
