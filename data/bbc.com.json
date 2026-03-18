@@ -1,76 +1,76 @@
 {
-  "url": "https://www.bbc.com/usingthebbc/privacy-policy/",
-  "scanned_at": "2026-02-08T18:41:07.641864Z",
+  "url": "https://www.bbc.com/pages/privacy-policy",
+  "scanned_at": "2026-03-18T18:04:54.971467+00:00",
   "analysis": [
     {
       "category": "Data Selling & Sharing",
-      "risk": "High",
-      "icon": "\ud83e\udd1d",
-      "headline": "Your data shared for ads",
-      "quote": "If you have a BBC account we might use information that we hold about you to show you relevant and targeted advertising for BBC services through other companies\u2019 sites, like Facebook, Google, Snapchat or Twitter for example... Where we do this, we will share your data in a hashed format with these providers... In these scenarios, we are joint controllers with these companies because we jointly determine the purposes and means of processing your personal data."
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Sells Your Info (Targeted Ads)",
+      "quote": "In certain jurisdictions, these activities may be considered a “sale, “sharing”, or “targeted advertising”. You can request that we stop using or sharing your personal information for such targeted advertising; you can also request that we not “sell” or “share” your personal information. By “sell”, we mean the sale of your personal information to an outside party for monetary or other valuable consideration. By “share”, we mean the disclosure of your personal information to third parties for their own marketing purposes or for cross-context behavioural advertising purposes, subject to certain exceptions under applicable law."
     },
     {
-      "category": "Data Transfer",
-      "risk": "High",
-      "icon": "\ud83c\udf0d",
-      "headline": "Your data transferred globally",
-      "quote": "Keep in mind that when you give us personal information it could be being transferred, stored or processed in a location outside the UK and the EEA."
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Shares for Partner Marketing",
+      "quote": "In accordance with your preferences, we will send you newsletters you request and relevant offers and promotions relating to our content, brands and services and other companies in the BBC Studios group, like UKTV and Britbox International."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "\ud83e\udd2b",
-      "headline": "Your sensitive data collected",
-      "quote": "If you apply to take part in a programme on politics, for example, we might ask you about your political opinions."
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🌐",
+      "headline": "Shares with Entire BBC Group",
+      "quote": "To improve your experience of our services and brands, and to enable us to cross-promote our services, your information may be shared between companies in the BBC group (including BBC Public Service and BBC Studios companies such as UKTV and Britbox International) for the purposes of research, analysis, marketing and ad-serving."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "\ud83d\udd75\ufe0f",
-      "headline": "Your online activity tracked",
-      "quote": "We automatically collect some technical information from these devices and web browsers even when you're not signed into to a BBC account. This might include: IP (internet protocol) address device ID app ID vendor ID advertising ID"
+      "category": "Inferred Data",
+      "risk": "HIGH",
+      "icon": "🧠",
+      "headline": "Infers Sensitive Data About You",
+      "quote": "We use information we know about you and how you use our services to predict things about you (“Inferred Information”). For example, we use data about what you read, how long you stay on a particular page, how often you visit, when you visit, and the type of device you use."
     },
     {
-      "category": "Data Collection",
-      "risk": "High",
-      "icon": "\ud83d\udccd",
-      "headline": "Your precise location tracked",
-      "quote": "Your location can be determined at a town or city level by: GPS IP address Information about nearby cell towers and Wi-Fi access point information"
+      "category": "Cross-Site Tracking",
+      "risk": "HIGH",
+      "icon": "🕵️",
+      "headline": "Tracks You Across Sites",
+      "quote": "Sometimes we use social media technologies to track users from our services to the third-party platforms subject to your preferences and settings."
     },
     {
-      "category": "Third-Party Tracking",
-      "risk": "Medium",
-      "icon": "\ud83c\udf6a",
-      "headline": "Your tracking by third-parties",
-      "quote": "Bear in mind there are some other cookies out there from other companies. These \"third-party cookies\" might track how you use different websites, including ours. For example, you might get a social media company\u2019s cookie when you see the option to share something. You can turn them off, but not through us."
+      "category": "Third-Party Data Collection",
+      "risk": "HIGH",
+      "icon": "📊",
+      "headline": "Collects Data from Brokers",
+      "quote": "We also use data from data brokers such as Experian mosaic data."
+    },
+    {
+      "category": "AI/Machine Learning",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Trains AI on Your Data",
+      "quote": "Data about your use of our services will be used to train the aggregate models used to create recommendations."
+    },
+    {
+      "category": "Automated Decision Making",
+      "risk": "MEDIUM",
+      "icon": "⚙️",
+      "headline": "Algorithm Decides Promotions",
+      "quote": "We’ll also use an algorithm to decide when to show you prompts to register or subscribe, based on how likely we think you are to do so."
     },
     {
       "category": "Data Retention",
-      "risk": "Medium",
-      "icon": "\u23f3",
-      "headline": "Your data retained post-deletion",
-      "quote": "If you're talking about BBC account... Your account information is immediately deleted. Keep in mind: we keep a record of how you've used our services, but this information can't be linked back to you we also keep anything you've uploaded or commented on"
+      "risk": "MEDIUM",
+      "icon": "🗑️",
+      "headline": "Retains Data for Opt-Outs",
+      "quote": "In accordance with industry standards, we reserve the right to retain a minimal amount of data necessary to ensure we do not contact you in the future – for example by adding your email address to a ‘suppression list’."
     },
     {
-      "category": "User Rights",
-      "risk": "Medium",
-      "icon": "\u2696\ufe0f",
-      "headline": "Your rights limited by journalism",
-      "quote": "Bear in mind, sometimes we might not be able to help. Like if the law tells us we can't or it forms part of our journalistic output."
-    },
-    {
-      "category": "Data Sharing",
-      "risk": "Medium",
-      "icon": "\ud83d\udc65",
-      "headline": "Your data shared broadly",
-      "quote": "When we use other companies to power our services In order for us to give you quality experiences and to understand how you're using our services we often use other companies to process your personal information on our behalf."
-    },
-    {
-      "category": "Data Sharing",
-      "risk": "Medium",
-      "icon": "\ud83d\udd2c",
-      "headline": "Your data shared for research",
-      "quote": "We do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. This might include information we\u2019ve collected about you."
+      "category": "International Data Transfer",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "We use service providers, and share data with advertising platforms, that are located outside the UK and European Economic Area (EEA), primarily in the USA."
     }
   ]
 }
