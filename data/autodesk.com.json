@@ -1,0 +1,69 @@
+{
+  "url": "https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement",
+  "scanned_at": "2026-03-18T18:07:16.708762+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "However, some of the technologies we use to provide our offerings involve transfers of personal information that may be considered a “sale” under California law. In addition, California consumers have the right to opt out of the “sharing” of their information for cross-context behavioral advertising."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "HIGH",
+      "icon": "🚫",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Information that may be deemed sensitive under applicable laws, such as usernames and passwords used to access your account, government identification numbers, and information regarding children."
+    },
+    {
+      "category": "Physical Characteristic Data",
+      "risk": "HIGH",
+      "icon": "👁️",
+      "headline": "Collects Your Body Data",
+      "quote": "Physical characteristic data, such as data regarding your facial features, body/eye movements, and voice interactions, that is processed in limited circumstances, such as when you use a VR headset with Autodesk products."
+    },
+    {
+      "category": "AI/Machine Learning",
+      "risk": "MEDIUM",
+      "icon": "🤖",
+      "headline": "Uses Your Data for AI",
+      "quote": "To develop and improve our current and future offerings and your experience, including through the use of automated systems that analyze data using machine learning and other analytic techniques, in furtherance of our legitimate interests or, where needed, with consent."
+    },
+    {
+      "category": "Cross-Border Data Transfer",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "Because Autodesk is a global company, we transfer personal data across national borders to other countries, in compliance with the laws that apply to that data."
+    },
+    {
+      "category": "Public Data Display",
+      "risk": "HIGH",
+      "icon": "📣",
+      "headline": "Your Posts Can Be Public",
+      "quote": "Our offerings may allow you to post content, including comments and “likes,” that can be visible to the public."
+    },
+    {
+      "category": "Third-Party Analytics",
+      "risk": "MEDIUM",
+      "icon": "📊",
+      "headline": "Uses Third-Party Analytics",
+      "quote": "In addition, we gather certain information automatically as part of your use of our products and services via Autodesk Genuine and analytics programs and tools, including third-party analytics tools, such as Google Analytics."
+    },
+    {
+      "category": "Children's Data Collection",
+      "risk": "MEDIUM",
+      "icon": "🧒",
+      "headline": "Collects Your Children's Data",
+      "quote": "Certain applications are appropriate for and are intended for use by children. We refer to these applications as “Children’s applications.”"
+    },
+    {
+      "category": "Data Retention Indefinite",
+      "risk": "MEDIUM",
+      "icon": "🕰️",
+      "headline": "Retains Data Indefinitely (Implicit)",
+      "quote": "We will retain your personal data for as long as reasonably necessary or permitted and proportionate to the purpose for which it was collected."
+    }
+  ]
+}
