@@ -1,0 +1,62 @@
+{
+  "url": "https://www.loc.gov/legal/privacy-policy",
+  "scanned_at": "2026-03-18T20:42:27.459274+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Contractors",
+      "quote": "We may disclose personal information to contractors or associates to carry out your requests (for example, to complete a pay.gov transaction)"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Interacts with Third-Parties",
+      "quote": "We work with third-party applications that are not exclusively operated or controlled by the Library of Congress to provide a better web presentation and user experience."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "🍪",
+      "headline": "Persistent Cookies Track You",
+      "quote": "Persistent cookies store information on your computers for longer periods of time and across multiple visits."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Web Beacons Track Your Emails",
+      "quote": "We may also use web beacons in HTML emails that we send subscribers who have opted in to receive email from us, to determine whether our recipients have opened those emails and/or clicked on links in those emails."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Automatically Collects Your Location",
+      "quote": "The internet protocol address, which can reveal cities, states, and countries where web visits originated"
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Medium",
+      "icon": "🧒",
+      "headline": "Children's PII May Be Disclosed",
+      "quote": "We will disclose information about a child under the age of 13 if it is necessary to protect the child, the website itself, or to respond to a law enforcement inquiry or court order."
+    },
+    {
+      "category": "Data Responsibility",
+      "risk": "High",
+      "icon": "⚖️",
+      "headline": "You Must Ensure Privacy Rights",
+      "quote": "all users are responsible for complying with all privacy and publicity rights, rules, and applicable laws when accessing and utilizing the collections."
+    },
+    {
+      "category": "Data Responsibility",
+      "risk": "High",
+      "icon": "📚",
+      "headline": "Your PII May Be In Collections",
+      "quote": "it is possible that some online collections items contain personally identifiable information."
+    }
+  ]
+}
