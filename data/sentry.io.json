@@ -1,0 +1,69 @@
+{
+  "url": "https://sentry.io/privacy/",
+  "scanned_at": "2026-03-18T18:01:44.972836+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Info with Partners",
+      "quote": "We may disclose your personal information to [...] Third-party go-to-market partners who provide referral, sale, resale, or similar go-to-market services. We may disclose your information, like your name, email address, and job title, in connection with their services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Shares with Affiliates",
+      "quote": "We disclose your personal information to the following categories of recipients: Affiliate companies who help operate and improve our Site and Service (including to support the delivery of, provide functionality on, or help to enhance the security of our Site and Service), offer other Sentry affiliated services to you, or who otherwise process personal information for the purposes described in this policy."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📊",
+      "headline": "Shares with Analytics Partners",
+      "quote": "Third-party analytics partners to provide analytics services. These entities may use Cookies in the same way we do, to among other things, track and analyze data, and better understand your online activity."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Aggregates, De-identifies and Shares",
+      "quote": "We may aggregate or de-identify information collected through the Service. We may use aggregated or de-identified data for any purpose, including without limitation for research and marketing purposes, and may also disclose such data to any third parties, including without limitation, advertisers, promotional partners, sponsors, event promoters, and others."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "🕵️",
+      "headline": "Collects Data From Third-Parties",
+      "quote": "From time to time, we receive personal information about you from third-party sources (including social media and other content platforms, public databases, and from our business and channel partners and service providers)."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Stored Internationally",
+      "quote": "Specifically, our Site and Service are hosted in the United States and Germany, and our affiliate companies and third-party service providers operate around the world, including in the United States, Canada and Europe."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Data for Legal Reasons",
+      "quote": "In certain circumstances, we will need to keep your information for legal reasons after our relationship has ended. For example, we may retain your data for longer than the usual retention period when we have a legal obligation to do such, to deal with and resolve requests and complaints, to protect an individual’s rights and property, and for litigation and regulatory matters."
+    },
+    {
+      "category": "Data Security Disclaimer",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Security Not Absolutely Safe",
+      "quote": "However, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet, or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others."
+    },
+    {
+      "category": "Tracking Technology",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores Do Not Track Signals",
+      "quote": "We do not recognize or respond to browser-initiated Do Not Track signals."
+    }
+  ]
+}
