@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nbcuniversalprivacy.com/privacy",
+  "scanned_at": "2026-03-18T18:34:17.905388+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "We may aggregate or deidentify your information and may use, share, rent or sell aggregated or deidentified information for any purpose, and such information is not subject to this Privacy Policy."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Related Businesses",
+      "quote": "We may disclose your personal information, including information that personally identifies you, to Our Related Businesses for purposes consistent with those described in our Privacy Policy, including to provide you better services, to personalize your experience, and marketing and advertising."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "📣",
+      "headline": "Shares for Targeted Advertising",
+      "quote": "We provide third parties such as advertising partners, certain third party partners, and social media platforms, information including identification and demographics; device information and identifiers, such as IP address, and unique advertising identifiers and cookies; connection and usage information, such as browsing history or app usage; certain contact information; geolocation information, such as city; and inference data in order to recognize you across devices and enable marketing to you and delivery of targeted advertising on the NBCUniversal Services or on other sites."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "🏥",
+      "headline": "Collects Your Sensitive Data",
+      "quote": "Health Data:* For example: as permitted by law, vaccine or symptom related information."
+    },
+    {
+      "category": "Biometric Data Collection",
+      "risk": "High",
+      "icon": "🖐️",
+      "headline": "Collects Your Biometric Data",
+      "quote": "Biometric identifiers:* For example: as permitted by law, facial scans or fingerprints we collect at some of our theme parks, studios, or our offices."
+    },
+    {
+      "category": "Cross-Device Tracking",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Tracks You Across Devices",
+      "quote": "We and our service providers, advertisers, and other third parties use cookies and similar technologies (e.g., HTTP cookies, HTML 5, web beacons, GIFs, embedded scripts, ETags/cache browsers, hashed identifiers and software development kits) to recognize you on, off, and across NBCUniversal Services and your devices."
+    },
+    {
+      "category": "Inferences & Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Infers Your Interests & Preferences",
+      "quote": "Inferences: We may use the information you provide, along with the information we collect automatically and from third parties, to make inferences about you, including your preferences and interests."
+    },
+    {
+      "category": "Data from Public/Commercial Sources",
+      "risk": "Medium",
+      "icon": "🏢",
+      "headline": "Collects Data from Resellers",
+      "quote": "Information from public and commercial sources (including advertising and analytics partners, consumer data resellers, public records databases, content partners, and other business partners): For example, demographic including at a household level, contact information, inferences about your preferences, viewing and other consumption choices, loyalty program membership, and purchasing data."
+    },
+    {
+      "category": "Video Viewing History Shared",
+      "risk": "Medium",
+      "icon": "📺",
+      "headline": "Shares Your Video History",
+      "quote": "With your appropriate consent when required, and consistent with applicable law, we may disclose your video viewing behavior with other parties including Our Related Businesses, service providers, advertising companies, analytic partners, and social media sites."
+    }
+  ]
+}
