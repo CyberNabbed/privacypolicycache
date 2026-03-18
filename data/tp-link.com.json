@@ -1,0 +1,62 @@
+{
+  "url": "https://privacy.tp-link.com/web/official/privacy-policy",
+  "scanned_at": "2026-03-18T18:13:35.681447+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Widely",
+      "quote": "We may share your information with our authorized partners, including affiliates... to personalize offers, ads, and other sponsored or commercial content; develop and provide features and integrations; provide customer service and technical support; and understand how customers use and interact with the Products and our Services."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Shares for Marketing/Advertising",
+      "quote": "We may provide user information to our third-party marketing service providers for our promotional and/or marketing practices. We may also disclose information that does not directly identify you to advertising and analytics providers to serve personalized ads for the Services and to better understand your use of the Services."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Integrates Third-Party Services",
+      "quote": "You may choose to integrate certain third-party services with our Services. By doing so, you authorize us to transmit your personal information to third parties when you choose to integrate their services with our Services. Information collected by such third-party services is subject to their own terms and policies, all of which you should carefully and diligently review."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Personalizes Your Experience/Ads",
+      "quote": "We and our partners use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with the Products and our Services."
+    },
+    {
+      "category": "Data Location & Cross-Border Transfer",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Stored in US",
+      "quote": "Your information will be transferred or transmitted to, or stored and processed in, the United States in accordance with the purposes stated within this Privacy Policy... Please note that data processed in another country may be subject to different laws and may be accessible to government, judicial, law enforcement, and regulatory agencies in that country."
+    },
+    {
+      "category": "User Rights & Control",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Does Not Honor Do Not Track",
+      "quote": "“Do Not Track” is a privacy preference that users can set in certain web browsers. We do not currently recognize or respond to browser-initiated Do Not Track signals."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Retains Data Indefinitely",
+      "quote": "We retain personal data for different periods of time depending on the purposes for which we collect and use it, as described in this Privacy Policy. We will delete or de-identify personal data when it is no longer needed to fulfill these purposes unless a longer retention period is required to comply with applicable laws."
+    },
+    {
+      "category": "User Content",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Collects Your User Content",
+      "quote": "When you use our community pages, we process your submitted User Content as defined in our Terms of Use), which may include, without limitation, text, links, images, video, and audio."
+    }
+  ]
+}
