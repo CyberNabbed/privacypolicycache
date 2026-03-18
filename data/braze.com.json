@@ -1,0 +1,76 @@
+{
+  "url": "https://www.braze.com/company/legal/privacy",
+  "scanned_at": "2026-03-18T18:40:30.498970+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "Our use of some of these services constitutes the “sale” or “sharing” of Personal Information as defined under the CCPA."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👥",
+      "headline": "Collects Data from Affiliates",
+      "quote": "Braze collects Personal Data from a variety of sources, such as from: ... Braze affiliates."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Collects Your Public Data",
+      "quote": "Publicly available sources, such as an individual’s social media account, online communities, forums, blogs or chat rooms;"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "📸",
+      "headline": "Records Your Interactions",
+      "quote": "We also use session replay technology provided by third-party vendors to record the interactions and Personal Data of Dashboard Users and visitors to certain Websites, such as our learning management system."
+    },
+    {
+      "category": "Data Usage",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Records Your Chat Conversations",
+      "quote": "We and such third-party vendors may monitor, record and use information from your interactions with our Websites."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Globally",
+      "quote": "This means that when we collect your Personal Data, we may process it in any of these countries."
+    },
+    {
+      "category": "Data Security",
+      "risk": "Medium",
+      "icon": "🔒",
+      "headline": "Cannot Guarantee Data Security",
+      "quote": "However, security risk is inherent in internet and information technologies and we cannot guarantee the security of your Personal Data."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏰",
+      "headline": "Retains Data Indefinitely",
+      "quote": "We will retain Personal Data we collect from you for so long as we have an ongoing legitimate business need to do so."
+    },
+    {
+      "category": "User Rights",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "No 'Do Not Track' Recognition",
+      "quote": "Other than GPC, we do not recognize any “do not track” signals."
+    },
+    {
+      "category": "Children's Privacy",
+      "risk": "Low",
+      "icon": "🧒",
+      "headline": "Website Not for Children",
+      "quote": "Our Websites are not directed to individuals under the age of 16."
+    }
+  ]
+}
