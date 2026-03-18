@@ -1,0 +1,76 @@
+{
+  "url": "https://vk.com/terms/privacy",
+  "scanned_at": "2026-03-18T20:34:30.017350+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "The User also approves to receive different types of informational mailings, including advertising and informational content, including from the Site Administration and third-partners by means of the internal Site’s functionality."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "⚖️",
+      "headline": "Shares for Legal Compliance",
+      "quote": "The information provided by the User, including personal data, may be used by the Site Administration to ensure compliance with the requirements of effective Russian legislation, other applicable/relevant legislation, as well as to transfer it to the third-parties in order to protect right and interests of the Users, the Site Administration and third-parties (including in order to prevent, control/investigate and/or suppress illegal actions)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Your Content Used for Ads",
+      "quote": "The Site Administration has a right to transfer these rights described in this clause to the third-parties."
+    },
+    {
+      "category": "Data Control & Deletion",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Backup Copies Remain Indefinitely",
+      "quote": "In case the User removes his/her Content from the Site, the rights mentioned in clauses 7.2.3 – 7.2.4 hereof will be automatically cancelled; however, the Site Administration has the right to keep archive copies of the user Content for an indefinite period."
+    },
+    {
+      "category": "Jurisdiction & Law",
+      "risk": "High",
+      "icon": "🇷🇺",
+      "headline": "Governed by Russian Law",
+      "quote": "The Site administration offers you the Site services on the conditions being the subject of these VK Terms of Service. In this connection, you should familiarize yourself carefully with the conditions of these Terms which the Site Administration regards as a public offer in accordance with Article 437 of the Russian Federation Civil Code."
+    },
+    {
+      "category": "Content Usage Rights",
+      "risk": "High",
+      "icon": "🖼️",
+      "headline": "Uses Your Content Promotionally",
+      "quote": "The User grants to the Site Administration a non-exclusive right to use on a free of charge basis the Content published on the Site and which lawfully belongs to him/her, so that the Administration of the Site may maintain the operation of the Site in the amount established by its architecture and functionality, and to use this Content for the Site Administration promotional content, including images of the Site interface, including without limitation making this promotional content public."
+    },
+    {
+      "category": "Content Usage Rights",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your Content Used For Site Popularity",
+      "quote": "By posting his/her Content in any part of the Site, the User automatically grants the Site Administration free of charge the non-exclusive right to use it by copying, public performance, reproduction, processing, translation and distribution for or in connection with the purposes of the Site, including for the purpose of increasing its popularity."
+    },
+    {
+      "category": "Automated Processing",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Targeted Ads From Your Data",
+      "quote": "The Administration of the Site processes the User's personal data in order to provide to the latter access to the services of the Site, including targeted advertisements to the User; checking, examining and analyzing such data in order to maintain and improve the Site services and sections as well as to develop new Site services and sections."
+    },
+    {
+      "category": "Policy Changes",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Unilateral Policy Changes",
+      "quote": "The Site Administration may make changes and/or additions to these Terms unilaterally without any special notification."
+    },
+    {
+      "category": "Consent & Control",
+      "risk": "Low",
+      "icon": "🚫",
+      "headline": "No Consent Needed for Processing",
+      "quote": "As the Administration of the Site processes the User’s personal data for the performance of these Terms, no User’s consent to the processing of his/her personal data is required according to the legislative provisions on personal data."
+    }
+  ]
+}
