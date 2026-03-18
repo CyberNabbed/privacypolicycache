@@ -1,0 +1,69 @@
+{
+  "url": "https://www.statista.com/imprint/",
+  "scanned_at": "2026-03-18T18:31:39.897710+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Tools",
+      "quote": "We don’t process your Data entirely by ourselves. In processing your Data, we also use programmes and services from other companies (‘Tools’)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Shares Your Data Globally",
+      "quote": "To ensure global access by our customers to our offering (if, for example, you want to access Statista while on a business trip abroad or if your company has multiple branches), we store Customer data globally. The storage locations are: • Germany • United States of America • Singapore"
+    },
+    {
+      "category": "AI Training & Use",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Prohibits AI Training on Content",
+      "quote": "Statista GmbH and its affiliated companies expressly reserve the right to use their content for commercial text and data mining within the meaning of § 44b of the German Copyright Act (UrhG). In particular, it is prohibited—without prior explicit consent—to use content for the purposes of training, developing, programming, improving, and/or enriching AI systems."
+    },
+    {
+      "category": "AI Training & Use",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Limits Your AI Use",
+      "quote": "Client and Authorized Users are explicitly prohibited from using the Online Services and Materials in combination with any third-party generative artificial intelligence tool except pursuant to an enterprise or API license under which the use of Online Services and Materials does not train the artificial intelligence tool or improve the third party’s services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Application Data Long",
+      "quote": "If you receive a rejection, your Data will be deleted six months after the rejection unless you authorise us in advance to contact you again in the future."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Uses Cookies & Log Files",
+      "quote": "When you visit our website, your computer transmits your IP address to us, and depending on the nature of your visit to our website and your computer’s settings, we save small text files on your hard drive (‘Cookies’) as part of this process. We also place text files on our system, which could contain the following information about you: type of browser and browser version, operating system used, the URL of the website which you came from, the name of your computer and the time of your visit (‘Log files’)."
+    },
+    {
+      "category": "Data Subject Rights",
+      "risk": "Low",
+      "icon": "✅",
+      "headline": "Offers Your Data Rights",
+      "quote": "In addition, we explain your rights in relation to the processing of your personal data, such as right to information, rectification, objection and erasure."
+    },
+    {
+      "category": "Consent & Control",
+      "risk": "Medium",
+      "icon": "✍️",
+      "headline": "Requires Contractual Consent",
+      "quote": "In most cases, the most important basis for the storage is your agreement with us, irrespective of whether you register for a newsletter on our website or if you have negotiated a contract with Statista for your employer."
+    },
+    {
+      "category": "Automated Renewal",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Auto-Renews Your Subscription",
+      "quote": "YOUR INITIAL SUBSCRIPTION AS SET FORTH IN THE RELEVANT SOW OR DESCRIBED IN THE STATISTA.COM CHECKOUT PROCESS WILL CONTINUE AFTER THE INITIAL CONTRACT LENGTH AND AUTOMATICALLY RENEW FOR ONE (1) YEAR TERMS UNLESS YOU CANCEL YOUR SUBSCRIPTION, OR YOUR ACCOUNT IS OTHERWISE SUSPENDED OR TERMINATED PURSUANT TO THIS AGREEMENT."
+    }
+  ]
+}
