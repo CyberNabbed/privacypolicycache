@@ -1,0 +1,55 @@
+{
+  "url": "https://www.oracle.com/legal/privacy/dyn-privacy-policy/",
+  "scanned_at": "2026-03-18T20:34:15.370339+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Shares Your Data Broadly",
+      "quote": "As a global organization, information about you can be shared globally throughout Oracle’s worldwide organization for a business purpose."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Partners",
+      "quote": "We may share personal information with the following third parties for a commercial purpose: Oracle partners such as internet security companies or retailers, for analytics on site security and site or internet performance."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Extensive Device Performance Tracking",
+      "quote": "Information related to your device’s performance when accessing and utilizing the internet, including time to resolve DNS, time spent making request, time spent downloading the response, and the total time between the response and the site loading (collectively referred to as “Internet Performance”)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Data for 12 Months",
+      "quote": "Oracle maintains personal information collected by the Internet Performance Tools for up to 12 months as of the moment it was first collected by the Internet Performance Tools."
+    },
+    {
+      "category": "Data Rights",
+      "risk": "High",
+      "icon": "🛑",
+      "headline": "Limited Access Rights",
+      "quote": "Thus, requests to access, amend, correct, or delete data collected via the Internet Performance Tools would create a burden or expense disproportionate to the risks to your privacy."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Collects Indirect Identifiers",
+      "quote": "Personal information is information collected online by the Internet Performance Tools and may indirectly identify you, which includes: IP address and port Country, State, and City IP address of recursive DNS provider Time and date of query Domain queried Query details (e.g., TTL, query type, DNS flags, DNSSEC info) Query response"
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Global Data Transfers",
+      "quote": "If personal information is transferred to an Oracle recipient in a country that does not provide an adequate level of protection for personal information under applicable data protection law in the country where such information was collected, Oracle will take adequate measures designed to protect the personal information, such as ensuring that such transfers are subject to EU Model Clauses, Oracle’s BCR-P, or other adequate transfer mechanism as required under relevant data protection laws."
+    }
+  ]
+}
