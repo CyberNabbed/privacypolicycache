@@ -1,0 +1,76 @@
+{
+  "url": "https://www.foxnews.com/privacy-policy",
+  "scanned_at": "2026-03-18T18:32:08.373566+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "The categories of Personal Information that we have collected, disclosed, and/or 'sold' or 'shared' are below, along with the categories of external parties to whom each category of Personal Information was disclosed and/or 'sold' or 'shared.' Please note that we disclose some categories of Personal Information in connection with certain types of advertisements, which could be considered 'selling' or 'sharing' under the CCPA."
+    },
+    {
+      "category": "Cross-Device Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks You Across Devices",
+      "quote": "Those other parties may also use these technologies, along with activity information they collect, to recognize you across the devices you use, such as a mobile device and a laptop or other computer."
+    },
+    {
+      "category": "Geolocation Data Collection",
+      "risk": "High",
+      "icon": "🗺️",
+      "headline": "Collects Your Precise Location",
+      "quote": "In certain circumstances, we also may collect geolocation data (including your precise location)."
+    },
+    {
+      "category": "User-Uploaded Content Usage",
+      "risk": "High",
+      "icon": "📢",
+      "headline": "Uses Your Uploads Publicly",
+      "quote": "User-Uploaded Content, including personal information (e.g. video, audio recordings, photos, etc.), may be used publicly: for news gathering; published on our social media pages on other platforms; posted and displayed on our own community-related services; or published as part of our services."
+    },
+    {
+      "category": "Inferences & Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Infers Your Interests",
+      "quote": "To make inferences and predictions about your potential areas of interest in order to provide you with content and advertising that is more interesting, personalized, and relevant to you."
+    },
+    {
+      "category": "No Do Not Track Response",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Ignores Do Not Track Signals",
+      "quote": "At this time, we do not respond to the 'Do Not Track' signal, as we await the work of interested stakeholders and others to develop standards for how the 'Do Not Track' signal should be interpreted."
+    },
+    {
+      "category": "Chatbot Data Retention",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Retains Chatbot Conversations",
+      "quote": "Please note that your inquiries and responses to these chatbots may be transcribed and retained."
+    },
+    {
+      "category": "Affiliate Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Data with Affiliates",
+      "quote": "Company may share information we collect from and about you as described in this Privacy Policy with Company Affiliates for the purposes described in this Privacy Policy."
+    },
+    {
+      "category": "Data Retention Indefinite",
+      "risk": "Medium",
+      "icon": " indefinitely",
+      "headline": "Retains Data Indefinitely for Purposes",
+      "quote": "We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law."
+    },
+    {
+      "category": "Data Transfer Abroad",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Sends Your Data to US",
+      "quote": "If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States or in any other country in which we have facilities or in which we engage service providers."
+    }
+  ]
+}
