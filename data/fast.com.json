@@ -1,0 +1,62 @@
+{
+  "url": "https://help.netflix.com/legal/fastprivacy",
+  "scanned_at": "2026-03-18T20:34:10.003482+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Data with Affiliates",
+      "quote": "We share your information with Netflix affiliates and subsidiaries as needed for: providing you with access to our services; providing customer support; making decisions about service improvements; and for other purposes described in the Use of Information section of this Privacy Statement."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares with Service Providers",
+      "quote": "We use other companies, agents or contractors (\"Service Providers\") to perform services on our behalf or to assist us with the provision of services to you."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "📈",
+      "headline": "Shares for Business Transfers",
+      "quote": "In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement."
+    },
+    {
+      "category": "Limited Data Rights",
+      "risk": "HIGH",
+      "icon": "🚫",
+      "headline": "Can't Always Verify Your Rights",
+      "quote": "We may not be able to fulfill requests to exercise rights, including the right to know or delete personal information, because we only collect limited information about users and we are unable to verify requests to the standard required by applicable data laws."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "MEDIUM",
+      "icon": "📡",
+      "headline": "Third Parties Integrate Fast.com",
+      "quote": "We work with select companies such as providers of network monitoring products and services or internet service providers that integrate our Fast.com internet speed testing software into their products and services."
+    },
+    {
+      "category": "Insecure Data Promise",
+      "risk": "MEDIUM",
+      "icon": "⚠️",
+      "headline": "Cannot Guarantee Your Security",
+      "quote": "Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your personal information."
+    },
+    {
+      "category": "Information from Other Sources",
+      "risk": "MEDIUM",
+      "icon": "🔍",
+      "headline": "Collects Your Public Social Posts",
+      "quote": "These sources vary over time, but could include: service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement; publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "MEDIUM",
+      "icon": "🗓️",
+      "headline": "Retains Data as Permitted",
+      "quote": "We may retain information as required or permitted by applicable laws and regulations, and to fulfill the purposes described in this Privacy Statement."
+    }
+  ]
+}
