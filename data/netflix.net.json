@@ -1,0 +1,69 @@
+{
+  "url": "https://help.netflix.com/legal/privacy",
+  "scanned_at": "2026-03-18T18:11:56.767505+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data for Ads",
+      "quote": "We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Netflix Family",
+      "quote": "We share your personal information among the Netflix family of companies (see help.netflix.com/legal/corpinfo) as needed for the following purposes: to provide our service; to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; to send marketing and informational messages; to support Advertisements; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares with Business Partners",
+      "quote": "If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Tracks Your Off-Netflix Activity",
+      "quote": "Advertising Companies: We may collect advertising information about you from other sources to support Advertisements, including the following (collectively referred to as “Advertising Companies”): Advertisers that run Advertisements on Netflix (“Advertisers”) may provide us with unique identifiers (for example, cookies or resettable device identifiers), demographic information and other information (such as information about your likely interests they have collected or inferred based on your activities online) in order to deliver Advertisements;"
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👁️",
+      "headline": "Collects Your Communication Content",
+      "quote": "If you communicate with Netflix (such as contacting customer support via online chat or voice call), or engage in our surveys or feedback requests (such as when you cancel), we collect the contents of such communications."
+    },
+    {
+      "category": "Privacy Rights",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Data Transferred Internationally",
+      "quote": "This means that when you use or interact with Netflix, your personal information may be transferred to other countries that have different data protection laws than those where you reside."
+    },
+    {
+      "category": "Account Security & Sharing",
+      "risk": "High",
+      "icon": "👪",
+      "headline": "Others See Your Viewing History",
+      "quote": "If you share or otherwise allow others to have access to your account, they may be able to see viewing information, account information in the “Account” section of the service, and game related information such as chat contents and saved game information."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏰",
+      "headline": "Retains Your Data Indefinitely",
+      "quote": "We may retain personal information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes, and as otherwise necessary to fulfill the purposes described in this Privacy Statement."
+    },
+    {
+      "category": "Tracking Technology",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Ignores Do Not Track",
+      "quote": "We do not currently respond to web browser “do not track\" signals."
+    }
+  ]
+}
