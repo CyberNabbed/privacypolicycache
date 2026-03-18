@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nature.com/info/privacy",
+  "scanned_at": "2026-03-18T18:11:10.580380+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares Your Data Broadly",
+      "quote": "When you view on-demand video on our websites, we may collect your viewing and usage information, and we may share information that identifies you as having viewed particular video content with service providers that enable video functionality, personalization, and usage analysis and third parties for advertising and marketing, as well as editorial purposes."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares for Targeted Ads",
+      "quote": "With your consent, we may occasionally run online advertising activities targeting you specifically by utilising personal information you have shared with us, namely your email address. This allows us to advertise in the most relevant way, promoting products, services and opportunities that we deem beneficial to you. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR, consent to the use of your email address for this purpose, including its transfer to third party advertising platforms."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Leaves Your Country",
+      "quote": "Your personal data may be disclosed to third parties (see X) that might be located outside your country of residence; potentially, different data protection standards may apply (see XI)."
+    },
+    {
+      "category": "Excessive Data Collection",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Collects Extensive Conference Data",
+      "quote": "This includes data categories such as: Identification data (which may include name, address, telephone number, email address), entity type (e.g. academic, government, industry), position titles, curriculum vitaes, professional license information, dietary requirements, gender, information for travel arrangements (i.e., passport data, date of birth) and payment information. We also request information relating to requirements for reasonable accommodation where physical assistance may be needed to attend."
+    },
+    {
+      "category": "AI Usage",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Uses AI for Customer Service",
+      "quote": "We may use generative AI to support us in providing the response or service requested; any output is subject to human oversight before being used."
+    },
+    {
+      "category": "Long Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Retains Financial Data 10 Years",
+      "quote": "By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years."
+    },
+    {
+      "category": "Behavioral Tracking",
+      "risk": "High",
+      "icon": "👣",
+      "headline": "Tracks Your Reading History",
+      "quote": "We use Permutive cookie data to recommend relevant content to you based on your reading history."
+    },
+    {
+      "category": "Public Data Collection",
+      "risk": "Medium",
+      "icon": "🔎",
+      "headline": "Creates Profile from Public Data",
+      "quote": "Create a profile of your publication record based on publicly available data, such as published books and articles, citations and grants awarded."
+    },
+    {
+      "category": "Third-Party Data Aggregation",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Aggregates Your Data from Others",
+      "quote": "Springer Nature may process personal data collected by research data aggregators such as ORCID in order to validate or supplement the publication records we hold to support the Researcher Profiles on link.springer.com."
+    }
+  ]
+}
