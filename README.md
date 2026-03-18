@@ -10,8 +10,8 @@ This repo acts as a **public, read-only cache** to optimize performance and redu
 
 ## How it works
 
- ** Read:** The extension checks `data/[domain].json` before calling the AI.
- ** Write:** If the file doesn't exist, the extension scans the page and uploads the result here automatically.
+ * **Read:** The extension checks `data/[domain].json` before calling the AI.
+ * **Write:** If the file doesn't exist, the extension scans the page and uploads the result here automatically.
 
 ## Structure
 
