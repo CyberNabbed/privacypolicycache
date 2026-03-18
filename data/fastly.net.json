@@ -1,0 +1,69 @@
+{
+  "url": "https://www.fastly.com/privacy",
+  "scanned_at": "2026-03-18T18:00:22.371517+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "We share information, including personal data, with our subsidiaries and affiliates in the operation of our global business because our subsidiaries and affiliates may provide you services under our contracts or other functions, consistent with the purposes described in Section 2.4 above."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Shares with Third-Party Advertisers",
+      "quote": "We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our websites and other sites in order to provide you advertising based upon your browsing activities and interests."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Internationally",
+      "quote": "When Fastly operates as a data controller (i.e., when we determine the manner, purposes and means of the processing of others’ personal information), Fastly may collect from, transfer to, or process, and store your personal information in the United States and other countries other than the country where you live."
+    },
+    {
+      "category": "Tracking & Profiling",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Behavioral Tracking for Ads",
+      "quote": "Our third party partner may use technologies such as cookies to gather information about your activities on our websites and other sites in order to provide you advertising based upon your browsing activities and interests."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Long-Term Data Retention",
+      "quote": "The retention period shall not exceed the duration of our business relationship with you plus (7) years unless we have a legitimate business interest need to retain the information for a longer period, which include maintaining a record of your preferences, securing the integrity of databases, conducting audits, complying with our legal and contractual obligations, resolving disputes, and enforcing our agreements."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Collects Your 'Behavioral Data'",
+      "quote": "Behavioral Data: Inferred or assumed information relating to your behavior and interests, based on your online activity and your use of our websites."
+    },
+    {
+      "category": "Third-Party Data Supplementation",
+      "risk": "Medium",
+      "icon": "🔗",
+      "headline": "Combines Your Data with Others'",
+      "quote": "We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you."
+    },
+    {
+      "category": "Publicly Shared Content",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Your Posts Are Public",
+      "quote": "Information you provide as a contributing user that is published or displayed (hereafter, referred to as “posted”) on public areas of our websites, or transmitted to other users of our websites or third parties. Your user contributions are posted and may be accessed by others at your own risk."
+    },
+    {
+      "category": "Referral Program Privacy",
+      "risk": "Medium",
+      "icon": "📤",
+      "headline": "Discloses You as Referrer",
+      "quote": "If you provide us with contact information for persons you would like to refer, we will communicate with the referred persons and may disclose you as the source of the referral."
+    }
+  ]
+}
