@@ -1,0 +1,76 @@
+{
+  "url": "https://issuu.com/legal/privacy",
+  "scanned_at": "2026-03-18T18:11:31.781539+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "We may disclose your personal information with the categories of third parties as described in Section 5 (Recipients of Your Personal Data) above."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Marketing Partners",
+      "quote": "Categories of Personal Information \"Shared,\" \"Sold,\" or used for Targeted Advertising [...] Categories of Third Parties: Advertising and marketing partners."
+    },
+    {
+      "category": "Profiling & Tracking",
+      "risk": "High",
+      "icon": "👀",
+      "headline": "Extensive Behavioral Profiling",
+      "quote": "To analyze your usage information, including your preferences, interests and behaviors when you use our Services (\" Profiling \")."
+    },
+    {
+      "category": "Targeted Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Uses Your Data for Ads",
+      "quote": "To install third-party tracking technologies to serve personalized ads (\" Targeted Advertising \")."
+    },
+    {
+      "category": "User Content Monitoring",
+      "risk": "High",
+      "icon": "📝",
+      "headline": "Monitors Your Contributions",
+      "quote": "Using automated systems and human moderation to detect, block, and remove content that is illegal or violates our Terms of Service."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "📅",
+      "headline": "Retains Data Up to 10 Years",
+      "quote": "Personal data processed for Defense purposes will be kept for no more than ten (10) years from your last interaction with our Services, or from the expiration of your subscription."
+    },
+    {
+      "category": "International Data Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Transfers Your Data Abroad",
+      "quote": "We may transfer personal data from the European Economic Area (\" EEA \") to other countries outside the EEA."
+    },
+    {
+      "category": "Employer Data Sharing",
+      "risk": "Medium",
+      "icon": "💼",
+      "headline": "Shares Info with Employer",
+      "quote": "Your employer if you register or access the Services using an email address with a domain that is owned by your employer."
+    },
+    {
+      "category": "Mandatory Data Provision",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Mandatory Data for Service",
+      "quote": "To access the Services, it is mandatory for you to provide your personal data for the purposes of the Service Delivery , Compliance , and Customer Support ."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Third Parties Collect Your Data",
+      "quote": "If you give your consent to install tracking technologies, you will allow third parties to collect personal data about you in order to show you customized and personalized advertising."
+    }
+  ]
+}
