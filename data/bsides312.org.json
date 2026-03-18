@@ -1,0 +1,27 @@
+{
+  "url": "https://bsides312.org/privacy#privacy",
+  "scanned_at": "2026-03-18T18:28:27.486Z",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Low",
+      "icon": "🤝",
+      "headline": "No Third-Party Sharing",
+      "quote": "The details you provide when registering are not disclosed to third parties except as required to fulfill our contractual obligations for hosting and delivering BSides312."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Low",
+      "icon": "🧹",
+      "headline": "Your Data Timely Deleted",
+      "quote": "After the after-event survey has been completed, we delete that year's personal information."
+    },
+    {
+      "category": "Data Collection & Use",
+      "risk": "Low",
+      "icon": "🎯",
+      "headline": "Limited Data Use",
+      "quote": "The personal details that you provide to BSides312 (which may include name and email) are only used to register you for the event, provide access to necessary platforms as required to deliver the event, and to keep you informed of the event logistics and announcements."
+    }
+  ]
+}
