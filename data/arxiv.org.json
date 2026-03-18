@@ -1,0 +1,69 @@
+{
+  "url": "https://info.arxiv.org/help/policies/privacy_policy.html",
+  "scanned_at": "2026-03-18T20:42:21.155227+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Your Data With Partners",
+      "quote": "Information we gather may be shared with service providers we use to support the infrastructure, submission, moderation, and archival requirements of arXiv, and, subject to appropriate safeguards, with researchers conducting research in the public interest."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "MEDIUM",
+      "icon": "🤝",
+      "headline": "Shares Anonymized Data",
+      "quote": "We share anonymized data with trusted partners (for example, NASA Astrophysics Data System) for use in search and discovery tools."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "💾",
+      "headline": "Permanently Archives Your Content",
+      "quote": "Therefore, each version of a paper (including rejected papers) is considered a permanent part of the scientific record and may not be removed."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "💾",
+      "headline": "Permanently Preserves Your Email",
+      "quote": "the article, including the names and affiliations of authors and co-authors, if provided, and the submitter’s email address will be permanently preserved online for the purpose of fulfilling arXiv’s legitimate interests in archiving, research, and statistical recordkeeping in the public interest."
+    },
+    {
+      "category": "User Rights",
+      "risk": "HIGH",
+      "icon": "⚖️",
+      "headline": "Deletion Rights Are Limited",
+      "quote": "Please note that, in certain cases, we may continue to process your Personal Data after you have withdrawn consent or requested that we delete your Personal Data, if we have a legal basis to do so."
+    },
+    {
+      "category": "International Data Transfer",
+      "risk": "HIGH",
+      "icon": "🌍",
+      "headline": "Your Data Goes To US",
+      "quote": "If you use arXiv, you understand and agree that you will be transmitting your Personal Data to personnel in the United States and your data generally will be hosted on U.S. servers, and might be transmitted to or accessed from the United States or other jurisdictions outside of the Relevant Country when necessary for business or other valid purposes, and you consent to the transfer of such data to the U.S. for processing by us in accordance with this Privacy Policy."
+    },
+    {
+      "category": "User Rights",
+      "risk": "MEDIUM",
+      "icon": "⚖️",
+      "headline": "Consent Withdrawal Limits Service",
+      "quote": "If you withdraw your consent to the use or sharing of your Personal Data for the purposes set out in these Disclosures, or otherwise limit our use of your Personal Data or request its deletion, we may no longer be able to provide you some or all of the related services."
+    },
+    {
+      "category": "Data Disclosure",
+      "risk": "MEDIUM",
+      "icon": "🗣️",
+      "headline": "Your Submitter Email Public",
+      "quote": "Users with registered arXiv accounts can view the email address that was used to upload each submission to arXiv."
+    },
+    {
+      "category": "Tracking",
+      "risk": "MEDIUM",
+      "icon": "🕵️",
+      "headline": "Links Track Social Sharing",
+      "quote": "If you share our content through social media, those social networks will record that you have done so and may set a cookie for this purpose."
+    }
+  ]
+}
