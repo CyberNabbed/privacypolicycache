@@ -1,0 +1,76 @@
+{
+  "url": "https://www.plesk.com/legal/",
+  "scanned_at": "2026-03-18T18:13:54.330199+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Affiliates",
+      "quote": "WebPros may collect, use, process, record, arrange, accumulate, keep, update, extract, transfer (including trans-border transfer) access, depersonalize, block or remove such personal data in performing its contractual duties (Art. 6 I (b) GDPR) and for general administrative purposes and may also disclose the personal data to its affiliates in its country of residence and abroad to the extent required for the performance of its duties under this Agreement and always in accordance to the provisions of the applicable data protection laws in effect (e.g. GDPR)."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "Medium",
+      "icon": "🤝",
+      "headline": "Shares Your Data with Partners",
+      "quote": "In the event a third party product is resold or distributed by WebPros, the according third party vendor may be furnished with your licensing data in order to enter into a licensing relationship with you for its products or to properly provide technical support to you if required."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Collects Your Device Data",
+      "quote": "You agree that WebPros may collect and use technical data and related information—including but not limited to technical information about your device, system and application software, and peripherals—that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Software."
+    },
+    {
+      "category": "Data Collection",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Collects Your IP Address",
+      "quote": "You further consent that WebPros may collect the IP addresses of servers, on which a WebPros product is installed."
+    },
+    {
+      "category": "Tracking",
+      "risk": "Medium",
+      "icon": "🍪",
+      "headline": "Tracks You with Cookies",
+      "quote": "Subject to your consent in accordance to the applicable laws in your region, WebPros websites and online services may use “cookies,” which enable you to personalize your experience on WebPros sites and provide information to WebPros such as which websites have been visited and which ads and web searches are effective."
+    },
+    {
+      "category": "Consent & Control",
+      "risk": "Medium",
+      "icon": "⚙️",
+      "headline": "Limited Control Over Data",
+      "quote": "You may, at your exclusive option and discretion, at any time ask WebPros for information about the collected or processed data as well as request the alteration, anonymization or deletion or move of such data in accordance to your rights as a data subject. This may however in some cases have delaying effects on the availability of further WebPros services (e.g. support services)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Remote Disabling of Software",
+      "quote": "WebPros reserves the right to remedy violations of any of the terms of this Agreement immediately upon discovery, by charging the then current list price of unauthorized keys to the payment instrument used to make the original, authorized purchase, or by any other means necessary, including remotely disabling the Software."
+    },
+    {
+      "category": "Consent & Control",
+      "risk": "Medium",
+      "icon": "📝",
+      "headline": "Implied Agreement to Terms",
+      "quote": "This Agreement is effective upon your acceptance of the Agreement, or upon your downloading, installing, accessing, and using the Software, even if you have not expressly or formally accepted this Agreement."
+    },
+    {
+      "category": "Auditing",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Audits Your Devices",
+      "quote": "During the term of this Agreement and for two (2) years after termination or expiration of this Agreement, WebPros may audit, upon written notice to you, your books, records, and computing devices to determine your compliance with this Agreement and your payment of the applicable license fees, if any, for the Software."
+    },
+    {
+      "category": "Legal & Jurisdiction",
+      "risk": "Low",
+      "icon": "⚖️",
+      "headline": "Swiss Law Governs Disputes",
+      "quote": "This Agreement shall be governed by and interpreted in accordance with the laws of Switzerland, without regard to the conflicts of law rules thereof. Any claim or dispute arising in connection with this Agreement shall be resolved in the applicable courts situated in Zürich / Switzerland."
+    }
+  ]
+}
