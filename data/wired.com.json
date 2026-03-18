@@ -1,0 +1,76 @@
+{
+  "url": "https://www.condenast.com/privacy-policy",
+  "scanned_at": "2026-03-18T18:34:26.373033+00:00",
+  "analysis": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Sells & Shares Your Data",
+      "quote": "This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Shares with Many Partners",
+      "quote": "To fulfill all the purposes described in our Privacy Policy, we may need to share your Personal Information with our subsidiaries, service providers, social media companies such as Meta (Facebook & Instagram), YouTube, TikTok, Pinterest, LinkedIn, and X, third-party consumer marketing, advertising, and business partners, including those referenced in the Tracking Techniques and Technologies and Targeted Advertising section of this Privacy Policy, and others who support our business operations, as well with organizations and our parent company that may be involved in an acquisition or other substantive change of our business."
+    },
+    {
+      "category": "Sensitive Data Collection",
+      "risk": "High",
+      "icon": "⚕️",
+      "headline": "Collects Your Sensitive Info",
+      "quote": "Sensitive Personal Information and information that may be subject to additional protections under applicable laws , such as your precise geolocation data and/or, as applicable, information the reveals or is used to develop inferences about your race, gender, age, marital status, nationality, ethnicity, sexual orientation, religious beliefs, and health condition."
+    },
+    {
+      "category": "Invasive Tracking",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Tracks Your Precise Location",
+      "quote": "Sensitive Personal Information and information that may be subject to additional protections under applicable laws , such as your precise geolocation data and/or, as applicable, information the reveals or is used to develop inferences about your race, gender, age, marital status, nationality, ethnicity, sexual orientation, religious beliefs, and health condition."
+    },
+    {
+      "category": "AI/ML Usage",
+      "risk": "Medium",
+      "icon": "🤖",
+      "headline": "Uses AI on Your Data",
+      "quote": "Depending on the Product and Service, we may use machine learning, artificial intelligence (“AI”), generative AI, and other automated tools (collectively “AI Tools”), to accomplish these purposes."
+    },
+    {
+      "category": "Third-Party Data Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Gets Your Data From Brokers",
+      "quote": "from third parties, such as data brokers, data enrichment providers, industry cooperatives (“co-ops”), advertising networks, data analytics providers, browsers, operating systems and platforms, social media companies, and publicly available sources."
+    },
+    {
+      "category": "Identity Resolution",
+      "risk": "High",
+      "icon": "🔗",
+      "headline": "Links Your Devices/Identities",
+      "quote": "We and our third-party Identity Resolution Partners facilitate identity resolution by creating probabilistic and deterministic identifiers. These identifiers may use Personal Information, including your name, email address, phone number, Activity and Device Information, and Information We Collect From Other Sources, to generate an online identifier reasonably linkable to you and/or your device or browser."
+    },
+    {
+      "category": "Targeted Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Uses Your Data for Ads",
+      "quote": "We and our third-party business partners may collect and share Personal Information about your online and offline activities over time and across unaffiliated websites and mobile applications to predict your preferences and interests, and, in conjunction with third parties, may use your Personal Information for cross-context behavioral advertising and to serve advertising believed to be of interest to you (\" Targeted Advertising \")."
+    },
+    {
+      "category": "Data Inferences",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Infers Your Characteristics",
+      "quote": "Inferences , such as those drawn to create a profile reflecting your preferences, characteristics, interests, predispositions, behavior, attitudes, abilities, or aptitudes."
+    },
+    {
+      "category": "Chatbot Data Retention",
+      "risk": "Medium",
+      "icon": "💬",
+      "headline": "Retains Your Chatbot Transcripts",
+      "quote": "Please note that when utilizing chatbots on our Products and Services, we may transcribe and retain your inquiries and responses."
+    }
+  ]
+}
