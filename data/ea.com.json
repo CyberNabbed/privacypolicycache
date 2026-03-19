@@ -1,0 +1,99 @@
+{
+  "url": "https://www.ea.com/legal/privacy-and-cookie-policy",
+  "scanned_at": "2026-03-19T22:15:23.167133+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains AI",
+      "quote": "Undertake research and analysis to develop and demonstrate our technology, and to better understand our players;"
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Data Is Shared Commercially",
+      "quote": "The following categories of personal information may be \"sold\" or \"shared,\" as those terms are defined under the CCPA, for purposes of targeted advertising: Identifiers; such as a real name, user name, account name, email, online identifiers, dev"
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💵",
+      "headline": "Your Financial Data Is Collected",
+      "quote": "If you participate in our competitive gaming events, we may collect identifiers associated with your government-issued documents (such as a passport number), financial information (such as bank accounts), and health-related information."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "⚠️",
+      "headline": "Your Gameplay Is Recorded",
+      "quote": "In competitive game modes, we may record your gameplay, and your controller button inputs, and replay these together with your in-game profile information and game statistics to other players in-game and at live EA or partner events."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Contacts Are Collected",
+      "quote": "We may also receive information about you when other players choose to share their contact lists with us or from publicly-available websites."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Your DNT Is Ignored",
+      "quote": "GPC does not control targeted advertising in our PC, console, or mobile games and must be changed via your account or the game's settings, as described above."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your Data Shared Broadly",
+      "quote": "We may disclose personal information to other companies in which we have an ownership interest as necessary for the purposes outlined in this policy."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your Data Is Retained Indefinitely",
+      "quote": "We retain the information we collect for as long as necessary to provide our Services, and we may retain that information beyond that period if necessary for legal, operational, or other legitimate reasons."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Location Data Is Collected",
+      "quote": "Approximate geolocation data (derived from IP or device settings);"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Is Profiled",
+      "quote": "Some of these technologies can sync or connect behavior across different websites, mobile apps and devices to tailor offers and advertising to your interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Leaves Your Country",
+      "quote": "By consenting to the transfer of your personal data outside of your country of residence, you acknowledge that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Your Data Shared Without Warrant",
+      "quote": "We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena;"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Are Limited",
+      "quote": "Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our Services."
+    }
+  ]
+}
