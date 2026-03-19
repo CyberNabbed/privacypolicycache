@@ -1,0 +1,64 @@
+{
+  "url": "https://trueconf.com/company/legal/privacy.html",
+  "scanned_at": "2026-03-19T22:15:11.590477+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly",
+      "quote": "TrueConf may share your information as follows: TrueConf’s subsidiaries in accordance with our business purposes. TrueConf’s channel partners, under appropriate non-disclosure and data security obligations for purposes of reselling of our products or services. Service Providers. We may share your information with our third-party service providers, who help us provide and support our products and services, e.g. email marketing services, tracking services, payment processors, etc."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected without consent",
+      "quote": "We do not and cannot control whether you are being audio or video recorded via TrueConf application or a third-party technology."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with subsidiaries",
+      "quote": "TrueConf may share your information as follows: TrueConf’s subsidiaries in accordance with our business purposes."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data kept for years",
+      "quote": "For personal data related to your specific use of our products and services our stated policy is to retain that data for 2 years. We may also store your name, phone and email address for a longer period of time if we need to maintain effective business relations with you."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your behavior is analyzed",
+      "quote": "Our client applications automatically collect anonymous information about your endpoint (application version, device hardware specifications and network performance statistics) to enhance our products and services quality. We use this information to optimize and provide compatibility of our solutions with specific devices and networks you are using."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data crosses borders",
+      "quote": "Electronic information collected by TrueConf’s website for European users (trueconf.com) is kept on the servers that are owned and operated by TrueConf LLC. These servers are located in Germany."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities",
+      "quote": "We will disclose information when we believe such action is necessary or desirable to respond to legal process or government demands or requests, to protect lives or property rights, to maintain the security of our products or services, or to help defend ourselves against any claims or allegations."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "Transactional emails containing your license or billing information do not have an unsubscribe link by default, since it will not be possible to keep providing you with our services."
+    }
+  ]
+}
