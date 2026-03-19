@@ -1,0 +1,85 @@
+{
+  "url": "https://www.fastly.com/privacy",
+  "scanned_at": "2026-03-19T20:42:03.565771+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Your Data Shared Commercially",
+      "quote": "We may disclose your personal data to any third party with your consent and appropriate notice."
+    },
+    {
+      "category": "Credit/Debt Reporting",
+      "risk": "HIGH",
+      "icon": "💳",
+      "headline": "Your Data Impacts Credit",
+      "quote": "We also engage and share information with third-party service providers for fraud protection, credit risk reduction and payment collection associated with our accounts."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🧠",
+      "headline": "Your Data Trains AI",
+      "quote": "Data purchased from third parties, such as social networking sites and conference attendee lists, that is combined with information we already have about you, to create more tailored advertising and products."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "HIGH",
+      "icon": "👤",
+      "headline": "Your Data Collected Unknown",
+      "quote": "If you provide us with contact information for persons you would like to refer, we will communicate with the referred persons and may disclose you as the source of the referral."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "HIGH",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Shared Broadly",
+      "quote": "We share information, including personal data, with our subsidiaries and affiliates in the operation of our global business because our subsidiaries and affiliates may provide you services under our contracts or other functions, consistent with the purposes described in Section 2.4 above."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "💾",
+      "headline": "Your Data Kept 7+ Years",
+      "quote": "The retention period shall not exceed the duration of our business relationship with you plus (7) years unless we have a legitimate business interest need to retain the information for a longer period, which include maintaining a record of your preferences, securing the integrity of databases, conducting audits, complying with our legal and contractual obligations, resolving disputes, and enforcing our agreements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "HIGH",
+      "icon": "📍",
+      "headline": "Your Location Continuously Tracked",
+      "quote": "The information we collect automatically is statistical data, which we may associate with personal data we collect in other ways or receive from third parties."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "HIGH",
+      "icon": "📈",
+      "headline": "Your Behavior Is Profiled",
+      "quote": "Behavioral Data Inferred or assumed information relating to your behavior and interests, based on your online activity and your use of our websites."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "HIGH",
+      "icon": "🗣️",
+      "headline": "Your Data Used For Ads",
+      "quote": "Our third party partner may use technologies such as cookies to gather information about your activities on our websites and other sites in order to provide you advertising based upon your browsing activities and interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "MEDIUM",
+      "icon": "🌐",
+      "headline": "Your Data Moves Globally",
+      "quote": "When Fastly operates as a data controller (i.e., when we determine the manner, purposes and means of the processing of others’ personal information), Fastly may collect from, transfer to, or process, and store your personal information in the United States and other countries other than the country where you live."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "MEDIUM",
+      "icon": "🚓",
+      "headline": "Your Data Shared With Police",
+      "quote": "In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements."
+    }
+  ]
+}
