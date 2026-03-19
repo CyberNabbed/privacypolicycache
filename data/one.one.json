@@ -1,0 +1,78 @@
+{
+  "url": "https://www.one.com/en-gb/legal/privacy/",
+  "scanned_at": "2026-03-19T22:12:33.828767+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially",
+      "quote": "If you consent (Art. 6,1, a GDPR), we will also share your hashed personal data (e – mail, phone number, interest) with Google, Meta and other social media providers for the Customer Audience Match feature."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models",
+      "quote": "One.com does not use Google Workspace API data to develop, improve, or train generalized AI/ML models."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Your financial data collected",
+      "quote": "We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT requests ignored",
+      "quote": "As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👪",
+      "headline": "Your data shared broadly",
+      "quote": "We may share your information with our affiliates, in which case we will require those affiliates to honour this Privacy Notice."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Your data kept for 5 years",
+      "quote": "No purpose in this notice will require us keeping your personal information for longer than 5 years past the termination of the user’s account."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your precise location collected",
+      "quote": "For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address)."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for ads",
+      "quote": "We may process your name, contact details and information collected via cookies (log and usage data, location data, device data) to develop and display personalised content and advertising tailored to your interests, location, and more."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers globally",
+      "quote": "If you are accessing our Services from outside Denmark, please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see ‘ When and with whom do we share your personal information? ‘ above), in the United States, India, United Arab Emirates, and other countries."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data disclosed legally",
+      "quote": "In some cases we are legally obligated to provide your personal information to authorities, for example if the data is relevant for a criminal investigation."
+    }
+  ]
+}
