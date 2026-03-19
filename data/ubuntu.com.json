@@ -1,0 +1,78 @@
+{
+  "url": "https://canonical.com/legal/data-privacy",
+  "scanned_at": "2026-03-19T22:14:51.554544+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our AI",
+      "quote": "To fix errors and analyse trends."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without consent",
+      "quote": "Information we receive about you if you use any of the other websites we operate or the other services we provide."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within our group",
+      "quote": "You agree that we have the right to share your information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 and as listed here."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data is kept indefinitely",
+      "quote": "We keep your order information for so long as reasonably required in accordance with our record retention policy."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location is collected",
+      "quote": "This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Your behavior is analyzed",
+      "quote": "Analytical/performance cookies . They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for targeted ads",
+      "quote": "The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is stored abroad",
+      "quote": "The information that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (\"EEA\")."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed legally",
+      "quote": "If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Canonical, our customers, or others."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are restricted",
+      "quote": "We keep your order information for so long as reasonably required in accordance with our record retention policy."
+    }
+  ]
+}
