@@ -1,0 +1,64 @@
+{
+  "url": "https://www.cisco.com/c/en/us/about/legal/privacy-full.html",
+  "scanned_at": "2026-03-19T22:14:08.930759+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "Personal Data may be processed by third parties for the purposes of operating our business; delivering, analyzing, improving, securing, and customizing our interactions, websites and Solutions; sending marketing and other communications related to our business; and for other legitimate purposes permitted by applicable law(s); or otherwise with your consent."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your friends' data is collected.",
+      "quote": "If you choose to provide Cisco with a third party's Personal Data (such as name, email, and phone number), you represent that you have the third party's permission to do so."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within Cisco.",
+      "quote": "Within Cisco and any of our worldwide subsidiaries for the purposes of data processing, such as marketing, business operations, compliance, security, website or Solution functionality, or storage"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data is retained for business.",
+      "quote": "We will retain and use your Personal Data as necessary to comply with our business requirements and legal obligations, resolve disputes, protect our assets, and enforce our rights and agreements."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data used for ads.",
+      "quote": "Our third-party partners may use cookies or similar technologies to provide you with advertising based on your browsing activities and interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally.",
+      "quote": "As Cisco is a global organization, Personal Data may be transferred to Cisco in the United States of America, to any Cisco subsidiary worldwide, or to third parties and business partners as described above that are located in various jurisdictions around the world."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data disclosed to authorities.",
+      "quote": "With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Cisco, our business partners, you, or others; or as otherwise required by applicable law"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion has limitations.",
+      "quote": "In some cases, we may not be able to remove all Personal Data and comments."
+    }
+  ]
+}
