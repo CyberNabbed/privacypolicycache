@@ -1,0 +1,85 @@
+{
+  "url": "https://policies.google.com/privacy?hl=en",
+  "scanned_at": "2026-03-19T20:42:03.422691+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "✋",
+      "headline": "Your Biometric Data Is Collected",
+      "quote": "Biometric information if you choose to provide it, such as fingerprints in Google’s product development studies."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains Google's AI",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your Financial Data Is Collected",
+      "quote": "Commercial information such as your payment information and a history of purchases you make on Google’s services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Data Is Collected Without Account",
+      "quote": "And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Is Shared Broadly",
+      "quote": "This Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your Data Is Retained Long-Term",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your Precise Location Is Tracked",
+      "quote": "Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Is Profiled",
+      "quote": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Is Transferred Globally",
+      "quote": "We maintain servers around the world and your information may be processed on servers located outside of the country where you live."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Your Data Shared Without Warrant",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Is Not Immediate",
+      "quote": "Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems."
+    }
+  ]
+}
