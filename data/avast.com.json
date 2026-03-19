@@ -1,78 +1,85 @@
 {
   "url": "https://www.avast.com/privacy-policy",
-  "scanned_at": "2026-03-19T22:12:37.070958+00:00",
+  "scanned_at": "2026-03-19T22:13:46.791559+00:00",
   "tier1": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "💸",
-      "headline": "Your data shared for ads.",
+      "headline": "Your data is shared broadly.",
       "quote": "We may share limited categories of personal data (online identifiers and product-related information used to display appropriate ads) with these third parties for cross-contextual advertising purposes, as defined under California and other applicable U.S. state laws."
     },
     {
       "category": "AI Training",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Your data trains AI models.",
+      "headline": "Your data trains their AI.",
       "quote": "To maintain and develop threat intelligence resources, in particular to be able to detect and block malware. We analyze samples of files and URLs we detect on your devices or websites you visit, and we use them to maintain our malware and privacy protection at the highest level possible."
-    },
-    {
-      "category": "Financial Data Collection",
-      "risk": "High",
-      "icon": "💳",
-      "headline": "Your financial data is collected.",
-      "quote": "Billing data includes your name, email address, billing address, your phone number, payment information (depending on method can include Credit/Debit Card Information or PayPal account), National ID (regional specific, if outside the United States), VAT/Tax ID (regional specific, if outside the United States) and device fingerprint ID."
     },
     {
       "category": "Non-Account Holder Collection",
       "risk": "High",
       "icon": "👤",
-      "headline": "Your data collected without consent.",
-      "quote": "We may also collect Personal Data from trusted third-party sources such as service providers, distributors, resellers, app stores, contact centers, and engage third parties such as marketing, survey, analytics or software suppliers to collect Personal Data to assist us."
+      "headline": "Your data collected without account.",
+      "quote": "For free versions, this disconnection or removal of identifiers begins when the products and services are initially activated."
     }
   ],
   "tier2": [
     {
       "category": "Corporate Family Sharing",
       "risk": "High",
-      "icon": "🏢",
-      "headline": "Your data shared broadly.",
-      "quote": "We are a global company that processes personal data in many countries. As part of our business, we may transfer data across the Gen group, its subsidiaries and affiliates, and third-party vendors of Gen located worldwide, including Avast, Avira, LifeLock and Norton entities."
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared internally.",
+      "quote": "We only disclose your Personal Data as described below, within our group of companies, with our partners, with service providers that process data on our behalf and with public authorities, when required by applicable law."
     },
     {
       "category": "Data Retention",
       "risk": "High",
-      "icon": "💾",
-      "headline": "Your data kept for years.",
+      "icon": "⏱️",
+      "headline": "Your product data retained for years.",
       "quote": "The rolling deletion periods for Product Data are not longer than six years."
     },
     {
       "category": "Precise Geolocation",
-      "risk": "High",
+      "risk": "HIGH",
       "icon": "📍",
-      "headline": "Your precise location collected.",
+      "headline": "Your location is collected.",
       "quote": "Device Data includes information about the operating system; hardware; city/country location of device; IP address, device error logs; browser; network; applications running on the device, including the Avast products; and Service Data includes information about product usage and events relating to use of our product by you."
     },
     {
       "category": "Behavioral Profiling",
-      "risk": "High",
-      "icon": "📈",
+      "risk": "HIGH",
+      "icon": "🎯",
       "headline": "Your behavior is profiled.",
       "quote": "We use relevant Billing Data, Account Data, Product Data and your answers from surveys, in which you can participate, to personalize our offers, communication and product recommendations."
     },
     {
+      "category": "Personalized Advertising",
+      "risk": "HIGH",
+      "icon": "_{[_A_D_S_]}",
+      "headline": "Your data used for ads.",
+      "quote": "To enable the ad, we embed a software development kit (“SDK”) provided by an advertising company into the product. The SDK collects Personal Data in order to personalize ads for you."
+    },
+    {
       "category": "Cross-Border Transfers",
-      "risk": "Medium",
+      "risk": "MEDIUM",
       "icon": "🌍",
-      "headline": "Your data transfers globally.",
-      "quote": "The servers that are part of this infrastructure may therefore be located in a country different than the one where you live. In some instances, these may be countries outside of the European Economic Area (“EEA”)."
+      "headline": "Your data moves globally.",
+      "quote": "The servers that are part of this infrastructure may therefore be located in a country different than the one where you live."
     },
     {
       "category": "Law Enforcement Disclosure",
-      "risk": "Medium",
+      "risk": "MEDIUM",
       "icon": "🏛️",
       "headline": "Your data shared without warrant.",
-      "quote": "A legal process having the same consequence as a court-issued request for data, in that if we were to refuse to provide such data, it would be in breach of local law, and it or its officers, executives or employees would be subject to liability for failing to honor such legal process;"
+      "quote": "No Personal Data will be disclosed to any public authority except in response to: [...] A request for data with the purpose of identifying and/or preventing credit card fraud."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "MEDIUM",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "You have the right to erasure of your Personal Data, but only in specific cases stipulated by law, e.g., if there is no legally recognized title on our part for further processing of your Personal Data (incl. protection of our legitimate interests and rights)."
     }
   ]
 }
