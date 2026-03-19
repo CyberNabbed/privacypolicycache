@@ -1,0 +1,78 @@
+{
+  "url": "https://www.opera.com/legal/privacy",
+  "scanned_at": "2026-03-19T22:12:10.581376+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially.",
+      "quote": "If AI Chat’s response to your input includes information about specific products, AI Chat will share relevant keywords, plus your country, language, and a partial IP address (with the last octet removed, to prevent precise identification), with our third-party partners, and return a shopping suggestion if possible."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models.",
+      "quote": "Based on your prompt, AI Chat selects and shares it with either OpenAI or Google to generate a response, depending on which model is best suited for your request."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your detailed financial data collected.",
+      "quote": "If you use a legacy GameMaker account (meaning an account created before September 21st, 2022) we process additional data, such as: your home address, phone number, security questions answers, VAT number."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data transferred globally.",
+      "quote": "AI Chat is powered by OpenAI and Google (both US-based companies)."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained for years.",
+      "quote": "Your payment data may be stored for up to five years due to regulatory requirements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "If you use extreme-savings mode or Opera Turbo in Opera Mini, we log your IP address, a randomly generated ID, advertising ID, and URLs of your requests that are sent through our servers, but not the content."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your behavior builds a profile.",
+      "quote": "We use this to build a better understanding of what our users are interested in."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data fuels targeted ads.",
+      "quote": "Based on data such as IP address, hashed user ID, and your general location (your country or city), some of our Applications serve targeted ads."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data disclosed to authorities.",
+      "quote": "In some instances it is necessary for us to process personal data in order to fulfill other obligations under the law, for example detecting fraud, making sure you are who you say you are, etc."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "We retain your data for seven days after you’ve decided to discontinue your Opera account in case you choose to change your mind."
+    }
+  ]
+}
