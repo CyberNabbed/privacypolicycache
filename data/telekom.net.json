@@ -1,0 +1,78 @@
+{
+  "url": "https://www.telekom.com/en/deutsche-telekom/data-privacy-information-1744",
+  "scanned_at": "2026-03-19T22:13:44.829184+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Improves AI",
+      "quote": "If you use the FAQs and submit a question that is not covered in the pool of available answers, you will be prompted to enter your email address."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Browsing Collected Without Consent",
+      "quote": "When you visit our websites, the web server temporarily records the domain name or IP address of your computer, the file request (file name and URL) from the client, the http response code, and the website from which you are visiting us."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Data Shared With Partners",
+      "quote": "We and our partners use these processings to show you personalized content that is relevant to you."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Goes Overseas",
+      "quote": "In some cases, your data is also processed in countries outside the European Union (i.e. in so-called third countries), currently for example: Storage/hosting of customer data (excluding traffic data) by Amazon Web Services EMEA SARL, Microsoft Ireland Operations Ltd., Google Cloud EMEA Limited, Ireland and Salesforce.com Germany GmbH in Europe."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Shared Internally",
+      "quote": "Deutsche Telekom AG’s General Data Privacy Information applies to the processing of your personal data."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Profiled Automatically",
+      "quote": "Within the framework of the legal regulations, user profiles are created."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your Ads Are Personalized",
+      "quote": "We use these processing’s to show you personalized ads and content that is relevant to you."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your Data Shared Legally",
+      "quote": "Due to legal obligation : In certain cases, we are required by law to transmit certain data to the requesting government entity."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "If you unsubscribe, your registration data will be stored for up to three and a half years, purely for purposes of demonstrating your consent."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your Data Stored Long-Term",
+      "quote": "The logged data is used exclusively for data security purposes, in particular to defend against attacks on our server."
+    }
+  ]
+}
