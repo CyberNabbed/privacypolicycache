@@ -1,0 +1,92 @@
+{
+  "url": "https://www.amazon.com.au/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&pop-up=1",
+  "scanned_at": "2026-03-19T22:14:46.960127+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Your voice inputs collected.",
+      "quote": "When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services."
+    },
+    {
+      "category": "Credit/Debt Reporting",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Your credit history impacts you.",
+      "quote": "We may also use scoring methods to assess and manage credit risks"
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared widely.",
+      "quote": "We share customer’s personal information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves services.",
+      "quote": "When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from others.",
+      "quote": "Information from Other Sources: We might receive information about you from other sources such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your past data is kept.",
+      "quote": "When you update information, we usually keep a copy of the prior version for our records."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location information collected.",
+      "quote": "As a result of those actions, you might supply us with such information as: identifying information such as your name, address, and phone numbers; payment information; your age; your location information; your IP address; people, addresses and phone numbers listed in your Addresses e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in Your Profile ; voice recordings when you speak to Alexa; images and videos collected or stored in connection with Amazon Services Information and documents regarding identity, including Social Security and driver’s license numbers; corporate and financial information; credit history information; and device log files and configurations, including Wi-Fi credentials, if you choose to automatically synchronize them with your other Amazon devices."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your preferences are identified.",
+      "quote": "We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalise your experience with Amazon Services."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": " targeted_ads",
+      "headline": "Your ads are interest-based.",
+      "quote": "We use your personal information to display interest-based ads for features, products, and services that might be of interest to you."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data moves internationally.",
+      "quote": "These Amazon entities may be located in other countries."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared for compliance.",
+      "quote": "We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Amazon, our users, or others."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion choices limited.",
+      "quote": "Depending on your data choices, certain services may be limited or unavailable."
+    }
+  ]
+}
