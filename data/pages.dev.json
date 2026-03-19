@@ -1,0 +1,78 @@
+{
+  "url": "https://www.cloudflare.com/privacypolicy/",
+  "scanned_at": "2026-03-19T22:14:40.657906+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is shared commercially.",
+      "quote": "Making Personal Information (such as online identifiers or browsing activity) available to these companies may be considered a “sale” or “sharing” of your Personal Information under the CCPA."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data may improve AI.",
+      "quote": "Cloudflare may store aggregated data, as outlined within our 1.1.1.1 resolver commitments to privacy, indefinitely in order to power Cloudflare Radar and assist Cloudflare in improving Cloudflare services, such as, enhancing the overall performance of the Cloudflare Resolver and identifying security threats."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected without account.",
+      "quote": "This Policy applies to Cloudflare’s collection, use, and disclosure of the personal information of the following categories of data subjects: Attendees : Those who visit our offices or provide their information to Cloudflare or Cloudflare representatives when they attend or register to attend Cloudflare-sponsored events or other events at which Cloudflare (and/or its representatives) participates, as well as those who participate in Cloudflare’s studies such as user experience research."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data shared within family.",
+      "quote": "Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare, Inc. (United States) and its subsidiaries listed Section 15)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data is kept indefinitely.",
+      "quote": "Cloudflare may store aggregated data, as outlined within our 1.1.1.1 resolver commitments to privacy, indefinitely in order to power Cloudflare Radar and assist Cloudflare in improving Cloudflare services, such as, enhancing the overall performance of the Cloudflare Resolver and identifying security threats."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your profile is built automatically.",
+      "quote": "Personalize the Websites and Services, including by providing features or content that match your interests and preferences."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for targeted ads.",
+      "quote": "We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers globally.",
+      "quote": "To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Your data shared with authorities.",
+      "quote": "When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "Where a Rights Request may implicate the personal information of another individual, we must balance the request against the risk of violating another person’s privacy rights."
+    }
+  ]
+}
