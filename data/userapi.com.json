@@ -1,0 +1,57 @@
+{
+  "url": "https://vk.com/terms/privacy",
+  "scanned_at": "2026-03-19T22:18:24.216750+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "The information provided by the User, including personal data, may be used by the Site Administration to ensure compliance with the requirements of effective Russian legislation, other applicable/relevant legislation, as well as to transfer it to the third-parties in order to protect right and interests of the Users, the Site Administration and third-parties (including in order to prevent, control/investigate and/or suppress illegal actions)."
+    },
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "You accept policy updates automatically.",
+      "quote": "The continuation of use of the Site by the User after changes and/or additions are made to these Terms will mean the User’s agreement with and acceptance of such changes and/or additions."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains their AI.",
+      "quote": "The Administration of the Site processes the User's personal data in order to provide to the latter access to the services of the Site, including targeted advertisements to the User; checking, examining and analyzing such data in order to maintain and improve the Site services and sections as well as to develop new Site services and sections."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data fuels targeted ads.",
+      "quote": "The Administration of the Site processes the User's personal data in order to provide to the latter access to the services of the Site, including targeted advertisements to the User; checking, examining and analyzing such data in order to maintain and improve the Site services and sections as well as to develop new Site services and sections."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is transferred globally.",
+      "quote": "The said non-exclusive right is granted for the period when the Content is placed on the Site and extends to the territory of the countries all over the world."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data is disclosed legally.",
+      "quote": "The information provided by the User may be disclosed only in accordance with effective Russian legislation on the demand of the court, law-enforcement bodies as well as in other cases as provided by Russian legislation."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deleted content may remain.",
+      "quote": "In case the User removes his/her Content from the Site, the rights mentioned in clauses 7.2.3 – 7.2.4 hereof will be automatically cancelled; however, the Site Administration has the right to keep archive copies of the user Content for an indefinite period."
+    }
+  ]
+}
