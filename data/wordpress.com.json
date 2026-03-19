@@ -1,0 +1,99 @@
+{
+  "url": "https://automattic.com/privacy/",
+  "scanned_at": "2026-03-19T20:41:04.465467+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your Data May Be Shared",
+      "quote": "To the extent that we share your information with certain advertising, marketing, or analytics vendors, this can be considered a “sale” or “share” in certain U.S. States, which you may have the right to opt out of."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "📷",
+      "headline": "Your Photo is a Gravatar",
+      "quote": "For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your G lobally R ecognized Avatar, or Gravatar — get it?"
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains Our AI",
+      "quote": "We may also collect additional information about you during the process, like background and credit checks (in applicable jurisdictions and only for certain job roles)."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your Financial Data Collected",
+      "quote": "We may also collect additional information about you during the process, like background and credit checks (in applicable jurisdictions and only for certain job roles)."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Info Collected Without Account",
+      "quote": "Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!)."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT Requests Ignored",
+      "quote": "At this time, Automattic does not respond to “do not track” signals across all of our Services."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your Data Shared Internally",
+      "quote": "We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "📅",
+      "headline": "Your Data Retained for Analysis",
+      "quote": "To determine that period, we take into account a number of factors, like our legal and regulatory obligations (such as equal opportunity obligations) and whether we may need to retain personal data for internal business purposes like analyzing our applicant pool."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Precise Location Collected",
+      "quote": "We may also collect information about your precise location via our mobile apps (like when you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": " targeted",
+      "headline": "Your Data for Personalized Ads",
+      "quote": "As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "Because Automattic’s Services are offered worldwide, the information about you that we process when you use the Services in the EU or the UK may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) or the UK who work for us, other members of our group of companies, or third-party data processors."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your Data Disclosed to Law",
+      "quote": "We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests."
+    }
+  ]
+}
