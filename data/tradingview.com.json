@@ -1,0 +1,78 @@
+{
+  "url": "https://www.tradingview.com/privacy-policy/",
+  "scanned_at": "2026-03-19T22:18:25.350212+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains Our AI",
+      "quote": "We may anonymize, pseudonymize, aggregate and de-identify the data that we collect and use this data for our own internal business purposes, including sharing it with our business partners, our affiliated businesses, agents and other third parties for commercial, statistical and market research purposes."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Financial Data Collected",
+      "quote": "If you register to be a user of Essential/Plus/Premium/Expert/Ultimate Accounts (a 'Paid User'), our third party payment processor will also process information about your payment card and bank account information or payment account information that we require for the purpose of recording and processing your account registration."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Data Collected Without Consent",
+      "quote": "There is no need to create an account when searching and viewing information from certain markets, such as symbols, quotes, financial data, as well as ideas and publicly available data of TradingView users."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your Data Retained 10 Years",
+      "quote": "The duration of retention for each type of data will comply with specific legal requirements, extending up to 10 years."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Shared With Affiliates",
+      "quote": "In order to provide the services you request from us, our affiliated businesses may access and process the information which we collect from you for the purposes described above, including offering products and services to you."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Profiled Automatically",
+      "quote": "reCAPTCHA analyses the behavior of the visitor using various characteristics and evaluates various information for analysis purposes (e.g. IP address, visit duration, or the user's mouse clicks)."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your Data Used For Ads",
+      "quote": "Remarketing features allow us to display advertising in a more targeted manner in order to present advertisements of interest to users, based on their activity on other websites."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your Data Transferred Internationally",
+      "quote": "The information collected through Services will be stored on servers located in the United States, European Union, and other destinations (including outside the EEA), to our service providers and affiliated businesses for the purposes described above."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your Data Disclosed To Authorities",
+      "quote": "This means we can store and disclose your information to law enforcement authorities, state, or government agencies if we establish that such disclosure is necessary to comply with the law."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "Some data, such as published ideas/scripts and messages sent to other users, will be saved as they have already integrated into our system."
+    }
+  ]
+}
