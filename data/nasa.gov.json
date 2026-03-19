@@ -1,57 +1,71 @@
 {
   "url": "https://www.nasa.gov/privacy/",
-  "scanned_at": "2026-03-19T22:14:49.418146+00:00",
+  "scanned_at": "2026-03-19T22:15:31.348250+00:00",
   "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially",
+      "quote": "We may share information with private organizations as part of a service that provides NASA.gov users with increased capabilities or functionality on the site."
+    },
     {
       "category": "AI Training",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Your data may train AI.",
-      "quote": "Anonymous summary demographic information about our visitors such as sex, age range, and areas of interest for adults over the age of 18. We do this by using Google Demographic and Interests reports."
+      "headline": "Your data trains AI",
+      "quote": "Electronic communications with NASA may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications."
     },
     {
       "category": "Non-Account Holder Collection",
       "risk": "High",
       "icon": "👤",
-      "headline": "Your data collected without account.",
-      "quote": "This website uses Google Analytics Premium."
+      "headline": "Your data collected without account",
+      "quote": "Third parties may collect information on visitors who share NASA content on their Facebook pages, Twitter feeds or other social media/networking sites."
     }
   ],
   "tier2": [
     {
       "category": "Corporate Family Sharing",
       "risk": "High",
-      "icon": "👪",
-      "headline": "Your data shared across agencies.",
+      "icon": "🏘️",
+      "headline": "Your data shared broadly",
       "quote": "NASA will only share your information with another government agency if it relates to that agency, or as otherwise required by law."
     },
     {
       "category": "Data Retention",
       "risk": "Medium",
-      "icon": "⏱️",
-      "headline": "Your data retained indefinitely.",
+      "icon": "💾",
+      "headline": "Your data retained indefinitely",
       "quote": "Raw data logs are retained temporarily as required for security and site management purposes only."
     },
     {
       "category": "Behavioral Profiling",
       "risk": "High",
       "icon": "🎯",
-      "headline": "Your behavior builds profiles.",
-      "quote": "Browsers may be associated with a demographic category, such as sex or age range, based on the sites that were visited."
+      "headline": "Your behavior creates profiles",
+      "quote": "This demographic information is used to help us better understand our visitors’ interests and needs to more effectively develop content to serve you."
     },
     {
       "category": "Cross-Border Transfers",
       "risk": "Medium",
       "icon": "🌍",
-      "headline": "Your data transfers globally.",
-      "quote": "Electronic communications with NASA may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications."
+      "headline": "Your data transferred globally",
+      "quote": "Electronic communications within NASA will be collected or retained by US-CERT only if they are associated with known or suspected cyber threats."
     },
     {
       "category": "Law Enforcement Disclosure",
       "risk": "Medium",
-      "icon": "🏛️",
-      "headline": "Your data disclosed to law enforcement.",
-      "quote": "Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials."
+      "icon": "🚔",
+      "headline": "Your data shared with law enforcement",
+      "quote": "If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "On rare occasions, it may be determined that a communication from a child under 13 years old should be maintained for historical purposes."
     }
   ]
 }
