@@ -1,0 +1,57 @@
+{
+  "url": "https://www.dailymail.co.uk/terms",
+  "scanned_at": "2026-03-19T22:18:31.333170+00:00",
+  "tier1": [
+    {
+      "category": "Rolling Consent",
+      "risk": "HIGH",
+      "icon": "🔄",
+      "headline": "Your continued use is consent.",
+      "quote": "If you continue to use our Site after we make any changes, you will be deemed to have accepted any changes to our Terms."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Your data trains their AI.",
+      "quote": "You must not ... use any content, files or data from the Site to make or populate a database or publication of any kind whatsoever, to develop or train any software program (including any machine learning or artificial intelligence systems), or for the purpose of text/ data mining or analysis to generate information which includes but is not limited to patterns, trends and correlations."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "HIGH",
+      "icon": "👤",
+      "headline": "Your friend's data collected without consent.",
+      "quote": "If you would like a friend to read a story or watch or listen to a video or audio file on our Site, please use the 'Email' or 'Share' facilities on our Site, or you may email a link to our Site to your friend or simply ask them to visit our Site. Please ensure that you have their consent before giving us their details."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "HIGH",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your content shared internally.",
+      "quote": "The licence is capable of sub-license by us to other entities and brands in our group of companies (including, without limitation, This is Money, Metro, The i paper)"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "🗓️",
+      "headline": "Your content may be removed permanently.",
+      "quote": "We make no guarantee that your content will be kept on the Site for any length of time, and we reserve the right to remove your content as we see fit. You are urged to keep back-up copies of any of Your Content submitted to us. The Site should not be used as your primary method to store or curate copies of your images, videos or text, as your content may be removed permanently from the Site at any time, and we may not keep copies of your content."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "MEDIUM",
+      "icon": "🏛️",
+      "headline": "Your info shared for legal reasons.",
+      "quote": "However, nothing in these Terms will affect any liability we may have for death or personal injury arising from our negligence or any other liability which cannot be excluded or limited by law."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Your data may go outside UK.",
+      "quote": "Our Site is intended for use only by those who can access it from within the United Kingdom. If you choose to access our Site from locations outside the United Kingdom, you are responsible for compliance with local laws."
+    }
+  ]
+}
