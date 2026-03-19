@@ -1,0 +1,64 @@
+{
+  "url": "https://www.gandi.net/en-US/contracts/privacy-policy",
+  "scanned_at": "2026-03-19T22:12:07.732408+00:00",
+  "tier1": [
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your data crosses borders.",
+      "quote": "Gandi may transfer your personal data outside the European Union, to countries that do not ensure an adequate level of protection of personal data."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI.",
+      "quote": "Data transfers may also take place within the framework of the aforementioned purposes in connection with service providers (for example: recruitment, fight against fraud, statistical analyses, data aggregation, Zendesk Chat module, etc.)."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from others.",
+      "quote": "Third parties, in particular in the context of the contractual relationship with our customers or resellers, or in the context of incoming transfers of domain names from other registrars;"
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared internally.",
+      "quote": "In this Privacy Policy, \"Gandi\" refers to the companies of Gandi group as a whole, all of these entities being subject to the same level of data protection."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Your data kept as long as needed.",
+      "quote": "Personal data are kept in accordance with legal and tax provisions for a period that does not exceed that which is necessary for the purposes for which data were collected and processed."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "🎯",
+      "headline": "Your profile is built.",
+      "quote": "To carry out statistical analysis for profiling and segmentation purposes for targeted marketing, audience measurement and performance measurement;"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📺",
+      "headline": "Your ads are targeted.",
+      "quote": "Through these cookies, this third party will also collect and use your browsing data on its own behalf to provide targeted advertising and content based on your browsing history."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities.",
+      "quote": "Gandi may also transfer your data to third parties, if this is required by legal or regulatory provisions or in the context of legitimate requests from third parties (for example: respect of intellectual property rights, etc.)."
+    }
+  ]
+}
