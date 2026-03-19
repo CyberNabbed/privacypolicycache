@@ -1,0 +1,92 @@
+{
+  "url": "https://policies.google.com/privacy?hl=en&gl=us",
+  "scanned_at": "2026-03-19T20:42:05.897001+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially",
+      "quote": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "🖐️",
+      "headline": "Your biometric data collected",
+      "quote": "Biometric information if you choose to provide it, such as fingerprints in Google’s product development studies."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains Google AI",
+      "quote": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "When you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within Google",
+      "quote": "This Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data retained indefinitely",
+      "quote": "And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location collected",
+      "quote": "Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your behavior is profiled",
+      "quote": "We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data for personalized ads",
+      "quote": "Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "We maintain servers around the world and your information may be processed on servers located outside of the country where you live."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data disclosed to authorities",
+      "quote": "We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to: Respond to any applicable law, regulation, legal process, or enforceable governmental request."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Your data deletion has delays",
+      "quote": "Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems."
+    }
+  ]
+}
