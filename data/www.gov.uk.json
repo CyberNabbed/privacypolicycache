@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gov.uk/help/privacy-notice",
+  "scanned_at": "2026-03-19T22:14:40.056771+00:00",
+  "tier1": [
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Data Collected Elsewhere",
+      "quote": "If you come to GOV.UK from another website, we may receive personal information from the other website."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your Data Shared Internally",
+      "quote": "The data we collect may be shared with other government departments, agencies and organisations."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your Data Retained Indefinitely",
+      "quote": "We will only retain your personal data for as long as it is needed for the purposes set out in this document or for as long as the law requires us to."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Internationally",
+      "quote": "Data collected by Google Analytics and SpeedCurve RUM may be transferred outside the EEA for processing."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your Data Shared Legally",
+      "quote": "We will share your data if we are required to do so by law - for example, by court order, or to prevent fraud or other crime."
+    }
+  ]
+}
