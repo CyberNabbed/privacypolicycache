@@ -1,0 +1,71 @@
+{
+  "url": "https://terms.yelp.com/privacy/en_us/20260101_en_us/",
+  "scanned_at": "2026-03-19T20:42:05.140085+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models.",
+      "quote": "For example, we may use such AI Technologies to analyze and process your contributions and interactions to provide you with personalized experiences, content recommendations, and relevant information based on your activity on Yelp; develop new products and features; train or fine-tune AI models; provide interactive services such as AI powered chats, virtual assistants, and automated answering services for tasks like making reservations or scheduling appointments on your behalf; and to help identify content that may violate our Content Guidelines and/or Terms of Service."
+    },
+    {
+      "category": "Agentic AI",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your AI acts autonomously.",
+      "quote": "For example, we may use such AI Technologies to analyze and process your contributions and interactions to provide you with personalized experiences, content recommendations, and relevant information based on your activity on Yelp; develop new products and features; train or fine-tune AI models; provide interactive services such as AI powered chats, virtual assistants, and automated answering services for tasks like making reservations or scheduling appointments on your behalf; and to help identify content that may violate our Content Guidelines and/or Terms of Service."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your contacts are collected.",
+      "quote": "You can invite others to join or become your friend on Yelp by providing us with their contact information, or by allowing us to access contacts from your device or third-party sites to select which individuals you want to invite."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "If you have allowed Yelp to access your precise geolocation through your device settings, we may use that information to provide our Services, personalize your experience, make more relevant recommendations, and for advertising or ad attribution, including to recognize your visits to a business."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your activity personalizes experience.",
+      "quote": "We may use your Service activity to personalize the Service, including to determine default locations and/or to suggest relevant search results, and to personalize ads and for ad attribution."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data is used for ads.",
+      "quote": "We use these identifiers to deliver more relevant ads, measure ad performance, and to better understand how users interact with our app."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers cross-border.",
+      "quote": "For European Residents, please note that the personal information we obtain from or about you may be transferred, processed, and stored outside of the EEA, UK, or Switzerland for the purposes described in this Privacy Policy, including in the United States of America."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared without warrant.",
+      "quote": "We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure: (a) is reasonably necessary to comply with legal or law enforcement processes, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process or law enforcement request; (b) is helpful to prevent, investigate, or identify possible wrongdoing in connection with the Service; or (c) protects our rights, reputation, property, or that of our users, affiliates, or the public, such as disclosures in connection with Yelp’s Consumer Alerts program."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your data deletion is limited.",
+      "quote": "When you close your account, we remove certain public posts from view and/or dissociate them from your account profile, but may retain information about you for the purposes authorized under this Privacy Policy and consistent with our data retention policy, unless prohibited by law."
+    }
+  ]
+}
