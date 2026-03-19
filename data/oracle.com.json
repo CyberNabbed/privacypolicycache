@@ -1,0 +1,78 @@
+{
+  "url": "https://www.oracle.com/legal/privacy/privacy-policy/",
+  "scanned_at": "2026-03-19T22:14:08.498894+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold",
+      "quote": "We may share personal information with the following third parties for a commercial purpose: Oracle distributors or resellers for further follow-up related to your interests, specific partners that offer complementary products and services or with third parties to facilitate interest-based advertising; and Event partners or conference sponsors for Oracle events such as when you scan your badge at a sponsored booth."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves AI",
+      "quote": "We may process personal information in order to analyze, develop, improve and optimize the use, function and performance of our sites and products and services, including for quality assurance and training purposes, as well as for marketing and sales campaigns."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected pre-account",
+      "quote": "Information about you may also be provided to Oracle by selected third party sources, such as data aggregators who may not have a direct relationship with you or by third parties who collect information about you on behalf of Oracle such as when you download an Oracle whitepaper."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data is shared globally",
+      "quote": "As a global organization, information about you may be shared globally throughout Oracle’s worldwide organization."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data is kept long-term",
+      "quote": "Personal information needed to retain your opt-out preferences is retained for 20 years (or longer as necessary to comply with applicable law)."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "certain location or geolocation information you provide directly or through automated means, if you choose to enable location based services from your device or Oracle app"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled",
+      "quote": "behavioral data of the internet connected computer or device you use when interacting with the sites, such as advertisements clicked or viewed, sites and content areas, date and time of activities or the web search used to locate and navigate to a site."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Your ads are personalized",
+      "quote": "Oracle may also use personal information to advertise Oracle’s products and services or related products and services, and also to have our distributors, resellers or partners notify you about our products or services or their related products or services (such as via joint sales or product promotions)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is transferred internationally",
+      "quote": "Oracle is a global corporation with operations in over 80 countries and personal information is processed globally as necessary in accordance with this policy."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data is shared with police",
+      "quote": "As required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to government requests, including public and government authorities outside your country of residence, for national security and/or law enforcement purposes."
+    }
+  ]
+}
