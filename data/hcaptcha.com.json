@@ -1,0 +1,71 @@
+{
+  "url": "https://www.hcaptcha.com/privacy",
+  "scanned_at": "2026-03-19T22:18:42.063981+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly",
+      "quote": "IM may disclose Personal Data to its affiliates, as well as to a limited number of third-party business partners, service providers, vendors, suppliers and other contractors (collectively, \"Service Providers\") for the purpose of assisting us in providing, managing, deploying, enhancing, or improving our services."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI",
+      "quote": "Our Service enables high volume data labeling and human review for machine learning systems as a service to website owners and companies who need help getting their data labeled."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Your activity is profiled to verify you",
+      "quote": "Other information collected from End-Users as part of the Service to that is required to determine whether they are human, such as mouse movements, scroll position, keypress events, touch events, and similar information as applicable."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected without account",
+      "quote": "We collect information from individuals who interact with our Sites and Services, including those who incorporate our Service into their website (\"Integrators\"), those who utilize the services for data labeling (\"Customers\"), and the end users who interact with our Service through the websites of our Integrators (\"End-Users\")."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data leaves your country",
+      "quote": "Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites and Service you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Your data may be shared with law enforcement",
+      "quote": "As necessary to comply with applicable law, including governmental requests, law enforcement requests, and otherwise to public and private entities in order to protect the rights, privacy, safety, or property of you, us, or others."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data is kept indefinitely",
+      "quote": "Records of communications with you (e.g. support tickets opened via email or Twitter) may be kept indefinitely."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Your behavior is observed for ads",
+      "quote": "To observe your behaviors and browsing activities over time across multiple websites or other platforms."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for targeted ads",
+      "quote": "To serve you with interest-based or targeted advertising."
+    }
+  ]
+}
