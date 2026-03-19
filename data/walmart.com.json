@@ -1,0 +1,92 @@
+{
+  "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+  "scanned_at": "2026-03-19T20:41:03.594975+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is sold",
+      "quote": "All of the categories of personal information, as defined in the “What Personal Information Do We Collect?” section, are used for all of the purposes described in the “How Do We Use Personal Information?” section."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "📸",
+      "headline": "Your biometric data is collected",
+      "quote": "Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data trains AI",
+      "quote": "Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them, such as training our AI."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "⭐",
+      "headline": "Your trust score is inferred",
+      "quote": "Inferences , such as individual preferences and characteristics."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🛑",
+      "headline": "Your DNT requests are ignored",
+      "quote": "Our Sites will not respond to other types of “do not track” signals."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data is shared broadly",
+      "quote": "We may disclose your personal information with other retail and non-retail companies (e.g., Sam’s Club and One Finance) within our corporate family for them to use in ways that are consistent with this Privacy Notice."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data is retained 3+ years",
+      "quote": "Walmart will permanently destroy your biometric identifiers and biometric information when the first of the following occurs: (i) the initial purpose for collecting or obtaining such biometric data has been satisfied; (ii) within 3 years of your last interaction with us; or (iii) as otherwise required by applicable law."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "Also, depending on your device’s settings and with your consent, we may collect precise geolocation information."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your behavior is profiled",
+      "quote": "This may include inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your ads are personalized",
+      "quote": "Performing and providing advertising and marketing services, including targeted advertising."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data moves cross-border",
+      "quote": "Wal-Mart.com USA, LLC, with an address of 850 Cherry Ave., San Bruno, CA 94066, United States, is the data controller."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data goes to law enforcement",
+      "quote": "We may disclose your personal information when required by law or legal process, or when we believe doing so will help to protect the safety, property, or rights of individuals or Walmart."
+    }
+  ]
+}
