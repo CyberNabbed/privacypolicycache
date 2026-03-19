@@ -1,0 +1,29 @@
+{
+  "url": "https://www.cdc.gov/other/privacy.html",
+  "scanned_at": "2026-03-19T22:15:49.044070+00:00",
+  "tier1": [
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your Precise Location Tracked",
+      "quote": "To receive a geofenced message from CDC, you must have certain apps downloaded and either have background location sharing enabled on your device or be actively using those apps while passing through a geofenced area."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your Data Retained Indefinitely",
+      "quote": "Information submitted electronically is maintained and destroyed as required by the Federal Records Act and records schedules of the National Archives and Records Administration."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your Data Shared Lawfully",
+      "quote": "If you choose to share information with us, we may in some cases share that information (or automatically generated information) with other government agencies in response to lawful law enforcement requests or to protect CDC.gov from security threats."
+    }
+  ]
+}
