@@ -1,0 +1,85 @@
+{
+  "url": "https://www.forbes.com/privacy/english/",
+  "scanned_at": "2026-03-19T22:13:56.922943+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is commercially shared.",
+      "quote": "We may share personal information with our business partners, which may include information shared for the purposes of marketing or interest-based advertising."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models.",
+      "quote": "Internal research; technological development and demonstration; and improving, upgrading, or enhancing our Properties and Services;"
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your friends' data is collected.",
+      "quote": "If you wish to provide user information to us about a third party, such your friend or colleague, in connection with a referral, gift subscription, corporate subscription, recommendation, nomination (e.g., Under 30 list nomination), or other purpose, please only do so if you have the permission of that third party."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT requests are ignored.",
+      "quote": "While some browsers have a “do not track” (also known as DNT) feature that lets you instruct websites not to track your online activities, we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data shared across affiliates.",
+      "quote": "We may share personal information with our corporate affiliates and subsidiaries, who process personal information on our behalf as our vendor, where necessary to provide a product or service that you have requested or in other circumstances with your consent or as permitted or required by law."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained for ML/AI.",
+      "quote": "We will retain your user information for as long as we have an ongoing legitimate business need to use your user information (for example, to manage your active account with us or to comply with applicable tax, legal, or accounting requirements)."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "Geolocation or other information that permits us to determine your location;"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your interests are inferred.",
+      "quote": "Inferences we may create about you;"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized.",
+      "quote": "We may ourselves, or with third-party vendors and advertising partners, use personal information to deliver targeted advertising to you when you visit other websites or our Properties (including emails)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data goes cross-border.",
+      "quote": "If you submit personal information to Forbes, your personal information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities.",
+      "quote": "We may disclose personal information and other information as we believe necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence;"
+    }
+  ]
+}
