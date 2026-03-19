@@ -1,0 +1,14 @@
+{
+  "url": "https://developers.cloudflare.com/1.1.1.1/privacy/cloudflare-resolver-firefox/",
+  "scanned_at": "2026-03-19T22:12:04.450648+00:00",
+  "tier1": [],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data is held indefinitely.",
+      "quote": "Information stored in Cloudflare’s permanent logs will be anonymized and may be held indefinitely by Cloudflare for its own internal research and development purposes."
+    }
+  ]
+}
