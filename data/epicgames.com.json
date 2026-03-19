@@ -1,0 +1,85 @@
+{
+  "url": "https://legal.epicgames.com/en-US/epicgames/privacy-policy",
+  "scanned_at": "2026-03-19T22:12:26.461768+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "HIGH",
+      "icon": "📸",
+      "headline": "Your images create face mesh.",
+      "quote": "When you use MetaHuman to create in-game characters, we collect images of your face to generate a face mesh solely to provide the requested functionality, not to identify you."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Your data trains machine learning.",
+      "quote": "For example, we may use your information to analyze your use of the Epic Services, support auditing, and improve features, technologies, and processes, including by training machine learning technologies to detect and moderate illegal, harmful, toxic, and fraudulent conduct and content that violates applicable laws or our terms and policies."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Your inputs generate AI outputs.",
+      "quote": "When you use AI-powered features (e.g., Epic Developer Assistant), we use your inputs (e.g., information you submit that may identify you) to generate outputs (e.g., responses)."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "HIGH",
+      "icon": "👤",
+      "headline": "Your parent's email is collected.",
+      "quote": "If you are a parent/guardian of a child user, we may receive your email address directly from your child to contact you for verifiable parental consent."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "HIGH",
+      "icon": "🏢",
+      "headline": "Your data shared within corporate family.",
+      "quote": "We may disclose some of your information to our subsidiaries and affiliates, our service providers, and third parties for the purposes set forth above."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "⏱️",
+      "headline": "Your data retained for ML improvement.",
+      "quote": "We generally retain information for as long as we reasonably need it for the purposes described in Section 4 (Why Do We Process Information?), unless a longer retention period is required or permitted by law."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "MEDIUM",
+      "icon": "📍",
+      "headline": "Your general location inferred.",
+      "quote": "general location information about your device, typically inferred from its IP address."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "HIGH",
+      "icon": "🧠",
+      "headline": "Your content is tailored to you.",
+      "quote": "For example, we may use your information to present content, features, and recommendations tailored to you, or inferred from your activity, including by suggesting games in genres you frequently purchase, and surfacing Islands and game levels based on your play history, and to improve the machine learning technologies that help deliver these personalized recommendations."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Your data processed globally.",
+      "quote": "This means that Epic may process, store, and transfer your information outside the country where you live."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "MEDIUM",
+      "icon": "⚖️",
+      "headline": "Your data shared with law enforcement.",
+      "quote": "law enforcement, government authorities, or others as required to comply with applicable laws, regulations, or legal processes, or if we believe disclosure is necessary to protect the rights, property, or safety of Epic, our users, or others (e.g., to investigate fraud or other illegal activities, enforce our terms and policies, or protect our users or others from death or serious harm);"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "MEDIUM",
+      "icon": "🗑️",
+      "headline": "Your deletion requests have limits.",
+      "quote": "We will delete your personal information, unless retention is necessary for operational or legal reasons, including to: provide the Epic Services you requested, complete transactions, or perform our contract with you; ensure the security or integrity of the Epic Services, or debug the Epic Services; exercise legal rights on behalf of ourselves or others; enable internal uses aligned with user expectations; or comply with the California Electronic Communications Privacy Act, or another legal obligation."
+    }
+  ]
+}
