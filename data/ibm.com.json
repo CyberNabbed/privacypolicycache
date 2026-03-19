@@ -1,0 +1,85 @@
+{
+  "url": "https://www.ibm.com/us-en/privacy",
+  "scanned_at": "2026-03-19T22:14:50.095352+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains IBM AI",
+      "quote": "IBM’s AI models and systems are designed, trained, validated, and tested on data from publicly available sources that may incidentally contain Personal Information."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your finances collected for IBM",
+      "quote": "We may be obliged to ask for a government-issued ID for certain transactions, such as for a financing transaction (see Contractual Relationship )."
+    },
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your consent rolls over",
+      "quote": "By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially",
+      "quote": "We may share personal information with third parties, such as advertising technology partners, data analytics providers and social networks engaged by IBM to deliver targeted IBM advertisements on their platforms, to aggregate information for analysis, and to track engagement with those advertisements."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your data shared internally",
+      "quote": "Internally, personal information is shared for our business purposes: to improve efficiency, for cost savings, and internal collaboration between our subsidiaries (such as Red Hat)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data retained indefinitely",
+      "quote": "We retain any contractual relationship information for administrative purposes, legal and regulatory retention requirements, defending IBM rights, and to manage IBM's relationship with you."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your precise location collected",
+      "quote": "Mobile application privacy notices may provide details about the information that is collected by the app, such as geo-location information or the unique User-ID of a device."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Your behavior gets profiled",
+      "quote": "We accept no responsibility for any content that you make available through your use of our products or services."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data for targeted ads",
+      "quote": "Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "Your personal information may be transferred to or accessed by IBM subsidiaries and third parties globally."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data disclosed legally",
+      "quote": "In certain circumstances, personal information may be subject to disclosure to government agencies in accordance with judicial proceedings, court orders, or legal processes."
+    }
+  ]
+}
