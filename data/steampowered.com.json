@@ -1,0 +1,71 @@
+{
+  "url": "https://store.steampowered.com/privacy_agreement/?snr=1_4_4__global-responsive-menu",
+  "scanned_at": "2026-03-19T22:18:24.216559+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our AI.",
+      "quote": "Valve also processes anonymous data, aggregated or not, to analyze and produce statistics related to the habits, usage patterns, and demographics of customers as a group or as individuals."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data leaves your region.",
+      "quote": "As a US-based company that operates a worldwide gaming service, we may transfer your personal data outside of the European Economic Area, the United Kingdom or Switzerland."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior builds content profiles.",
+      "quote": "We may process information collected under this section 3 so that content, products and services shown on the pages of the Steam store and in update messages displayed when launching the Steam Client can be tailored to meet your needs and populated with relevant recommendations and offers."
+    },
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared for business.",
+      "quote": "However, we may share or provide access to each of the categories of Personal Data we collect as necessary for the following business purposes."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data held for 10 years.",
+      "quote": "Please note that Valve is required to retain certain transactional data under statutory commercial and tax law for a period of up to ten (10) years."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities.",
+      "quote": "Valve may release Personal Data to comply with court orders or laws and regulations that require us to disclose such information."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion requests have limits.",
+      "quote": "In certain cases, Personal Data cannot be completely deleted in order to ensure the consistency of the gameplay experience or the Steam Community Market."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared internally.",
+      "quote": "Valve and its subsidiaries may share your Personal Data with each other and use it to the degree necessary to achieve the purposes listed in section 2 above."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your IP address is logged.",
+      "quote": "When you visit any of our services, our servers log your IP address, which is a number that is automatically assigned to the network your computer is part of."
+    }
+  ]
+}
