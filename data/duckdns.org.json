@@ -1,0 +1,64 @@
+{
+  "url": "https://www.duckdns.org/pp.jsp",
+  "scanned_at": "2026-03-19T22:18:34.077374+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains AI",
+      "quote": "Personal information may be collected by such providers for their own use, in line with their own privacy practices."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "✈️",
+      "headline": "Your Data Travels Globally",
+      "quote": "Your personal information may be maintained and processed by us, our affiliates and other third-party service providers in the US or other jurisdictions."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT Signals Ignored",
+      "quote": "Like many websites, this website is not designed to respond to \"Do Not Track\" signals received from browsers."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Shared Internally",
+      "quote": "Any of the your personal information that we collect may be transferred (or otherwise made available) to our affiliates and other third parties who provide website and administrative/operational support services on our behalf."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your Data Retained Long-Term",
+      "quote": "We store the data we collect for about a year after a user and the DNS entry is no longer active."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "🧠",
+      "headline": "Your Behaviors Are Analyzed",
+      "quote": "This website also uses cookies or other tools that track, measure and analyze the behaviors and usage patterns of visitors to the website, and to facilitate user login."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your Data Shared Legally",
+      "quote": "DuckDNS may share personal information with our affiliates, and with companies, organizations or individuals outside of DuckDNS if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary or desirable to: meet any applicable law, regulation, legal process or enforceable governmental request."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Has Limits",
+      "quote": "Whether or not we are able to process your request may be determined by the records that we have on file and whether we are able to verify that you are an account holder with us."
+    }
+  ]
+}
