@@ -1,0 +1,57 @@
+{
+  "url": "https://policies.taboola.com/privacy-policy/",
+  "scanned_at": "2026-03-19T22:13:46.790736+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your Data Shared Commercially",
+      "quote": "We may disclose User Information to other unaffiliated third parties, specifically with (i) our data partners , so that we can connect you with relevant content by allowing our advertisers to target specific audience segments, and (ii) our programmatic demand and supply partners , so that we can serve you with tailored advertisements."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Interactions Train Our AI",
+      "quote": "Product Improvement : To train, fine-tune, and improve the accuracy of our AI models and algorithms."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your Data Retained for Analysis",
+      "quote": "We retain deidentified or aggregated data, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as commercially necessary."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Precise Location Collected",
+      "quote": "Taboola News : We collect in-app User behaviors (e.g. online status, browsing activity, and clicks) and implicit non-precise device location inferred from search queries (when enabled by the User) and SIM cards or IP addresses."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Behavior Leads To Profiles",
+      "quote": "Advertising : We may use insights from your interactions to serve relevant advertisements and create personalized interest profiles."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your Data Used For Targeted Ads",
+      "quote": "Through our Services, including our Services on Customer websites, we may provide advertisements to you based on your recent browsing behavior across different Customer websites, browsers, or devices."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Leaves Your Country",
+      "quote": "We may transfer your Information outside the country in which it is collected, including to a country that may not offer the same level of protection for Information as the country in which you reside."
+    }
+  ]
+}
