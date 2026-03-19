@@ -1,0 +1,78 @@
+{
+  "url": "https://www.wyze.com/policies/privacy-policy",
+  "scanned_at": "2026-03-19T22:14:38.341026+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold or shared.",
+      "quote": "Under these state privacy laws “sale” means certain scenarios in which Wyze has disclosed Personal Information to third parties in exchange for valuable or monetary consideration."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "🖐️",
+      "headline": "Your facial data is retained.",
+      "quote": "In jurisdictions where we offer Friendly Faces, if you enable Friendly Faces with your Cam Plus or Cam Protect Service, we collect and record facial images and generate and store measurements to create personal information relating to those images (“Facial Data”), which could be considered biometric information or biometric data in some jurisdictions."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data trains AI models.",
+      "quote": "If you consent to allow us to use your information for purposes of training our models or algorithms or improve our products and services, we will use your videos and the descriptions created by Descriptive Alert to develop or improve our algorithms, models, and/or machine learning technologies."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected indirectly.",
+      "quote": "We obtain personal and non-personal information about you from other sources."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data is shared broadly.",
+      "quote": "Between and among Wyze and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data is retained for AI improvement.",
+      "quote": "We store other personal data for as long as necessary to carry out the purposes for which we originally collected it and for other business purposes explained in this Privacy Policy."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "With your consent, we may also collect information about the precise location of your mobile device in connection with your use of our mobile apps."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data is used for ads.",
+      "quote": "This information is used to deliver advertising targeted to your interests on our Services and other companies’ sites or mobile apps and to analyze and track data, determine the popularity of certain content, and better understand your activity."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data is transferred abroad.",
+      "quote": "Therefore, we and those that perform work for us may transfer your information to, or store or access it in the United States or jurisdictions that may not provide levels of data protection that are equivalent to those of your home jurisdiction."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data is disclosed to authorities.",
+      "quote": "In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements."
+    }
+  ]
+}
