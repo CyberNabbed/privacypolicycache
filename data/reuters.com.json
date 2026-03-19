@@ -1,0 +1,99 @@
+{
+  "url": "https://www.thomsonreuters.com/en/privacy-statement",
+  "scanned_at": "2026-03-19T22:15:06.622537+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold",
+      "quote": "Under some local privacy laws, this may constitute a “sale” of personal information."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your biometrics are retained",
+      "quote": "We take steps to permanently destroy any biometric data we maintain within the applicable timeframe specified by law or when it is no longer necessary to achieve the purpose for which it was collected or obtained, whichever occurs first."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI",
+      "quote": "We collect your personal information when you or others upload, share, send, or input that information through our Services or networks or when you or they communicate with us."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🧐",
+      "headline": "Your profile is inferred",
+      "quote": "Inferences from personal information: Profiles reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👥",
+      "headline": "Your data is from third parties",
+      "quote": "We may receive your personal information from third parties, such as our third-party business partners, including data brokers and advertising partners; your organizations; governmental agencies who publish public records; and other publicly or generally available sources, including online websites."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data is shared broadly",
+      "quote": "Affiliates within the Thomson Reuters group of companies."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Your data is retained broadly",
+      "quote": "We calculate the retention period based upon the time the personal information is needed to fulfill the purposes described in this Privacy Statement; meet the timelines required or recommended by regulators, professional bodies, or associations; comply with applicable laws, legal holds, and other legal obligations, including contractual obligations; and comply with your requests."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "Location data: Region, country, state, and coarse and precise geolocation data."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled",
+      "quote": "Inferences from personal information: Profiles reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data is used for ads",
+      "quote": "Send you personalized and interest-based advertising and marketing."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes cross-border",
+      "quote": "As described above, we are a global organization, so your personal information may be transferred outside of your home country and may be stored in and accessed from multiple countries, including the United States."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data shared with authorities",
+      "quote": "With law enforcement, government agencies, or other third parties in order to comply with any law, court order, legal request, or other legal process, as well as to enforce our agreements or protect the rights, property, or safety of our business, employees, customers, or others — including for the purposes of cybersecurity, fraud protection, and credit risk reduction."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion has limits",
+      "quote": "Important : These rights are not absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request."
+    }
+  ]
+}
