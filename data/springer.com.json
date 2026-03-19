@@ -1,0 +1,78 @@
+{
+  "url": "https://link.springer.com/privacystatement",
+  "scanned_at": "2026-03-19T22:14:30.687873+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Data Shared Commercially",
+      "quote": "When you view on-demand video on our websites, we may collect your viewing and usage information, and we may share information that identifies you as having viewed particular video content with service providers that enable video functionality, personalization, and usage analysis and third parties for advertising and marketing, as well as editorial purposes."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains AI",
+      "quote": "Create a profile of your publication record based on publicly available data, such as published books and articles, citations and grants awarded."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👪",
+      "headline": "Your Data Shared Internally",
+      "quote": "Provide access (where appropriate) to other Springer Nature group content if you so request"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🗓️",
+      "headline": "Your Data Retained Long-Term",
+      "quote": "Non-activity is defined at a minimum of three years, to facilitate ease-of-return for account holders."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Location Data Collected",
+      "quote": "This includes a device's IP address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Behavior Is Profiled",
+      "quote": "We use Hotjar in order to better understand our users' needs and to optimize our service and experience."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your Data Used For Ads",
+      "quote": "Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VII) and for statistical analysis that helps us to improve our website (see VIII)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "Your personal data may be transferred to and processed inside and outside of the EEA."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your Data Disclosed To Authorities",
+      "quote": "It is possible that the above providers may disclose your personal data to its business partners, third parties or authorities."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data."
+    }
+  ]
+}
