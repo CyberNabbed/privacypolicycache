@@ -1,0 +1,78 @@
+{
+  "url": "https://www.wiley.com/en-us/privacy/",
+  "scanned_at": "2026-03-19T22:17:24.389796+00:00",
+  "tier1": [
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your Financial Data Collected",
+      "quote": "Financial information, such as payment card data and associated fraud checks."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Data Collected Indirectly",
+      "quote": "We receive personal information from third parties such as: business partners, advertising and marketing agencies, data brokers, analytics providers, academic institutions, journal owners or societies, search information providers, and credit reference agencies."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT Requests Ignored",
+      "quote": "While we do not currently respond to “do not track” browser signals, users have several options to manage cookies and tracking technologies."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your Data Shared Widely",
+      "quote": "We may share personal information with our subsidiary and affiliate companies for the purposes described in the “Use of Personal Information” section above."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your Location Data Collected",
+      "quote": "This includes IP address, browser type and settings, device details, internet service provider, referring and exit pages, site content interactions, location data, and other usage information."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Is Analyzed",
+      "quote": "We use tracking technologies such as cookies, web beacons, embedded scripts, location-identifying technologies, device recognition technologies, and session replay software."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your Ads Are Targeted",
+      "quote": "Marketing our sites, products, or services (including through emails, newsletters, targeted advertising, phone calls, and SMS messages)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your Data Leaves Your Country",
+      "quote": "We may transfer, store or process personal information in any country where Wiley or its service providers operate."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your Data Disclosed Legally",
+      "quote": "We may be required to disclose personal information to meet legal requests, including national security or law enforcement requirements."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "If we cannot fulfil your request for any reason, we will provide an explanation."
+    }
+  ]
+}
