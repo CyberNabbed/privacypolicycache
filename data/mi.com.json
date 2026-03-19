@@ -1,0 +1,78 @@
+{
+  "url": "https://www.mi.com/us/about/privacy/",
+  "scanned_at": "2026-03-19T22:18:34.320866+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "We may sometimes share your personal information with third parties (as described below) in order to provide or improve our services, including offering services based on your requirements."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with affiliates.",
+      "quote": "In order to successfully conduct business operations and to provide you with all the functions of our services, we may share your personal information from time to time to other Xiaomi affiliates."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our services.",
+      "quote": "Internal purposes such as data analysis, research, and development of statistical information related to the use of our services for improvement."
+    },
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your continued use is consent.",
+      "quote": "Your continued use of the services on the website, mobile and/or any other device will be deemed acknowledgement of the updated Privacy Policy."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from others.",
+      "quote": "We may also disclose information about you. (There may be occasions when Xiaomi may collect, use or disclose your personal information without your consent if it is and only to the extent it is permitted under applicable data protection laws)."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained for AI.",
+      "quote": "An exception to this is personal information that we are processing for public interest, scientific, historical research, or statistical purposes."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location may be collected.",
+      "quote": "We may collect log information related to your use, such as cookies, IP addresses."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data moves internationally.",
+      "quote": "Xiaomi processes and backs up personal information through a global operating and control infrastructure."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data shared without warrant.",
+      "quote": "If the disclosure is necessary or appropriate for national security, law enforcement, or other matters of public importance, we may also disclose information about you."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion request may be rejected.",
+      "quote": "If we believe that certain aspects of the request to delete or access the information may result in our inability to legally use the information for the aforementioned anti-fraud and security purposes, it may also be rejected."
+    }
+  ]
+}
