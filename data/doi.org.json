@@ -1,0 +1,64 @@
+{
+  "url": "https://www.doi.org/privacy-policy/",
+  "scanned_at": "2026-03-19T22:14:05.257850+00:00",
+  "tier1": [
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your continued use is consent.",
+      "quote": "If you access the Website or use the Services after any changes have been made you agree to the modified Privacy Policy."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without agreement.",
+      "quote": "Your request, including your IP address and the DOI name you wish to resolve, will then be transmitted to the DOI system, which will use your IP address to return to you the record associated with the DOI name."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with contractors.",
+      "quote": "The DOI Foundation shares your data only with its personnel and contractors who need to access it in order to provide the Services and to the Registration Agencies responsible for the DOI names that you may resolve using the Services."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data retained in log files.",
+      "quote": "Your IP address and the DOI name for which you sought resolution will be retained by the DOI system in a log file that is used for the purpose of monitoring system performance, troubleshooting in the event of problems and otherwise managing the DOI system."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your IP address is collected.",
+      "quote": "When you visit the Websites we collect the IP address of the computer being used by your browser for the sole purpose of sending you the information you request from the Websites."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data may go abroad.",
+      "quote": "By accessing the Website or Services you acknowledge that you may be transferring your personal data to such less protective jurisdictions and, to the extent required by applicable law, you explicitly consent to the transfer."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared legally.",
+      "quote": "The DOI Foundation does not sell or otherwise share your data with third parties, unless required by applicable law."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights restricted.",
+      "quote": "Subject to applicable law, you may have the right to ask us to delete and stop using personal data or information about you."
+    }
+  ]
+}
