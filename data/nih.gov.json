@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nih.gov/privacy-policy",
+  "scanned_at": "2026-03-19T22:12:23.412637+00:00",
+  "tier1": [],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within family.",
+      "quote": "Additionally, NIH.gov participates in the Digital Analytics Program (DAP), in which Google Analytics data is collected from websites across the Federal Government."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data retained indefinitely.",
+      "quote": "NIH retains the data from Google Analytics data as long as needed to support the mission of the NIH.gov website."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data crosses borders.",
+      "quote": "Users of TPWAs often share information with the general public, user community, and/or the third-party operating the Web site."
+    }
+  ]
+}
