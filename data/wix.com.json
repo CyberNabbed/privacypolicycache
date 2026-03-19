@@ -1,0 +1,78 @@
+{
+  "url": "https://www.wix.com/about/privacy",
+  "scanned_at": "2026-03-19T20:41:00.590476+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is 'sold' or shared",
+      "quote": "We may have \"sold\" (using that rather broad and dramatic term as defined by U.S. privacy laws and regulations) or shared the categories of Personal Information listed above in the past 12 months to our affiliates, Third Party Service Providers, promotional partners, advertising partners, analytics partners, and social media platforms."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data infers AI training",
+      "quote": "Inferences drawn from the above information"
+    },
+    {
+      "category": "Non-Account Holder",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected pre-account",
+      "quote": "This Privacy Policy applies to all Wix users, including unregistered visitors, registered users, and premium users (collectively, “Users” , “you” , or “your” ), and to all Wix services, including our websites (including www.wix.com and any of its subdomains, the “Website” ), web applications ( “Wix Apps” ), mobile applications ( “Mobile Apps” ), and related services (collectively, the “Services” )."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your data is shared broadly",
+      "quote": "This Privacy Policy ( “Privacy Policy” ) describes how Wix.com Ltd., together with its affiliated companies worldwide ( “Wix” , “we” , “our” , or “us” ), collect, use, and share your Personal Information ( \"PI\" ), as well as an explanation of the data rights you may have in that Personal Information."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your data is retained for business",
+      "quote": "We retain your Personal Information for the time period reasonably necessary to achieve the purposes described in this Privacy Policy, or any other notice provided at the time of collection."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your IP address is collected",
+      "quote": "Non-precise Geolocation data (IP address, only)"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled",
+      "quote": "Inferences drawn from the above information"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data targets ads",
+      "quote": "You can ask us not to use or disclose your personal information for targeted advertising."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data is shared globally",
+      "quote": "Wix.com Ltd., together with its affiliated companies worldwide ( “Wix” , “we” , “our” , or “us” ), collect, use, and share your Personal Information ( \"PI\" )."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data shared with law enforcement",
+      "quote": "Disclosure of Information for Business Purposes: In the past 12 months, we may have disclosed each of the categories of personal information listed above to our affiliates, Third Party Service Providers, social media platforms, advertising partners, analytics partners, and promotional partners."
+    }
+  ]
+}
