@@ -1,0 +1,78 @@
+{
+  "url": "https://www.microsoft.com/en-us/privacy/microsoft-consumer-health-data-privacy-policy",
+  "scanned_at": "2026-03-19T22:12:07.951846+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "📸",
+      "headline": "Your bodily functions collected.",
+      "quote": "Measurements of bodily functions, vital signs, or characteristics, including photographs, which may also be considered biometric information under the MHMDA, the NHDPA, or other applicable state consumer health privacy law."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data improves products.",
+      "quote": "Primarily, we collect and use consumer health data as reasonably necessary to provide you with the products you have requested or authorized."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from others.",
+      "quote": "As described further in the Personal data we collect section of the privacy statement, we collect personal data (which may include consumer health data) directly from you, from your interactions with our products and services, from third parties, and from publicly available sources."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with affiliates.",
+      "quote": "We enable access to data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems or where access helps us to provide our services and operate our business."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your location reveals health info.",
+      "quote": "Precise location information that could reasonably indicate your attempt to acquire or receive health services or supplies."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your data infers health info.",
+      "quote": "Other information that may be used to infer or derive data related to the above or other health information."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "✉️",
+      "headline": "Your data used for marketing.",
+      "quote": "We may use consumer health data for other purposes for which we give you choices and/or obtain your consent as required by law – for example, for advertising or marketing purposes."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data shared globally.",
+      "quote": "A full list of specific affiliates is available here."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with government.",
+      "quote": "Government agencies . As described in our privacy statement and our Law Enforcement Requests Report , we disclose data to law enforcement or other government agencies when we believe doing so is necessary to comply with applicable law or respond to valid legal process."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion request denied.",
+      "quote": "If your request to exercise a right is denied, you may appeal that decision by contacting our privacy support team via our web form."
+    }
+  ]
+}
