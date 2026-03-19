@@ -1,0 +1,99 @@
+{
+  "url": "https://www.xfinity.com/privacy/policy",
+  "scanned_at": "2026-03-19T20:41:03.919347+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold.",
+      "quote": "We may aggregate or deidentify your information and may use, share, license, or sell aggregated or deidentified information for any purpose."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Your biometric data is collected.",
+      "quote": "Information we use to identify who you are and/or to provide or maintain your account and Services, which may include biometric information, such as audio recordings and facial scans when used as a means of identification"
+    },
+    {
+      "category": "Credit/Debt Reporting",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Your data goes to credit bureaus.",
+      "quote": "We disclose personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI.",
+      "quote": "We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized consumer experiences (including marketing and advertising for our own and others' products and services), investigate fraud and other illegal activities, and to ensure a secure online environment."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected without account.",
+      "quote": "If you use our Services through someone else’s account, we will collect information about you, but it may not identify who you are to us."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Your Do Not Track is ignored.",
+      "quote": "Because definitions and rules for a “Do Not Track” standard have not yet been established, including whether such signals must be user-enabled, Comcast does not yet respond to “Do Not Track” signals sent from browsers."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "We may disclose your personal information, including information that personally identifies you, to Our Related Businesses ( corporate.comcast.com/privacy-related-businesses ) for purposes consistent with those described in our Privacy Policy, including to provide you better services, to personalize your experience, and marketing and advertising."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data is kept indefinitely.",
+      "quote": "We keep your personal information for different lengths of time depending on the type of information and the business and legal requirements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "Geolocation information that indicates where your device is at a specific point in time when you use Xfinity Mobile or enable that function in our mobile apps"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled.",
+      "quote": "Information related to your household, account, or your use of our Services, and our predictions about what you might like or not like"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data is used for ads.",
+      "quote": "We may disclose information to better tailor marketing and advertising on our Services and on third-party platforms."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is sent globally.",
+      "quote": "Your privacy may be impacted differently depending on where you live."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data can be shared.",
+      "quote": "There are times when we may be required by law to disclose information about you to third parties."
+    }
+  ]
+}
