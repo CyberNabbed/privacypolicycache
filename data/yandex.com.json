@@ -1,0 +1,85 @@
+{
+  "url": "https://yandex.com/legal/confidential/en/?lang=en",
+  "scanned_at": "2026-03-19T22:14:20.774567+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "Yandex may also transfer Personal information to third parties outside the Yandex Group to complete the purposes listed in Section 5 above."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves AI models.",
+      "quote": "In particular, we process your Personal information for the following purposes: (v) to improve user experience, including offering more relevant search results and more personalised Sites and/or Services, as well as improving other Yandex products, applications and services; (vi) to develop new products, applications and services;"
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Your payment data is collected.",
+      "quote": "Personal information collected by Yandex when you access, interact with or operate the Sites and/or Services includes: (viii) your payment cards information, and other payment information, provided by you, as well as provided by Partners or other entities engaged into processing of the payment operations conducted within the Yandex Sites or Services or in connection with providing commercial services by Yandex."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from partners.",
+      "quote": "Also, Personal information can be obtained by Yandex through its partners (“Partners”), such as advertising partners or taxi service providers, who provide you with access to or let you use websites, programs, products or services owned or operated by them, and from the sources of publicly available personal data."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within group.",
+      "quote": "Yandex may also transfer your Personal information to its affiliates including other companies of the group to which Yandex belongs (the “Yandex Group”)."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data retained as needed.",
+      "quote": "Yandex will only keep your Personal information for as long as it is necessary to fulfil the purpose for which it was collected or to comply with legal and regulatory requirements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your location is collected.",
+      "quote": "Personal information collected by Yandex when you access, interact with or operate the Sites and/or Services includes: (v) (geo)location information;"
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled.",
+      "quote": "In particular, we process your Personal information for the following purposes: (i) to provide you with the Sites and/or Services (i.e. delivery of search results in response to your search queries, taking into account your preferences, search history and other Personal information about you available to Yandex);"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized.",
+      "quote": "In particular, we process your Personal information for the following purposes: (iv) to personalize advertisements and/or commercial offers based on your preferences, search history and other Personal information available to Yandex;"
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data leaves the EEA.",
+      "quote": "For users in the EEA: Russia is a jurisdiction outside the European Economic Area, which has not been recognized by the European Commission as providing an adequate level of personal data protection. Therefore, Yandex has taken appropriate measures to ensure Personal information is handled according to applicable EU data protection rules."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚨",
+      "headline": "Your data shared for legal reasons.",
+      "quote": "Yandex may also transfer Personal information to the following third parties outside the Yandex Group: (ii) any national or international regulatory, enforcement, exchange body, central or local government department and other statutory or public bodies or court where we are required to do so by applicable law or regulation at their request;"
+    }
+  ]
+}
