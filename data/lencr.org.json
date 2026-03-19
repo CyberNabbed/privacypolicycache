@@ -1,0 +1,64 @@
+{
+  "url": "https://letsencrypt.org/privacy/",
+  "scanned_at": "2026-03-19T22:12:34.010291+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "HIGH",
+      "icon": "🤝",
+      "headline": "Your data is widely shared",
+      "quote": "This information may be made public in a number of ways, including via public API, public repositories such as Certificate Transparency (CT) logs, and/or public discussions."
+    },
+    {
+      "category": "AI Training",
+      "risk": "HIGH",
+      "icon": "🤖",
+      "headline": "Your data improves AI",
+      "quote": "We may also compute, retain and publish aggregate information from server logs, such as which certificates generate the largest volume of requests."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "HIGH",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "When you use an HTTPS web site or other TLS service with a Let’s Encrypt certificate, your browser (or TLS client) may query Let’s Encrypt to check whether the certificate has been revoked."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "HIGH",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared across entities",
+      "quote": "Your personal data may be collected from or transferred to jurisdictions where we and our service providers store or process data, including the United States."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "HIGH",
+      "icon": "🗓️",
+      "headline": "Your data retained indefinitely",
+      "quote": "We will store this information for a minimum of two years per trusted root program requirements."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "MEDIUM",
+      "icon": "🌍",
+      "headline": "Your data goes cross-border",
+      "quote": "Your personal data may be collected from or transferred to jurisdictions where we and our service providers store or process data, including the United States."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "MEDIUM",
+      "icon": "⚖️",
+      "headline": "Your data given to authorities",
+      "quote": "Such circumstances include when we have your consent or when we have a good faith belief it is required by law, such as pursuant to a subpoena or other judicial or administrative order."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "MEDIUM",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "Please note that we may be unable to delete information, including IP addresses, as this information is necessary for others to rely on in determining the trustworthiness of our certificates."
+    }
+  ]
+}
