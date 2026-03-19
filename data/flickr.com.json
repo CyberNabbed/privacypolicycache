@@ -1,0 +1,78 @@
+{
+  "url": "https://www.flickr.com/help/privacy",
+  "scanned_at": "2026-03-19T22:17:23.330878+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models.",
+      "quote": "We use image recognition algorithms to find visually similar images as well as to help you organize your photos and make it easier to search images."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🔍",
+      "headline": "Your photos are analyzed automatically.",
+      "quote": "This technology might identify and tag scenes, actions, objects."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data is shared within our company.",
+      "quote": "To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, (which is part of the certification of our parent company, (Awes.me, Inc. d/b/a Awesome f/k/a SmugMug, Inc.), please visit https://www.dataprivacyframework.gov/ ."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data is kept for business reasons.",
+      "quote": "We store the information we collect about you for as long as is necessary for the purpose(s) outlined in this Privacy Policy, unless the law requires us to keep it for a longer period of time."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location is collected for features.",
+      "quote": "With your consent, we may collect information about the location of your device."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your activity influences content and ads.",
+      "quote": "This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data is used for targeted ads.",
+      "quote": "In addition, Flickr generates part of its revenue by allowing personalized third-party advertisements on our service."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data may be transferred globally.",
+      "quote": "To provide the Services, we may transfer your information to servers operated by Flickr or our service providers in the United States or other countries."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data is shared with authorities.",
+      "quote": "In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion requests have limits.",
+      "quote": "You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes."
+    }
+  ]
+}
