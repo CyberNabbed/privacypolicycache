@@ -1,0 +1,64 @@
+{
+  "url": "https://telegram.org/privacy",
+  "scanned_at": "2026-03-19T22:14:20.773440+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI models.",
+      "quote": "Since Telegram may rely on Google LLC or Microsoft Corporation for automatic translation of messages, the text of any message or set of messages that users choose to translate may be shared with Google or Microsoft in order to obtain their translated versions."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account.",
+      "quote": "Our automatic algorithms can also use anonymized sets of phone numbers to calculate the approximate number of potential contacts an unregistered phone number may have on Telegram."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within family.",
+      "quote": "To provide, improve and support our Services, we may share your personal data with: (1) our parent company, Telegram Group Inc, located in the British Virgin Islands, (2) Telegraph Inc., a group member also located in the BVI; and (3) Telegram FZ-LLC, a group member located in Dubai."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location collected for features.",
+      "quote": "If you share your Live Location in any chat or turn on ’Make Myself Visible’ in People Nearby , Telegram will use your data to display your location to those users with whom you are sharing it, even when the app is closed – for as long as you keep these optional features activated."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "📊",
+      "headline": "Your behavior creates ratings.",
+      "quote": "To do this, we calculate a rating that shows which people you message frequently."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally.",
+      "quote": "Other users of our Services with whom you choose to communicate with and share certain information, who may be located outside the EEA."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data shared with authorities.",
+      "quote": "If Telegram receives a valid order from the relevant judicial authorities that confirms you're a suspect in a case involving criminal activities that violate the Telegram Terms of Service, we will perform a legal analysis of the request and may disclose your IP address and phone number to the relevant authorities."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "⏳",
+      "headline": "Your data persists after deletion.",
+      "quote": "This means that a copy will stay on the server as part of your partner's message history."
+    }
+  ]
+}
