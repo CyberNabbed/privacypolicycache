@@ -1,0 +1,57 @@
+{
+  "url": "https://www.nasa.gov/privacy/",
+  "scanned_at": "2026-03-19T22:14:49.418146+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data may train AI.",
+      "quote": "Anonymous summary demographic information about our visitors such as sex, age range, and areas of interest for adults over the age of 18. We do this by using Google Demographic and Interests reports."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account.",
+      "quote": "This website uses Google Analytics Premium."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👪",
+      "headline": "Your data shared across agencies.",
+      "quote": "NASA will only share your information with another government agency if it relates to that agency, or as otherwise required by law."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your data retained indefinitely.",
+      "quote": "Raw data logs are retained temporarily as required for security and site management purposes only."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your behavior builds profiles.",
+      "quote": "Browsers may be associated with a demographic category, such as sex or age range, based on the sites that were visited."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers globally.",
+      "quote": "Electronic communications with NASA may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed to law enforcement.",
+      "quote": "Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials."
+    }
+  ]
+}
