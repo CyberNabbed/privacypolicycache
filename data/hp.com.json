@@ -1,0 +1,43 @@
+{
+  "url": "https://www.hp.com/us-en/privacy/your-privacy-choices.html",
+  "scanned_at": "2026-03-19T22:17:22.302843+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold, shared",
+      "quote": "Details about what categories and pieces of personal information we collect about you, how we use the information we collect, where and from whom we obtain it, to whom we disclose, sell, or share your personal information, your respective State rights regarding it, and how you can exercise your rights can be found in our HP US Privacy Statement."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data used for profiling",
+      "quote": "If applicable, profiling in furtherance of automated decisions that produce legal or similarly significant effects concerning you."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data funds targeted ads",
+      "quote": "Targeted advertising, cross-context behavioral advertising, or personalized advertising as defined by law in your jurisdiction;"
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers globally",
+      "quote": "Country/Region : United States Select Your Country/Region and Language Africa Afrique América Central Argentina Asia Pacific Australia Bangladesh België Belgique Bolivia Brasil Canada Canada - Français Caribbean Česká republika Chile Colombia Danmark Deutschland Ecuador Eesti España France Hong Kong SAR Hrvatska India Indonesia Ireland Italia Latvija Lietuva Magyarország Malaysia México Middle East Nederland New Zealand Nigeria Norge Österreich Pakistan Paraguay Perú Philippines Polska Portugal Puerto Rico România Saudi Arabia Singapore Slovenija Slovensko South Africa Sri Lanka Suisse Suomi Sverige Switzerland Türkiye United Kingdom United States Uruguay Venezuela Việt Nam Ελλάδα България Казахстан Србија Україна ישראל الشرق الأأسط المملكة العربية السعودية ไทย 中華人民共和国 臺灣 地區 日本 香港特別行政區 한국 About Us Contact HP Careers Investor relations Sustainable impact Inclusion at HP Newsroom Tech Takes HP Store Newsletter HP Printables Newsletter Ways to buy Ways to buy Shop online Call an HP rep Find a reseller Enterprise store Public sector purchasing Support Download drivers Support & troubleshooting Community Authorized service providers Check repair status Fraud alert Security Center HP Partners HP Partners HP Amplify Partner Program HP Partner Portal Developers Stay connected Stay connected Recalls Product recycling Accessibility CA Supply Chains Act Privacy Cookie Preferences Your privacy choices Terms of use Limited warranty statement Terms & conditions of sales & service IP Notices EU Data Act ©2026 HP Development Company, L.P. The information contained herein is subject to change without notice."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Your deletion has exceptions",
+      "quote": "A right to delete the personal information that we collect or otherwise process from you (with specified exceptions for operational and legal necessity)."
+    }
+  ]
+}
