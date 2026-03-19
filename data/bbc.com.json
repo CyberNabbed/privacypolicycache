@@ -1,0 +1,85 @@
+{
+  "url": "https://www.bbc.com/pages/privacy-policy",
+  "scanned_at": "2026-03-19T22:14:00.338110+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is sold and shared",
+      "quote": "By “share”, we mean the disclosure of your personal information to third parties for their own marketing purposes or for cross-context behavioural advertising purposes, subject to certain exceptions under applicable law."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data trains their AI",
+      "quote": "We use machine learning, large language models and algorithms to derive meaning from our data, to segment our audiences (for example based on demographics and frequency of visits) and to create new products and services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "If you don't have an account, we’ll assign you a unique identifier which (subject to your cookie choices in your territory) will allow us to recognise you on a new device or through a different application."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT signal is ignored",
+      "quote": "Some browsers also have a setting called Do Not Track, which sends a signal to websites asking them not to track you. However, as there isn’t a common standard for interpreting this signal, our websites do not respond to them."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within BBC",
+      "quote": "To improve your experience of our services and brands, and to enable us to cross-promote our services, your information may be shared between companies in the BBC group (including BBC Public Service and BBC Studios companies such as UKTV and Britbox International) for the purposes of research, analysis, marketing and ad-serving."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data kept for AI training",
+      "quote": "After this time, your personal information will either be securely deleted or anonymised so that it can be used for analytical purposes."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your behavior builds a profile",
+      "quote": "We use information we know about you and how you use our services to predict things about you (“Inferred Information”)."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data funds personalized ads",
+      "quote": "Our digital services feature advertising, including personalised advertising."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally",
+      "quote": "We use service providers, and share data with advertising platforms, that are located outside the UK and European Economic Area (EEA), primarily in the USA."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data shared with authorities",
+      "quote": "Where required or allowed by law, we may disclose your personal information to law enforcement agencies, government/regulatory bodies, internet service providers and content protection organisations without your consent."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "Sometimes we may not be able to delete your information because (i) we are legally required to keep it; or (ii) we need it for our own legitimate business purposes, for example if you were to unsubscribe from an email list, we would need your email address to add to a suppression list to ensure you were not contacted."
+    }
+  ]
+}
