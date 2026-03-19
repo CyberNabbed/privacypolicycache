@@ -1,0 +1,92 @@
+{
+  "url": "https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement",
+  "scanned_at": "2026-03-19T22:14:15.724430+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold or shared",
+      "quote": "California law treats certain disclosures of personal information with third parties in exchange for something of value as “sales,” even when no money changes hands."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "🖐️",
+      "headline": "Your physical characteristics are processed",
+      "quote": "Physical characteristic data , such as data regarding your facial features, body/eye movements, and voice interactions, that is processed in limited circumstances, such as when you use a VR headset with Autodesk products."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI",
+      "quote": "To develop and improve our current and future offerings and your experience, including through the use of automated systems that analyze data using machine learning and other analytic techniques, in furtherance of our legitimate interests or, where needed, with consent."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "Individuals without Autodesk accounts (non-accountholders) need to provide information establishing their identity to the degree of certainty required by law."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared across company",
+      "quote": "Our affiliates , for any of the purposes and uses of information described in this Privacy Statement, including providing you with integrated offerings (including administering purchases, services, and payments across our integrated offerings) in furtherance of our legitimate interests."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained indefinitely",
+      "quote": "We will retain your personal data for as long as reasonably necessary or permitted and proportionate to the purpose for which it was collected."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "Information that may be deemed sensitive under applicable laws , such as usernames and passwords used to access your account, and precise geolocation information."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your profile infers attributes",
+      "quote": "Inferences drawn from any of the personal and offering usage information available to us."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for ads",
+      "quote": "To deliver targeted advertising and send you promotional offers, advertising, or other marketing content in furtherance of our legitimate interest to engage in direct marketing or with consent as required by applicable law."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers cross-border",
+      "quote": "Because Autodesk is a global company, we transfer personal data across national borders to other countries, in compliance with the laws that apply to that data."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data shared with law enforcement",
+      "quote": "Law enforcement, legal counsel, or other reasonably necessary parties when we determine that such disclosure is reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or appropriate government request or to enforce or apply our terms and conditions or to establish, exercise or defend the rights of Autodesk, Autodesk personnel, customers or others."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🚫",
+      "headline": "Your deletion rights are limited",
+      "quote": "We may retain certain data about you for legal and internal business purposes, such as fraud prevention, in accordance with applicable laws."
+    }
+  ]
+}
