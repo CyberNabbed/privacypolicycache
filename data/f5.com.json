@@ -1,0 +1,92 @@
+{
+  "url": "https://www.f5.com/company/policies/privacy-notice",
+  "scanned_at": "2026-03-19T22:12:35.234522+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold",
+      "quote": "During the 12 months leading up to the effective date of this Privacy Notice, we “sold” and “shared” (as those terms are defined under the CCPA), what the CCPA calls “identifiers” (like IP addresses), “internet or other electronic network activity information” (like information regarding an individual’s browsing interactions on a website), and “commercial information” (like the fact that a browser visited a page directed to people who are considering purchasing from us) to third parties that assist us, such as marketing providers and analytics providers."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "🖐️",
+      "headline": "Your biometric data collected",
+      "quote": "If an F5 Certified! testing partner collects fingerprints or palm vein scans for test security, the standard retention period is three years."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves AI",
+      "quote": "To analyze, improve, and develop F5 products and Services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected unknown",
+      "quote": "We obtain personal data directly from you or your employer; from third-party sources such as our Unity Partners (https://www.f5.com/partners/find-a-partner) (which include resellers and distributors); third-party marketplaces where our products are offered (such as AWS and Google Cloud Platform); data brokers (such as Dun & Bradstreet); marketing companies; referrals from customers, and users; and from publicly available sources such as company websites and LinkedIn."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT signals ignored",
+      "quote": "Please note, however, that we do not respond to browser-based privacy signals (such as do-not-track) at this time."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared widely",
+      "quote": "For those purposes, we may disclose personal data to, for example: our affiliates; our customers; service providers, vendors, and other third parties that assist us, such as our Unity Partners , event providers, payment processors, marketing providers, testing providers, analytics providers, providers of technical services (e.g., providers of data storage, data backup, and CRM systems), and other subcontractors; joint marketing partners; security researchers; employers and others who seek verification of an individual’s claimed certification status; entities involved in dispute resolution (such as an arbitrator or an opposing party); entities involved in potential or actual significant corporate transactions or events (such as those described in the second-to-last item in the list of uses and disclosures above); governmental entities."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data retained indefinitely",
+      "quote": "We will retain personal data as long as necessary to fulfill the purposes outlined in this Privacy Notice unless the law requires us to keep it for a longer period of time."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location collected",
+      "quote": "This information may include unique browser identifiers, IP address, browser and operating system information, device identifiers (such as the Apple IDFA or Android Advertising ID), geolocation, other device information, Internet connection information, as well as details about your interactions with our apps, websites, and emails (for example, the URL of the third-party website from which you came, the pages on our website that you visit, and the links you click on in our websites)."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data for targeted ads",
+      "quote": "The ad services may track your online activities over time by collecting information through automated means such as cookies, and they may use this information to show you ads that are tailored to your individual interests or characteristics and/or based on your prior visits to certain sites or apps, or other information we or they know, infer, or have collected from the users like you."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌐",
+      "headline": "Your data goes abroad",
+      "quote": "We are a global company with headquarters in the United States, and the F5 affiliates and third parties to whom we disclose the personal data as described in this Privacy Notice are located in the United States and elsewhere in the world, including countries where data protection laws may not provide as much protection as your country."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "👮",
+      "headline": "Your data shared without warrant",
+      "quote": "To follow the law, or in other cases where we believe that using or disclosing the data is appropriate to protect the rights, safety, and property of F5 or others (for example, when required to make disclosures in response to lawful requests by public authorities, such as to meet national security or law enforcement requirements)."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights limited",
+      "quote": "Please note that certain information may be exempt from such requests under California law."
+    }
+  ]
+}
