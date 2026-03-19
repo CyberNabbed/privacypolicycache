@@ -1,0 +1,35 @@
+{
+  "url": "https://www.mozilla.org/en-US/privacy/websites/",
+  "scanned_at": "2026-03-19T22:14:19.053254+00:00",
+  "tier1": [],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data retained for 10 years",
+      "quote": "We use Braze , Salesforce , Fundraise Up and Campaign Monitor to email receipts and store records, which are retained for 10 years from the date of last payment."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "When Mozilla (that’s us) collects information about you, our Mozilla Privacy Policy describes how we handle that information."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data shared with authorities",
+      "quote": "We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights may be limited",
+      "quote": "We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws."
+    }
+  ]
+}
