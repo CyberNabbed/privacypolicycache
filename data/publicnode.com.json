@@ -1,0 +1,21 @@
+{
+  "url": "https://publicnode.com/privacy",
+  "scanned_at": "2026-03-19T22:18:20.556942+00:00",
+  "tier1": [
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your continued use is consent",
+      "quote": "Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data transfers globally",
+      "quote": "Please be aware that your Information, including, but not limited to, your Personal Information and Billing Information, may be transferred to, processed, maintained, and used on computers, servers, and systems located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction."
+    }
+  ],
+  "tier2": []
+}
