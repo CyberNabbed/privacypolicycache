@@ -1,0 +1,57 @@
+{
+  "url": "https://www.mi.com/us/about/privacy/",
+  "scanned_at": "2026-03-19T22:15:04.147929+00:00",
+  "tier1": [
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your continued use is consent",
+      "quote": "Your continued use of the services on the website, mobile and/or any other device will be deemed acknowledgement of the updated Privacy Policy."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared broadly within",
+      "quote": "In order to successfully conduct business operations and to provide you with all the functions of our services, we may share your personal information from time to time to other Xiaomi affiliates."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🤔",
+      "headline": "Your data shared with ecosystem",
+      "quote": "Xiaomi may disclose your personal information to the Mi Ecosystem companies to provide you with and improve the existing products and services (both hardware and software) from the Mi Ecosystem companies."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data retained indefinitely for research",
+      "quote": "An exception to this is personal information that we are processing for public interest, scientific, historical research, or statistical purposes."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "We may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data disclosed to authorities",
+      "quote": "If the disclosure is necessary or appropriate for national security, law enforcement, or other matters of public importance, we may also disclose information about you."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion requests may be rejected",
+      "quote": "We have the right to refuse to process requests that are frivolous requests that damage others’ right of privacy, extremely unrealistic requests, requests that require disproportionate technical work, and requests not required under local law, information that have been made public, information given under confidential conditions."
+    }
+  ]
+}
