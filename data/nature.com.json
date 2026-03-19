@@ -1,70 +1,70 @@
 {
   "url": "https://www.nature.com/info/privacy",
-  "scanned_at": "2026-03-19T22:15:07.196804+00:00",
+  "scanned_at": "2026-03-19T22:15:12.115288+00:00",
   "tier1": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "🤝",
-      "headline": "Your data is shared broadly.",
+      "headline": "Your data is shared for ads",
       "quote": "When you view on-demand video on our websites, we may collect your viewing and usage information, and we may share information that identifies you as having viewed particular video content with service providers that enable video functionality, personalization, and usage analysis and third parties for advertising and marketing, as well as editorial purposes."
     },
     {
       "category": "AI Training",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Your data trains their AI.",
+      "headline": "Your data trains generative AI",
       "quote": "We may use generative AI to support us in providing the response or service requested; any output is subject to human oversight before being used."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🤨",
+      "headline": "Your publication history is profiled",
+      "quote": "Create a profile of your publication record based on publicly available data, such as published books and articles, citations and grants awarded."
     },
     {
       "category": "Non-Account Holder Collection",
       "risk": "High",
       "icon": "👤",
-      "headline": "Your data collected without account.",
-      "quote": "When you visit our website for informational reasons, i.e. without registering for any of our provided services listed under IV and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically recognised by our server, such as: Examples might include: - information about video content that you viewed - your IP address; - your device type, name and IDs; - the date and time of your requests; - the content of your requests; - information on your browser version; - your screen resolution; - information on your operating system, including language settings."
+      "headline": "Your data is collected via aggregators",
+      "quote": "Nature Research Intelligence processes personal data collected by research data aggregators such as Dimensions, Crossref, OpenAlex and others in order to generate aggregated research overviews of different research fields and topics."
     }
   ],
   "tier2": [
     {
-      "category": "Corporate Family Sharing",
-      "risk": "High",
-      "icon": "🏘️",
-      "headline": "Your data shared internally.",
-      "quote": "Provide access (where appropriate) to other Springer Nature group content if you so request"
-    },
-    {
       "category": "Data Retention",
       "risk": "High",
       "icon": "🗓️",
-      "headline": "Your financial data kept long.",
+      "headline": "Your financial data is kept 10 years",
       "quote": "By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years."
-    },
-    {
-      "category": "Behavioral Profiling",
-      "risk": "High",
-      "icon": "🧠",
-      "headline": "Your behavior is profiled.",
-      "quote": "We may also utilise other tools, such as Permutive , to build anonymous behavioural segments, and pass the status of membership of these segment(s) into the Facebook cookie."
-    },
-    {
-      "category": "Personalized Advertising",
-      "risk": "High",
-      "icon": "📊",
-      "headline": "Your ads are personalized.",
-      "quote": "With your consent, we may occasionally run online advertising activities targeting you specifically by utilising personal information you have shared with us, namely your email address."
     },
     {
       "category": "Cross-Border Transfers",
       "risk": "Medium",
       "icon": "🌍",
-      "headline": "Your data moves globally.",
+      "headline": "Your data is transferred internationally",
       "quote": "Your personal data will be transferred to and processed inside and outside of the EEA."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is segmented by Permutive",
+      "quote": "Permutive collects and processes pseudonymised data about user browsing behavior on our website in real time. This data is used to segment users into interest-based groups or “topics,” and to track engagement with eCommerce features such as product views and shopping activity."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your email targets online ads",
+      "quote": "With your consent, we may occasionally run online advertising activities targeting you specifically by utilising personal information you have shared with us, namely your email address."
     },
     {
       "category": "Law Enforcement Disclosure",
       "risk": "Medium",
       "icon": "🏛️",
-      "headline": "Your data shared with authorities.",
+      "headline": "Your data may go to authorities",
       "quote": "It is possible that the above providers may disclose your personal data to its business partners, third parties or authorities."
     }
   ]
