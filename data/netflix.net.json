@@ -1,0 +1,85 @@
+{
+  "url": "https://help.netflix.com/legal/privacy",
+  "scanned_at": "2026-03-19T22:15:29.574165+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly",
+      "quote": "We may disclose your personal information to the following parties: The Netflix family of companies: We share your personal information among the Netflix family of companies (see help.netflix.com/legal/corpinfo ) as needed for the following purposes : to provide our service; to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; to send marketing and informational messages; to support Advertisements; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI",
+      "quote": "To research, analyze, and improve our services such as analyzing and understanding our audience to improve our services and optimize Netflix content selection and service delivery."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected from others",
+      "quote": "From other sources: We may collect the following categories of personal information about you from other sources: personal details, payment details, and device and network information."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT requests are ignored",
+      "quote": "We do not currently respond to web browser “do not track\" signals."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👪",
+      "headline": "Your data shared within company",
+      "quote": "We share your personal information among the Netflix family of companies (see help.netflix.com/legal/corpinfo ) as needed for the following purposes : to provide our service; to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; to send marketing and informational messages; to support Advertisements; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data is kept indefinitely",
+      "quote": "Specifically, we retain personal information for as long as necessary to provide our service; to administer and operate our business; to research, analyze, and improve our services; to send marketing and informational messages; to support Advertisements; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "IP addresses (which can be used to tell us the general location of your device, such as your city, state/province, and postal code)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled",
+      "quote": "Some of our Advertisements may be behavioral advertisements (“ behavioral advertisements ” are those that are selected based on information about your use and/or interactions with unaffiliated third party services)."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your ads are personalized",
+      "quote": "Any of these messages, including Netflix marketing on third party services, may be personalized for you or your likely interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes internationally",
+      "quote": "This means that when you use or interact with Netflix, your personal information may be transferred to other countries that have different data protection laws than those where you reside."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared without warrant",
+      "quote": "We may disclose your personal information as necessary to comply with applicable law, regulation, legal process, or governmental request, and processing necessary to protect against harm to the rights, property or safety of Netflix, its users or the public, as required or permitted by law."
+    }
+  ]
+}
