@@ -1,0 +1,78 @@
+{
+  "url": "https://sentry.io/privacy/",
+  "scanned_at": "2026-03-19T22:12:09.440285+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly",
+      "quote": "We may aggregate or de-identify information collected through the Service. We may use aggregated or de-identified data for any purpose, including without limitation for research and marketing purposes, and may also disclose such data to any third parties, including without limitation, advertisers, promotional partners, sponsors, event promoters, and others."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our AI",
+      "quote": "How long is the personal information needed to provide the Service or operate our business? This includes such things as maintaining and improving the performance of the Service, keeping our systems secure, and maintaining appropriate business and financial records."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "The personal information that we may collect about you broadly falls into the following categories: Information that you provide We collect information about you when you input it into our Site or the Service or otherwise provide it directly to us."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🛑",
+      "headline": "Your DNT requests are ignored",
+      "quote": "We do not recognize or respond to browser-initiated Do Not Track signals."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your data shared with affiliates",
+      "quote": "Affiliate companies who help operate and improve our Site and Service (including to support the delivery of, provide functionality on, or help to enhance the security of our Site and Service), offer other Sentry affiliated services to you, or who otherwise process personal information for the purposes described in this policy."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data retained for business needs",
+      "quote": "We retain the personal information we collect from you where we have an ongoing legitimate business need to do so (e.g., to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements)."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your location is collected",
+      "quote": "Specifically, the information we collect will include information such as your IP address, device type, unique device identification numbers, browser-type, operating system, software installed on your device, product keys, general location information (such as inferred from an IP address), and referring URL."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your profile is personalized",
+      "quote": "Personalize and improve the Site and Service and provide advertisements, content, and features that match your profile and interests, and remember information about your preferences for the Site and Service."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes abroad",
+      "quote": "In some cases your personal information is transferred to, and processed in, countries other than the country in which you are resident."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚔",
+      "headline": "Your data shared with authorities",
+      "quote": "Any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person."
+    }
+  ]
+}
