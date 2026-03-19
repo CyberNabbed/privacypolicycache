@@ -1,0 +1,85 @@
+{
+  "url": "https://www.zendesk.com/company/agreements-and-terms/privacy-notice/",
+  "scanned_at": "2026-03-19T20:42:05.206351+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold or shared",
+      "quote": "Although we have not “sold” or “shared” personal data for money in the past 12 months, we engage in routine practices with our Digital Properties involving third parties that could be considered a “sale” or “sharing” as defined under California law."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "Medium",
+      "icon": "👁️",
+      "headline": "Your sensory data is collected",
+      "quote": "Audio, electronic, visual, and other sensory information , such as CCTV recordings of our premises (e.g., if you visit our offices); recordings of your interactions with our sales or advocacy teams (e.g., for quality assurance or training purposes, in accordance with applicable laws); or customer support chat or messaging logs."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🔮",
+      "headline": "Your inferences are collected",
+      "quote": "Inferences as defined by California law , such as marketing you are likely to react positively to."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected from others",
+      "quote": "Information collected from your employer , coworkers, or friends, including information about representatives or other employees of our current, past, and prospective customers, suppliers, investors, and business partners."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🛑",
+      "headline": "Your DNT signals are ignored",
+      "quote": "While some browsers have incorporated Do Not Track or DNT preferences, we do not honor such signals from web browsers at this time."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data is shared broadly",
+      "quote": "Affiliates and subsidiaries within the Zendesk Group, which includes parent and ultimate holding companies, affiliates, subsidiaries, business units, and other companies that we acquire in the future after they are made part of the Zendesk Group"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data is retained for business",
+      "quote": "Once you and/or your company have terminated the contractual relationship with us or otherwise ended your relationship with us, we may retain your personal data in our systems and records to ensure adequate fulfillment of surviving provisions in terminated contracts or for other legitimate business purposes, such as to evidence our business practices and contractual obligations, to provide you with information about our products and services, or to comply with applicable legal, tax, or accounting requirements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location data is collected",
+      "quote": "Geolocation information , such as approximate location based on your IP address, mobile device location, or information you provide to us (such as city and state you provide through a webform)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is analyzed for ads",
+      "quote": "For marketing our products and Services or those of third parties, such as our business partners , including to solicit or publish testimonials or feedback about our products and Services; send you marketing and promotional communications or product recommendations (via email, phone, or other online and offline channels) about our Services or those of third parties; facilitate your participation in a contest or event; assess ad impressions or engage in contextual ad customization."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is transferred globally",
+      "quote": "Due to the global nature of our operations, some of the recipients mentioned in Section 2 of the Notice may be located in countries outside the EEA, Switzerland, or the U.K., which do not provide an adequate level of data protection as defined by data protection laws in the EEA, Switzerland, and the U.K."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data is shared with authorities",
+      "quote": "In addition to the above disclosures, we may share your personal data to respond to lawful requests by law enforcement or other government authorities, including to meet national security requirements, in accordance with our Government Data Request Policy ."
+    }
+  ]
+}
