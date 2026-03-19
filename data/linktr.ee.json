@@ -1,92 +1,71 @@
 {
   "url": "https://linktr.ee/s/privacy",
-  "scanned_at": "2026-03-19T22:14:52.994794+00:00",
+  "scanned_at": "2026-03-19T22:15:07.268416+00:00",
   "tier1": [
     {
       "category": "Data Selling & Sharing",
       "risk": "High",
       "icon": "💸",
-      "headline": "Your Data Is Sold",
+      "headline": "Your data is sold",
       "quote": "When we engage in those activities, we sell personal information (i.e., information from cookies) to third-party advertisers and analytics companies."
     },
     {
       "category": "AI Training",
       "risk": "High",
       "icon": "🤖",
-      "headline": "Your Data Trains AI",
-      "quote": "If you connect your Linktree account to a third-party social platform—such as Instagram, TikTok, or YouTube—we collect and process information from those accounts... We use this information to help you manage your social presence through Linktree Services, provide AI-powered insights and personalize your experience, and for other purposes described in this Privacy Notice."
-    },
-    {
-      "category": "Unusual Clause",
-      "risk": "High",
-      "icon": "👤",
-      "headline": "Your Content Is Scanned",
-      "quote": "We may undertake automatic scanning of your content—including User Profiles, links, communications (such as messages), and searches you perform—to support compliance with our Terms of Service and/or Community Standards."
+      "headline": "Your data trains AI",
+      "quote": "If you connect your Linktree account to a third-party social platform—such as Instagram, TikTok, or YouTube—we collect and process information from those accounts. This may include basic account details, social media posts, reels, videos, engagement metrics, audience demographics, comments and messages, and inferred insights. We use this information to help you manage your social presence through Linktree Services, provide AI-powered insights and personalize your experience, and for other purposes described in this Privacy Notice."
     },
     {
       "category": "Non-Account Holder Collection",
       "risk": "High",
-      "icon": "👥",
-      "headline": "Your Data Is Collected",
-      "quote": "This Privacy Notice only applies to personal information we collect as a controller about: individuals who visit, sign up to use, or interact with the Linktree Services or User Profiles, whether directly or through third party applications that connect with Linktree."
+      "icon": "👤",
+      "headline": "Your data collected as non-user",
+      "quote": "This Privacy Notice only applies to personal information we collect as a controller about: individuals who visit, sign up to use, or interact with the Linktree Services or User Profiles, whether directly or through third party applications that connect with Linktree;"
     }
   ],
   "tier2": [
     {
-      "category": "Do Not Track Ignored",
-      "risk": "High",
-      "icon": "🛑",
-      "headline": "Your DNT Requests Ignored",
-      "quote": "We use cookies and other tracking technologies to display advertisements to you on Linktree and on non-affiliated websites, applications, and online services."
-    },
-    {
-      "category": "Corporate Family Sharing",
-      "risk": "High",
-      "icon": "👨‍👩‍👧‍👦",
-      "headline": "Your Data Shared Broadly",
-      "quote": "We may disclose your personal information to the following categories of recipients: to our group companies and third party services providers (for example, to support the delivery of the Linktree Services, provide functionality, facilitate payments, fulfill tax obligations, or enhance the security of the Linktree Services)."
-    },
-    {
-      "category": "Data Retention",
-      "risk": "High",
-      "icon": "⏳",
-      "headline": "Your Data Retained Indefinitely",
-      "quote": "We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice and in accordance with applicable legal and regulatory requirements in respect of permitted or required retention periods and limitation periods relevant to legal action."
-    },
-    {
-      "category": "Precise Geolocation",
-      "risk": "High",
-      "icon": "📍",
-      "headline": "Your Precise Location Collected",
-      "quote": "Usage and Analytics Data: We collect information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location), time zone, usage data, diagnostic data and other technical information."
-    },
-    {
-      "category": "Behavioral Profiling",
-      "risk": "High",
-      "icon": "📈",
-      "headline": "Your Profile Is Created",
-      "quote": "To personalize and improve your experience of using the Linktree Services, including To ensure the Linktree Services are relevant to you, by analysing your activity on the Platform to understand your interests and preferences, and deliver personalised, targeted and/or localised content based on your activity data, location and preferences."
-    },
-    {
-      "category": "Personalized Advertising",
-      "risk": "High",
-      "icon": "🎯",
-      "headline": "Your Ads Are Targeted",
-      "quote": "To display advertising across Linktree and non-affiliated websites, applications, and online services, and to personalize and measure the effectiveness of those advertisements."
-    },
-    {
       "category": "Cross-Border Transfers",
       "risk": "Medium",
       "icon": "🌍",
-      "headline": "Your Data Goes Overseas",
-      "quote": "Your personal information may be transferred to and processed in countries other than the country in which you are a resident."
+      "headline": "Your data goes cross-border",
+      "quote": "Specifically, Linktree may transfer personal information to Australia (where our headquarters are based), the United States and other countries where we conduct business."
     },
     {
       "category": "Law Enforcement Disclosure",
       "risk": "Medium",
       "icon": "🏛️",
-      "headline": "Your Data Given To Law Enforcement",
-      "quote": "To respond to requests from law enforcement, courts, or other competent authorities."
+      "headline": "Your data shared without warrant",
+      "quote": "We also may disclose your personal information to third parties where we reasonably believe this is necessary to protect Linktree Users and other individuals, enforce our Terms of Service or Community Standards, or prevent, detect, or respond to serious harm or illegal activity."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data targets ads to you",
+      "quote": "We use cookies and other tracking technologies to display advertisements to you on Linktree and on non-affiliated websites, applications, and online services."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "The right to delete your personal information, subject to certain exceptions;"
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data shared across company",
+      "quote": "We may disclose your personal information to the following categories of recipients: to our group companies and third party services providers (for example, to support the delivery of the Linktree Services, provide functionality, facilitate payments, fulfill tax obligations, or enhance the security of the Linktree Services)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled",
+      "quote": "To personalize and improve your experience of using the Linktree Services, including To ensure the Linktree Services are relevant to you, by analysing your activity on the Platform to understand your interests and preferences, and deliver personalised, targeted and/or localised content based on your activity data, location and preferences."
     }
   ]
 }
