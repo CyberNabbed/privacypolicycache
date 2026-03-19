@@ -1,0 +1,78 @@
+{
+  "url": "https://workers.cloudflare.com/policies/privacy",
+  "scanned_at": "2026-03-19T22:12:10.582094+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "Medium",
+      "icon": "🗣️",
+      "headline": "Your image and voice collected.",
+      "quote": "When you participate in a Cloudflare study, we may ask for your permission to record your voice and/or image during your participation in the study."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves Cloudflare AI.",
+      "quote": "Cloudflare may store aggregated data, as outlined within our 1.1.1.1 resolver commitments to privacy, indefinitely in order to power Cloudflare Radar and assist Cloudflare in improving Cloudflare services, such as, enhancing the overall performance of the Cloudflare Resolver and identifying security threats."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected as End User.",
+      "quote": "Cloudflare processes End Users’ interactions with Customer’s Internet Properties and the Services."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within Cloudflare.",
+      "quote": "Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare, Inc. (United States) and its subsidiaries listed Section 15);"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "🕰️",
+      "headline": "Your data retained for business purposes.",
+      "quote": "We store your personal information for a period of time that is consistent with the business purposes set forth in Section 3 of this policy or as long as needed to fulfill and comply with legal obligations."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "📈",
+      "headline": "Your interests personalize services.",
+      "quote": "Personalize the Websites and Services, including by providing features or content that match your interests and preferences;"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data used for targeted ads.",
+      "quote": "We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally.",
+      "quote": "To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data disclosed for legal claims.",
+      "quote": "When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights have limits.",
+      "quote": "Where a Rights Request may implicate the personal information of another individual, we must balance the request against the risk of violating another person’s privacy rights."
+    }
+  ]
+}
