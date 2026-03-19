@@ -1,0 +1,78 @@
+{
+  "url": "https://www.appsflyer.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-19T22:17:23.327308+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains their AI.",
+      "quote": "We may combine the Information received through these sources with other Information we have in order to ensure our records are up to date and so that we are able to provide you with relevant content."
+    },
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your consent rolls over.",
+      "quote": "The updates shall apply immediately for new Information collected or provided as of the day of the update and following thirty (30) days for any Information collected or provided to AppsFlyer prior to the update date."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏘️",
+      "headline": "Your data shared corporately.",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data is kept long-term.",
+      "quote": "We may also retain your Personal Information for such time needed to pursue our legitimate business interests, in connection with any legal claims and compliance with legal obligations."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your behavior is profiled.",
+      "quote": "To understand how you have used our Marketing Platforms and to customize them in accordance with your interests and past actions and choices."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data targets ads.",
+      "quote": "Third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally.",
+      "quote": "We may need to transfer Information to countries where we and/or our service providers operate."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared legally.",
+      "quote": "When required by law, such as to comply with court orders, search warrants, regulatory orders, subpoenas, and other lawful requests by public authorities, including to meet national security or law enforcement requirements."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion has limits.",
+      "quote": "Please note these rights may be limited in certain circumstances as provided by applicable law."
+    }
+  ]
+}
