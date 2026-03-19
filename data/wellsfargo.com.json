@@ -1,0 +1,92 @@
+{
+  "url": "https://www.wellsfargo.com/privacy-security/online/",
+  "scanned_at": "2026-03-19T20:41:03.071084+00:00",
+  "tier1": [
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your biometric data is collected.",
+      "quote": "Information that we may collect about you through online interaction includes information that you input, such as your name, address, email address, and other contact information; data resulting from your activity, such as transaction information and the pages you visit on Site; geolocation information; and biometric information, such as keystroke and mouse movement patterns."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our products.",
+      "quote": "By using the Site, you consent to the use of analytics and monitoring tools to collect user interaction with our products, unless prohibited by law."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Your interactions are monitored.",
+      "quote": "These interactions are collected using cookies and technical log files."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "🕵️",
+      "headline": "Your data collected without account.",
+      "quote": "We may offer sites or applications that permit browsing and do not require registration."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your 'Do Not Track' ignored.",
+      "quote": "Industry standards are currently evolving, and we may not separately respond to or take any action with respect to a \"do not track\" configuration set in your internet browser."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧",
+      "headline": "Your data shared internally.",
+      "quote": "This Wells Fargo Digital Privacy and Cookies Policy (\"Policy\") applies to your interaction with Wells Fargo & Company or any of its subsidiaries (collectively, \"Wells Fargo,\" \"we,\" \"us,\" \"our\")"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data is retained.",
+      "quote": "In addition to the uses described above, we use information for purposes as allowed by law such as: servicing; communicating with you; improving our Site, products, or services; legal compliance; risk control; information security; anti-fraud purposes; marketing or personalizing the presentation of our products and services to you; or tracking email access or website usage, such as number of hits, pages visited, and the length of user sessions in order to evaluate the usefulness of our sites."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your location information collected.",
+      "quote": "Information that we may collect about you through online interaction includes information that you input, such as your name, address, email address, and other contact information; data resulting from your activity, such as transaction information and the pages you visit on Site; geolocation information; and biometric information, such as keystroke and mouse movement patterns."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "🧩",
+      "headline": "Your experience is personalized.",
+      "quote": "We and our service providers use cookies and information collected through their use to make your experience with Wells Fargo and certain other sites richer and more personalized based on the products, services, or other interactions you have with us and other sites."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized.",
+      "quote": "We use cookies, sometimes in conjunction with service providers, in online advertising either on our own Site or on third party sites to help determine which of our advertisements are most likely to appeal to you."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers globally.",
+      "quote": "The additional policies and notices also include the Wells Fargo U.S. Consumer Privacy Notice (PDF) (which applies to U.S. customers and consumers as described in that notice) and various international privacy policies (which apply to information collected by us outside of the U.S. as described in those policies)."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed legally.",
+      "quote": "When permitted or required by law, we may disclose information to additional third parties for purposes including response to legal process."
+    }
+  ]
+}
