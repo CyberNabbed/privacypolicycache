@@ -1,0 +1,28 @@
+{
+  "url": "https://web.mit.edu/privacy/",
+  "scanned_at": "2026-03-19T22:13:59.520159+00:00",
+  "tier1": [],
+  "tier2": [
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data is kept forever",
+      "quote": "We consider our relationship with the MIT community to be lifelong."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes to the US",
+      "quote": "By providing information directly to MIT, you consent to the transfer of your personal information outside of the European Economic Area to the United States."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion has limits",
+      "quote": "Upon a request to erase information, we will maintain a core set of personal data to ensure we do not contact you inadvertently in the future, as well as any information necessary for MIT archival purposes."
+    }
+  ]
+}
