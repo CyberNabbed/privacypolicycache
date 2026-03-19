@@ -1,0 +1,85 @@
+{
+  "url": "https://launchdarkly.com/policies/privacy/",
+  "scanned_at": "2026-03-19T22:14:27.645441+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your Data Is Shared",
+      "quote": "We may disclose your personal data to third parties for purposes of analytics and advertising."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains AI",
+      "quote": "We provide information to analytics providers to better understand how consumers use the Services so we can improve the Services and create new products and services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Info From Others",
+      "quote": "We may also collect information about you from other users."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT Signals Ignored",
+      "quote": "We do not currently recognize or respond to browser-initiated Do Not Track (DNT) signals."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your Data Shared Internally",
+      "quote": "We may disclose information to our affiliates and subsidiaries."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your Data Retained Indefinitely",
+      "quote": "We may also retain and use this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Location Is Collected",
+      "quote": "When you use the Services, we may collect general location information (such as general location inferred from an IP address)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your Behavior Is Profiled",
+      "quote": "We and our vendors may use cookies, clear GIFs, pixel tags, and other technologies that help us better understand user behavior, personalize preferences, perform research and analytics, and improve the Services."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Your Data For Ads",
+      "quote": "We may also allow third-party advertising technologies to place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Services in order to (a) inform, optimize, and serve marketing content based on past visits to our websites and other third-party sites and (b) report how our marketing content impressions and interactions with these marketing impressions are related to visits to our websites."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Transferred Globally",
+      "quote": "Our services are global and data may be transferred to countries other than the country in which the data was originally collected, including to the United States and other countries, which may not have the equivalent data protection laws as those of your country."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your Data Shared Legally",
+      "quote": "We may disclose certain information if we believe in good faith that doing so is necessary or appropriate to comply with any law enforcement, legal, or regulatory process, such as to respond to a warrant, subpoena, court order, or other applicable laws and regulations."
+    }
+  ]
+}
