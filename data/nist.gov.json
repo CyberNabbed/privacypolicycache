@@ -1,0 +1,21 @@
+{
+  "url": "https://www.nist.gov/admr/oism/site-privacy",
+  "scanned_at": "2026-03-19T22:12:33.829625+00:00",
+  "tier1": [],
+  "tier2": [
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Your data crosses borders.",
+      "quote": "Google’s CAPTCHA or reCAPTCHA is used within some online resources and services to ensure malicious software is not engaging in activity within the online resource or service."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "✈️",
+      "headline": "Your data goes to Cloudflare.",
+      "quote": "Cloudflare Turnstile is used within some of our online resources and services."
+    }
+  ]
+}
