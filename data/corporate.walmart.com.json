@@ -1,0 +1,106 @@
+{
+  "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+  "scanned_at": "2026-03-19T22:08:42.103Z",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold or shared.",
+      "quote": "We may disclose personal information to third parties or process your personal information for various purposes, including targeted advertising. These kinds of disclosures may be deemed selling under certain state privacy laws."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "High",
+      "icon": "👁️",
+      "headline": "Your face geometry is collected.",
+      "quote": "Biometric Information, such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains our AI.",
+      "quote": "Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them, such as training our AI."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "🎲",
+      "headline": "Your preferences are inferred.",
+      "quote": "Inferences, such as individual preferences and characteristics. This may include inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your income is collected.",
+      "quote": "Demographic Information, such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data is collected without account.",
+      "quote": "Automated License Plate Readers (ALPR) may also be in use on our properties, where permitted by law. Personal information is collected from ALPRs to help ensure security, prevent theft and fraud, assist with parking enforcement, and to help maintain the safety of individuals and properties."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data is shared broadly.",
+      "quote": "We may disclose your personal information with other retail and non-retail companies (e.g., Sam’s Club and One Finance) within our corporate family for them to use in ways that are consistent with this Privacy Notice."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your biometric data is retained.",
+      "quote": "Biometric Retention Schedule: Walmart will permanently destroy your biometric identifiers and biometric information when the first of the following occurs: (i) the initial purpose for collecting or obtaining such biometric data has been satisfied; (ii) within 3 years of your last interaction with us; or (iii) as otherwise required by applicable law."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "Also, depending on your device’s settings and with your consent, we may collect precise geolocation information. You can control our ability to do this by adjusting the location-sharing settings on your mobile device at any time."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled.",
+      "quote": "Inferences, such as individual preferences and characteristics. This may include inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized.",
+      "quote": "Performing and providing advertising and marketing services, including targeted advertising."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data is transferred globally.",
+      "quote": "Data Controller: Wal-Mart.com USA, LLC, with an address of 850 Cherry Ave., San Bruno, CA 94066, United States, is the data controller."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data is shared with law enforcement.",
+      "quote": "We may disclose your personal information when required by law or legal process, or when we believe doing so will help to protect the safety, property, or rights of individuals or Walmart."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "A request to delete personal information is subject to certain exceptions, defined by law."
+    }
+  ]
+}
