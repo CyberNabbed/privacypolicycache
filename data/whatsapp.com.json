@@ -1,0 +1,71 @@
+{
+  "url": "https://www.whatsapp.com/legal/privacy-policy",
+  "scanned_at": "2026-03-19T20:41:02.408800+00:00",
+  "tier1": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared across Meta",
+      "quote": "As part of the Meta Companies , WhatsApp receives information from, and shares information (see here ) with, the other Meta Companies ."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data used for AI",
+      "quote": "We may use the information we receive from them, and they may use the information we share with them, to help operate, provide, improve, understand, customize, support, and market our Services and their offerings, including the Meta Company Products ."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your payment data collected",
+      "quote": "If you use our payments services, or use our Services meant for purchases or other financial transactions, we process additional information about you, including payment account and transaction information."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from others",
+      "quote": "We receive information about you from other users."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected",
+      "quote": "We collect and use precise location information from your device with your permission when you choose to use location-related features , like when you decide to share your location with your contacts or view locations nearby or locations others have shared with you."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data retained indefinitely",
+      "quote": "We store information for as long as necessary for the purposes identified in this Privacy Policy, including to provide our Services or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our Terms, or protecting or defending our rights, property, and users."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "Your information may, for example, be transferred or transmitted to, or stored and processed in, the United States; countries or territories where the Meta Companies’ affiliates and partners, or our service providers are located; or any other country or territory globally where our Services are provided outside of where you live for the purposes as described in this Privacy Policy."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your data shared without warrant",
+      "quote": "We access, preserve, and share your information described in the \" Information We Collect \" section of this Privacy Policy above if we have a good-faith belief that it is necessary to: (a) respond pursuant to applicable law or regulations, legal process, or government requests; (b) enforce our Terms and any other applicable terms and policies, including for investigations of potential violations; (c) detect, investigate, prevent, or address fraud and other illegal activity or security, and technical issues; or (d) protect the rights, property, and safety of our users, WhatsApp, the other Meta Companies , or others, including to prevent death or imminent bodily harm."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion has limitations",
+      "quote": "Please remember that when you delete your account, it does not affect your information related to the groups you created or the information other users have relating to you, such as their copy of the messages you sent them."
+    }
+  ]
+}
