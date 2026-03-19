@@ -1,0 +1,64 @@
+{
+  "url": "https://bunny.net/privacy/",
+  "scanned_at": "2026-03-19T22:12:23.413160+00:00",
+  "tier1": [
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your agreement is presumed",
+      "quote": "By registering at bunny.net, the user is deemed to have given consent to the processing of their personal data."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your data trains AI",
+      "quote": "When using the Fluffee chat, our system leverages the OpenAI ChatGPT API to generate responses."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your income data collected",
+      "quote": "When you sign up for a bunny.net account, we collect your full name, email address, and postal address."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared internally",
+      "quote": "Salesforce will receive billing, consumption, and service usage details."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data retained for taxes",
+      "quote": "Personal data included in tax and accounting documents will be retained for the period required under applicable tax and accounting regulations."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "Medium",
+      "icon": "👤",
+      "headline": "Your behavior is analyzed",
+      "quote": "This may include the name of the browser used, pages visited, and points of interest based on mouse heatmap technology."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data crosses borders",
+      "quote": "Address: BunnyWay d.o.o., Dunajska cesta 165, 1000 Ljubljana, Slovenia"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "✂️",
+      "headline": "Your deletion rights limited",
+      "quote": "The withdrawal applies only to data processed on the basis of consent."
+    }
+  ]
+}
