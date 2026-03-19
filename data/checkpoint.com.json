@@ -1,0 +1,78 @@
+{
+  "url": "https://www.checkpoint.com/privacy/",
+  "scanned_at": "2026-03-19T22:15:44.845550+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI.",
+      "quote": "We may use telemetry, threat indicators, and interaction data for enhancing the efficiency, security and performance of our Services, including those powered by artificial intelligence (AI) and machine learning."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account.",
+      "quote": "We may also receive business contact information from third-party sources, such as marketing and strategic partners, business partners, channel partners, service providers, and publicly available sources, consistent with applicable law and your preferences;"
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT requests are ignored.",
+      "quote": "Because there is no common or legally required way to respond to these signals, our Services do not currently respond to them."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared widely.",
+      "quote": "We may share Personal Data with our distributors, partners, corporate affiliates, parents, or subsidiaries for any purpose described in this Privacy Policy."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data retained for backups.",
+      "quote": "To ensure security and business continuity for the activities outlined in this Privacy Policy, we create backups of certain data, which may be retained beyond the retention period of the original data."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your profile used for personalization.",
+      "quote": "Analytics for websites and corporate portals (including through cookies and similar technologies) and providing limited personalization and profiling that does not produce legal or similarly significant effects;"
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data used for ads.",
+      "quote": "However, we may allow certain third parties to collect information through cookies or similar technologies for analytics and advertising purposes, which could be considered a ‘sale’ or ‘share’ under applicable U.S. state privacy laws (such as the California Consumer Privacy Act)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data travels globally.",
+      "quote": "As a result, we collect and transfer Personal Data on a global basis."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data shared with authorities.",
+      "quote": "We may access, preserve, and disclose your Personal Data if we believe doing so is required or appropriate to: (i) comply with law enforcement requests and legal process, such as a court order or subpoena;"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "Please note that there are exceptions and limitations to each of these rights, and that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain Personal Data for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so."
+    }
+  ]
+}
