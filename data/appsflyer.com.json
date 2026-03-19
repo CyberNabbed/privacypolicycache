@@ -1,0 +1,78 @@
+{
+  "url": "https://www.appsflyer.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-19T22:14:24.927737+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is shared broadly.",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches. Third parties that help us operate our Marketing Platforms (e.g. hosting company, recruitment platforms and agencies, payment processors, business management and email distribution service providers and other similar service providers)."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our systems.",
+      "quote": "To understand how you have used our Marketing Platforms and to customize them in accordance with your interests and past actions and choices. We do this based on our legitimate interest to operate our Marketing Platforms, diagnose any problems with the Marketing Platforms and to improve the Marketing Platforms and your experience when navigating through them."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without policy agreement.",
+      "quote": "Information obtained from third party sources. This includes Information received through the various business support tools and services that we use (e.g. marketing platforms, analytics services etc.) and public sources such as social media sites."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within our family.",
+      "quote": "In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as: Our subsidiary companies and global branches."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "🗓️",
+      "headline": "Your data is kept indefinitely for business interests.",
+      "quote": "We may also retain your Personal Information for such time needed to pursue our legitimate business interests, in connection with any legal claims and compliance with legal obligations."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your behavior builds our profile of you.",
+      "quote": "To understand how you have used our Marketing Platforms and to customize them in accordance with your interests and past actions and choices."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🗣️",
+      "headline": "Your data is used for ads.",
+      "quote": "We may use certain third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes worldwide.",
+      "quote": "We may need to transfer Information to countries where we and/or our service providers operate. Such countries may be different from the country in which the data originated and where data protection laws may not be equivalent to, or offer the same protection as, those in your country."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed to authorities.",
+      "quote": "When required by law, such as to comply with court orders, search warrants, regulatory orders, subpoenas, and other lawful requests by public authorities, including to meet national security or law enforcement requirements; Legal authorities, consultants, advisors or service providers when required to investigate, respond to, or prevent, fraud; or when required to ensure the security of our network and services and protect the safety of AppsFlyer or the public."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are restricted.",
+      "quote": "Please note these rights may be limited in certain circumstances as provided by applicable law."
+    }
+  ]
+}
