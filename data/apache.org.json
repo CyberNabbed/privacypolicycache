@@ -1,0 +1,50 @@
+{
+  "url": "https://privacy.apache.org/policies/privacy-policy-public.html",
+  "scanned_at": "2026-03-19T22:13:42.288520+00:00",
+  "tier1": [
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your Data Trains AI",
+      "quote": "Some project websites are using Kapa.AI to provide an advanced interface to their documentation. Some project websites are using Algolia to provide an AI Search of their documentation."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your Data Is Collected",
+      "quote": "When you visit our websites ( full list of domains ) or one of our subdomains, the browser on your device automatically sends information to the server of our website."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your Data Travels Globally",
+      "quote": "The Apache Software Foundation uses the Amazon Web Services (“AWS”) service of Amazon Web Services, Inc. (P.O. Box 81226, Seattle, WA 98108-1226, USA), to host DNS records. By the nature of DNS, the data is stored in several servers around the globe."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your Location Is Collected",
+      "quote": "Geo information of the location from which access is made"
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "⚖️",
+      "headline": "Your Data Disclosed Legally",
+      "quote": "Disclosure pursuant to Art. 6 para. 1 sentence 1 lit. c GDPR is a legal obligation."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your Deletion Rights Limited",
+      "quote": "to demand the deletion of your personal data stored by us, unless the processing is required for the exercise of the right to freedom of expression and information, for the fulfillment of a legal obligation, for reasons of public interest or for the assertion, exercise or defense of Legal claims."
+    }
+  ]
+}
