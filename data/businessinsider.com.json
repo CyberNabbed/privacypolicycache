@@ -1,0 +1,92 @@
+{
+  "url": "https://www.businessinsider.com/privacy-policy",
+  "scanned_at": "2026-03-19T22:15:42.233311+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data may be sold.",
+      "quote": "We may provide personal information to third parties, such as advertising partners or other marketing partners who provide services to us."
+    },
+    {
+      "category": "Biometric Data",
+      "risk": "Medium",
+      "icon": "👁️",
+      "headline": "Your biographic data is collected.",
+      "quote": "Business Insider may collect demographic information you voluntarily provide to us, including your age and gender."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your inquiries may train AI.",
+      "quote": "To provide you with customer support and respond to your questions; this may include the use of chatbots."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your contacts' data is collected.",
+      "quote": "We may collect personal information you provide about your contacts, including information about other employees at your company."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🌐",
+      "headline": "Your 'Do Not Track' is ignored.",
+      "quote": "Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared within family.",
+      "quote": "We may also disclose your personal information to our parent company, subsidiaries, joint ventures, or Company Affiliates."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "💾",
+      "headline": "Your data retention is vague.",
+      "quote": "We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "We collect data when you access and interact with our Services, including browser or device model and settings, operating system, and unique identifiers, clickstream data, cookies and localStorage, browsing history, search history, web-based location, IP address, geolocation, and any other internet usage information our Service may automatically record when you visit."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your profile is inferred.",
+      "quote": "We may also use inferences drawn from personal information, as permitted by applicable law, to create a profile reflecting your preferences so we can tailor our services to you."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized.",
+      "quote": "We and our Identity Resolution Partners may facilitate identity resolution by creating probabilistic and deterministic identifiers."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data goes cross-border.",
+      "quote": "If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States or in any other country in which we have facilities or in which we engage service providers."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🚓",
+      "headline": "Your data shared without warrant.",
+      "quote": "We may disclose your personal information where we believe the disclosure is necessary or appropriate to comply with regulatory or legal requirements, or to protect the safety, rights, or property of ourselves and others and to exercise, establish, or defend our legal rights."
+    }
+  ]
+}
