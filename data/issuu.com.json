@@ -1,0 +1,85 @@
+{
+  "url": "https://issuu.com/legal/privacy",
+  "scanned_at": "2026-03-19T22:15:18.449768+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is sold/shared",
+      "quote": "We disclose the following categories of personal information to third parties for the purpose of engaging in targeted advertising (these disclosures may be considered \"sales\" or \"sharing\" under certain State Laws): Identifiers, Internet and electronic network activity, App usage and diagnostic information, Inferences, Advertising and marketing partners."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your content trains AI",
+      "quote": "Improving our content moderation algorithm based on Contributions that are illegal or violate our Terms of Service."
+    },
+    {
+      "category": "Unusual Clause",
+      "risk": "High",
+      "icon": "⁉️",
+      "headline": "Your profile is inferred",
+      "quote": "Inferences we generate about your use of our Services."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without account",
+      "quote": "We collect personal information from several sources: directly from you (for example, when you make purchases or participate in a survey or contest), automatically when you use the Services (for example, browser information), and from other sources (for example, ad networks)."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👪",
+      "headline": "Your data is shared broadly",
+      "quote": "We may disclose your personal data to... Our corporate affiliates under common control and ownership."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏳",
+      "headline": "Your data retained 10 years",
+      "quote": "Personal data processed for Defense purposes will be kept for no more than ten (10) years from your last interaction with our Services, or from the expiration of your subscription."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your approximate location collected",
+      "quote": "In the preceding 12 months, we have collected the following categories of personal information: ... approximate geolocation information (such as country)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "📈",
+      "headline": "Your behaviors are profiled",
+      "quote": "To analyze your usage information, including your preferences, interests and behaviors when you use our Services (\" Profiling \")."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred globally",
+      "quote": "We may transfer personal data from the European Economic Area (\" EEA \") to other countries outside the EEA."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared without warrant",
+      "quote": "Public, judicial and/or police authorities, within the limits established by applicable laws."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "Upon the expiration of the mentioned retention periods, unless specific legal obligations require that the data is retained for longer, the data is either deleted or anonymized."
+    }
+  ]
+}
