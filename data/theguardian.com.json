@@ -1,0 +1,71 @@
+{
+  "url": "https://www.theguardian.com/help/privacy-policy",
+  "scanned_at": "2026-03-19T22:13:53.045964+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data may be sold.",
+      "quote": "You will find below information on how we collect, use, share, transfer and, for California residents only, sell your personal data when you use the services provided on our sites or interact with us."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data trains AI.",
+      "quote": "The Guardian may use generative AI functionalities in our software and systems, including in our use of personal data."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "🏢",
+      "headline": "Your data is shared broadly.",
+      "quote": "We may share your personal data within the Guardian group of companies in the UK, US, or Australia."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "⏱️",
+      "headline": "Your data is kept long-term.",
+      "quote": "However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing communications in the future."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled.",
+      "quote": "We may also obtain your personal data from partners whose offers we include in some of our marketing communications and we use this personal data to ensure that we do not send you irrelevant marketing and to ensure the accuracy of the information we hold."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "📊",
+      "headline": "Your data targets ads.",
+      "quote": "We may also share your personal data collected through our sites with our advertising partners, as set out in our cookie policy."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data leaves your country.",
+      "quote": "Personal data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data is shared with authorities.",
+      "quote": "We may reveal your personal data to any law enforcement agency, court, regulator, government authority, or in connection with any legal action if we are required to do so to meet a legal or regulatory obligation, where the request is proportionate, or otherwise to protect our rights or the rights of anyone else (for example, in response to a valid and properly served legal process such as subpoena or warrant)."
+    }
+  ]
+}
