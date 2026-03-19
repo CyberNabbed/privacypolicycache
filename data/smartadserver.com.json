@@ -1,0 +1,78 @@
+{
+  "url": "https://privacy.equativ.com/ssp-ads-end-users-privacy-policy/",
+  "scanned_at": "2026-03-19T22:18:25.350644+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly",
+      "quote": "We may share information, including Personal Data, to our affiliates and with trusted third parties that provide services for Equativ, such as hosting and internet connectivity, Demand-Side Partners (DSP), third-party data providers or advertisers, and anti-fraud tools providers."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our services",
+      "quote": "When Equativ acts as controller we may process Personal Data including for: the analysis of privacy signals, ensuring security, preventing fraud and debugging, the improvement of Equativ’s services , the management of the commercial relationship with our clients, client support, billing."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💰",
+      "headline": "Your sensitive financial data collected",
+      "quote": "Under U.S privacy laws, we may have access to sensitive personal information such as precise geolocation in accordance with such laws."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared across affiliates",
+      "quote": "Personal Data may be transferred to our affiliates or a partner located outside the EU/EEA including to third-countries for which the European Commission has not adopted an adequacy decision yet."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your data is retained for 13 months",
+      "quote": "Unless otherwise required by applicable laws, Personal Data will be retained for a maximum of 13 months."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is used",
+      "quote": "When we are joint controllers with our Supply Partners, we process Personal Data for the following purposes: Store and/or access information on a device; Use limited data to select advertising ; Create profiles for personalized advertising; Use profiles to select personalized advertising; Measure advertising performance; Where and if applicable we may rely on use the following features within these purposes: match and combine data from other data sources, link different devices, use of precise geolocation."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your profile is created",
+      "quote": "When we are joint controllers with our Supply Partners, we process Personal Data for the following purposes: Store and/or access information on a device; Use limited data to select advertising ; Create profiles for personalized advertising; Use profiles to select personalized advertising; Measure advertising performance; Where and if applicable we may rely on use the following features within these purposes: match and combine data from other data sources, link different devices, use of precise geolocation."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your ads are personalized",
+      "quote": "When we are joint controllers with our Supply Partners, we process Personal Data for the following purposes: Store and/or access information on a device; Use limited data to select advertising ; Create profiles for personalized advertising; Use profiles to select personalized advertising; Measure advertising performance; Where and if applicable we may rely on use the following features within these purposes: match and combine data from other data sources, link different devices, use of precise geolocation."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "High",
+      "icon": "🌍",
+      "headline": "Your data transfers globally",
+      "quote": "Personal Data may be transferred to our affiliates or a partner located outside the EU/EEA including to third-countries for which the European Commission has not adopted an adequacy decision yet."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed legally",
+      "quote": "We may also disclose information if: we are required by national or international law or legislation to do so; we must comply with an authorized request or demand; it is necessary in order to defend our own rights or interests."
+    }
+  ]
+}
