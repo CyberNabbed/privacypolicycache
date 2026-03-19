@@ -1,0 +1,85 @@
+{
+  "url": "https://pubmatic.com/legal/privacy-policy/",
+  "scanned_at": "2026-03-19T22:14:27.646966+00:00",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data is shared broadly.",
+      "quote": "As described in this Platform Privacy Policy, we process information to personalize and deliver ads, and for other ads-related purposes, including to build interest segments. Some of these activities may be considered “sales” or “sharing” of your personal information or using your information for purposes of “targeted advertising” under certain State Privacy Laws."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data improves our Ad Services.",
+      "quote": "Facilitate navigation, display information more effectively, and to personalize your experience while using the Ad Services, as well as auditing, researching, and analyzing information to provide, protect, manage, and improve our Ad Services, develop new services, and ensure that our technologies function properly."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected from End Users.",
+      "quote": "Any reference to “you”, “your”, “user(s)”, “individual(s)”, “data subject(s)”, implies the “End User(s)” who accesses websites, apps, or other digital properties that are being monetized through our Ad Services (defined below) so that we may deliver advertising and perform related activities (see “ About Us and Our Services ”)."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Do Not Track Ignored",
+      "risk": "High",
+      "icon": "🚫",
+      "headline": "Your DNT requests are not honored.",
+      "quote": "If you reside in California, you may also opt out of web-based sales and sharing via our browser cookie by visiting the digital properties of our Clients with a legally-recognized opt-out preference signal enabled, such as the Global Privacy Control."
+    },
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with affiliates.",
+      "quote": "We may disclose your information to our affiliates (see “ Who We Are “) who provide data processing and business administration support for the purposes described in this Policy."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained for various periods.",
+      "quote": "We will retain User Information for as long as necessary to fulfill the purpose of collection, including for the purposes of satisfying any business, legal, regulatory, accounting, or reporting requirements; to establish and defend legal claims; for fraud prevention purposes; or as long as required to meet our legal obligations."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "Information about an End User’s behavior on our Publishers digital properties (“ Behavioral Information “), such as information about how you interact with the pages of those digital properties, session start/stop time, and precise geolocation (including latitude and longitude coordinates, but only if the Publisher’s digital property has enabled location services on the device and the End User has granted the Publisher permission to collect and share this information for advertising purposes)."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your interests are profiled.",
+      "quote": "Targeted Advertising. The method by which we predict likely commercial interests (e.g., sports or travel) based on activities across websites, mobile apps, and other Digital Properties over time."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally.",
+      "quote": "In connection with the PubMatic Properties and Ad Services, your User Information may be transferred to, and processed by PubMatic, its service providers, and partners in countries other than the country in which you are resident, including in the United States, India, and other locations where we have offices or employees (please see our Locations page for a full list) or engage service providers or our partners."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared for legal purposes.",
+      "quote": "For legal purposes : We may share your information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to establish or exercise our legal rights or defend against legal claims."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion requires verification.",
+      "quote": "Please note that because most of the personal information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with additional information to enable us to identify the User Information we hold about you and ensure that we accurately fulfill your request and do not infringe on the privacy rights of other individuals."
+    }
+  ]
+}
