@@ -1,0 +1,92 @@
+{
+  "url": "https://www.ymca.org/privacy-policy",
+  "scanned_at": "2026-03-25T17:57:46.200Z",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared for commercial use.",
+      "quote": "YMCA of the USA will not license or sell your Personal Information to others but may disclose your information to YMCA associations, service providers, affiliates, partners, and third-party vendors that work with YMCA of the USA to help us provide a product or service to you."
+    },
+    {
+      "category": "AI Training",
+      "risk": "High",
+      "icon": "🤖",
+      "headline": "Your data used for AI training.",
+      "quote": "YMCA of the USA uses Google Analytics and other third-party services to improve the performance of the Site and for analytics and marketing purposes."
+    },
+    {
+      "category": "Financial Data Collection",
+      "risk": "High",
+      "icon": "💳",
+      "headline": "Your financial data is collected.",
+      "quote": "Examples of the information collected by YMCA of the USA includes your name, home address, e-mail address, telephone number, date of birth, demographic information, payment or billing information, allergy and food sensitivity information, sex-offender status, YMCA membership status, emergency contact information, physician or insurance information, or any other information you choose to provide."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without consent.",
+      "quote": "YMCA of the USA may collect Personal Information about a child under the age of 13 from a parent or legal guardian that registers their child for a YMCA of the USA event, conference or activity."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared across entities.",
+      "quote": "With affiliates and YMCA local chapters for grant reporting and to collaborate on programming initiatives, including tracking program participation;"
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your data retained indefinitely.",
+      "quote": "YMCA of the USA will retain information in identifiable form for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal or regulatory obligations mandate that we retain the information."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "High",
+      "icon": "📍",
+      "headline": "Your precise location is collected.",
+      "quote": "We may also collect location information when you agree to such collection on our Site or through your browser settings."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your behavior is profiled.",
+      "quote": "Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your use of the Site and other sites or apps over time, including information about relationships among different browsers and devices."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data used for targeted ads.",
+      "quote": "We share non-sensitive personal information for targeted advertising purposes but do not otherwise engage in “sales” of personal information as defined by state laws."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally.",
+      "quote": "to the extent permitted by applicable law in special cases in which we believe it is reasonably necessary to investigate, identify or take preventive measures or bring legal action against someone who may commit or cause harm, fraud, abuse or illegal conduct, such as a threat of harm to you or anyone else, interference with our rights or property or interference with U.S. homeland or national security or public safety anywhere in the world;"
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities.",
+      "quote": "Pursuant to valid legal process including subpoenas, court orders, governmental inquiry, search warrants, or as otherwise authorized by law;"
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "Please note that if you opt out of certain practices, we may be unable to provide you with some services."
+    }
+  ]
+}
