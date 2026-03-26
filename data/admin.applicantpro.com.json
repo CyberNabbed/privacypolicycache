@@ -1,0 +1,85 @@
+{
+  "url": "https://admin.applicantpro.com/privacy-policy/",
+  "scanned_at": "2026-03-26T23:35:58.365Z",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data shared commercially.",
+      "quote": "isolved Talent Acquisition shares information for reasons including, but not limited to, improvement of our services, products and features, better protect our users, better understand their needs and to optimize the services and experience of our users."
+    },
+    {
+      "category": "Rolling Consent",
+      "risk": "High",
+      "icon": "🔄",
+      "headline": "Your continued use is consent.",
+      "quote": "Your continued use of our Site following the posting of changes constitutes your acceptance of such changes."
+    },
+    {
+      "category": "Non-Account Holder Collection",
+      "risk": "High",
+      "icon": "👤",
+      "headline": "Your data collected without consent.",
+      "quote": "By placing a small file known as a \"cookie\" on your computer (or other device), isolved Talent Acquisition and its third-party service providers' servers passively gather information about all visitors' use of our Sites as permitted by applicable law, including statistics collection and analysis, website optimization, analytics (as described below), market research and maintenance of user login information."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "High",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared with affiliates.",
+      "quote": "By using our Sites, you are automatically opted-in to share applicant content and information with its affiliates, partners and associated third parties."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "High",
+      "icon": "💾",
+      "headline": "Your data retained by employers.",
+      "quote": "Specific applications submitted to various companies using isolved Talent Acquisition will be retained by the employers based on their own data retention policies."
+    },
+    {
+      "category": "Precise Geolocation",
+      "risk": "Medium",
+      "icon": "📍",
+      "headline": "Your physical location is collected.",
+      "quote": "Geolocation data: Physical location or movements."
+    },
+    {
+      "category": "Behavioral Profiling",
+      "risk": "High",
+      "icon": "🧠",
+      "headline": "Your profile reflects aptitudes.",
+      "quote": "Inferences drawn from other Personal Information: Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes."
+    },
+    {
+      "category": "Personalized Advertising",
+      "risk": "High",
+      "icon": "🎯",
+      "headline": "Your data used for targeted ads.",
+      "quote": "To personalize your Sites experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Sites, third-party sites, and via email or text message (with your consent, where required by law)."
+    },
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transferred internationally.",
+      "quote": "Residents of the European Union (EU) have additional rights set forth by the EU General Data Protection Regulation (GDPR)."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data disclosed to law enforcement.",
+      "quote": "We may also use and disclose collected information as required or permitted by applicable law, including to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited.",
+      "quote": "We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to: Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you."
+    }
+  ]
+}
