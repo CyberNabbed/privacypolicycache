@@ -1,0 +1,29 @@
+{
+  "url": "https://chicagotransit.taleo.net/careersection/iam/accessmanagement/login.jsf",
+  "scanned_at": "2026-03-27T03:06:29.861Z",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "🤝",
+      "headline": "Your data shared commercially.",
+      "quote": "The CTA may disclose your personal information to relevant third parties, including but not limited to, site technicians, auditors, lawyers, or other professional advisors, or to the extent required by law, a court order, or other legal process of a court or other governmental agency."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Corporate Family Sharing",
+      "risk": "Medium",
+      "icon": "👨‍👩‍👧‍👦",
+      "headline": "Your data shared internally.",
+      "quote": "You acknowledge and agree that the information collected may be accessed, stored, and processed by, and transferred between, the CTA and its agents."
+    },
+    {
+      "category": "Data Retention",
+      "risk": "Medium",
+      "icon": "⏱️",
+      "headline": "Your data retained indefinitely.",
+      "quote": "The information will be retained for a reasonable period and/or as otherwise required by applicable law."
+    }
+  ]
+}
