@@ -1,0 +1,36 @@
+{
+  "url": "https://5pt.solutions/privacy-policy/",
+  "scanned_at": "2026-03-27T14:13:45.015Z",
+  "tier1": [
+    {
+      "category": "Data Selling & Sharing",
+      "risk": "High",
+      "icon": "💸",
+      "headline": "Your data is shared commercially",
+      "quote": "5 Point Solutions will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection."
+    }
+  ],
+  "tier2": [
+    {
+      "category": "Cross-Border Transfers",
+      "risk": "Medium",
+      "icon": "🌍",
+      "headline": "Your data transfers internationally",
+      "quote": "GDPR requires that personal data from the EEA is subject to special protection."
+    },
+    {
+      "category": "Law Enforcement Disclosure",
+      "risk": "Medium",
+      "icon": "🏛️",
+      "headline": "Your data shared with authorities",
+      "quote": "We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights."
+    },
+    {
+      "category": "Deletion Limitations",
+      "risk": "Medium",
+      "icon": "🗑️",
+      "headline": "Your deletion rights are limited",
+      "quote": "We will maintain the information you send via email in accordance with applicable federal law."
+    }
+  ]
+}
